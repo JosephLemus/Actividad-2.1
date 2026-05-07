@@ -1,0 +1,1802 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AE 2.1.1 – Documento de Procedimiento | AMPR-20 | CONALEP Nayarit</title>
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link href="https://fonts.googleapis.com/css2?family=Lora:wght@400;600;700&family=Source+Sans+3:ital,wght@0,300;0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECCIÓN 1: CSS GLOBAL
+     ═══════════════════════════════════════════════════════════ -->
+<style>
+/* ── Variables institucionales ─────────────────────────────── */
+:root {
+  --pri:      #1a3a5c;   /* Azul CONALEP oscuro          */
+  --pri-mid:  #20558a;   /* Azul medio                   */
+  --pri-lite: #ddeaf7;   /* Azul muy claro               */
+  --acc:      #c0392b;   /* Rojo institucional           */
+  --acc-lite: #fdecea;   /* Rojo claro                   */
+  --gold:     #c8860a;   /* Dorado                       */
+  --gold-lite:#fdf3dc;   /* Dorado claro                 */
+  --green:    #1e7e4f;   /* Verde éxito                  */
+  --green-lite:#e6f5ee;  /* Verde claro                  */
+  --purple:   #6c3483;   /* Violeta (Comprende)          */
+  --purple-lite:#f3eefa; /* Violeta claro                */
+  --teal:     #117a8b;   /* Teal (Reflexiona)            */
+  --teal-lite:#d1ecf1;   /* Teal claro                   */
+
+  --bg:       #f2f5f9;
+  --surface:  #ffffff;
+  --border:   #d0dce8;
+  --text:     #1c2b3a;
+  --text-sec: #4a6070;
+  --text-lite:#7a90a0;
+
+  --r-sm: 6px;
+  --r-md: 10px;
+  --r-lg: 16px;
+  --shadow-sm: 0 1px 4px rgba(0,0,0,.08);
+  --shadow-md: 0 3px 12px rgba(0,0,0,.11);
+  --shadow-lg: 0 8px 28px rgba(0,0,0,.13);
+}
+
+/* ── Reset & base ───────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { scroll-behavior: smooth; font-size: 16px; }
+
+body {
+  font-family: 'Source Sans 3', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+}
+
+h1,h2,h3,h4,h5 {
+  font-family: 'Lora', serif;
+  color: var(--pri);
+  line-height: 1.3;
+}
+
+h2 { font-size: 1.55rem; }
+h3 { font-size: 1.22rem; color: var(--pri-mid); }
+h4 { font-size: 1.05rem; }
+
+p { margin-bottom: .9em; }
+ul, ol { padding-left: 1.4em; margin-bottom: .9em; }
+li { margin-bottom: .35em; }
+
+a { color: var(--pri-mid); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+strong { color: var(--pri); }
+
+code, kbd {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .88em;
+  background: #e8edf2;
+  padding: 1px 5px;
+  border-radius: 3px;
+  color: #c0392b;
+}
+
+/* ── Layout ─────────────────────────────────────────────────── */
+.wrapper {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 20px 60px;
+}
+
+section { margin-bottom: 2.6rem; }
+
+/* ── Header institucional ───────────────────────────────────── */
+.inst-header {
+  background: linear-gradient(135deg, var(--pri) 0%, var(--pri-mid) 100%);
+  color: #fff;
+  padding: 0;
+  box-shadow: var(--shadow-lg);
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: 18px;
+  padding: 18px 28px 14px;
+  border-bottom: 3px solid var(--gold);
+}
+
+.header-logo {
+  width: 62px;
+  height: 62px;
+  background: #fff;
+  border-radius: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  font-family: 'Lora', serif;
+  font-weight: 700;
+  font-size: 1.1rem;
+  color: var(--pri);
+  letter-spacing: -1px;
+  line-height: 1.1;
+  text-align: center;
+}
+
+.header-info h1 {
+  color: #fff;
+  font-size: 1.28rem;
+  font-weight: 700;
+  margin-bottom: 2px;
+}
+
+.header-info .subtitle {
+  color: rgba(255,255,255,.78);
+  font-size: .88rem;
+}
+.header-info .subtitle strong { color: #fff; }
+.inst-header strong { color: #fff; }
+
+.header-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+}
+
+.meta-item {
+  flex: 1;
+  min-width: 120px;
+  padding: 10px 18px;
+  border-right: 1px solid rgba(255,255,255,.18);
+  font-size: .83rem;
+}
+.meta-item:last-child { border-right: none; }
+.meta-label { color: rgba(255,255,255,.62); text-transform: uppercase; letter-spacing: .06em; font-size: .72rem; display: block; margin-bottom: 2px; }
+.meta-val   { color: #fff; font-weight: 600; }
+
+/* ── Barra de progreso pegajosa ─────────────────────────────── */
+.progress-bar {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: var(--pri);
+  box-shadow: 0 2px 8px rgba(0,0,0,.2);
+  padding: 0 10px;
+}
+
+.progress-steps {
+  display: flex;
+  max-width: 960px;
+  margin: 0 auto;
+}
+
+.step-btn {
+  flex: 1;
+  padding: 11px 6px 10px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  background: transparent;
+  color: rgba(255,255,255,.55);
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: .78rem;
+  font-weight: 600;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  transition: all .22s;
+  border-bottom: 3px solid transparent;
+  position: relative;
+}
+
+.step-btn:hover { color: rgba(255,255,255,.85); }
+
+.step-btn.active {
+  color: #fff;
+  border-bottom-color: var(--gold);
+}
+
+.step-num {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px; height: 22px;
+  background: rgba(255,255,255,.18);
+  border-radius: 50%;
+  font-size: .75rem;
+  margin-bottom: 3px;
+  margin-right: 4px;
+}
+.step-btn.active .step-num { background: var(--gold); }
+
+/* ── Navegación interna ─────────────────────────────────────── */
+.nav-interna {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-md);
+  padding: 14px 18px;
+  margin: 24px 0 28px;
+  box-shadow: var(--shadow-sm);
+}
+
+.nav-interna h4 { margin-bottom: 8px; font-size: .9rem; color: var(--text-sec); text-transform: uppercase; letter-spacing: .07em; }
+.nav-interna ul { list-style: none; padding: 0; margin: 0; display: flex; flex-wrap: wrap; gap: 6px; }
+.nav-interna li { margin: 0; }
+.nav-interna a {
+  display: inline-block;
+  padding: 4px 10px;
+  background: var(--pri-lite);
+  color: var(--pri);
+  border-radius: 20px;
+  font-size: .82rem;
+  font-weight: 600;
+  transition: background .18s;
+}
+.nav-interna a:hover { background: var(--pri); color: #fff; text-decoration: none; }
+
+/* ── Cards de fases ─────────────────────────────────────────── */
+.phase-card {
+  background: var(--surface);
+  border-radius: var(--r-lg);
+  box-shadow: var(--shadow-md);
+  margin-bottom: 2.8rem;
+  overflow: hidden;
+}
+
+.phase-header {
+  padding: 20px 26px 16px;
+  display: flex;
+  align-items: flex-start;
+  gap: 14px;
+}
+
+.phase-icon {
+  width: 52px; height: 52px;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  flex-shrink: 0;
+}
+
+.phase-title { flex: 1; }
+.phase-title .bloom-tag {
+  font-family: 'Source Sans 3', sans-serif;
+  font-size: .73rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  padding: 2px 8px;
+  border-radius: 12px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+.phase-body { padding: 0 26px 24px; }
+
+/* Colores por fase */
+.fase-comprende .phase-header { background: var(--purple-lite); border-bottom: 3px solid var(--purple); }
+.fase-comprende .phase-icon   { background: var(--purple); }
+.fase-comprende .bloom-tag    { background: var(--purple); color: #fff; }
+.fase-comprende h2            { color: var(--purple); }
+
+.fase-aplica .phase-header    { background: #e8f4fd; border-bottom: 3px solid var(--pri-mid); }
+.fase-aplica .phase-icon      { background: var(--pri-mid); }
+.fase-aplica .bloom-tag       { background: var(--pri-mid); color: #fff; }
+.fase-aplica h2               { color: var(--pri-mid); }
+
+.fase-reflexiona .phase-header { background: var(--teal-lite); border-bottom: 3px solid var(--teal); }
+.fase-reflexiona .phase-icon   { background: var(--teal); }
+.fase-reflexiona .bloom-tag    { background: var(--teal); color: #fff; }
+.fase-reflexiona h2            { color: var(--teal); }
+
+.fase-valida .phase-header    { background: var(--green-lite); border-bottom: 3px solid var(--green); }
+.fase-valida .phase-icon      { background: var(--green); }
+.fase-valida .bloom-tag       { background: var(--green); color: #fff; }
+.fase-valida h2               { color: var(--green); }
+
+.fase-profundiza .phase-header { background: var(--gold-lite); border-bottom: 3px solid var(--gold); }
+.fase-profundiza .phase-icon   { background: var(--gold); }
+.fase-profundiza .bloom-tag    { background: var(--gold); color: #fff; }
+.fase-profundiza h2            { color: var(--gold); }
+
+/* ── Componentes reutilizables ───────────────────────────────── */
+.card {
+  background: var(--surface);
+  border-radius: var(--r-md);
+  padding: 18px 20px;
+  margin-bottom: 16px;
+  border: 1px solid var(--border);
+  box-shadow: var(--shadow-sm);
+}
+
+.info-box {
+  border-left: 4px solid var(--pri-mid);
+  background: var(--pri-lite);
+  border-radius: 0 var(--r-sm) var(--r-sm) 0;
+  padding: 12px 16px;
+  margin-bottom: 14px;
+}
+.info-box.warning {
+  border-color: var(--gold);
+  background: var(--gold-lite);
+}
+.info-box.danger  {
+  border-color: var(--acc);
+  background: var(--acc-lite);
+}
+.info-box.success {
+  border-color: var(--green);
+  background: var(--green-lite);
+}
+.info-box .box-title {
+  font-weight: 700;
+  font-size: .9rem;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin-bottom: 5px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+/* ── Caja de prompt IA socrático ─────────────────────────────── */
+.prompt-box {
+  background: #0f2033;
+  border-radius: var(--r-md);
+  padding: 20px 22px;
+  margin: 18px 0;
+  position: relative;
+  border: 1px solid #2a4a6a;
+}
+
+.prompt-box::before {
+  content: '🤖  PROMPT SOCRÁTICO — IA como guía, no como oráculo';
+  display: block;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .73rem;
+  color: #6dbfff;
+  text-transform: uppercase;
+  letter-spacing: .08em;
+  margin-bottom: 12px;
+  border-bottom: 1px solid #2a4a6a;
+  padding-bottom: 8px;
+}
+
+.prompt-tag {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: .72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .06em;
+  margin-bottom: 8px;
+}
+.tag-esencial  { background: #c0392b; color: #fff; }
+.tag-avanzado  { background: #8e44ad; color: #fff; }
+
+.prompt-text {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .84rem;
+  color: #cce4f7;
+  line-height: 1.65;
+  white-space: pre-wrap;
+}
+
+.prompt-warning {
+  margin-top: 12px;
+  padding: 10px 12px;
+  background: rgba(192,57,43,.18);
+  border-radius: 6px;
+  border: 1px solid rgba(192,57,43,.4);
+  color: #ffaa99;
+  font-size: .82rem;
+}
+
+.prompt-entregable {
+  margin-top: 12px;
+  padding: 10px 12px;
+  background: rgba(30,126,79,.18);
+  border-radius: 6px;
+  border: 1px solid rgba(30,126,79,.4);
+  color: #7fffc4;
+  font-size: .84rem;
+}
+
+/* ── Código/pseudocódigo ─────────────────────────────────────── */
+.code-block {
+  background: #1a2332;
+  border-radius: var(--r-md);
+  padding: 18px 20px;
+  overflow-x: auto;
+  margin: 14px 0;
+  border: 1px solid #2d4460;
+}
+.code-block pre {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: .83rem;
+  color: #c9d8e8;
+  line-height: 1.7;
+  white-space: pre;
+}
+.code-block .cm  { color: #6b8fac; }  /* comentario */
+.code-block .kw  { color: #79b8ff; }  /* keyword    */
+.code-block .fn  { color: #b3d9ff; }  /* función    */
+.code-block .st  { color: #a8d8a8; }  /* string     */
+.code-block .nb  { color: #ffcc80; }  /* número     */
+.code-block .hl  { background: rgba(255,220,50,.12); display: block; margin: 0 -20px; padding: 0 20px; } /* highlight */
+
+/* ── Tabla comparativa ───────────────────────────────────────── */
+.tabla-wrap { overflow-x: auto; margin: 16px 0; }
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: .88rem;
+}
+thead th {
+  background: var(--pri);
+  color: #fff;
+  padding: 10px 12px;
+  text-align: left;
+  font-family: 'Source Sans 3', sans-serif;
+  font-weight: 700;
+  letter-spacing: .04em;
+}
+tbody tr:nth-child(even) { background: var(--pri-lite); }
+tbody tr:hover { background: #dde8f5; }
+tbody td { padding: 9px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+tbody td:first-child { font-weight: 600; color: var(--pri); }
+
+/* ── Checklist visual ────────────────────────────────────────── */
+.checklist {
+  list-style: none;
+  padding: 0;
+}
+.checklist li {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 12px;
+  border-radius: var(--r-sm);
+  margin-bottom: 6px;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  font-size: .93rem;
+}
+.checklist li::before {
+  content: '☐';
+  font-size: 1.1rem;
+  flex-shrink: 0;
+  margin-top: 1px;
+  color: var(--pri-mid);
+}
+.checklist.done li::before { content: '✅'; }
+
+/* ── Invariantes ─────────────────────────────────────────────── */
+.invariantes {
+  background: #fff8e1;
+  border: 2px solid var(--gold);
+  border-radius: var(--r-md);
+  padding: 16px 18px;
+  margin-top: 18px;
+}
+.invariantes h4 { color: var(--gold); margin-bottom: 8px; font-size: .95rem; }
+.invariantes ul { margin: 0; }
+.invariantes li { font-size: .9rem; }
+.invariantes li::marker { color: var(--gold); }
+
+/* ── Checkpoint metacognitivo ─────────────────────────────────── */
+.meta-check {
+  background: linear-gradient(135deg, #f3eefa 0%, #e8f4fd 100%);
+  border: 1px solid #c5aae8;
+  border-radius: var(--r-md);
+  padding: 16px 18px;
+  margin-top: 18px;
+}
+.meta-check h4 { color: var(--purple); margin-bottom: 8px; font-size: .95rem; }
+.meta-check ol { margin: 0; }
+.meta-check li { font-size: .9rem; margin-bottom: 6px; }
+
+/* ── Rúbrica de evaluación ───────────────────────────────────── */
+.rubrica-table thead th:first-child { width: 22%; }
+.rubrica-table td.excelente { background: #e6f5ee; color: #1e7e4f; font-size: .82rem; }
+.rubrica-table td.bueno     { background: #e8f4fd; color: #20558a; font-size: .82rem; }
+.rubrica-table td.suficiente{ background: #fff8e1; color: #7d5a00; font-size: .82rem; }
+.rubrica-table td.insuf     { background: #fdecea; color: #922b21; font-size: .82rem; }
+.rubrica-table td.pct       { text-align: center; font-weight: 700; font-size: .95rem; }
+
+/* ── Footer ─────────────────────────────────────────────────── */
+.inst-footer {
+  background: var(--pri);
+  color: rgba(255,255,255,.7);
+  padding: 22px 28px;
+  font-size: .82rem;
+  text-align: center;
+  margin-top: 40px;
+}
+.inst-footer strong { color: #fff; }
+
+/* ── Entregable único ─────────────────────────────────────────── */
+.entregable-box {
+  background: linear-gradient(135deg, var(--pri) 0%, var(--pri-mid) 100%);
+  color: #fff;
+  border-radius: var(--r-lg);
+  padding: 24px 26px;
+  margin: 20px 0;
+}
+.entregable-box h3     { color: #fff; margin-bottom: 10px; }
+.entregable-box ul     { color: rgba(255,255,255,.88); }
+.entregable-box li     { color: rgba(255,255,255,.88); }
+.entregable-box strong { color: #ffffff; }
+.entregable-box em     { color: rgba(255,255,255,.72); font-style: italic; }
+.entregable-box code   { background: rgba(255,255,255,.18); color: #ffe08a; }
+.entregable-box .tiempo {
+  margin-top: 14px;
+  padding: 10px 14px;
+  background: rgba(255,255,255,.15);
+  border-radius: var(--r-sm);
+  font-size: .9rem;
+  color: #fff;
+}
+.entregable-box .tiempo strong { color: #ffe08a; }
+
+/* ── Badge ───────────────────────────────────────────────────── */
+.badge {
+  display: inline-block;
+  padding: 2px 9px;
+  border-radius: 12px;
+  font-size: .76rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .05em;
+}
+.badge-acc   { background: var(--acc);   color: #fff; }
+.badge-gold  { background: var(--gold);  color: #fff; }
+.badge-green { background: var(--green); color: #fff; }
+.badge-pri   { background: var(--pri);   color: #fff; }
+
+/* ── Escenario inmersivo ─────────────────────────────────────── */
+.scenario {
+  background: linear-gradient(135deg, #0f1e2e 0%, #1a3a5c 100%);
+  color: #c9ddf0;
+  border-radius: var(--r-lg);
+  padding: 26px 28px;
+  margin: 20px 0 26px;
+  border: 1px solid #2d4a6a;
+  position: relative;
+  overflow: hidden;
+}
+.prompt-box strong { color: #7fccff; }
+.prompt-box em     { color: #aaddcc; font-style: italic; }
+
+.scenario::before {
+  content: '';
+  position: absolute;
+  top: -20px; right: -20px;
+  width: 120px; height: 120px;
+  background: radial-gradient(circle, rgba(200,134,10,.3) 0%, transparent 70%);
+  border-radius: 50%;
+}
+.scenario h3     { color: var(--gold); margin-bottom: 8px; }
+.scenario p      { color: rgba(201,221,240,.88); margin-bottom: .7em; }
+.scenario strong { color: #ffffff; }
+.scenario a      { color: var(--gold); text-decoration: underline dotted; }
+.scenario a:hover{ color: #ffe08a; }
+
+/* ── Glosario ────────────────────────────────────────────────── */
+.glosario-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+@media(max-width:640px){ .glosario-grid { grid-template-columns:1fr; } }
+.glos-item {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--r-sm);
+  padding: 12px 14px;
+}
+.glos-term { font-weight: 700; color: var(--pri); font-size: .9rem; }
+.glos-def  { font-size: .85rem; color: var(--text-sec); margin-top: 3px; }
+
+/* ── Errores comunes ─────────────────────────────────────────── */
+.error-item {
+  display: flex;
+  gap: 12px;
+  align-items: flex-start;
+  background: var(--acc-lite);
+  border: 1px solid #e8b4b0;
+  border-radius: var(--r-sm);
+  padding: 12px 14px;
+  margin-bottom: 10px;
+}
+.error-icon { font-size: 1.4rem; flex-shrink: 0; }
+.error-body h4 { color: var(--acc); font-size: .93rem; margin-bottom: 3px; }
+.error-body p  { font-size: .86rem; margin: 0; }
+
+/* ── Responsive ─────────────────────────────────────────────── */
+@media(max-width:700px){
+  .header-top { flex-direction:column; text-align:center; }
+  .meta-item  { min-width:100%; border-right:none; border-bottom:1px solid rgba(255,255,255,.12); }
+  .step-btn span { display:none; }
+  .phase-body { padding:0 14px 18px; }
+  .phase-header { padding:14px; }
+  .wrapper { padding:0 12px 40px; }
+}
+
+/* ── Animación de entrada ─────────────────────────────────────── */
+@keyframes fadeUp {
+  from { opacity:0; transform:translateY(14px); }
+  to   { opacity:1; transform:translateY(0); }
+}
+.phase-card { animation: fadeUp .4s ease both; }
+.phase-card:nth-child(1) { animation-delay:.05s; }
+.phase-card:nth-child(2) { animation-delay:.10s; }
+.phase-card:nth-child(3) { animation-delay:.15s; }
+.phase-card:nth-child(4) { animation-delay:.20s; }
+.phase-card:nth-child(5) { animation-delay:.25s; }
+
+</style>
+</head>
+<body>
+
+<!-- ═══════════════════════════════════════════════════════════
+     SECCIÓN 2: HEADER INSTITUCIONAL
+     ═══════════════════════════════════════════════════════════ -->
+<header class="inst-header">
+  <div class="header-top">
+    <div class="header-logo">CONA<br>LEP</div>
+    <div class="header-info">
+      <h1>Actividad de Evaluación 2.1.1 — Documento de Procedimiento con Software Libre</h1>
+      <div class="subtitle">
+        Módulo: <strong>Aplicación de Modelos Predictivos (AMPR-20)</strong> &nbsp;|&nbsp;
+        P.T.B. en Ciencia de Datos e Inteligencia Artificial &nbsp;|&nbsp; CONALEP Nayarit
+      </div>
+    </div>
+  </div>
+  <div class="header-meta">
+    <div class="meta-item">
+      <span class="meta-label">Resultado de Aprendizaje</span>
+      <span class="meta-val">2.1 — Emplea el algoritmo predictivo adecuado</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Grupo / Período</span>
+      <span class="meta-val">6A CDIA &nbsp;·&nbsp; 2.25.26</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Ponderación</span>
+      <span class="meta-val">30% del módulo</span>
+    </div>
+    <div class="meta-item">
+      <span class="meta-label">Herramienta principal</span>
+      <span class="meta-val">Python · Google Colab</span>
+    </div>
+  </div>
+</header>
+
+<!-- ── Barra de progreso ──────────────────────────────────────── -->
+<nav class="progress-bar" aria-label="Fases de aprendizaje">
+  <div class="progress-steps">
+    <button class="step-btn active" onclick="scrollToPhase('comprende')" id="btn-comprende">
+      <span class="step-num">1</span><span>Comprende</span>
+    </button>
+    <button class="step-btn" onclick="scrollToPhase('aplica')" id="btn-aplica">
+      <span class="step-num">2</span><span>Aplica</span>
+    </button>
+    <button class="step-btn" onclick="scrollToPhase('reflexiona')" id="btn-reflexiona">
+      <span class="step-num">3</span><span>Reflexiona</span>
+    </button>
+    <button class="step-btn" onclick="scrollToPhase('valida')" id="btn-valida">
+      <span class="step-num">4</span><span>Valida</span>
+    </button>
+    <button class="step-btn" onclick="scrollToPhase('profundiza')" id="btn-profundiza">
+      <span class="step-num">5</span><span>Profundiza</span>
+    </button>
+  </div>
+</nav>
+
+<!-- ═══════════════════════════════════════════════════════════
+     CONTENIDO PRINCIPAL
+     ═══════════════════════════════════════════════════════════ -->
+<div class="wrapper">
+
+  <!-- ── Navegación interna ─────────────────────────────────── -->
+  <nav class="nav-interna" aria-label="Secciones del documento">
+    <h4>📋 Contenido del documento</h4>
+    <ul>
+      <li><a href="#prereqs">Prerrequisitos</a></li>
+      <li><a href="#conexion">Conexión con actividad anterior</a></li>
+      <li><a href="#escenario">Escenario</a></li>
+      <li><a href="#comprende">① Comprende</a></li>
+      <li><a href="#aplica">② Aplica</a></li>
+      <li><a href="#reflexiona">③ Reflexiona</a></li>
+      <li><a href="#valida">④ Valida</a></li>
+      <li><a href="#profundiza">⑤ Profundiza</a></li>
+      <li><a href="#evaluacion">Evaluación / Rúbrica</a></li>
+      <li><a href="#glosario">Glosario</a></li>
+      <li><a href="#referencias">Referencias</a></li>
+    </ul>
+  </nav>
+
+  <!-- ── PRERREQUISITOS ───────────────────────────────────────── -->
+  <section id="prereqs">
+    <div class="card">
+      <h3>✅ Para tener éxito en esta actividad, asegúrate de dominar…</h3>
+      <ul>
+        <li>Las <strong>seis etapas de CRISP-DM</strong> y para qué sirve cada una.</li>
+        <li>Cómo <strong>cargar un dataset en Google Colab</strong> usando pandas (<code>pd.read_csv()</code>).</li>
+        <li>Qué es una variable objetivo (<em>clase</em>) y por qué la separamos del resto.</li>
+        <li>La diferencia conceptual entre <strong>Aprendizaje Supervisado</strong> y <strong>No Supervisado</strong>.</li>
+        <li>Qué significan los términos: <em>entrenamiento, prueba, predicción, instancia, atributo</em>.</li>
+      </ul>
+      <div class="info-box warning">
+        <div class="box-title">⚠️ ¿Sientes que te falta alguno de estos puntos?</div>
+        Antes de iniciar la Fase 2 (Aplica), revisa tus apuntes o usa el prompt socrático de la Fase 1
+        para que la IA te ayude a recordar sin darte la respuesta directa.
+      </div>
+    </div>
+  </section>
+
+  <!-- ── CONEXIÓN CON ACTIVIDAD ANTERIOR ─────────────────────── -->
+  <section id="conexion">
+    <div class="card">
+      <h3>🔗 ¿Recuerdas la "Misión: Cafetería Escolar"?</h3>
+      <p>
+        En la actividad anterior realizaste <em>a mano</em> cuatro operaciones fundamentales:
+        eliminaste atributos irrelevantes (Talla de zapatos), agrupaste estudiantes por
+        similitud, identificaste reglas de asociación entre productos y construiste un pequeño
+        árbol de decisión para predecir si el Alumno 9 regresaría.
+      </p>
+      <p>
+        <strong>Ahora el paso siguiente es automatizar exactamente eso.</strong> En esta actividad
+        harás lo mismo, pero con Python y un dataset real, y documentarás cada decisión con
+        capturas de pantalla. Los cuatro bloques de la cafetería corresponden uno a uno con los
+        cuatro grupos de algoritmos del programa de estudios:
+      </p>
+      <div class="tabla-wrap">
+        <table>
+          <thead><tr><th>En la cafetería hiciste…</th><th>En esta AE implementarás…</th><th>Familia de algoritmos</th></tr></thead>
+          <tbody>
+            <tr><td>Tachar columna inútil (Talla)</td><td>Selección de atributos</td><td>CorrelationAttributeEval / OneRAttributeEval</td></tr>
+            <tr><td>Agrupar en "Tribus"</td><td>Modelado de clúster</td><td>SimpleKMeans / FilteredCluster</td></tr>
+            <tr><td>Reglas Pizza → Refresco</td><td>Reglas de asociación</td><td>Apriori / FilteredAssociator</td></tr>
+            <tr><td>Árbol de decisión (Alumno 9)</td><td>Modelo de clasificación</td><td>Árbol de decisión / Naive Bayes / Reglas</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── ESCENARIO INMERSIVO ──────────────────────────────────── -->
+  <section id="escenario">
+    <div class="scenario">
+      <h3>🏥 Escenario: Centro de Salud Digital "Nayarit 2026"</h3>
+      <p>
+        El Centro de Salud Digital del Estado de Nayarit te ha contratado como <strong>Analista de Datos Junior</strong>.
+        Acaban de darte acceso al registro histórico de consultas de las unidades médicas de la región:
+        <strong>1,010 registros de pacientes</strong> con 27 variables clínicas, socioeconómicas y de estilo de vida.
+      </p>
+      <p>
+        La directora del centro te plantea la siguiente pregunta de negocio:
+        <strong>"¿Podemos predecir qué pacientes requerirán hospitalización antes de que lleguen a urgencias,
+        para anticipar la asignación de camas y personal?"</strong>
+      </p>
+      <p>
+        Tu misión: limpiar los datos, seleccionar el modelo y algoritmo más adecuados,
+        ejecutar el análisis en Python (Google Colab) y
+        <strong>documentar cada decisión con capturas de pantalla</strong> como si lo fueras a
+        presentar ante el comité médico directivo.
+      </p>
+    </div>
+
+    <div class="card" style="margin-top:14px; border-left:4px solid var(--pri-mid);">
+      <h3 style="margin-bottom:10px;">📦 Dataset: <code>dataset_salud_nayarit.csv</code></h3>
+      <p style="font-size:.9rem;color:var(--text-sec);margin-bottom:12px;">
+        1,010 registros · 27 variables · Variable objetivo: <strong>hospitalizacion</strong>
+        · Proporción hospitalización ≈ 38% · Archivo en codificación UTF-8 con BOM
+      </p>
+      <div class="tabla-wrap">
+        <table>
+          <thead>
+            <tr><th>Variable</th><th>Tipo esperado</th><th>Descripción</th><th>⚠️ Problemas de calidad</th></tr>
+          </thead>
+          <tbody>
+            <tr><td>id_paciente</td><td>Texto</td><td>Clave única (NAY-00001…)</td><td>—</td></tr>
+            <tr><td>fecha_consulta</td><td>Fecha</td><td>Fecha de la consulta</td><td>Múltiples formatos mezclados (dd/mm/aaaa, aaaa-mm-dd, mm-dd-aaaa…)</td></tr>
+            <tr><td>municipio</td><td>Categórico</td><td>Municipio de Nayarit</td><td>~80 registros con espacios extra al inicio/final</td></tr>
+            <tr><td>tipo_unidad</td><td>Categórico</td><td>Tipo de unidad médica</td><td>—</td></tr>
+            <tr><td>tipo_seguro</td><td>Categórico</td><td>IMSS, ISSSTE, Sin seguro…</td><td>~3% valores nulos</td></tr>
+            <tr><td>edad</td><td>Numérico</td><td>Edad en años</td><td>8 registros con valores imposibles (−5, 0, 150, 999…)</td></tr>
+            <tr><td>genero</td><td>Categórico</td><td>Sexo biológico</td><td>~380 registros con codificación inconsistente (M, Masculino, MASCULINO, H, m, Hombre…)</td></tr>
+            <tr><td>peso_kg</td><td>Numérico</td><td>Peso en kilogramos</td><td>~7% nulos · 12 registros outlier (5 kg, 450 kg…)</td></tr>
+            <tr><td>talla_cm</td><td>Numérico</td><td>Estatura en centímetros</td><td>~5% nulos · 35 registros en metros por error de captura (ej. 1.68 en lugar de 168)</td></tr>
+            <tr><td>imc</td><td>Numérico</td><td>Índice de Masa Corporal</td><td>~12% nulos · 50 registros con IMC inconsistente con peso/talla</td></tr>
+            <tr><td>presion_sistolica</td><td>Numérico</td><td>Presión sistólica (mmHg)</td><td>90 registros en formato combinado "120/80" (incluye la diastólica)</td></tr>
+            <tr><td>presion_diastolica</td><td>Numérico</td><td>Presión diastólica (mmHg)</td><td>~9% nulos (mismos 90 registros del campo combinado)</td></tr>
+            <tr><td>glucosa_mg_dl</td><td>Numérico</td><td>Glucosa en sangre</td><td>45 registros reportados en mmol/L en lugar de mg/dL (unidades mezcladas)</td></tr>
+            <tr><td>colesterol_mg_dl</td><td>Numérico</td><td>Colesterol total</td><td>~10% nulos · ~60 registros con texto falso ("N/A", "ND", "Sin dato", "--")</td></tr>
+            <tr><td>trigliceridos_mg_dl</td><td>Numérico</td><td>Triglicéridos</td><td>~13% nulos · misma mezcla de strings falsos</td></tr>
+            <tr><td>hemoglobina_g_dl</td><td>Numérico</td><td>Hemoglobina (g/dL)</td><td>~9% nulos</td></tr>
+            <tr><td>diabetes_previa</td><td>Booleano</td><td>Diagnóstico previo de diabetes</td><td>Codificación mixta: Sí/No, 1/0, True/False, POSITIVO/NEGATIVO, SI/NO…</td></tr>
+            <tr><td>hipertension_previa</td><td>Booleano</td><td>Diagnóstico previo de hipertensión</td><td>Misma inconsistencia booleana</td></tr>
+            <tr><td>cardiopatia_previa</td><td>Booleano</td><td>Diagnóstico previo de cardiopatía</td><td>Misma inconsistencia booleana</td></tr>
+            <tr><td>fumador</td><td>Booleano</td><td>¿El paciente fuma actualmente?</td><td>Misma inconsistencia booleana</td></tr>
+            <tr><td>consumo_alcohol</td><td>Booleano</td><td>¿Consume alcohol regularmente?</td><td>Misma inconsistencia booleana</td></tr>
+            <tr><td>actividad_fisica</td><td>Categórico</td><td>Sedentario / Moderado / Activo</td><td>—</td></tr>
+            <tr><td>num_medicamentos_actuales</td><td>Numérico</td><td>Número de fármacos en uso actual</td><td>~5% nulos</td></tr>
+            <tr><td>num_consultas_ano_prev</td><td>Numérico</td><td>Consultas en el año anterior</td><td>—</td></tr>
+            <tr><td>escolaridad</td><td>Categórico</td><td>Último nivel de estudios</td><td>~6% nulos · strings falsos mezclados</td></tr>
+            <tr><td>ocupacion</td><td>Categórico</td><td>Ocupación principal</td><td>~4% nulos</td></tr>
+            <tr><td style="color:var(--acc);font-weight:700;">hospitalizacion ⭐</td><td>Booleano</td><td><strong>Variable objetivo:</strong> ¿requirió hospitalización?</td><td>60 registros con codificación mixta (Sí/INGRESADO/True/1/SI…)</td></tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box danger" style="margin-top:14px;">
+        <div class="box-title">⚠️ Advertencia: los problemas de calidad son intencionales</div>
+        <p style="margin:0;font-size:.9rem;">
+          Los errores listados arriba son representativos de datos clínicos reales en México:
+          sistemas legacy con distintos formatos, errores de captura de unidades y campos calculados
+          ingresados manualmente sin verificación.
+          <strong>Detectar y documentar cada problema de calidad forma parte de la evaluación.</strong>
+          En tu documento, justifica cada decisión de limpieza: ¿eliminaste o imputaste? ¿por qué?
+        </p>
+      </div>
+
+      <div class="info-box success" style="margin-top:10px;">
+        <div class="box-title">📝 ¿Prefieres usar tu propio dataset?</div>
+        <p style="margin:0;font-size:.9rem;">
+          También puedes realizar esta actividad con un conjunto de datos de tu elección.
+          Puedes explorar <strong>datos.gob.mx</strong>, UCI ML Repository o Kaggle
+          buscando temas de salud, educación, medio ambiente u otra área de tu interés.
+          Consulta con tu docente antes de comenzar para confirmar que el dataset tiene
+          las características mínimas requeridas (al menos 200 registros,
+          variable objetivo clara, mezcla de atributos numéricos y categóricos).
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FASE 1: COMPRENDE
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="comprende">
+    <div class="phase-card fase-comprende">
+      <div class="phase-header">
+        <div class="phase-icon">🧠</div>
+        <div class="phase-title">
+          <span class="bloom-tag">Bloom: Recordar · Comprender</span>
+          <h2>Fase 1 — COMPRENDE</h2>
+          <p style="color:var(--text-sec);font-size:.9rem;margin:0;">
+            Identifica y explica los algoritmos del programa antes de ejecutarlos.
+          </p>
+        </div>
+      </div>
+      <div class="phase-body">
+
+        <h3>🎯 Objetivos de aprendizaje</h3>
+        <ul>
+          <li><strong>Identificar</strong> las cuatro familias de modelos (clasificación, clúster, asociación, selección de atributos) y los algoritmos que las conforman.</li>
+          <li><strong>Explicar</strong> cuándo aplicar cada modelo según el tipo de problema de negocio y la naturaleza de los datos.</li>
+          <li><strong>Distinguir</strong> entre aprendizaje supervisado y no supervisado con ejemplos concretos.</li>
+        </ul>
+
+        <h3 style="margin-top:20px;">📊 Mapa conceptual de los modelos del módulo</h3>
+        <p>Antes de escribir una sola línea de código, tienes que poder decir en voz alta <em>"elijo este modelo porque…"</em>. Estudia la siguiente tabla:</p>
+
+        <div class="tabla-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Familia</th>
+                <th>Supervisado?</th>
+                <th>¿Qué predice/descubre?</th>
+                <th>Algoritmos del PE</th>
+                <th>Ejemplo de pregunta de negocio</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Clasificación</td>
+                <td>✅ Sí</td>
+                <td>Categoría discreta de un caso nuevo</td>
+                <td>Árbol de decisión, Naive Bayes, Funciones, Reglas</td>
+                <td>"¿Este paciente tiene riesgo alto, medio o bajo de diabetes?"</td>
+              </tr>
+              <tr>
+                <td>Clúster</td>
+                <td>❌ No</td>
+                <td>Grupos ocultos en los datos</td>
+                <td>SimpleKMeans, FilteredCluster</td>
+                <td>"¿Cuántos perfiles de paciente distintos existen en la clínica?"</td>
+              </tr>
+              <tr>
+                <td>Reglas de Asociación</td>
+                <td>❌ No</td>
+                <td>Combinaciones frecuentes de ítems</td>
+                <td>Apriori, FilteredAssociator</td>
+                <td>"¿Qué diagnósticos aparecen siempre juntos?"</td>
+              </tr>
+              <tr>
+                <td>Selección de Atributos</td>
+                <td>Opcional</td>
+                <td>Las variables más relevantes para el objetivo</td>
+                <td>CorrelationAttributeEval, OneRAttributeEval, ClassifierAttributeEval</td>
+                <td>"¿Cuáles de los 30 indicadores realmente importan para predecir el alta?"</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+
+        <h3 style="margin-top:20px;">💡 Conceptos clave que DEBES poder explicar</h3>
+        <div class="info-box">
+          <div class="box-title">📐 Soporte y Confianza (Apriori)</div>
+          <p style="margin:0;font-size:.9rem;">
+            <strong>Soporte</strong> = ¿con qué frecuencia aparece esta combinación en el dataset?
+            <strong>Confianza</strong> = si ocurre A, ¿con qué probabilidad ocurre B? Son los
+            umbrales que tú fijas: demasiado altos → pocas reglas; demasiado bajos → ruido.
+          </p>
+        </div>
+        <div class="info-box">
+          <div class="box-title">📐 Distancia en K-Means</div>
+          <p style="margin:0;font-size:.9rem;">
+            K-Means agrupa asignando cada instancia al centroide más cercano.
+            El valor de <strong>k</strong> (número de grupos) lo decides tú: demasiado pequeño
+            → grupos muy heterogéneos; demasiado grande → grupos sin sentido de negocio.
+          </p>
+        </div>
+        <div class="info-box">
+          <div class="box-title">📐 Exactitud, Precisión, Recall y F1</div>
+          <p style="margin:0;font-size:.9rem;">
+            En clasificación, la <strong>exactitud (accuracy)</strong> sola puede engañarte si
+            las clases están desbalanceadas. La <strong>matriz de confusión</strong> te revela
+            cuántos falsos positivos y falsos negativos comete el modelo.
+          </p>
+        </div>
+        <div class="info-box danger">
+          <div class="box-title">🚨 Concepto crítico: Fuga de Datos (Data Leakage)</div>
+          <p style="margin:0;font-size:.9rem;">
+            Ocurre cuando incluyes en el modelo información que <strong>no estaría disponible
+            en la vida real</strong> al momento de hacer una predicción. Ejemplo clásico:
+            incluir <code>id_paciente</code> como atributo predictivo. El modelo aprenderá
+            a "reconocer" IDs del entrenamiento y obtendrá métricas perfectas, pero fallará
+            completamente con pacientes nuevos. Otras fuentes de leakage en este dataset:
+            <code>fecha_consulta</code> (el número de hospitalizaciones puede variar por temporada,
+            pero la fecha del historial no predice pacientes futuros).
+            <strong>Regla de oro:</strong> si una columna solo existe <em>porque</em> el evento
+            ya ocurrió, o es un identificador único, descártala antes de modelar.
+          </p>
+        </div>
+
+        <!-- PROMPT SOCRÁTICO 1 -->
+        <div class="prompt-box">
+          <span class="prompt-tag tag-esencial">Reto esencial — Clarificación conceptual</span>
+          <div class="prompt-text">Actúa como un tutor socrático experto en Ciencia de Datos. Tu rol es NUNCA darme respuestas directas; en cambio, hazme preguntas que me lleven a descubrirlas yo mismo.
+
+Explica de forma simple, usando analogías cotidianas (como un médico que clasifica diagnósticos, o un supermercado que agrupa productos) antes de entrar en detalles técnicos. Usa lenguaje de estudiante de bachillerato técnico.
+
+Quiero entender cuándo elegir entre un Árbol de Decisión y Naive Bayes para un problema de salud. No me digas cuál es mejor: hazme preguntas UNA POR UNA y espera mi respuesta antes de continuar. Empieza con: "Para ayudarte a decidir, primero dime: ¿tu variable objetivo es continua o discreta?"
+
+Al final de la conversación, pregúntame si quiero que hagas un resumen de las conclusiones a las que llegué yo solo.</div>
+          <div class="prompt-warning">
+            ⚠️ Regla de oro: si la IA te da una respuesta directa sin preguntarte nada, pídele que cambie el enfoque: <em>"No me des la respuesta, hazme una pregunta que me ayude a descubrirla."</em>
+          </div>
+          <div class="prompt-entregable">
+            ✅ Entregable: anota en tu documento (sección "Justificación del Modelo") al menos 3 preguntas clave que la IA te hizo y tus respuestas. Eso evidencia que razonaste tú, no que copiaste.
+          </div>
+        </div>
+
+        <div class="invariantes">
+          <h4>🔒 Invariantes — Comprende</h4>
+          <ul>
+            <li>No avances a la Fase 2 si no puedes responder en 30 segundos: <em>"¿Por qué elegí este modelo y no otro para mi problema?"</em></li>
+            <li>Si tu respuesta es "porque era el que usamos en clase", eso <strong>no es suficiente</strong>. Debe estar vinculada al tipo de dato y al objetivo de negocio.</li>
+          </ul>
+        </div>
+
+        <div class="meta-check">
+          <h4>🪞 Checkpoint metacognitivo</h4>
+          <ol>
+            <li>¿Puedo describir mi problema de negocio en una sola oración con sujeto, verbo y objetivo?</li>
+            <li>¿Sé si tengo una variable objetivo? ¿Es categórica o numérica?</li>
+            <li>Si alguien me preguntara "¿por qué no usaste clúster en lugar de clasificación?", ¿tengo una respuesta?</li>
+          </ol>
+        </div>
+
+      </div><!-- /phase-body -->
+    </div><!-- /phase-card -->
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FASE 2: APLICA
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="aplica">
+    <div class="phase-card fase-aplica">
+      <div class="phase-header">
+        <div class="phase-icon">⚙️</div>
+        <div class="phase-title">
+          <span class="bloom-tag">Bloom: Aplicar · Analizar</span>
+          <h2>Fase 2 — APLICA</h2>
+          <p style="color:var(--text-sec);font-size:.9rem;margin:0;">
+            Construye en Python (Google Colab) el pipeline completo y documenta cada paso.
+          </p>
+        </div>
+      </div>
+      <div class="phase-body">
+
+        <h3>🎯 Objetivos de aprendizaje</h3>
+        <ul>
+          <li><strong>Implementar</strong> al menos un modelo predictivo completo en Python: carga de datos → preprocesamiento → modelado → evaluación.</li>
+          <li><strong>Analizar</strong> las métricas de evaluación y argumentar si el modelo es confiable para el problema.</li>
+          <li><strong>Comparar</strong> con al menos un segundo algoritmo para verificar confiabilidad.</li>
+        </ul>
+
+        <div class="info-box success">
+          <div class="box-title">🚀 Punto de partida — ¿Cómo estás hoy?</div>
+          Si tu trabajo de prácticas anteriores en Colab funciona correctamente, úsalo como base y extiéndelo.
+          Si tuviste problemas con la carga de datos o el preprocesamiento, <strong>aquí tienes un esqueleto mínimo probado</strong>
+          para que partas con confianza. <em>No es "hacer trampa": es enfocarte en aprender el modelado, no en depurar problemas previos.</em>
+        </div>
+
+        <h3 style="margin-top:18px;">🧩 Esqueleto de referencia — Pipeline mínimo en Python</h3>
+        <p>Este pseudocódigo te muestra la estructura. Tú decides qué dataset y qué algoritmo usar dentro de cada bloque marcado con <code># ← TU CÓDIGO</code>.</p>
+
+        <div class="code-block"><pre>
+<span class="cm"># ──────────────────────────────────────────────────────────────
+# PIPELINE MÍNIMO AMPR-20 — Actividad de Evaluación 2.1.1
+# Google Colab · Python 3
+# ──────────────────────────────────────────────────────────────</span>
+
+<span class="cm"># 1. IMPORTAR LIBRERÍAS  ───────────────────────────────────────</span>
+<span class="kw">import</span> pandas <span class="kw">as</span> pd
+<span class="kw">import</span> numpy <span class="kw">as</span> np
+<span class="kw">from</span> sklearn.model_selection <span class="kw">import</span> train_test_split
+<span class="kw">from</span> sklearn.metrics <span class="kw">import</span> accuracy_score, classification_report, confusion_matrix
+<span class="kw">import</span> matplotlib.pyplot <span class="kw">as</span> plt
+<span class="kw">import</span> seaborn <span class="kw">as</span> sns
+
+<span class="cm"># 2. CARGAR EL DATASET  ───────────────────────────────────────
+# ← Sustituye la ruta por tu archivo real</span>
+df = pd.read_csv(<span class="st">'mi_dataset.csv'</span>)
+<span class="fn">print</span>(df.head())            <span class="cm"># Captura de pantalla obligatoria ①</span>
+<span class="fn">print</span>(df.info())            <span class="cm"># Tipos de datos y valores nulos</span>
+<span class="fn">print</span>(df.describe())        <span class="cm"># Estadísticos básicos</span>
+
+<span class="cm"># 3. DIAGNÓSTICO PREVIO — EJECUTAR SIEMPRE ANTES DE LIMPIAR ──</span>
+<span class="fn">print</span>(<span class="st">f"Filas antes de limpiar: {len(df)}"</span>)   <span class="cm"># ¿Cuántos registros tienes?</span>
+<span class="fn">print</span>(<span class="st">"\nNulos por columna:"</span>)
+<span class="fn">print</span>(df.isnull().sum().sort_values(ascending=<span class="nb">False</span>))  <span class="cm"># Captura ① — radiografía de calidad</span>
+<span class="fn">print</span>(<span class="st">f"\nDuplicados: {df.duplicated().sum()}"</span>)   <span class="cm"># ¿Hay filas repetidas?</span>
+<span class="fn">print</span>(<span class="st">f"\nValores únicos en variable objetivo:"</span>)
+<span class="fn">print</span>(df[<span class="st">'nombre_columna_objetivo'</span>].value_counts())  <span class="cm"># ← ¿Más de 2 clases? Problema de estandarización</span>
+
+<span class="cm"># 3b. LIMPIEZA PASO A PASO (no usar dropna() directo sin revisar)</span>
+<span class="cm"># ⚠️ TRAMPA FRECUENTE: df.dropna() elimina TODAS las filas con</span>
+<span class="cm">#    CUALQUIER nulo. En este dataset, eso puede borrar &gt;80% de tus datos.</span>
+<span class="cm">#    Decide columna por columna: ¿eliminar, imputar con media/moda,</span>
+<span class="cm">#    o dejar el nulo y manejarlo después?</span>
+df = df.dropna(subset=[<span class="st">'col_importante_1'</span>, <span class="st">'col_importante_2'</span>])  <span class="cm"># ← Solo columnas críticas</span>
+<span class="fn">print</span>(<span class="st">f"Filas tras limpiar: {len(df)}"</span>)    <span class="cm"># Verifica que no perdiste demasiado</span>
+
+<span class="cm"># 3c. ESTANDARIZAR VARIABLE OBJETIVO ─────────────────────────</span>
+<span class="cm"># ⚠️ Si tu columna objetivo mezcla "Sí", 1, "True", "INGRESADO"…</span>
+<span class="cm">#    sklearn la tratará como 8 clases distintas, no como binaria.</span>
+<span class="cm">#    Mapea todo a 0/1 antes de continuar:</span>
+positivos = [<span class="st">'Sí'</span>, <span class="st">'SI'</span>, <span class="st">'si'</span>, <span class="st">'1'</span>, <span class="st">'True'</span>, <span class="st">'INGRESADO'</span>]
+df[<span class="st">'nombre_columna_objetivo'</span>] = df[<span class="st">'nombre_columna_objetivo'</span>].astype(<span class="st">str</span>).str.strip()
+df[<span class="st">'nombre_columna_objetivo'</span>] = df[<span class="st">'nombre_columna_objetivo'</span>].apply(<span class="kw">lambda</span> x: <span class="nb">1</span> <span class="kw">if</span> x <span class="kw">in</span> positivos <span class="kw">else</span> <span class="nb">0</span>)
+<span class="fn">print</span>(df[<span class="st">'nombre_columna_objetivo'</span>].value_counts())   <span class="cm"># Debe mostrar solo 0 y 1</span>
+
+<span class="cm"># 3d. CODIFICAR CATEGÓRICAS y DESCARTAR COLUMNAS NO PREDICTIVAS</span>
+<span class="cm"># ⚠️ FUGA DE DATOS (Data Leakage): id_paciente y fecha_consulta</span>
+<span class="cm">#    NO deben entrar al modelo. Un ID único "predice" perfectamente</span>
+<span class="cm">#    pero es información que no existirá con pacientes nuevos.</span>
+df = df.drop(columns=[<span class="st">'id_paciente'</span>, <span class="st">'fecha_consulta'</span>])   <span class="cm"># ← Eliminar antes de codificar</span>
+df = pd.get_dummies(df, drop_first=<span class="nb">True</span>)               <span class="cm"># ← Convierte texto a números</span>
+<span class="cm"># ← Normalizar si el algoritmo lo requiere (StandardScaler)</span>
+
+<span class="cm"># 4. SEPARAR ATRIBUTOS Y CLASE  ───────────────────────────────</span>
+X = df.drop(columns=[<span class="st">'nombre_columna_objetivo'</span>])   <span class="cm"># ← TU COLUMNA META</span>
+y = df[<span class="st">'nombre_columna_objetivo'</span>]
+
+<span class="cm"># 5. DIVIDIR EN ENTRENAMIENTO Y PRUEBA  ────────────────────────
+# test_size=0.3 → 70% entrenamiento, 30% prueba (estándar)</span>
+X_train, X_test, y_train, y_test = train_test_split(
+    X, y, test_size=<span class="nb">0.3</span>, random_state=<span class="nb">42</span>)
+
+<span class="cm"># 6. SELECCIÓN DE ATRIBUTOS (opcional, pero suma puntos)  ──────</span>
+<span class="kw">from</span> sklearn.feature_selection <span class="kw">import</span> SelectKBest, chi2
+selector = SelectKBest(chi2, k=<span class="nb">5</span>)   <span class="cm"># ← Elige k según tu análisis</span>
+X_train = selector.fit_transform(X_train, y_train)
+X_test  = selector.transform(X_test)
+<span class="fn">print</span>(<span class="st">"Atributos seleccionados:"</span>, selector.get_support(indices=<span class="nb">True</span>))
+
+<span class="cm"># 7. MODELO PRINCIPAL  ────────────────────────────────────────
+# ← REEMPLAZA con tu algoritmo elegido y argumentado:</span>
+<span class="kw">from</span> sklearn.tree <span class="kw">import</span> DecisionTreeClassifier   <span class="cm"># ejemplo</span>
+modelo = DecisionTreeClassifier(max_depth=<span class="nb">5</span>, random_state=<span class="nb">42</span>)
+modelo.fit(X_train, y_train)
+y_pred = modelo.predict(X_test)
+
+<span class="cm"># 8. EVALUACIÓN DEL MODELO PRINCIPAL  ─────────────────────────</span>
+<span class="fn">print</span>(<span class="st">"Exactitud:"</span>, accuracy_score(y_test, y_pred))   <span class="cm"># Captura ②</span>
+<span class="fn">print</span>(classification_report(y_test, y_pred))
+cm = confusion_matrix(y_test, y_pred)
+sns.heatmap(cm, annot=<span class="nb">True</span>, fmt=<span class="st">'d'</span>, cmap=<span class="st">'Blues'</span>)     <span class="cm"># Captura ③</span>
+plt.title(<span class="st">'Matriz de Confusión — Modelo Principal'</span>)
+plt.show()
+
+<span class="cm"># 9. MODELO DE COMPARACIÓN (verificación de confiabilidad)  ───</span>
+<span class="kw">from</span> sklearn.naive_bayes <span class="kw">import</span> GaussianNB          <span class="cm"># ejemplo alterno</span>
+modelo2 = GaussianNB()
+modelo2.fit(X_train, y_train)
+y_pred2 = modelo2.predict(X_test)
+<span class="fn">print</span>(<span class="st">"Exactitud modelo 2:"</span>, accuracy_score(y_test, y_pred2))  <span class="cm"># Captura ④</span>
+
+<span class="cm"># 10. CONCLUSIÓN COMPARATIVA  ─────────────────────────────────
+# ← Escribe aquí en texto Markdown (celda de texto en Colab)
+# por qué uno supera al otro en este contexto específico.
+# Eso es lo que evalúa la rúbrica en "Evaluación del modelo".</span>
+</pre></div>
+
+        <h3 style="margin-top:20px;">🔬 Etapa 1 — Selección de atributos</h3>
+        <p>Antes de modelar, aplica al menos un método de selección de atributos sobre tu dataset.
+        Documenta qué atributos seleccionó cada método y <strong>argumenta si el resultado tiene sentido</strong> para tu problema de negocio.</p>
+
+        <div class="info-box">
+          <div class="box-title">🛠️ Métodos en Python equivalentes a los del PE</div>
+          <p style="margin:0;font-size:.9rem;">
+            <strong>CorrelationAttributeEval</strong> → <code>df.corr()</code> o <code>SelectKBest(f_classif)</code><br>
+            <strong>OneRAttributeEval</strong> → atributo con mayor información individual (entrena un DTree con <code>max_depth=1</code> por cada variable)<br>
+            <strong>ClassifierAttributeEval</strong> → importancias de un RandomForest (<code>feature_importances_</code>)
+          </p>
+        </div>
+
+        <h3 style="margin-top:18px;">🔬 Etapa 2 — Modelado, evaluación y comparación</h3>
+        <p>Ejecuta el pipeline completo. <strong>Toma capturas de pantalla</strong> de cada resultado importante (ver checklist en Fase 4).</p>
+
+        <!-- PROMPT SOCRÁTICO 2 -->
+        <div class="prompt-box">
+          <span class="prompt-tag tag-esencial">Reto esencial — Decisiones de modelado</span>
+          <div class="prompt-text">Actúa como un mentor socrático en Ciencia de Datos. Nunca des la solución directamente: guíame con preguntas, una a la vez, esperando mi respuesta antes de continuar. Usa analogías simples como "elegir medicamento" o "hacer un diagnóstico médico" para explicar conceptos técnicos.
+
+Tengo este contexto:
+- Dataset: [DESCRIBE TU DATASET EN 2-3 LÍNEAS]
+- Problema de negocio: [ESCRIBE TU PREGUNTA DE NEGOCIO]
+- Algoritmo principal elegido: [TU ALGORITMO]
+- Algoritmo de comparación: [TU SEGUNDO ALGORITMO]
+- Métrica de evaluación principal que planeo usar: [TU MÉTRICA]
+
+Necesito tomar 3 decisiones de diseño:
+1) ¿Qué proporción de train/test usar y por qué?
+2) ¿Qué hiperparámetros iniciales elegir para mi algoritmo?
+3) ¿Qué métrica de evaluación es más apropiada para mi problema?
+
+Empieza preguntándome: "Antes de hablar de proporciones de train/test, dime: ¿cuántas instancias tiene tu dataset?"
+No continues hasta que responda. Al final de las 3 decisiones, pídeme que te diga yo la conclusión, no me la digas tú.</div>
+          <div class="prompt-warning">
+            ⚠️ No pegues código de la IA en tu Colab sin antes entender cada línea. Si no puedes explicar qué hace un parámetro, pregunta a la IA (socráticmente) hasta entenderlo.
+          </div>
+          <div class="prompt-entregable">
+            ✅ Entregable de esta etapa: Notebook de Colab con todas las celdas ejecutadas + capturas de pantalla de los 4 momentos clave (head/info, resultados, matriz de confusión, comparación).
+          </div>
+        </div>
+
+        <!-- PROMPT SOCRÁTICO 3 (AVANZADO) -->
+        <div class="prompt-box">
+          <span class="prompt-tag tag-avanzado">Reto avanzado — Análisis crítico del modelo</span>
+          <div class="prompt-text">Actúa como un revisor socrático de modelos predictivos en salud. Tu trabajo es hacerme preguntas difíciles, una a la vez, para que yo identifique las limitaciones de mi propio modelo.
+
+Contexto de mi modelo:
+- Exactitud obtenida: [TU VALOR, ej. 87%]
+- Dataset: [DESCRIBE BREVEMENTE]
+- Clases: [ej. "riesgo alto / riesgo bajo", cuántas instancias de cada una]
+
+Empieza con: "Si tu modelo tiene 87% de exactitud pero una clase representa el 90% del dataset, ¿qué problema podría existir que esa cifra oculte?"
+
+Hazme razonar sobre: desbalance de clases, sobreajuste (overfitting), y si mi modelo generalizaría con datos de otra clínica. Nunca me des la respuesta. Solo preguntas y pistas.
+Al final pregúntame cómo documentaría estas limitaciones en mi reporte.</div>
+          <div class="prompt-entregable">
+            ✅ Entregable adicional: añade una celda Markdown en tu Colab titulada "Limitaciones del modelo" con al menos 2 puntos que identificaste en esta conversación.
+          </div>
+        </div>
+
+        <div class="invariantes">
+          <h4>🔒 Invariantes — Aplica</h4>
+          <ul>
+            <li>Ningún modelo se entrega sin haber ejecutado y mostrado su <strong>matriz de confusión o tabla de evaluación</strong>.</li>
+            <li>La comparación con un segundo algoritmo es <strong>obligatoria</strong>: sin ella, la rúbrica marca "Insuficiente" en el indicador de Evaluación del modelo.</li>
+            <li>Cada decisión de preprocesamiento (imputar nulos, normalizar, codificar) debe estar justificada en una celda Markdown dentro del notebook.</li>
+          </ul>
+        </div>
+
+        <div class="meta-check">
+          <h4>🪞 Checkpoint metacognitivo</h4>
+          <ol>
+            <li>¿Puedo tapar los resultados y explicar qué hace cada bloque de código antes de verlos?</li>
+            <li>¿Sé por qué elegí ese valor de <code>test_size</code> y ese valor de <code>max_depth</code> (o el hiperparámetro equivalente)?</li>
+            <li>¿Cuántas filas tenía mi dataset <em>antes</em> de limpiar y cuántas quedan <em>después</em>? ¿El porcentaje eliminado es razonable?</li>
+            <li>Ejecuta <code>df['nombre_columna_objetivo'].value_counts()</code> — ¿tienes exactamente 2 valores (0 y 1)? Si ves más de dos, tu variable objetivo no está estandarizada y el modelo fallará o dará resultados sin sentido.</li>
+            <li>¿Qué pasaría si mi dataset tuviera 10× más instancias? ¿Cambiaria algo en mi pipeline?</li>
+          </ol>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FASE 3: REFLEXIONA
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="reflexiona">
+    <div class="phase-card fase-reflexiona">
+      <div class="phase-header">
+        <div class="phase-icon">💬</div>
+        <div class="phase-title">
+          <span class="bloom-tag">Bloom: Analizar</span>
+          <h2>Fase 3 — REFLEXIONA</h2>
+          <p style="color:var(--text-sec);font-size:.9rem;margin:0;">
+            Diálogo socrático con la IA para explicitar tus decisiones de diseño (10–15 min).
+          </p>
+        </div>
+      </div>
+      <div class="phase-body">
+
+        <h3>🎯 Objetivo de aprendizaje</h3>
+        <ul>
+          <li><strong>Analizar</strong> los trade-offs de las decisiones tomadas en el modelado y comunicarlas de forma clara y fundamentada.</li>
+        </ul>
+
+        <div class="info-box">
+          <div class="box-title">📖 ¿Cómo funciona esta fase?</div>
+          <p style="margin:0;font-size:.9rem;">
+            En lugar de escribir un documento de análisis separado, tendrás una <strong>conversación socrática de 10–15 minutos</strong>
+            con la IA. Al terminar, le pedirás un resumen de 5 puntos. Leerás ese resumen críticamente,
+            lo corregirás si es necesario, y lo pegarás como celda Markdown en la <strong>primera celda de tu notebook</strong>
+            (encabezado de decisiones de diseño). Así la reflexión queda pegada al código que explica.
+          </p>
+        </div>
+
+        <!-- PROMPT SOCRÁTICO 4 -->
+        <div class="prompt-box">
+          <span class="prompt-tag tag-esencial">Reto esencial — Diálogo socrático de decisiones</span>
+          <div class="prompt-text">Actúa como un mentor socrático especializado en modelos predictivos. Tu objetivo es hacerme reflexionar sobre las decisiones que tomé en mi análisis. Nunca me digas si hice bien o mal algo directamente: solo hazme preguntas que me lleven a evaluarlo yo mismo. Una pregunta a la vez; espera mi respuesta antes de continuar.
+
+Contexto de mi trabajo:
+- Problema de negocio: [TU DESCRIPCIÓN]
+- Modelo elegido: [TU ALGORITMO] con parámetro clave [TU PARÁMETRO = VALOR]
+- Modelo de comparación: [SEGUNDO ALGORITMO]
+- Exactitud modelo 1: [VALOR] | Exactitud modelo 2: [VALOR]
+- Decisión final: elegí el modelo [1 o 2] porque [TU RAZÓN BREVE]
+
+Empieza preguntando: "Cuando elegiste ese valor de [TU PARÁMETRO], ¿qué consecuencia esperabas en el comportamiento del modelo con datos que no había visto?"
+
+Al finalizar la conversación (cuando yo te lo pida), genera un resumen de exactamente 5 puntos sobre las decisiones que discutimos. Redacta cada punto comenzando con: "Decisión: … — Trade-off: …"</div>
+          <div class="prompt-warning">
+            ⚠️ Cuando la IA te entregue el resumen de 5 puntos, léelo críticamente: ¿hay algo incorrecto o que no refleja lo que tú realmente decidiste? Corrígelo antes de pegarlo en tu notebook.
+          </div>
+          <div class="prompt-entregable">
+            ✅ Entregable: celda Markdown en la primera posición de tu notebook con este formato:
+
+"""
+DECISIONES DE DISEÑO — [Nombre de tu análisis]
+================================================
+Decisión 1: [lo que discutiste] — Trade-off: [impacto]
+Decisión 2: ...
+Decisión 3: ...
+Decisión 4: ...
+Decisión 5: ...
+
+[Corrección al resumen de la IA, si aplica:]
+La IA dijo que [X] — esto es incorrecto/incompleto porque [razón].
+"""
+          </div>
+        </div>
+
+        <div class="invariantes">
+          <h4>🔒 Invariantes — Reflexiona</h4>
+          <ul>
+            <li>El resumen de 5 puntos <strong>no puede ser copiado y pegado sin leerlo</strong>. Al menos uno de los puntos debe llevar tu firma: una corrección, un matiz o una aclaración que la IA no incluyó.</li>
+            <li>Si el resumen de la IA fue 100% correcto, escribe: <em>"Resumen de la IA validado sin correcciones — lo verifico porque [razón concreta]."</em></li>
+          </ul>
+        </div>
+
+        <div class="meta-check">
+          <h4>🪞 Checkpoint metacognitivo</h4>
+          <ol>
+            <li>¿Puedo explicar mis 5 decisiones a un compañero sin leer el resumen?</li>
+            <li>¿Encontré algo en el resumen de la IA que no fuera exactamente correcto para mi caso específico?</li>
+            <li>¿Alguien que lea mi celda de decisiones entendería por qué hice lo que hice, sin ver la conversación con la IA?</li>
+          </ol>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FASE 4: VALIDA
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="valida">
+    <div class="phase-card fase-valida">
+      <div class="phase-header">
+        <div class="phase-icon">✅</div>
+        <div class="phase-title">
+          <span class="bloom-tag">Bloom: Evaluar</span>
+          <h2>Fase 4 — VALIDA</h2>
+          <p style="color:var(--text-sec);font-size:.9rem;margin:0;">
+            Auditoría de tu trabajo antes de entregar. Verifica tú mismo contra la rúbrica.
+          </p>
+        </div>
+      </div>
+      <div class="phase-body">
+
+        <h3>🎯 Objetivo de aprendizaje</h3>
+        <ul>
+          <li><strong>Evaluar</strong> críticamente tu propio trabajo usando los criterios de la rúbrica institucional como estándar de calidad.</li>
+        </ul>
+
+        <h3 style="margin-top:16px;">✅ Checklist de Autoevaluación Rápida — Verifica antes de entregar</h3>
+        <p>Marca cada ítem solo cuando puedas demostrar que está completo. Si alguno falla, el diagnóstico te indica qué revisar.</p>
+
+        <ul class="checklist">
+          <li>
+            <div>
+              <strong>Elección del modelo documentada</strong> — El documento incluye el nombre del modelo elegido y al menos un párrafo argumentando por qué es el adecuado para tu problema de negocio.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falla → revisa la sección "Justificación del Modelo" de tu documento; si no existe, créala.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Selección del algoritmo argumentada</strong> — Explicas por qué elegiste ese algoritmo específico (ej. Árbol de decisión vs Naive Bayes) y no otro dentro de la misma familia.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falla → regresa al diálogo socrático de la Fase 1 y extrae tus respuestas como texto en el documento.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Modelado ejecutado en software libre</strong> — Tienes un notebook de Google Colab con todas las celdas ejecutadas (sin celdas vacías o con errores visibles).<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falla → ejecuta todas las celdas con "Ejecutar todo" y verifica que no haya excepciones.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Evaluación del modelo principal</strong> — El notebook muestra accuracy, classification report Y matriz de confusión del modelo principal.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falla → añade las líneas de evaluación del esqueleto de referencia (Fase 2).</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Comparación con segundo algoritmo</strong> — Ejecutaste y evaluaste un segundo algoritmo diferente y comparas ambos resultados en texto.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falla → es el indicador que más peso tiene en la rúbrica (20%). Añádelo antes de entregar.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Capturas de pantalla de los 4 momentos clave</strong>:
+              ① head/info del dataset, ② resultados del modelo principal,
+              ③ matriz de confusión, ④ comparación con modelo 2.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falta alguna → captura directamente desde el notebook ejecutado.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Celda de decisiones de diseño</strong> — Primera celda del notebook con los 5 puntos de la Fase 3.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Si falta → es evidencia de que reflexionaste. Sin ella, el indicador de Presentación baja de nivel.</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Redacción y ortografía</strong> — El documento tiene secuencia lógica, sin errores ortográficos visibles y con información pertinente.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Sugerencia: usa el corrector del procesador de texto o pídele a la IA que revise la redacción (no el contenido técnico).</em>
+            </div>
+          </li>
+          <li>
+            <div>
+              <strong>Búsqueda y eliminación de duplicados</strong> — Ejecutaste <code>df.duplicated().sum()</code> durante el EDA. Si encontraste duplicados, los eliminaste con <code>df.drop_duplicates(inplace=True)</code> y lo documentaste.<br>
+              <em style="color:var(--acc);font-size:.85rem;">Pista: en este dataset hay 10 pacientes duplicados. Si los detectaste y eliminaste, eso evidencia un EDA riguroso — ¡es un punto que diferencia a los "Excelente" de los "Bueno"!</em>
+            </div>
+          </li>
+        </ul>
+
+        <div class="info-box warning" style="margin-top:16px;">
+          <div class="box-title">💡 Tip del profesor</div>
+          Si encuentras un error con este checklist, reproduce el escenario de fallo ejecutando el notebook con un dataset diferente o modificando un hiperparámetro, y observa si los resultados cambian de forma coherente. Eso también es evidencia de comprensión.
+        </div>
+
+        <h3 style="margin-top:20px;">🛑 Errores comunes en esta actividad</h3>
+        <div class="error-item">
+          <div class="error-icon">⚠️</div>
+          <div class="error-body">
+            <h4>Confundir exactitud con confiabilidad</h4>
+            <p>Obtener 95% de accuracy y declararlo "excelente" sin revisar si las clases están desbalanceadas. Un modelo que siempre predice la clase mayoritaria puede tener 95% con un F1 desastroso. Siempre revisa el classification report completo.</p>
+          </div>
+        </div>
+        <div class="error-item">
+          <div class="error-icon">⚠️</div>
+          <div class="error-body">
+            <h4>Argumentar el modelo con palabras genéricas</h4>
+            <p>"Elegí el Árbol de decisión porque es fácil de entender." Eso es insuficiente. La rúbrica pide argumentar en función del <em>tipo de datos, el objetivo y el problema de negocio específico</em>.</p>
+          </div>
+        </div>
+        <div class="error-item">
+          <div class="error-icon">⚠️</div>
+          <div class="error-body">
+            <h4>Usar el dataset de entrenamiento para evaluar</h4>
+            <p>Si evalúas el modelo con los mismos datos con que lo entrenaste, obtendrás métricas irrealmente altas (overfitting). Verifica que usas <code>X_test</code> / <code>y_test</code> en la función de evaluación, no <code>X_train</code>.</p>
+          </div>
+        </div>
+        <div class="error-item">
+          <div class="error-icon">⚠️</div>
+          <div class="error-body">
+            <h4>Copiar el código del esqueleto sin adaptarlo</h4>
+            <p>El esqueleto usa nombres genéricos como <code>'nombre_columna_objetivo'</code>. Si tu notebook contiene ese texto literal, la IA o el docente sabe que no lo leíste. Sustitúyelo por los nombres reales de tu dataset.</p>
+          </div>
+        </div>
+        <div class="error-item">
+          <div class="error-icon">🔴</div>
+          <div class="error-body">
+            <h4>ValueError: could not convert string to float — columnas categóricas sin codificar</h4>
+            <p>sklearn no acepta texto como entrada. Si ves este error, significa que pasaste columnas como <code>genero</code>, <code>municipio</code> o <code>actividad_fisica</code> directamente al modelo sin convertirlas a números.<br>
+            <strong>Solución:</strong> aplica <code>pd.get_dummies(df, drop_first=True)</code> sobre el DataFrame antes de separar X e y. Además, elimina siempre las columnas que causan <strong>fuga de datos (Data Leakage)</strong>: <code>id_paciente</code> y <code>fecha_consulta</code> tienen información única por paciente que el modelo "memoriza" pero que no existirá con pacientes nuevos.</p>
+          </div>
+        </div>
+        <div class="error-item">
+          <div class="error-icon">🔴</div>
+          <div class="error-body">
+            <h4>Variable objetivo multiclase por accidente — mezcla de "Sí", 1, "True", "INGRESADO"…</h4>
+            <p>Si no estandarizas la columna <code>hospitalizacion</code> antes del modelado, sklearn detectará hasta 10 "clases" distintas en lugar de una clasificación binaria (0/1). El modelo "funcionará" técnicamente, pero sus métricas no tendrán sentido para tu problema de negocio.<br>
+            <strong>Diagnóstico:</strong> ejecuta <code>df['hospitalizacion'].value_counts()</code> — si ves más de 2 filas, tienes el problema. Usa un mapeo explícito a 0/1 antes de continuar.</p>
+          </div>
+        </div>
+
+        <div class="invariantes">
+          <h4>🔒 Invariantes — Valida</h4>
+          <ul>
+            <li>El notebook no puede tener celdas con error de ejecución visibles al momento de la entrega.</li>
+            <li>La comparación de dos algoritmos es condición necesaria para alcanzar nivel "Bueno" en el indicador de Evaluación del modelo (rúbrica).</li>
+          </ul>
+        </div>
+
+        <div class="meta-check">
+          <h4>🪞 Checkpoint metacognitivo</h4>
+          <ol>
+            <li>¿Puedo explicar por qué mi modelo 1 supera (o no) a mi modelo 2 sin ver el notebook?</li>
+            <li>¿Mi documento tendría sentido para alguien que no estuvo en clase? ¿O depende de conocimiento implícito?</li>
+            <li>¿Qué cambiaría si el problema de negocio fuera diferente? ¿Mantendría el mismo modelo?</li>
+          </ol>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       FASE 5: PROFUNDIZA
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="profundiza">
+    <div class="phase-card fase-profundiza">
+      <div class="phase-header">
+        <div class="phase-icon">🚀</div>
+        <div class="phase-title">
+          <span class="bloom-tag">Bloom: Crear (opcional)</span>
+          <h2>Fase 5 — PROFUNDIZA</h2>
+          <p style="color:var(--text-sec);font-size:.9rem;margin:0;">
+            Extensiones para quienes quieren ir más allá del mínimo indispensable.
+          </p>
+        </div>
+      </div>
+      <div class="phase-body">
+
+        <div class="info-box warning">
+          <div class="box-title">🎯 Esta fase es completamente opcional</div>
+          No es necesaria para alcanzar "Excelente" en la rúbrica. Está diseñada para quienes quieren
+          profundizar en sus intereses o prepararse para la AE 2.2.1.
+        </div>
+
+        <h3>🔭 Extensiones posibles</h3>
+
+        <div class="card">
+          <h4>📌 Extensión A — Validación cruzada (K-Fold)</h4>
+          <p style="font-size:.9rem;">En lugar de una sola división train/test, usa 10-Fold Cross Validation para obtener una estimación más robusta del rendimiento del modelo. Compara el accuracy promedio de la validación cruzada con el que obtuviste antes. ¿Son similares? ¿Qué te dice eso sobre el sobreajuste?</p>
+          <code>from sklearn.model_selection import cross_val_score</code>
+        </div>
+
+        <div class="card">
+          <h4>📌 Extensión B — Visualización del Árbol de Decisión</h4>
+          <p style="font-size:.9rem;">Si elegiste un Árbol de Decisión, exporta y visualiza el árbol completo. Identifica la raíz: ¿cuál es el atributo más importante para la primera partición? ¿Coincide con lo que determinó tu selección de atributos?</p>
+          <code>from sklearn.tree import plot_tree</code>
+        </div>
+
+        <div class="card">
+          <h4>📌 Extensión C — Clúster + Clasificación juntos</h4>
+          <p style="font-size:.9rem;">Usa K-Means para descubrir grupos ocultos en tu dataset, luego entrena un clasificador usando la etiqueta de clúster como nueva variable. ¿Mejora la exactitud del clasificador? Esta técnica se llama <em>clustering como feature engineering</em>.</p>
+        </div>
+
+        <h3 style="margin-top:20px;">🔮 Preview de la siguiente etapa: AE 2.2.1</h3>
+        <div class="info-box">
+          <div class="box-title">¿Qué viene después?</div>
+          <p style="margin:0;font-size:.9rem;">
+            La siguiente actividad de evaluación (<strong>2.2.1</strong>) te pedirá tomar los resultados de
+            <em>este</em> trabajo y elaborar un <strong>reporte ejecutivo</strong> con visualizaciones gráficas,
+            interpretación de resultados y conclusiones para la toma de decisiones.
+            Sin comprender profundamente <em>por qué</em> tu modelo funciona (o no),
+            no podrás redactar conclusiones fundamentadas. <strong>Lo que reflexionaste en la Fase 3
+            será la materia prima de ese reporte.</strong>
+          </p>
+        </div>
+
+        <div class="meta-check">
+          <h4>🪞 Reflexión final</h4>
+          <ol>
+            <li>¿Qué fue lo más difícil de esta actividad? ¿Lo conceptual, lo técnico o lo de argumentar decisiones?</li>
+            <li>Si tuvieras que repetir este análisis con un dataset completamente diferente mañana, ¿podrías? ¿Qué cambiarías del proceso?</li>
+          </ol>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       EVALUACIÓN / RÚBRICA
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="evaluacion">
+    <div class="card">
+      <h2 style="margin-bottom:16px;">📊 Evaluación — Rúbrica Institucional AE 2.1.1</h2>
+
+      <div class="entregable-box">
+        <h3>📦 Entregable único de la actividad</h3>
+        <ul>
+          <li><strong>Notebook de Google Colab</strong> (.ipynb) — con todas las celdas ejecutadas y la celda de decisiones de diseño al inicio.</li>
+          <li><strong>Documento Word o PDF</strong> — con las capturas de pantalla de los 4 momentos clave, la justificación del modelo y la argumentación del algoritmo.</li>
+          <li><strong>Evidencia del diálogo socrático</strong> — captura o exportación de la conversación con la IA de la Fase 3 (adjunta al documento).</li>
+        </ul>
+        <div class="tiempo">
+          ⏱️ <strong>Tiempo estimado realista:</strong> 6 a 10 horas de trabajo independiente.<br>
+          <em>No son cuatro tareas separadas — es un proyecto con evidencias integradas.</em>
+        </div>
+      </div>
+
+      <div class="tabla-wrap" style="margin-top:18px;">
+        <table class="rubrica-table">
+          <thead>
+            <tr>
+              <th>Indicador</th>
+              <th>%</th>
+              <th>Excelente</th>
+              <th>Bueno</th>
+              <th>Suficiente</th>
+              <th>Insuficiente</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Elección del modelo</td>
+              <td class="pct">20</td>
+              <td class="excelente">Elige el modelo óptimo según el problema de negocio Y argumenta la elección con fundamento técnico claro.</td>
+              <td class="bueno">Elige el modelo correcto y argumenta la elección.</td>
+              <td class="suficiente">Plasma parcialmente la elección del modelo y su argumentación.</td>
+              <td class="insuf">No identifica el modelo óptimo para el problema.</td>
+            </tr>
+            <tr>
+              <td>Selección del algoritmo</td>
+              <td class="pct">20</td>
+              <td class="excelente">Selecciona el algoritmo indicado según modelo y problema, con argumentación sólida.</td>
+              <td class="bueno">Selecciona el algoritmo correcto y argumenta la elección.</td>
+              <td class="suficiente">Selecciona el algoritmo de forma básica con argumentación mínima.</td>
+              <td class="insuf">No identifica el algoritmo óptimo para el problema.</td>
+            </tr>
+            <tr>
+              <td>Modelado de datos</td>
+              <td class="pct">25</td>
+              <td class="excelente">Ejecuta el modelado completo en software libre e incluye al menos un modelo comparativo con análisis de diferencias.</td>
+              <td class="bueno">Ejecuta el modelado del dataset con el modelo y algoritmo elegidos en software libre.</td>
+              <td class="suficiente">Ejecuta el modelado de forma básica.</td>
+              <td class="insuf">No logra efectuar el proceso de modelado.</td>
+            </tr>
+            <tr>
+              <td>Evaluación del modelo</td>
+              <td class="pct">20</td>
+              <td class="excelente">Evalúa el modelo, verifica confiabilidad y comprueba comparando con otro algoritmo diferente con análisis crítico.</td>
+              <td class="bueno">Evalúa el modelo, verifica confiabilidad y compara con otro algoritmo.</td>
+              <td class="suficiente">Evalúa el modelo y verifica confiabilidad básicamente.</td>
+              <td class="insuf">Omite la evaluación del modelo implantado.</td>
+            </tr>
+            <tr>
+              <td>Evidencias (capturas de pantalla)</td>
+              <td class="pct">5</td>
+              <td class="excelente">Captura los 4 momentos: carga de datos, modelado, evaluación y comparación.</td>
+              <td class="bueno">Captura: modelado, evaluación y comparación.</td>
+              <td class="suficiente">Captura al menos 3 de los momentos clave.</td>
+              <td class="insuf">Omite capturas de los procesos principales.</td>
+            </tr>
+            <tr>
+              <td>Presentación (Coevaluación)</td>
+              <td class="pct">10</td>
+              <td class="excelente">Trabajo completo, información pertinente, secuencia lógica, ortografía correcta, redacción clara.</td>
+              <td class="bueno">Trabajo completo, secuencia lógica, ortografía apropiada.</td>
+              <td class="suficiente">Contiene la mayoría de los elementos de presentación.</td>
+              <td class="insuf">Omite elementos clave de presentación y estructura.</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+      <div class="info-box" style="margin-top:16px;">
+        <div class="box-title">🤖 Criterio adicional: Calidad del uso de IA</div>
+        <p style="margin:0;font-size:.9rem;">
+          Tu docente verificará si la celda de decisiones de diseño (Fase 3) refleja razonamiento propio.
+          Indicadores de uso auténtico: correcciones a la IA, lenguaje en primera persona, vínculos explícitos
+          con tu dataset específico. Indicadores de copia sin comprensión: texto genérico, sin números ni nombres
+          del dataset real, sin correcciones.
+        </p>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       GLOSARIO
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="glosario">
+    <div class="card">
+      <h2 style="margin-bottom:14px;">📖 Glosario</h2>
+      <div class="glosario-grid">
+        <div class="glos-item">
+          <div class="glos-term">Clasificación</div>
+          <div class="glos-def">Modelo supervisado que asigna una categoría discreta a instancias nuevas basándose en datos históricos etiquetados.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Clúster (Agrupamiento)</div>
+          <div class="glos-def">Modelo no supervisado que descubre grupos naturales en los datos sin etiquetas previas, minimizando la varianza intra-grupo.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Reglas de Asociación</div>
+          <div class="glos-def">Técnica que encuentra combinaciones frecuentes de ítems en transacciones. Soporte: frecuencia de la combinación. Confianza: probabilidad condicional.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Selección de Atributos</div>
+          <div class="glos-def">Proceso de identificar las variables más relevantes para el objetivo, eliminando ruido e información redundante.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Matriz de Confusión</div>
+          <div class="glos-def">Tabla que muestra Verdaderos/Falsos Positivos y Negativos. Permite calcular Precisión, Recall y F1-Score.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Overfitting (Sobreajuste)</div>
+          <div class="glos-def">El modelo "memoriza" el dataset de entrenamiento y falla con datos nuevos. Se detecta comparando accuracy en train vs test.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">CRISP-DM</div>
+          <div class="glos-def">Metodología estándar para análisis predictivo: Comprensión del negocio → Comprensión de datos → Preparación → Modelado → Evaluación → Implantación.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Trade-off</div>
+          <div class="glos-def">Compromiso entre dos propiedades deseables que no se pueden maximizar simultáneamente (ej. precisión vs interpretabilidad de un modelo).</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Diálogo Socrático con IA</div>
+          <div class="glos-def">Técnica de aprendizaje donde la IA guía con preguntas en lugar de dar respuestas, activando el razonamiento propio del estudiante.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Aprendizaje Supervisado</div>
+          <div class="glos-def">El modelo aprende de ejemplos etiquetados (con la respuesta correcta). Requiere una variable objetivo explícita en el dataset.</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Hiperparámetro</div>
+          <div class="glos-def">Parámetro de configuración del algoritmo que tú defines antes del entrenamiento (ej. max_depth en un árbol, k en K-Means).</div>
+        </div>
+        <div class="glos-item">
+          <div class="glos-term">Agencia Compartida</div>
+          <div class="glos-def">Principio pedagógico: tú (estudiante) tomas las decisiones de diseño; la IA te apoya con preguntas y opciones, pero no decide por ti.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+
+  <!-- ═══════════════════════════════════════════════════════════
+       REFERENCIAS
+       ═══════════════════════════════════════════════════════════ -->
+  <section id="referencias">
+    <div class="card">
+      <h2 style="margin-bottom:12px;">📚 Referencias</h2>
+      <h3 style="font-size:.95rem;margin-bottom:8px;">Recursos técnicos (gratuitos)</h3>
+      <ul style="font-size:.88rem;">
+        <li>Scikit-learn. (2024). <em>User Guide — Supervised learning</em>. <a href="https://scikit-learn.org/stable/supervised_learning.html" target="_blank">scikit-learn.org</a></li>
+        <li>Pedregosa, F. et al. (2011). Scikit-learn: Machine Learning in Python. <em>JMLR, 12</em>, 2825–2830.</li>
+        <li>INEGI / datos.gob.mx. (2024). <em>Catálogo de datos abiertos de salud</em>. <a href="https://datos.gob.mx/busca/dataset?tags=salud" target="_blank">datos.gob.mx</a></li>
+        <li>Géron, A. (2022). <em>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</em> (3ª ed.). O'Reilly.</li>
+        <li>Google. (2024). <em>Introducción a Google Colaboratory</em>. <a href="https://colab.research.google.com/notebooks/intro.ipynb" target="_blank">colab.research.google.com</a></li>
+      </ul>
+      <h3 style="font-size:.95rem;margin:12px 0 8px;">Fundamentos pedagógicos</h3>
+      <ul style="font-size:.88rem;">
+        <li>Anderson, L. W. et al. (2001). <em>A taxonomy for learning, teaching, and assessing</em>. Longman.</li>
+        <li>Vygotsky, L. S. (1978). <em>Mind in society: The development of higher psychological processes</em>. Harvard University Press.</li>
+        <li>Zimmerman, B. J. (2000). Self-regulated learning and academic achievement. <em>Educational Psychologist, 35</em>(1), 14–21.</li>
+        <li>Sweller, J. (1988). Cognitive load during problem solving. <em>Cognitive Science, 12</em>(2), 257–285.</li>
+      </ul>
+      <h3 style="font-size:.95rem;margin:12px 0 8px;">Documentos curriculares</h3>
+      <ul style="font-size:.88rem;">
+        <li>CONALEP. (2020). <em>Programa de Estudios — Aplicación de modelos predictivos (AMPR-20)</em>. SEP.</li>
+        <li>CONALEP. (2020). <em>Guía Pedagógica y de Evaluación — AMPR-20</em>. SEP.</li>
+      </ul>
+    </div>
+  </section>
+
+</div><!-- /wrapper -->
+
+
+<!-- ─── Footer institucional ──────────────────────────────────── -->
+<footer class="inst-footer">
+  <strong>CONALEP Nayarit — Plantel Tepic</strong><br>
+  P.T.B. en Ciencia de Datos e Inteligencia Artificial &nbsp;|&nbsp;
+  Módulo AMPR-20 — Aplicación de Modelos Predictivos &nbsp;|&nbsp;
+  Actividad de Evaluación 2.1.1 &nbsp;|&nbsp; Período 2.25.26<br>
+  <span style="font-size:.78rem;color:rgba(255,255,255,.5);display:block;margin-top:6px;">
+    Dr. Eligardo Cruz Sánchez
+  </span>
+</footer>
+
+
+<!-- ═══════════════════════════════════════════════════════════
+     SCRIPT — Barra de progreso con scroll
+     ═══════════════════════════════════════════════════════════ -->
+<script>
+  /* ── Scroll a fase ─────────────────────────────────────────── */
+  function scrollToPhase(id) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    const offset = document.querySelector('.progress-bar').offsetHeight + 12;
+    const top = el.getBoundingClientRect().top + window.pageYOffset - offset;
+    window.scrollTo({ top, behavior: 'smooth' });
+  }
+
+  /* ── Observador de secciones ───────────────────────────────── */
+  const phases = ['comprende','aplica','reflexiona','valida','profundiza'];
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const id = entry.target.id;
+        if (phases.includes(id)) {
+          phases.forEach(p => document.getElementById('btn-' + p).classList.remove('active'));
+          document.getElementById('btn-' + id).classList.add('active');
+        }
+      }
+    });
+  }, { rootMargin: '-30% 0px -60% 0px' });
+
+  phases.forEach(p => {
+    const el = document.getElementById(p);
+    if (el) observer.observe(el);
+  });
+
+  /* ── Marcar checklist al hacer clic ───────────────────────── */
+  document.querySelectorAll('.checklist li').forEach(li => {
+    li.style.cursor = 'pointer';
+    li.addEventListener('click', () => {
+      li.classList.toggle('checked');
+      if (li.classList.contains('checked')) {
+        li.style.opacity = '.55';
+        li.style.textDecoration = 'line-through';
+        li.style.background = 'var(--green-lite)';
+      } else {
+        li.style.opacity = '1';
+        li.style.textDecoration = 'none';
+        li.style.background = 'var(--bg)';
+      }
+    });
+  });
+</script>
+</body>
+</html>
