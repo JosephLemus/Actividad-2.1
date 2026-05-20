@@ -1,0 +1,1011 @@
+﻿id_paciente,fecha_consulta,municipio,tipo_unidad,tipo_seguro,edad,genero,peso_kg,talla_cm,imc,presion_sistolica,presion_diastolica,glucosa_mg_dl,colesterol_mg_dl,trigliceridos_mg_dl,hemoglobina_g_dl,diabetes_previa,hipertension_previa,cardiopatia_previa,fumador,consumo_alcohol,actividad_fisica,num_medicamentos_actuales,num_consultas_ano_prev,escolaridad,ocupacion,hospitalizacion
+NAY-00630,09-18-2024,Tepic,Clínica IMSS,Seguro Popular / Bienestar,36.0,F,76.6,172.0,25.9,125,81,64,160,,14.0,Sí,No,No,No,si,Sedentario,1,7,Primaria incompleta,Ama de casa,0
+NAY-00789,17/09/2024,Tepic,Hospital General,Seguro Popular / Bienestar,52.0,M,74.2,165.0,27.3,158,92,121,143,170,13.4,No,si,No,No,No,Moderado,2,7,Primaria completa,Agricultor/a,0
+NAY-00685,23/10/2023,Ruiz,Clínica IMSS,Sin seguro,19.0,Hombre,64.9,181.0,19.8,130,74,117,199,123,,No,NEGATIVO,No,Sí,NEGATIVO,Sedentario,2,11,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00517,14/04/2024,Tepic,Consultorio ISSSTE,Sin seguro,81.0,F,55.6,159.0,22.0,146,93,96,190,261,,No,Sí,No,No,Sí,Activo,6,5,Primaria completa,Profesionista,1
+NAY-00530,22-03-2023,Tepic,Unidad Médica Móvil,,85.0,M,,163.0,21.1,146,80,73,247,,14.0,No,Sí,Sí,No,Sí,Sedentario,4,2,Licenciatura,Empleado/a,1
+NAY-00658,09/03/2023,Tepic,Hospital General,Particular,60.0,M,,178.0,24.1,130,76,55,176,52,13.9,No,No,No,No,Sí,Sedentario,2,7,Preparatoria / Bachillerato,,0
+NAY-00553,02/07/2024,San Blas,Hospital General,Seguro Popular / Bienestar,77.0,Hombre,84.2,175.0,27.5,159,87,88,210,96,14.1,No,Sí,NEGATIVO,No,No,Activo,1,11,Primaria completa,Estudiante,1
+NAY-00532,06/10/2024,  Tuxpan  ,Consultorio ISSSTE,Seguro Popular / Bienestar,19.0,F,84.5,158.0,33.8,138,83,114,125,306,15.4,No,No,No,No,Sí,Moderado,0,6,Posgrado,Desempleado/a,0
+NAY-00322,10-29-2024,Bahía de Banderas,Consultorio ISSSTE,IMSS,14.0,f,57.1,167.0,20.5,103,75,104,187,205,13.1,No,No,No,No,Sí,Moderado,1,6,Sin escolaridad,Desempleado/a,0
+NAY-00071,24/09/2023,Tuxpan,Hospital General,Seguro Popular / Bienestar,74.0,Masculino,82.8,182.0,,141,86,108,204,255,15.2,No,Sí,No,No,No,Sedentario,0,4,Posgrado,Ama de casa,0
+NAY-00838,26/10/2024,Ruiz,Hospital General,IMSS,22.0,F,64.3,158.0,,126,76,116,?,102,9.9,No,No,No,No,si,Moderado,1,6,Secundaria,Agricultor/a,0
+NAY-00454,30/11/2023,Xalisco,Hospital General,IMSS,7.0,M,38.0,159.0,15.0,111,89,105,Sin dato,210,13.9,No,No,No,No,No,Sedentario,0,11,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00997,31/10/2023,San Blas,Clínica IMSS,ISSSTE,50.0,Femenino,67.8,145.0,32.2,143,98,170,230,115,12.1,Sí,Sí,No,No,No,Moderado,2,9,Preparatoria / Bachillerato,,0
+NAY-00669,18/05/2024,Santiago Ixcuintla,Unidad Médica Móvil,Particular,84.0,Femenino,56.3,160.0,22.0,164,83,107,242,202,11.3,NO,Sí,No,1,No,Sedentario,2,9,Secundaria,Profesionista,1
+NAY-00248,17/05/2024,Santiago Ixcuintla,Clínica IMSS,IMSS,41.0,M,78.6,175.0,25.7,138,79,106,187,111,13.3,no,No,No,No,No,Moderado,2,2,Secundaria,Estudiante,0
+NAY-00614,15/04/2023,Santiago Ixcuintla,Clínica IMSS,Seguro Popular / Bienestar,38.0,F,74.2,156.0,30.5,138,84,148,128,999,15.0,POSITIVO,No,No,No,NEGATIVO,Activo,1,11,Preparatoria / Bachillerato,Profesionista,0
+NAY-00845,05-10-2023,Tuxpan,Hospital General,Sin seguro,5.0,F,102.1,1.69,35.7,134,78,84,,65,11.4,No,No,No,No,No,Moderado,2,8,Secundaria,Ama de casa,0
+NAY-00705,2024-06-07,Tepic,Clínica IMSS,Sin seguro,200,M,83.5,168.0,29.6,141,79,128,226,50,12.5,Sí,True,0,No,No,Activo,0,1,Técnico,Comerciante,1
+NAY-00299,06-08-2024,Tuxpan,Unidad Médica Móvil,Sin seguro,29.0,F,74.0,151.0,32.5,136,96,118,272,89,,No,Sí,No,No,No,Sedentario,2,6,,Estudiante,0
+NAY-00102,02/07/2023,Bahía de Banderas,Clínica IMSS,ISSSTE,22.0,F,65.6,153.0,28.0,152,65,117,188,246,14.4,No,Sí,No,no,No,Moderado,1,8,Secundaria,Agricultor/a,0
+NAY-00903,08/12/2024,Ruiz,Centro de Salud Rural,IMSS,24.0,F,67.6,171.0,23.1,122,74,154,163,,13.3,No,No,No,No,No,Sedentario,0,9,Primaria completa,Jornalero/a,0
+NAY-00920,23/07/2023,Tepic,Clínica IMSS,Seguro Popular / Bienestar,60.0,f,61.7,165.0,22.7,140,83,100,143,285,17.0,No,No,No,No,Sí,Sedentario,5,6,Licenciatura,Desempleado/a,0
+NAY-00214,03/10/2023,  Bahía de Banderas  ,Centro de Salud Rural,Sin seguro,44.0,F,70.8,,28.0,134,70,118,305,221,13.7,No,No,No,Sí,No,Moderado,2,2,Preparatoria / Bachillerato,Profesionista,0
+NAY-00238,08/02/2024,Xalisco,Clínica IMSS,IMSS,42.0,M,108.2,169.0,,138,83,187,231,174,14.5,Sí,No,No,Sí,No,Moderado,0,8,Secundaria,Ama de casa,0
+NAY-00596,02/02/2024,Del Nayar,Consultorio ISSSTE,IMSS,74.0,M,83.2,173.0,27.8,156,75,86,196,307,,No,Sí,False,No,Sí,Sedentario,4,3,Técnico,Desempleado/a,1
+NAY-00282,05/03/2024,Compostela,Centro de Salud Rural,Particular,47.0,F,72.8,157.0,29.5,150/97,,95,238,150,15.1,No,Sí,No,No,No,Moderado,1,10,Preparatoria / Bachillerato,Agricultor/a,1
+NAY-00871,02/12/2024,Acaponeta,Consultorio ISSSTE,IMSS,44.0,M,62.4,185.0,18.2,145,81,84,227,,15.7,Sí,Sí,No,No,No,Moderado,,5,Técnico,Jubilado/a,0
+NAY-00287,29/06/2023,Ixtlán del Río,Clínica IMSS,Seguro Popular / Bienestar,19.0,femenino,77.6,163.0,29.2,108,77,123,133,,12.8,No,No,No,No,No,Activo,0,10,Licenciatura,Profesionista,0
+NAY-00923,15/11/2023,  Compostela  ,Centro de Salud Rural,ISSSTE,43.0,M,53.5,174.0,17.7,137,80,100,269,248,14.8,No,No,No,No,No,Moderado,0,4,Primaria incompleta,Desempleado/a,0
+NAY-00888,2023/12/23,Bahía de Banderas,Unidad Médica Móvil,ISSSTE,21.0,M,65.3,152.0,28.3,124,76,95,177,,15.4,No,No,No,No,No,Activo,2,0,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00465,30/07/2023,San Blas,Centro de Salud Rural,Sin seguro,5.0,F,56.9,148.0,,105,75,72,228,307,12.1,No,No,No,No,No,Sedentario,1,3,Primaria completa,Desempleado/a,0
+NAY-00797,22/09/2023,Bahía de Banderas,Centro de Salud Rural,Seguro Popular / Bienestar,89.0,M,79.6,156.0,32.7,148,108,163,189,50,13.5,1,True,No,No,No,Sedentario,5,8,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00097,11-08-2023,Huajicori,Consultorio ISSSTE,ISSSTE,25.0,F,39.8,161.0,15.4,123,80,88,169,239,12.4,No,no,No,Sí,No,Moderado,0,9,,Jornalero/a,No
+NAY-00245,2024/03/29,Acaponeta,Consultorio ISSSTE,Sin seguro,59.0,F,67.5,163.0,25.4,132,78,83,216,255,,No,0,No,No,No,Moderado,6,7,Primaria completa,,0
+NAY-00890,27/04/2023,Tepic,Hospital General,Sin seguro,28.0,M,85.5,174.0,28.2,130,85,83,200,148,12.0,No,No,No,No,No,Moderado,1,3,Secundaria,Estudiante,0
+NAY-00077,02/04/2023,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,33.0,F,54.6,152.0,23.6,120,70,102,191,94,12.1,0,NO,No,No,NO,Sedentario,2,0,Secundaria,Ama de casa,0
+NAY-00902,05-28-2024,Bahía de Banderas,Centro de Salud Rural,Sin seguro,8.0,M,61.0,173.0,20.4,134,70,84,,207,14.9,No,No,No,No,Sí,Sedentario,1,6,,Ama de casa,0
+NAY-00210,11-25-2024,Del Nayar,Consultorio ISSSTE,Sin seguro,72.0,M,65.2,171.0,22.3,151,80,96,237,253,13.9,NO,Sí,No,No,Sí,Sedentario,1,8,Técnico,Estudiante,1
+NAY-00260,30/11/2023,Del Nayar,Unidad Médica Móvil,IMSS,56.0,Hombre,56.3,172.0,19.0,141,82,96,197,195,15.0,No,Sí,No,No,No,Sedentario,1,4,Primaria incompleta,Comerciante,0
+NAY-00159,29/09/2023,Ixtlán del Río,Consultorio ISSSTE,Seguro Popular / Bienestar,48.0,F,55.7,177.0,17.8,133,90,96,142,289,13.3,No,No,No,No,No,Moderado,1,5,Primaria incompleta,Comerciante,0
+NAY-00740,28/03/2024,Tepic,Hospital General,Sin seguro,83.0,M,63.6,173.0,21.3,151,96,74,161,173,11.8,No,Sí,No,NEGATIVO,No,Moderado,5,6,Secundaria,Ama de casa,1
+NAY-00433,04-05-2024,Tepic,Hospital General,IMSS,76.0,M,59.1,151.0,25.9,170,78,70,171,176,16.5,No,Sí,No,No,No,Moderado,1,11,Técnico,Estudiante,0
+NAY-00332,11/10/2023,Ruiz,Centro de Salud Rural,Seguro Popular / Bienestar,37.0,F,63.7,140.0,32.5,136,81,78,223,50,11.7,No,Sí,No,No,No,Moderado,2,11,Primaria incompleta,Jornalero/a,0
+NAY-00957,10/06/2024,  Xalisco  ,Centro de Salud Rural,Sin seguro,39.0,M,64.6,,19.9,143/78,,91,130,50,13.9,No,Sí,No,No,Sí,Moderado,2,3,,Ama de casa,0
+NAY-00315,12/09/2024,Huajicori,Centro de Salud Rural,Seguro Popular / Bienestar,26.0,M,90.7,179.0,28.3,154,71,61,187,178,13.0,No,Sí,0,0,No,Sedentario,1,4,--,Estudiante,0
+NAY-00295,11/12/2023,Tepic,Clínica IMSS,IMSS,52.0,M,90.4,168.0,32.0,134,86,152,148,298,16.1,Sí,SI,No,Sí,No,Sedentario,0,4,Secundaria,Empleado/a,1
+NAY-00383,11/02/2024,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,87.0,FEMENINO,72.0,147.0,33.3,159,100,132,130,284,13.3,Sí,Sí,No,No,No,Sedentario,1,8,Sin escolaridad,Desempleado/a,1
+NAY-00389,25/12/2023,Rosamorada,Unidad Médica Móvil,Sin seguro,82.0,M,69.6,177.0,22.2,156,65,103,156,181,,No,Sí,no,No,No,Sedentario,0,5,Licenciatura,Estudiante,0
+NAY-00576,03/06/2023,  Bahía de Banderas  ,Clínica IMSS,ISSSTE,37.0,M,85.3,171.0,29.2,128,73,130,133,280,17.4,Sí,No,No,No,No,Moderado,1,10,Secundaria,Jornalero/a,1
+NAY-00880,27/02/2023,Tuxpan,Hospital General,IMSS,59.0,masculino,320,168.0,30.8,145,79,200,143,187,16.8,Sí,Sí,No,True,No,Sedentario,6,9,Preparatoria / Bachillerato,Jubilado/a,0
+NAY-00443,19/07/2023,Ixtlán del Río,Centro de Salud Rural,Seguro Popular / Bienestar,16.0,masculino,83.4,158.0,33.4,126,74,183,236,101,18.7,Sí,No,No,No,No,Sedentario,2,2,Primaria incompleta,Comerciante,1
+NAY-00722,2024/03/12,Ahuacatlán,Centro de Salud Rural,Sin seguro,86.0,H,78.3,171.0,26.8,163,94,86,191,95,11.8,No,Sí,No,0,No,Moderado,5,1,Preparatoria / Bachillerato,Profesionista,0
+NAY-00060,2023/05/02,  Compostela  ,Hospital General,ISSSTE,64.0,Fem,44.5,146.0,14.0,131,87,103,180,,14.1,No,Sí,No,No,No,Sedentario,4,7,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00679,01/12/2024,Ahuacatlán,Hospital General,Sin seguro,50.0,Hombre,79.5,162.0,30.3,139,112,158,200,336,14.1,Sí,Sí,No,0,No,Sedentario,2,11,Secundaria,Profesionista,1
+NAY-00371,09/08/2024,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,34.0,F,54.0,149.0,24.3,119,78,62,,127,10.0,No,No,0,No,No,Activo,1,5,Secundaria,Comerciante,0
+NAY-00483,14/11/2023,Xalisco,Unidad Médica Móvil,Seguro Popular / Bienestar,26.0,F,65.3,156.0,26.8,134/75,,117,145,146,12.9,No,No,No,No,No,Sedentario,1,7,Sin escolaridad,Comerciante,1
+NAY-00382,01/04/2023,  Ixtlán del Río  ,Centro de Salud Rural,IMSS,86.0,Fem,78.2,151.0,34.3,156/88,,55,185,146,13.8,No,Sí,No,Sí,No,Moderado,2,9,Primaria completa,Ama de casa,1
+NAY-00055,03/04/2024,Tepic,Consultorio ISSSTE,Sin seguro,48.0,MASCULINO,51.4,173.0,17.2,128,65,114,,50,14.3,NEGATIVO,Sí,No,No,No,Moderado,1,1,Secundaria,Profesionista,0
+NAY-00024,2023-04-05,Tepic,Consultorio ISSSTE,Sin seguro,85.0,F,64.6,160.0,62.8,168,105,118,200,,13.5,no,Sí,No,No,No,Moderado,4,8,Preparatoria / Bachillerato,Comerciante,0
+NAY-00031,19/02/2023,  Xalisco  ,Unidad Médica Móvil,IMSS,44.0,F,74.8,170.0,25.9,133,91,101,223,199,16.4,No,Sí,No,No,No,Activo,1,2,Preparatoria / Bachillerato,Comerciante,0
+NAY-00881,28-03-2023,  Tepic  ,Consultorio ISSSTE,Seguro Popular / Bienestar,12.0,M,95.7,154.0,40.4,127,72,185,227,95,13.2,Sí,No,No,No,No,Sedentario,2,6,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00431,28/10/2024,Tepic,Consultorio ISSSTE,IMSS,12.0,M,89.3,1.6,34.9,135,71,140,196,135,13.9,Sí,No,No,No,No,Activo,2,4,Licenciatura,Profesionista,0
+NAY-00011,2024-01-24,Bahía de Banderas,Centro de Salud Rural,ISSSTE,50.0,M,76.5,158.0,30.6,138,91,148,220,189,13.7,Sí,Sí,No,No,No,Activo,1,4,Posgrado,Agricultor/a,1
+NAY-00657,16/08/2024,Tepic,Centro de Salud Rural,Sin seguro,71.0,M,75.9,179.0,23.7,133,89,3.8,226,,11.4,No,No,No,No,No,Sedentario,5,2,Posgrado,Comerciante,0
+NAY-00814,03/08/2024,Rosamorada,Centro de Salud Rural,ISSSTE,29.0,M,87.7,,25.6,159,83,104,238,,,No,Sí,No,Sí,Sí,Moderado,0,8,Licenciatura,Jubilado/a,0
+NAY-00484,09/12/2024,Compostela,Clínica IMSS,ISSSTE,74.0,M,44.5,176.0,,114,88,127,156,193,14.3,No,Sí,No,No,no,Moderado,2,8,Primaria incompleta,Profesionista,0
+NAY-00544,2024-12-29,Ruiz,Consultorio ISSSTE,,20.0,F,46.4,161.0,,126,74,72,184,219,12.1,No,No,No,Sí,NO,Sedentario,0,10,Técnico,Comerciante,0
+NAY-00200,15/10/2023,Bahía de Banderas,Consultorio ISSSTE,Particular,88.0,M,76.8,170.0,26.6,157,77,109,N/A,189,14.4,No,Sí,Sí,No,No,Moderado,2,7,,Desempleado/a,1
+NAY-00502,10/09/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,61.0,H,66.0,181.0,20.1,125,98,102,--,150,12.0,No,Sí,No,No,No,Moderado,3,1,Posgrado,Profesionista,1
+NAY-00941,07/01/2024,Xalisco,Hospital General,IMSS,65.0,M,68.8,170.0,,154,88,78,135,83,16.7,No,Sí,No,No,No,Moderado,2,1,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00108,25/05/2023,Bahía de Banderas,Consultorio ISSSTE,IMSS,62.0,M,77.3,160.0,30.2,134,80,151,--,304,14.7,Sí,No,No,No,No,Moderado,3,10,,Agricultor/a,0
+NAY-00219,15/05/2023,  Rosamorada  ,Clínica IMSS,Particular,43.0,F,43.7,,19.2,133,85,3.8,143,242,11.2,No,No,No,No,No,Sedentario,0,2,Posgrado,Desempleado/a,0
+NAY-00926,07/09/2023,Del Nayar,Unidad Médica Móvil,ISSSTE,87.0,Masculino,66.4,167.0,23.8,174,89,109,169,90,15.6,No,Sí,No,No,No,Sedentario,,5,Preparatoria / Bachillerato,Jubilado/a,1
+NAY-00175,15/03/2024,Tepic,Hospital General,Seguro Popular / Bienestar,65.0,F,78.7,160.0,30.7,148,89,178,215,166,13.6,Sí,Sí,No,Sí,No,Sedentario,1,4,Primaria completa,Jubilado/a,1
+NAY-00724,22/12/2024,Bahía de Banderas,Clínica IMSS,Sin seguro,15.0,F,,179.0,22.4,116,78,126,,141,15.1,No,No,No,No,No,Sedentario,2,0,Sin escolaridad,Comerciante,0
+NAY-00882,2023-03-31,Bahía de Banderas,Clínica IMSS,Sin seguro,79.0,masculino,,179.0,22.6,141,94,98,,163,12.0,Sí,Sí,No,No,No,Activo,5,0,Secundaria,Agricultor/a,1
+NAY-00934,09-05-2024,Compostela,Centro de Salud Rural,Seguro Popular / Bienestar,61.0,M,79.3,163.0,29.8,145/91,,114,168,95,14.0,Sí,Sí,No,No,No,Activo,6,6,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00395,2023-10-30,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,67.0,Femenino,55.1,156.0,22.6,135,83,134,214,,13.6,Sí,0,No,Sí,No,Sedentario,4,8,Licenciatura,Ama de casa,1
+NAY-00040,2023-04-12,Santiago Ixcuintla,Consultorio ISSSTE,Sin seguro,59.0,femenino,79.8,154.0,33.6,139,106,68,155,50,13.0,Sí,Sí,No,SI,No,Sedentario,0,2,Licenciatura,Agricultor/a,1
+NAY-00834,01/03/2023,Tepic,Hospital General,IMSS,17.0,F,71.6,175.0,23.4,116,80,62,185,115,14.7,No,No,No,No,No,Sedentario,2,0,Técnico,Empleado/a,0
+NAY-00774,19/06/2023,Tepic,Hospital General,Sin seguro,67.0,Mujer,75.4,172.0,,164,82,55,233,141,13.9,No,Sí,Sí,POSITIVO,No,Moderado,,9,Sin escolaridad,,1
+NAY-00352,21/04/2023,Del Nayar,Consultorio ISSSTE,Sin seguro,8.0,M,47.4,168.0,16.8,118,69,133,138,120,13.8,No,Sí,No,NEGATIVO,No,Activo,2,6,Técnico,Estudiante,0
+NAY-00067,03/11/2023,  Huajicori  ,Centro de Salud Rural,Sin seguro,83.0,F,64.2,156.0,26.4,158,98,94,192,121,12.6,No,Sí,No,No,No,Sedentario,3,5,Preparatoria / Bachillerato,Comerciante,1
+NAY-00278,25/09/2023,Bahía de Banderas,Centro de Salud Rural,Sin seguro,73.0,M,72.3,182.0,13.1,153,95,125,176,50,16.5,No,Sí,No,No,No,Sedentario,4,4,Técnico,Jornalero/a,0
+NAY-00068,14-05-2024,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,37.0,M,72.6,159.0,,136,85,145,176,50,15.2,POSITIVO,No,No,Sí,no,Moderado,1,8,Licenciatura,Estudiante,0
+NAY-00911,15/11/2024,Bahía de Banderas,Clínica IMSS,Seguro Popular / Bienestar,72.0,f,61.9,163.0,58.4,153,93,110,210,,11.7,No,Sí,No,No,No,Sedentario,5,0,,Profesionista,0
+NAY-00440,23/11/2023,  Bahía de Banderas  ,Consultorio ISSSTE,ISSSTE,39.0,M,59.9,173.0,20.0,134,68,78,174,103,13.1,No,No,no,No,No,Sedentario,2,8,Técnico,Jubilado/a,1
+NAY-00737,2023-01-11,Del Nayar,Clínica IMSS,IMSS,68.0,M,72.5,172.0,24.5,154,83,67,228,161,15.5,No,Sí,No,No,Sí,Activo,4,1,Sin escolaridad,Agricultor/a,1
+NAY-00297,22/10/2024,Xalisco,Unidad Médica Móvil,Sin seguro,78.0,M,98.9,168.0,35.0,148,89,161,164,,15.3,Sí,Sí,No,No,No,Sedentario,0,7,ND,Jubilado/a,1
+NAY-00621,28/11/2024,Tuxpan,Hospital General,Seguro Popular / Bienestar,42.0,Mujer,59.4,151.0,26.1,126/92,,80,136,202,16.6,No,Sí,NO,NO,No,Moderado,2,1,Primaria completa,Estudiante,0
+NAY-00491,12/12/2023,Compostela,Hospital General,Particular,86.0,F,51.0,166.0,18.5,127,102,121,189,233,12.3,No,Sí,No,No,No,Sedentario,5,8,Preparatoria / Bachillerato,Comerciante,1
+NAY-00820,20/09/2024,Tepic,Hospital General,Sin seguro,91.0,F,60.2,172.0,20.3,132,100,92,235,272,14.3,No,Sí,No,True,No,Sedentario,3,2,Técnico,Jubilado/a,1
+NAY-00559,2023-04-13,Ahuacatlán,Hospital General,Sin seguro,73.0,F,69.5,150.0,30.9,162,84,202,,256,13.1,Sí,Sí,NEGATIVO,No,No,Activo,4,10,Sin escolaridad,Estudiante,1
+NAY-00425,09/06/2023,Tepic,Clínica IMSS,Seguro Popular / Bienestar,41.0,M,46.9,164.0,17.4,137/77,,105,,144,16.8,No,No,No,No,Sí,Activo,1,5,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00925,2024/08/04,Xalisco,Unidad Médica Móvil,ISSSTE,26.0,masculino,84.6,176.0,27.3,133,88,113,178,55,13.7,No,Sí,No,No,No,Moderado,1,10,Primaria completa,Profesionista,0
+NAY-00313,2023-06-03,Ixtlán del Río,Centro de Salud Rural,Seguro Popular / Bienestar,15.0,Femenino,,156.0,25.5,122/77,,91,177,285,16.2,No,No,No,No,No,Sedentario,1,9,Secundaria,Agricultor/a,0
+NAY-00185,18/05/2024,Tepic,Consultorio ISSSTE,IMSS,48.0,F,,158.0,33.0,153,81,158,225,188,12.0,Sí,Sí,No,No,Sí,Sedentario,0,6,Sin escolaridad,Comerciante,0
+NAY-00333,25/08/2024,Ixtlán del Río,Centro de Salud Rural,IMSS,31.0,MASCULINO,78.8,167.0,28.3,127,84,115,126,171,13.9,SI,No,No,Sí,Sí,Sedentario,1,3,Licenciatura,Comerciante,0
+NAY-00089,23/08/2023,Ixtlán del Río,Centro de Salud Rural,Particular,71.0,Hombre,82.7,164.0,30.7,154,67,170,,,13.2,Sí,Sí,No,No,No,Moderado,5,9,Licenciatura,Profesionista,1
+NAY-00064,15/04/2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,89.0,Femenino,43.4,159.0,17.2,159/94,,86,219,80,14.3,No,Sí,No,Sí,Sí,Activo,2,9,Primaria completa,Jubilado/a,Sí
+NAY-00835,02/11/2023,Tuxpan,Consultorio ISSSTE,ISSSTE,79.0,F,58.0,159.0,22.9,138,82,73,SIN DATO,270,16.0,No,No,No,Sí,No,Moderado,0,3,Técnico,Ama de casa,0
+NAY-00577,2023/03/12,Tepic,Consultorio ISSSTE,IMSS,999,f,66.7,163.0,25.1,150,95,66,155,166,10.2,No,Sí,No,Sí,No,Activo,3,4,,Jubilado/a,1
+NAY-00216,22/06/2024,Ixtlán del Río,Clínica IMSS,Seguro Popular / Bienestar,28.0,m,52.4,186.0,15.1,117,71,91,174,50,14.4,No,No,No,No,True,Sedentario,0,0,Primaria completa,Estudiante,NO
+NAY-00616,2023-11-09,Tepic,Consultorio ISSSTE,Sin seguro,60.0,m,57.0,163.0,,114,66,86,100,50,18.6,No,No,False,No,No,Moderado,3,6,Primaria completa,Ama de casa,0
+NAY-00514,19/12/2024,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,76.0,Fem,58.0,,29.6,151,88,72,114,285,9.3,Sí,si,No,No,No,Sedentario,0,4,Preparatoria / Bachillerato,Estudiante,1
+NAY-00291,2023-10-18,Tepic,Clínica IMSS,Seguro Popular / Bienestar,75.0,Masculino,64.2,168.0,22.7,151,94,59,185,138,14.5,No,Sí,No,No,No,Sedentario,4,4,Primaria incompleta,Comerciante,1
+NAY-00378,27/06/2024,Bahía de Banderas,Hospital General,Sin seguro,69.0,M,,169.0,25.0,138,83,87,180,,14.8,NO,No,No,No,No,Sedentario,5,4,,Desempleado/a,0
+NAY-00892,01-29-2024,San Blas,Clínica IMSS,ISSSTE,66.0,F,70.0,160.0,27.3,138,87,103,126,317,11.8,No,No,No,No,0,Moderado,0,1,,Jornalero/a,0
+NAY-00970,05/01/2025,Tepic,Clínica IMSS,IMSS,8.0,masculino,100.5,158.0,42.1,125,89,188,240,221,14.1,Sí,No,No,No,Sí,Sedentario,2,3,Licenciatura,Desempleado/a,0
+NAY-00947,04/11/2024,  Tuxpan  ,Centro de Salud Rural,IMSS,89.0,F,73.5,147.0,34.0,156,80,144,245,50,12.0,Sí,Sí,No,Sí,Sí,Sedentario,3,11,Primaria completa,Profesionista,1
+NAY-00787,11/02/2024,Santiago Ixcuintla,Unidad Médica Móvil,Seguro Popular / Bienestar,7.0,H,52.8,172.0,17.8,105,62,90,196,220,13.7,No,No,No,Sí,No,Moderado,1,6,Primaria completa,Agricultor/a,0
+NAY-00426,2024/06/11,  Bahía de Banderas  ,Consultorio ISSSTE,ISSSTE,22.0,m,78.7,170.0,27.2,142/80,,131,136,,16.5,Sí,Sí,No,No,No,Moderado,2,9,Técnico,Estudiante,0
+NAY-00697,25/03/2024,Bahía de Banderas,Hospital General,Particular,67.0,M,79.7,173.0,26.6,130,89,97,243,69,14.1,no,No,No,Sí,No,Sedentario,1,5,Sin escolaridad,Empleado/a,1
+NAY-00996,13-02-2024,Acaponeta,Clínica IMSS,ISSSTE,59.0,F,54.8,162.0,20.9,132,87,108,176,146,12.7,No,Sí,No,Sí,No,Moderado,4,11,Licenciatura,Ama de casa,1
+NAY-00310,09/08/2024,Rosamorada,Centro de Salud Rural,Seguro Popular / Bienestar,14.0,F,74.2,169.0,26.0,123/66,,95,123,193,9.9,Sí,No,No,No,No,Sedentario,0,3,Posgrado,Agricultor/a,INGRESADO
+NAY-00087,21/05/2023,Tuxpan,Hospital General,ISSSTE,13.0,M,50.1,183.0,15.0,132/73,,85,,247,15.5,No,No,No,No,No,Sedentario,1,6,Secundaria,Agricultor/a,0
+NAY-00732,04/02/2023,Ruiz,Consultorio ISSSTE,Sin seguro,41.0,Femenino,55.1,162.0,,140,72,56,,117,14.9,No,No,No,No,No,Sedentario,0,6,,Comerciante,0
+NAY-00756,29/05/2024,Tepic,Centro de Salud Rural,Particular,43.0,F,,153.0,30.2,135,72,156,177,,14.7,1,No,False,No,NEGATIVO,Sedentario,1,5,Secundaria,Ama de casa,0
+NAY-00311,26/09/2023,  Ixtlán del Río  ,Unidad Médica Móvil,IMSS,62.0,M,68.7,166.0,24.9,155,90,86,238,,,No,Sí,No,No,Sí,Sedentario,2,7,Secundaria,Desempleado/a,1
+NAY-00539,26/06/2024,Ruiz,Clínica IMSS,Seguro Popular / Bienestar,52.0,MASCULINO,67.6,165.0,,140,85,124,238,146,12.8,No,Sí,No,Sí,No,Sedentario,1,4,Secundaria,Agricultor/a,1
+NAY-00137,2024/05/07,Tuxpan,Unidad Médica Móvil,IMSS,57.0,F,79.9,155.0,33.3,144/86,,139,256,189,12.7,si,Sí,No,No,No,Sedentario,3,6,,Ama de casa,1
+NAY-00959,21/02/2024,Ahuacatlán,Clínica IMSS,Seguro Popular / Bienestar,89.0,F,66.6,156.0,27.4,175,90,109,106,175,16.9,No,SI,No,No,No,Sedentario,6,11,no aplica,Profesionista,0
+NAY-01000,04/05/2023,Tepic,Centro de Salud Rural,ISSSTE,49.0,F,74.3,164.0,27.6,148,84,128,246,91,11.4,Sí,Sí,NO,NO,No,Sedentario,1,9,Primaria completa,Ama de casa,0
+NAY-00729,27/07/2024,Bahía de Banderas,Consultorio ISSSTE,IMSS,47.0,F,60.7,159.0,24.0,153,76,5.0,192,103,12.4,No,Sí,No,No,no,Activo,0,0,Primaria incompleta,Jornalero/a,0
+NAY-00262,24-03-2023,San Blas,Unidad Médica Móvil,IMSS,19.0,Hombre,55.4,176.0,17.9,127/84,,141,164,257,,No,Sí,No,Sí,Sí,Moderado,2,4,Secundaria,,0
+NAY-00548,20/07/2024,Tepic,Unidad Médica Móvil,,56.0,F,77.7,161.0,,129,74,82,135,129,13.2,Sí,Sí,No,Sí,No,Moderado,4,8,Primaria completa,Agricultor/a,1
+NAY-00169,29/05/2024,Del Nayar,Consultorio ISSSTE,Seguro Popular / Bienestar,34.0,M,80.3,180.0,24.8,137/76,,91,,70,,No,No,No,No,No,Sedentario,0,10,Preparatoria / Bachillerato,Desempleado/a,INGRESADO
+NAY-00791,09/12/2024,San Blas,Hospital General,Seguro Popular / Bienestar,13.0,M,60.5,168.0,21.4,116,67,119,167,134,15.7,No,No,No,no,no,Sedentario,2,2,Secundaria,Profesionista,0
+NAY-00449,05/06/2023,Santiago Ixcuintla,Hospital General,IMSS,50.0,Femenino,50.6,154.0,21.3,142,83,85,148,152,11.9,No,Sí,No,No,No,Activo,0,11,Licenciatura,Jubilado/a,0
+NAY-00140,02/11/2024,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,42.0,f,77.5,171.0,26.5,131,93,89,130,213,17.0,No,Sí,No,No,No,Sedentario,0,8,Primaria incompleta,Agricultor/a,1
+NAY-00686,25/12/2024,Rosamorada,Unidad Médica Móvil,Sin seguro,74.0,F,69.5,159.0,27.5,145,86,5.9,172,104,14.7,No,Sí,No,No,No,Sedentario,3,6,Primaria completa,Profesionista,0
+NAY-00667,2024-04-26,Bahía de Banderas,Hospital General,Sin seguro,48.0,F,64.5,1.61,24.9,144,80,84,173,97,13.2,No,Sí,No,Sí,No,Sedentario,2,11,Licenciatura,Jornalero/a,0
+NAY-00858,25/02/2023,Xalisco,Unidad Médica Móvil,Seguro Popular / Bienestar,9.0,masculino,80.7,166.0,29.3,116,76,84,,50,14.2,No,No,No,NEGATIVO,No,Sedentario,2,0,Preparatoria / Bachillerato,Comerciante,1
+NAY-00519,03-02-2023,Santiago Ixcuintla,Clínica IMSS,Sin seguro,46.0,M,97.1,176.0,31.3,134,101,171,194,50,11.3,Sí,Sí,No,No,No,Activo,1,3,,Jubilado/a,1
+NAY-00788,2024/02/17,Compostela,Centro de Salud Rural,ISSSTE,64.0,M,64.6,174.0,21.3,137/89,,92,192,66,,False,No,No,No,No,Activo,2,0,Primaria incompleta,Jornalero/a,0
+NAY-00534,01-23-2023,  Ixtlán del Río  ,Centro de Salud Rural,Particular,29.0,F,93.7,153.0,,134,85,84,221,202,14.8,No,No,0,No,No,Moderado,,2,Primaria completa,Empleado/a,1
+NAY-00056,2025/01/06,Acaponeta,Centro de Salud Rural,ISSSTE,8.0,Masculino,77.9,168.0,,116,65,57,100,50,14.6,Sí,Sí,No,False,Sí,Moderado,1,2,Secundaria,Agricultor/a,0
+NAY-00121,14/01/2023,Tuxpan,Hospital General,Sin seguro,43.0,F,53.1,156.0,21.8,136,66,59,155,211,12.7,No,No,No,Sí,Sí,Moderado,1,3,,Empleado/a,0
+NAY-00531,25/01/2024,Xalisco,Centro de Salud Rural,Sin seguro,57.0,F,72.7,147.0,33.6,125/84,,146,211,216,,Sí,No,No,No,No,Sedentario,1,4,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00026,2024-06-17,Ahuacatlán,Unidad Médica Móvil,Seguro Popular / Bienestar,61.0,m,63.7,179.0,19.9,147,80,121,215,303,12.0,Sí,Sí,No,No,No,Moderado,1,1,Licenciatura,Agricultor/a,1
+NAY-00073,30/07/2023,Tepic,Clínica IMSS,Sin seguro,45.0,F,67.9,171.0,23.2,134,91,101,156,303,15.7,No,Sí,No,No,No,Activo,1,7,Sin escolaridad,Jornalero/a,False
+NAY-00045,04/01/2025,Ruiz,Consultorio ISSSTE,IMSS,10.0,M,72.0,171.0,24.6,120,77,72,195,,15.2,Sí,No,No,No,No,Sedentario,,1,Primaria completa,Estudiante,0
+NAY-00250,10-01-2024,Xalisco,Consultorio ISSSTE,IMSS,8.0,Fem,63.6,162.0,24.2,110,87,84,182,160,11.9,No,No,No,No,No,Activo,1,8,Primaria incompleta,Empleado/a,0
+NAY-00405,26/01/2024,  Bahía de Banderas  ,Unidad Médica Móvil,Particular,48.0,f,52.0,152.0,22.5,129,80,136,219,329,16.2,No,No,No,Sí,No,Moderado,1,10,Primaria completa,Comerciante,0
+NAY-00848,18/08/2023,Ahuacatlán,Clínica IMSS,Seguro Popular / Bienestar,9.0,M,75.2,187.0,,113,60,92,179,120,14.8,No,No,No,Sí,No,Sedentario,2,8,Primaria incompleta,Comerciante,0
+NAY-00704,16/01/2023,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,19.0,F,73.1,159.0,28.9,121,82,89,129,258,13.3,No,No,No,No,No,Sedentario,0,1,Primaria incompleta,Comerciante,1
+NAY-00919,2024/06/25,Xalisco,Unidad Médica Móvil,ISSSTE,27.0,F,53.4,156.0,21.9,129,67,135,,104,11.9,Sí,No,No,Sí,No,Sedentario,2,10,,Comerciante,AMBULATORIO
+NAY-00199,30/03/2024,Acaponeta,Consultorio ISSSTE,Particular,34.0,F,62.8,154.0,26.5,131,90,108,182,205,11.5,No,No,No,Sí,No,Sedentario,1,0,Posgrado,Jornalero/a,0
+NAY-00543,2023-12-16,Acaponeta,Consultorio ISSSTE,Sin seguro,21.0,FEMENINO,88.6,153.0,,141/77,,189,139,187,14.4,Sí,True,No,No,No,Sedentario,1,3,Técnico,Agricultor/a,0
+NAY-00356,28/03/2023,Del Nayar,Hospital General,IMSS,91.0,M,68.5,164.0,25.5,152,92,86,212,81,14.4,No,Sí,False,No,No,Moderado,6,6,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00324,01/09/2023,Tepic,Consultorio ISSSTE,ISSSTE,84.0,F,77.8,160.0,30.4,151,105,131,170,50,12.4,Sí,Sí,No,No,No,Moderado,4,6,Primaria completa,Estudiante,1
+NAY-00650,18/01/2024,Huajicori,Consultorio ISSSTE,Sin seguro,78.0,Femenino,55.2,162.0,,140,92,93,218,266,14.1,Sí,Sí,No,No,NEGATIVO,Activo,0,3,Primaria incompleta,Profesionista,1
+NAY-00917,10/10/2023,Tepic,Centro de Salud Rural,Particular,52.0,F,72.5,158.0,,123,77,81,205,115,,No,No,No,No,No,Moderado,,4,Primaria completa,Empleado/a,0
+NAY-00236,12/02/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,67.0,F,76.5,161.0,29.5,170,80,108,210,245,13.2,No,Sí,No,No,No,Activo,6,1,Primaria completa,Estudiante,0
+NAY-00581,2023-03-13,Ruiz,Hospital General,Sin seguro,13.0,H,87.9,171.0,30.1,145,79,121,243,,13.5,No,Sí,No,SI,No,Activo,1,11,Técnico,Desempleado/a,1
+NAY-00950,23/02/2023,Xalisco,Centro de Salud Rural,Sin seguro,29.0,M,67.5,156.0,27.7,123,82,64,206,172,14.2,No,No,No,No,No,Moderado,0,4,Primaria completa,Empleado/a,0
+NAY-00944,21/05/2023,  Rosamorada  ,Unidad Médica Móvil,Sin seguro,46.0,M,,182.0,19.7,119,74,108,140,,15.6,No,No,No,No,No,Sedentario,2,0,Preparatoria / Bachillerato,Estudiante,0
+NAY-00908,07/11/2024,Santiago Ixcuintla,Consultorio ISSSTE,Sin seguro,20.0,M,69.6,169.0,24.4,114,81,122,190,159,13.9,No,No,No,NO,No,Moderado,2,5,Secundaria,Jornalero/a,0
+NAY-00300,09/04/2024,Tepic,Unidad Médica Móvil,Sin seguro,6.0,FEMENINO,75.5,154.0,31.8,88,90,63,214,N/A,13.1,No,No,No,No,No,Moderado,1,5,Preparatoria / Bachillerato,Estudiante,0
+NAY-00061,06/09/2024,Huajicori,Hospital General,IMSS,85.0,M,,164.0,63.3,158,98,84,173,177,14.5,Sí,Sí,No,Sí,No,Sedentario,5,7,Primaria incompleta,Desempleado/a,1
+NAY-00328,06/08/2023,Acaponeta,Hospital General,Seguro Popular / Bienestar,8.0,M,52.7,,18.2,105,68,129,202,312,17.1,No,NO,No,Sí,No,Moderado,2,1,Secundaria,Ama de casa,0
+NAY-00932,04/07/2023,Rosamorada,Clínica IMSS,Sin seguro,65.0,f,,148.0,20.2,127,84,149,187,54,13.8,No,Sí,no,No,0,Moderado,3,2,Primaria completa,Ama de casa,1
+NAY-00602,2023/11/26,Huajicori,Hospital General,Sin seguro,72.0,M,99.1,179.0,30.9,142,85,102,165,160,12.4,No,Sí,No,No,NO,Moderado,3,4,Preparatoria / Bachillerato,Profesionista,1
+NAY-00448,2023/06/24,Santiago Ixcuintla,Unidad Médica Móvil,Sin seguro,88.0,F,65.2,151.0,28.6,148/93,,55,242,,14.2,No,Sí,Sí,No,0,Moderado,5,6,Licenciatura,,1
+NAY-00830,20/11/2024,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,7.0,M,52.9,173.0,31.8,105/81,,95,180,50,17.8,No,NO,No,No,No,Sedentario,2,7,Sin escolaridad,Profesionista,0
+NAY-00651,29/01/2024,Tepic,Unidad Médica Móvil,IMSS,47.0,M,80.5,174.0,26.6,134,76,106,283,,16.8,No,No,No,No,No,Moderado,2,8,Primaria completa,Agricultor/a,0
+NAY-00599,27/05/2023,Tuxpan,Unidad Médica Móvil,,59.0,F,56.9,,22.5,138,97,93,164,50,12.6,Sí,Sí,No,No,No,Moderado,0,3,Licenciatura,Agricultor/a,1
+NAY-00545,2024-07-04,Tuxpan,Centro de Salud Rural,IMSS,77.0,M,55.3,,16.9,115,80,119,227,182,14.8,0,no,No,Sí,No,Activo,3,9,Primaria completa,Empleado/a,0
+NAY-00785,01/12/2023,Tepic,Unidad Médica Móvil,Particular,46.0,F,70.8,165.0,26.0,152,74,95,239,128,12.2,No,Sí,No,No,No,Activo,2,3,Primaria completa,Jubilado/a,0
+NAY-00306,04/05/2023,Tepic,Unidad Médica Móvil,Sin seguro,17.0,M,73.0,,22.8,123,71,100,149,126,12.0,No,No,No,Sí,No,Moderado,2,11,Secundaria,Jubilado/a,0
+NAY-00319,24/07/2023,Ruiz,Consultorio ISSSTE,Sin seguro,86.0,FEMENINO,70.6,157.0,28.6,169,82,101,133,204,14.1,No,Sí,No,No,No,Moderado,0,7,--,Ama de casa,0
+NAY-00761,13/06/2023,Xalisco,Unidad Médica Móvil,Sin seguro,20.0,M,76.3,183.0,22.8,138,82,87,270,139,14.7,No,No,No,Sí,No,Activo,2,0,Secundaria,Comerciante,0
+NAY-00495,10/06/2023,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,30.0,F,39.5,,14.3,120,74,105,100,114,11.7,No,No,No,Sí,No,Moderado,0,4,Primaria incompleta,Comerciante,0
+NAY-00266,03/03/2023,Santiago Ixcuintla,Centro de Salud Rural,Particular,55.0,M,76.4,181.0,23.3,141,66,109,128,,9.9,No,Sí,No,No,NEGATIVO,Sedentario,6,0,Secundaria,Jubilado/a,0
+NAY-00111,07/10/2023,Bahía de Banderas,Clínica IMSS,Seguro Popular / Bienestar,29.0,F,92.3,157.0,37.4,144,78,55,230,250,13.4,No,Sí,No,No,No,Sedentario,1,0,Licenciatura,Profesionista,0
+NAY-00694,30/10/2023,Tuxpan,Unidad Médica Móvil,Sin seguro,87.0,F,63.4,,22.7,151,91,103,224,197,13.0,Sí,Sí,No,No,No,Sedentario,4,5,Secundaria,Desempleado/a,0
+NAY-00945,31/07/2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,16.0,M,62.9,169.0,22.0,119,98,68,180,202,14.7,No,Sí,No,No,No,Moderado,0,5,Preparatoria / Bachillerato,Jubilado/a,0
+NAY-00528,11-10-2023,Bahía de Banderas,Consultorio ISSSTE,IMSS,17.0,M,64.3,174.0,21.2,116,82,55,207,165,12.2,No,No,No,Sí,No,Moderado,2,1,Primaria incompleta,Empleado/a,0
+NAY-00257,08/07/2023,Tepic,Hospital General,Particular,63.0,H,66.8,176.0,21.6,141,82,83,128,207,13.3,No,Sí,No,NEGATIVO,No,Sedentario,2,10,Preparatoria / Bachillerato,Agricultor/a,1
+NAY-00261,2024-05-05,Xalisco,Clínica IMSS,ISSSTE,74.0,femenino,67.1,140.0,34.2,155,104,88,246,228,10.0,0,Sí,No,No,True,Moderado,0,1,Primaria incompleta,Jubilado/a,0
+NAY-00635,24/03/2024,Tuxpan,Hospital General,Sin seguro,20.0,F,86.9,162.0,,134/83,,88,225,122,15.2,NEGATIVO,Sí,No,No,POSITIVO,Activo,2,4,Secundaria,Agricultor/a,0
+NAY-00824,22/07/2024,Ruiz,Unidad Médica Móvil,ISSSTE,61.0,Femenino,80.7,164.0,30.0,134,88,59,179,87,13.7,No,No,No,No,No,Sedentario,2,2,Licenciatura,Ama de casa,0
+NAY-00430,04/03/2023,Tepic,Consultorio ISSSTE,ISSSTE,67.0,F,61.0,166.0,22.1,141,94,83,167,276,16.1,No,Sí,No,Sí,No,Moderado,,3,Técnico,Comerciante,1
+NAY-00631,12/12/2023,Tepic,Unidad Médica Móvil,,69.0,F,79.9,160.0,31.2,152,81,189,146,132,13.8,SI,Sí,0,No,No,Moderado,1,9,Preparatoria / Bachillerato,Profesionista,1
+NAY-00381,05/04/2023,Ixtlán del Río,Hospital General,Seguro Popular / Bienestar,5.0,m,66.8,159.0,26.4,112,89,55,186,128,14.8,No,no,NEGATIVO,No,Sí,Sedentario,2,7,Secundaria,Empleado/a,0
+NAY-00434,10/01/2023,Rosamorada,Clínica IMSS,IMSS,16.0,FEMENINO,57.0,152.0,,134,84,109,198,342,13.0,No,Sí,No,Sí,False,Activo,0,8,Primaria completa,Ama de casa,0
+NAY-00735,16/01/2023,Del Nayar,Unidad Médica Móvil,Seguro Popular / Bienestar,23.0,M,77.4,180.0,23.9,120,72,58,166,130,18.5,No,NO,No,No,No,Sedentario,1,2,Preparatoria / Bachillerato,Comerciante,0
+NAY-00138,07/12/2023,Tepic,Consultorio ISSSTE,ISSSTE,7.0,F,68.4,160.0,26.7,112/75,,106,178,153,11.7,No,No,No,No,No,Activo,0,7,Primaria incompleta,Estudiante,0
+NAY-00358,05/06/2023,Tepic,Consultorio ISSSTE,ISSSTE,82.0,F,74.4,157.0,30.2,152,92,99,195,80,12.0,No,Sí,No,No,No,Sedentario,6,1,Sin escolaridad,Profesionista,1
+NAY-00529,10/03/2023,Bahía de Banderas,Unidad Médica Móvil,ISSSTE,84.0,Femenino,67.7,155.0,,157,86,75,223,188,,No,Sí,No,No,No,Moderado,6,9,Técnico,Jornalero/a,1
+NAY-00222,2024-10-30,Del Nayar,Unidad Médica Móvil,IMSS,44.0,M,60.6,174.0,20.0,151,69,109,192,324,14.4,No,Sí,No,No,No,Activo,2,7,Primaria incompleta,Desempleado/a,0
+NAY-00757,08/06/2024,Tepic,Centro de Salud Rural,IMSS,69.0,F,,153.0,21.0,144,74,67,196,305,14.7,No,Sí,No,Sí,No,Moderado,0,8,Sin escolaridad,Empleado/a,0
+NAY-00597,20/07/2023,Ahuacatlán,Hospital General,ISSSTE,55.0,M,68.1,177.0,21.7,132,104,135,163,175,16.2,No,True,No,No,Sí,Activo,0,4,Posgrado,Empleado/a,0
+NAY-00560,17/08/2023,San Blas,Clínica IMSS,Sin seguro,79.0,F,40.5,164.0,15.1,143,87,84,187,259,,No,Sí,No,Sí,No,Moderado,3,4,Primaria completa,,0
+NAY-00364,20/03/2023,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,82.0,F,52.6,154.0,22.2,148,98,93,198,221,10.8,No,POSITIVO,No,No,No,Sedentario,4,7,Preparatoria / Bachillerato,Estudiante,1
+NAY-00526,29/08/2024,Ixtlán del Río,Clínica IMSS,Sin seguro,31.0,m,70.9,165.0,26.0,135/84,,121,,312,14.0,Sí,No,No,No,No,Sedentario,,6,Primaria completa,Empleado/a,0
+NAY-00209,21/05/2024,Tepic,Hospital General,IMSS,27.0,M,78.9,156.0,32.4,125,81,177,220,312,16.4,Sí,No,No,No,No,Moderado,0,3,Licenciatura,Agricultor/a,0
+NAY-00412,2024/11/29,Bahía de Banderas,Clínica IMSS,Particular,24.0,Mujer,56.9,159.0,22.5,149,87,124,204,60,16.0,No,Sí,No,no,Sí,Sedentario,0,2,,Jornalero/a,0
+NAY-00335,2024-11-07,Xalisco,Unidad Médica Móvil,Sin seguro,45.0,F,78.2,166.0,28.4,127,84,98,192,?,,No,NEGATIVO,No,No,False,Sedentario,2,8,Técnico,Ama de casa,0
+NAY-00211,2024-06-11,Huajicori,Consultorio ISSSTE,IMSS,27.0,F,73.3,140.0,37.4,129/82,,148,152,,11.7,Sí,No,No,Sí,Sí,Activo,1,0,Secundaria,Empleado/a,No
+NAY-00351,15/05/2023,Tepic,Hospital General,Sin seguro,51.0,M,47.7,172.0,16.1,152,84,85,169,184,19.0,No,Sí,No,No,No,Moderado,4,2,Secundaria,Agricultor/a,0
+NAY-00079,25/12/2023,Tepic,Consultorio ISSSTE,Sin seguro,54.0,F,72.4,,32.2,149,85,88,284,133,13.8,No,Sí,no,Sí,No,Activo,6,5,Posgrado,Desempleado/a,0
+NAY-00030,09/03/2024,Compostela,Hospital General,Seguro Popular / Bienestar,43.0,H,77.5,168.0,27.5,129,77,59,151,,,No,Sí,No,No,No,Moderado,0,3,Primaria incompleta,Agricultor/a,0
+NAY-00281,06/07/2024,Acaponeta,Clínica IMSS,Seguro Popular / Bienestar,28.0,M,69.6,157.0,28.2,137,70,104,264,147,17.3,No,No,No,No,No,Moderado,0,4,Licenciatura,Estudiante,0
+NAY-00586,03/05/2024,  Del Nayar  ,Centro de Salud Rural,IMSS,85.0,F,60.5,168.0,21.4,150,91,91,133,153,,No,Sí,NEGATIVO,No,No,Moderado,4,1,Técnico,Ama de casa,1
+NAY-00753,28/12/2024,Xalisco,Consultorio ISSSTE,Particular,12.0,M,93.1,174.0,30.8,134,80,164,189,340,12.7,Sí,Sí,no,Sí,No,Sedentario,1,3,Secundaria,Desempleado/a,0
+NAY-00781,16/12/2024,Rosamorada,Hospital General,IMSS,81.0,M,92.2,170.0,31.9,167,101,93,177,141,13.4,No,Sí,No,No,No,Moderado,5,8,Primaria incompleta,Desempleado/a,1
+NAY-00290,28/07/2023,Bahía de Banderas,Hospital General,IMSS,46.0,F,74.0,146.0,34.7,140/83,,93,212,217,10.1,No,No,No,No,No,Sedentario,0,1,Secundaria,Agricultor/a,0
+NAY-00166,2024/09/06,  Tepic  ,Centro de Salud Rural,Sin seguro,75.0,F,63.1,161.0,24.3,161,88,6.1,231,296,13.1,No,Sí,No,No,No,Activo,1,0,Sin escolaridad,Empleado/a,1
+NAY-00606,30/04/2024,Bahía de Banderas,Centro de Salud Rural,Particular,51.0,F,65.0,161.0,25.1,142,87,113,221,,12.6,No,True,No,No,Sí,Sedentario,1,3,Secundaria,,0
+NAY-00875,12/08/2024,Ixtlán del Río,Centro de Salud Rural,IMSS,65.0,F,65.7,166.0,23.8,127,85,112,200,148,15.8,No,No,No,True,No,Sedentario,5,5,Técnico,Desempleado/a,1
+NAY-00721,15/07/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,17.0,M,104.7,180.0,32.3,127,78,149,176,140,11.0,Sí,No,No,No,No,Moderado,0,3,no aplica,Estudiante,1
+NAY-00066,09/11/2024,Xalisco,Unidad Médica Móvil,ISSSTE,33.0,F,73.2,150.0,32.5,120,92,200,231,219,12.8,Sí,Sí,No,No,No,Sedentario,1,11,Secundaria,Profesionista,1
+NAY-00142,10/02/2023,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,23.0,F,81.9,,32.8,143,79,81,220,74,10.7,No,Sí,No,0,No,Activo,0,6,Sin escolaridad,Ama de casa,1
+NAY-00276,16-03-2023,Tuxpan,Hospital General,Seguro Popular / Bienestar,46.0,f,60.2,158.0,24.1,117,88,78,138,87,10.5,No,No,No,No,No,Sedentario,2,6,Secundaria,Agricultor/a,0
+NAY-00836,14/05/2023,Compostela,Unidad Médica Móvil,IMSS,72.0,F,72.4,168.0,23.1,129,91,102,217,183,12.7,NEGATIVO,SI,No,Sí,No,Moderado,6,9,Secundaria,Profesionista,1
+NAY-00656,2023-01-19,Tepic,Hospital General,IMSS,51.0,m,71.4,,26.2,153/83,,78,168,186,13.1,No,Sí,No,Sí,No,Sedentario,2,4,Primaria completa,Ama de casa,0
+NAY-00466,26/10/2024,Compostela,Clínica IMSS,IMSS,89.0,F,75.8,166.0,27.5,147/85,,109,no aplica,216,12.3,No,Sí,No,No,No,Sedentario,2,10,Técnico,Empleado/a,1
+NAY-00671,15/03/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,87.0,m,76.4,178.0,,152,91,97,215,50,14.1,No,Sí,No,No,No,Activo,6,2,Licenciatura,Desempleado/a,0
+NAY-00320,09/05/2023,Acaponeta,Unidad Médica Móvil,IMSS,71.0,M,95.5,155.0,39.8,150,106,154,125,149,16.8,Sí,Sí,no,Sí,No,Sedentario,0,10,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00399,04/02/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,29.0,M,80.5,167.0,28.9,142,99,86,166,74,14.7,No,True,No,Sí,NO,Sedentario,1,5,Técnico,Desempleado/a,1
+NAY-00307,08/08/2024,San Blas,Clínica IMSS,IMSS,31.0,F,43.1,151.0,18.9,120,93,104,184,193,13.7,No,Sí,No,No,No,Moderado,0,9,Secundaria,,0
+NAY-00308,12/02/2023,Xalisco,Clínica IMSS,Sin seguro,53.0,M,86.8,174.0,28.7,158,85,98,,239,15.6,no,Sí,No,No,No,Sedentario,2,6,Técnico,Empleado/a,0
+NAY-00829,11/06/2023,Tepic,Consultorio ISSSTE,Sin seguro,80.0,M,88.6,169.0,31.0,155/87,,114,183,279,13.9,No,Sí,NEGATIVO,No,No,Sedentario,6,11,Primaria completa,Ama de casa,1
+NAY-00334,11/09/2024,Tuxpan,Hospital General,Seguro Popular / Bienestar,77.0,F,58.8,157.0,23.9,160,83,102,127,170,12.8,No,Sí,No,NO,No,Moderado,4,10,Secundaria,Profesionista,1
+NAY-00050,12/03/2024,Tepic,Centro de Salud Rural,ISSSTE,72.0,M,76.9,162.0,29.3,154,93,89,,230,15.8,No,Sí,Sí,No,No,Sedentario,3,2,Secundaria,Agricultor/a,0
+NAY-00826,22/09/2023,Del Nayar,Unidad Médica Móvil,Sin seguro,12.0,F,77.1,161.0,30.3,110,82,98,201,N/A,14.1,Sí,No,No,Sí,0,Sedentario,1,9,Técnico,Profesionista,NO
+NAY-00003,15/03/2024,Bahía de Banderas,Clínica IMSS,Seguro Popular / Bienestar,61.0,f,63.1,166.0,22.9,131,83,68,200,,13.5,No,No,No,Sí,No,Sedentario,6,8,Preparatoria / Bachillerato,Comerciante,1
+NAY-00549,03/10/2024,Ahuacatlán,Clínica IMSS,IMSS,49.0,F,61.8,152.0,26.7,136,81,55,131,98,14.1,POSITIVO,NEGATIVO,No,No,No,Sedentario,1,0,Técnico,Estudiante,0
+NAY-00353,09-09-2024,Ruiz,Clínica IMSS,Sin seguro,30.0,Fem,60.0,158.0,24.0,134,80,103,131,153,12.1,No,No,No,Sí,No,Moderado,1,2,Técnico,Estudiante,0
+NAY-00913,28/12/2024,Ruiz,Hospital General,IMSS,37.0,F,47.3,158.0,18.9,123,68,90,143,60,,False,Sí,No,False,No,Sedentario,1,3,Primaria incompleta,Profesionista,0
+NAY-00952,05/03/2023,Santiago Ixcuintla,Unidad Médica Móvil,ISSSTE,0,F,40.7,167.0,14.6,123,69,5.7,200,193,12.6,No,No,No,Sí,no,Moderado,0,6,Secundaria,Estudiante,0
+NAY-00347,12/05/2024,San Blas,Unidad Médica Móvil,Seguro Popular / Bienestar,91.0,M,81.7,163.0,30.8,150,103,90,180,,14.9,No,Sí,No,Sí,SI,Moderado,0,0,,Profesionista,0
+NAY-00041,20/04/2023,  Ahuacatlán  ,Centro de Salud Rural,Sin seguro,19.0,F,71.6,148.0,32.7,123,90,177,118,205,14.4,Sí,No,No,No,No,Moderado,1,8,Secundaria,,0
+NAY-00825,2023-10-19,  Bahía de Banderas  ,Consultorio ISSSTE,Seguro Popular / Bienestar,59.0,Hombre,81.4,1.67,29.2,147,75,123,244,151,10.7,No,Sí,No,No,No,Sedentario,0,11,Secundaria,Ama de casa,0
+NAY-00582,30/10/2023,Tepic,Clínica IMSS,Seguro Popular / Bienestar,77.0,F,63.6,152.0,27.5,151,99,120,254,190,15.1,No,Sí,No,No,No,Sedentario,6,1,Técnico,Jubilado/a,1
+NAY-00034,2023/12/24,Tepic,Unidad Médica Móvil,IMSS,53.0,F,55.9,151.0,24.5,133,84,109,199,150,13.4,No,No,No,No,0,Moderado,4,11,Licenciatura,Desempleado/a,0
+NAY-00032,24/09/2024,Santiago Ixcuintla,Consultorio ISSSTE,Sin seguro,24.0,femenino,56.6,152.0,24.5,102,75,136,194,169,11.9,No,No,No,No,No,Moderado,2,0,Licenciatura,Estudiante,0
+NAY-00232,29/07/2024,  Bahía de Banderas  ,Consultorio ISSSTE,Seguro Popular / Bienestar,79.0,masculino,53.0,169.0,18.6,143,91,89,235,116,15.7,No,Sí,Sí,No,False,Moderado,2,6,Primaria completa,Comerciante,1
+NAY-00755,15/04/2024,Rosamorada,Hospital General,Seguro Popular / Bienestar,53.0,masculino,62.9,,18.7,145,76,67,207,81,13.1,No,Sí,No,No,No,Moderado,0,8,Primaria incompleta,Ama de casa,0
+NAY-00193,07/11/2024,Xalisco,Clínica IMSS,Particular,57.0,M,82.5,177.0,26.3,149,79,96,223,135,13.8,False,Sí,NO,0,No,Activo,5,10,Preparatoria / Bachillerato,Ama de casa,1
+NAY-00515,2025-01-05,Compostela,Centro de Salud Rural,ISSSTE,88.0,MASCULINO,56.2,165.0,20.6,165,101,73,189,298,14.6,No,Sí,No,Sí,No,Activo,4,9,Técnico,Ama de casa,1
+NAY-00004,09/10/2023,Tuxpan,Consultorio ISSSTE,Seguro Popular / Bienestar,43.0,F,50.7,154.0,21.4,131,87,90,261,202,17.0,No,No,No,No,No,Activo,,3,Preparatoria / Bachillerato,Estudiante,0
+NAY-00205,27-07-2024,Acaponeta,Unidad Médica Móvil,Seguro Popular / Bienestar,44.0,m,91.7,169.0,32.1,149,79,118,174,118,12.1,No,Sí,No,No,No,Sedentario,2,5,Licenciatura,Profesionista,0
+NAY-00540,01/03/2023,Tepic,Clínica IMSS,Sin seguro,6.0,Masculino,106.0,160.0,41.4,114,84,150,188,219,12.0,Sí,No,No,0,No,Activo,0,0,Secundaria,,1
+NAY-00663,2023/05/10,Del Nayar,Centro de Salud Rural,Sin seguro,8.0,Fem,73.3,156.0,30.1,131,64,119,165,140,8.7,No,No,No,No,Sí,Sedentario,,9,Licenciatura,Desempleado/a,1
+NAY-00989,2024/02/25,Huajicori,Clínica IMSS,Seguro Popular / Bienestar,26.0,Femenino,58.5,167.0,21.0,120,87,78,222,50,,No,No,No,No,No,Moderado,2,3,Primaria completa,Jubilado/a,0
+NAY-00110,18/01/2023,Xalisco,Hospital General,Sin seguro,66.0,M,52.8,177.0,16.9,142,74,81,,219,15.9,No,1,No,Sí,No,Activo,2,11,Técnico,Profesionista,1
+NAY-00603,28/02/2023,San Blas,Centro de Salud Rural,Particular,69.0,Mujer,94.7,151.0,26.5,158,98,191,111,407,12.7,Sí,Sí,No,No,No,Sedentario,5,11,Primaria incompleta,Estudiante,1
+NAY-00078,20/02/2023,Ahuacatlán,Hospital General,Sin seguro,24.0,F,45.5,160.0,17.8,99,67,136,219,152,13.3,No,No,No,Sí,Sí,Activo,1,7,Secundaria,Estudiante,0
+NAY-00085,07/02/2024,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,59.0,femenino,64.5,162.0,24.6,141,82,125,174,148,15.7,No,Sí,No,No,No,Sedentario,2,11,Primaria incompleta,Profesionista,0
+NAY-00527,11/09/2024,Santiago Ixcuintla,Hospital General,IMSS,85.0,F,67.5,161.0,,152,82,82,225,315,12.4,No,Sí,No,Sí,No,Moderado,5,8,Primaria incompleta,Jubilado/a,0
+NAY-00083,06-13-2024,Huajicori,Hospital General,Sin seguro,18.0,Masculino,78.3,1.69,27.4,131,84,90,195,,16.9,No,POSITIVO,No,No,False,Moderado,0,9,Secundaria,Estudiante,0
+NAY-00255,01/06/2024,San Blas,Consultorio ISSSTE,ISSSTE,62.0,Mujer,63.3,154.0,26.7,129,79,80,220,212,12.6,False,NEGATIVO,No,No,No,Moderado,4,1,,Comerciante,0
+NAY-00765,2024/02/22,Ahuacatlán,Clínica IMSS,Sin seguro,36.0,F,68.1,165.0,25.0,131,75,90,183,338,15.1,Sí,no,No,Sí,No,Sedentario,2,1,Secundaria,Agricultor/a,0
+NAY-00429,06/02/2024,Ahuacatlán,Centro de Salud Rural,Sin seguro,7.0,F,60.2,157.0,24.4,127,75,130,,111,15.3,No,No,No,No,No,Sedentario,1,5,--,Profesionista,0
+NAY-00916,20/02/2024,Bahía de Banderas,Unidad Médica Móvil,IMSS,44.0,F,57.7,164.0,21.5,134,76,103,219,,9.9,No,No,No,No,No,Sedentario,,2,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00524,11/08/2023,Tepic,Hospital General,Sin seguro,76.0,F,68.1,171.0,,155,79,99,195,88,12.7,No,Sí,No,No,No,Moderado,5,5,Preparatoria / Bachillerato,Jubilado/a,1
+NAY-00468,27/11/2023,Ixtlán del Río,Hospital General,Seguro Popular / Bienestar,56.0,M,60.8,159.0,24.0,149,83,85,,,,No,Sí,No,No,No,Moderado,5,3,Licenciatura,,0
+NAY-00645,08/03/2023,Tepic,Hospital General,IMSS,72.0,M,71.1,167.0,,151/87,,78,,212,14.6,No,Sí,No,No,No,Activo,4,4,Primaria incompleta,Jubilado/a,0
+NAY-00006,10/12/2024,Tepic,Centro de Salud Rural,Sin seguro,79.0,Fem,55.7,162.0,,153,78,107,265,190,12.9,No,Sí,No,No,No,Sedentario,6,3,ND,Agricultor/a,False
+NAY-00406,02-22-2024,  Santiago Ixcuintla  ,Hospital General,Sin seguro,48.0,F,49.9,159.0,19.7,117,85,95,199,76,11.9,Sí,Sí,No,No,No,Activo,0,2,Primaria incompleta,Jornalero/a,0
+NAY-00469,29/06/2023,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,20.0,F,48.8,168.0,,125,69,89,195,168,14.9,Sí,No,No,Sí,No,Sedentario,2,2,Primaria completa,Jornalero/a,0
+NAY-00098,2024-12-11,Tepic,Unidad Médica Móvil,IMSS,64.0,F,,161.0,29.0,151,86,6.3,999,121,13.2,No,Sí,No,No,No,Sedentario,2,5,Secundaria,Ama de casa,0
+NAY-00927,2024/08/28,  Compostela  ,Unidad Médica Móvil,IMSS,52.0,Masculino,52.5,168.0,18.6,149,87,100,133,,16.6,No,Sí,No,No,No,Sedentario,6,10,,Jornalero/a,0
+NAY-00360,08-09-2023,Tepic,Unidad Médica Móvil,,70.0,F,75.1,148.0,34.3,155,86,196,154,133,,Sí,True,False,No,No,Moderado,1,8,Primaria completa,Desempleado/a,1
+NAY-00877,22/03/2023,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,51.0,F,62.0,164.0,23.1,141,97,97,168,87,,No,Sí,No,Sí,1,Activo,1,3,Primaria completa,Desempleado/a,0
+NAY-00267,23/01/2024,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,43.0,MASCULINO,61.8,172.0,20.9,115/90,,121,189,180,13.9,No,No,No,No,No,Sedentario,1,7,Secundaria,Empleado/a,0
+NAY-00423,14/01/2023,Xalisco,Hospital General,Seguro Popular / Bienestar,71.0,Femenino,74.0,154.0,31.2,150,96,142,171,,11.4,Sí,Sí,No,Sí,no,Moderado,0,10,Licenciatura,Profesionista,1
+NAY-00463,21/07/2023,Tepic,Hospital General,IMSS,70.0,M,48.1,161.0,18.6,170,84,113,159,139,,No,Sí,No,Sí,No,Moderado,5,0,Sin escolaridad,Jubilado/a,0
+NAY-00696,14/07/2023,Bahía de Banderas,Centro de Salud Rural,ISSSTE,27.0,M,83.4,166.0,30.3,151,88,99,234,176,,No,Sí,No,No,NO,Moderado,0,3,Secundaria,Ama de casa,0
+NAY-00974,05/05/2024,Xalisco,Consultorio ISSSTE,IMSS,46.0,F,66.3,165.0,24.4,151,89,75,170,257,14.4,Sí,Sí,no,No,No,Moderado,0,11,Secundaria,Desempleado/a,0
+NAY-00494,29/05/2024,Tepic,Consultorio ISSSTE,Sin seguro,57.0,M,65.8,167.0,23.6,144,90,112,234,256,14.2,No,Sí,No,No,No,Moderado,3,9,Secundaria,Comerciante,0
+NAY-00119,24/12/2023,Xalisco,Unidad Médica Móvil,ISSSTE,26.0,M,,,14.5,112,62,128,181,152,14.5,no,No,No,No,No,Activo,0,5,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00972,20/03/2024,Tepic,Consultorio ISSSTE,Sin seguro,41.0,Masculino,89.4,157.0,,142,97,149,,192,14.2,Sí,Sí,No,No,No,Sedentario,0,3,Secundaria,Estudiante,1
+NAY-00251,09/04/2024,Rosamorada,Clínica IMSS,IMSS,20.0,M,66.9,174.0,22.1,131,86,68,,179,14.3,No,Sí,No,No,si,Moderado,2,2,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00343,12/06/2023,  San Blas  ,Centro de Salud Rural,Sin seguro,59.0,F,75.5,158.0,30.2,152,86,134,210,124,11.9,Sí,True,No,No,No,Sedentario,3,4,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00010,28/03/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,13.0,MASCULINO,50.3,177.0,16.1,125,85,106,132,144,12.8,No,No,No,0,No,Sedentario,1,4,Técnico,Jornalero/a,0
+NAY-00197,03/04/2023,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,34.0,Mujer,68.2,152.0,29.5,114,79,72,177,208,14.1,No,No,No,Sí,No,Moderado,1,8,Sin escolaridad,Empleado/a,0
+NAY-00742,17/08/2023,  Santiago Ixcuintla  ,Centro de Salud Rural,Seguro Popular / Bienestar,71.0,M,72.5,154.0,30.6,142,96,72,234,131,14.6,No,Sí,Sí,No,Sí,Sedentario,5,2,Primaria incompleta,Comerciante,1
+NAY-00082,05/09/2024,Tepic,Hospital General,Seguro Popular / Bienestar,43.0,f,69.9,160.0,27.3,139,88,78,171,61,14.4,NO,No,No,No,No,Sedentario,2,3,Posgrado,Estudiante,0
+NAY-00949,10-21-2024,Ruiz,Unidad Médica Móvil,Particular,87.0,F,70.9,150.0,31.5,147,71,180,234,250,12.9,Sí,Sí,No,Sí,No,Activo,2,11,Secundaria,Empleado/a,1
+NAY-00480,15/10/2024,Del Nayar,Clínica IMSS,ISSSTE,14.0,M,63.8,182.0,19.3,124,74,72,140,324,17.3,No,No,No,No,No,Sedentario,1,6,Licenciatura,Jornalero/a,0
+NAY-00626,2023/06/21,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,25.0,F,73.9,167.0,26.5,113,79,102,,280,10.4,No,No,No,No,No,Moderado,1,5,Secundaria,Desempleado/a,0
+NAY-00240,16/06/2023,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,59.0,M,77.9,1.6,30.4,126,95,166,260,312,14.1,Sí,Sí,No,Sí,No,Moderado,3,2,Secundaria,Desempleado/a,0
+NAY-00293,26/07/2024,San Blas,Unidad Médica Móvil,Sin seguro,87.0,masculino,65.8,169.0,23.0,164,84,134,222,160,14.8,No,Sí,No,No,No,Moderado,1,5,Secundaria,Comerciante,1
+NAY-00212,28/09/2023,Huajicori,Clínica IMSS,ISSSTE,67.0,F,82.2,155.0,14.4,155,94,189,,127,17.0,Sí,Sí,No,No,No,Sedentario,3,7,Licenciatura,Profesionista,1
+NAY-00901,03/02/2023,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,5.0,M,97.0,173.0,,132,73,107,123,116,14.8,No,No,No,No,No,Sedentario,1,11,Secundaria,Ama de casa,0
+NAY-00362,2024-09-12,Del Nayar,Clínica IMSS,Sin seguro,82.0,f,68.6,153.0,29.3,141/84,,103,145,325,12.8,No,Sí,No,NEGATIVO,NEGATIVO,Moderado,4,7,Primaria incompleta,Jubilado/a,0
+NAY-00533,2023-10-19,Acaponeta,Consultorio ISSSTE,Sin seguro,18.0,F,64.3,,27.1,127,76,86,175,50,13.2,No,Sí,No,Sí,No,Sedentario,,8,Preparatoria / Bachillerato,Profesionista,0
+NAY-00228,16/06/2024,Ixtlán del Río,Consultorio ISSSTE,Sin seguro,55.0,H,78.5,173.0,26.2,154,76,84,117,128,,No,True,No,No,No,Moderado,0,7,Licenciatura,Profesionista,0
+NAY-00865,29/07/2023,Tepic,Clínica IMSS,ISSSTE,78.0,M,41.6,163.0,,147/97,,138,236,181,15.5,No,Sí,No,No,No,Sedentario,5,4,Licenciatura,Ama de casa,1
+NAY-00363,17/05/2023,Tuxpan,Hospital General,Seguro Popular / Bienestar,24.0,F,73.1,168.0,,128,98,89,163,164,14.3,No,Sí,No,0,No,Activo,1,0,Técnico,Estudiante,0
+NAY-00853,2023-10-20,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,88.0,M,94.2,170.0,,160/94,,177,,114,16.7,Sí,Sí,No,True,No,Activo,2,2,Primaria completa,Jornalero/a,1
+NAY-00955,04/05/2023,  Ahuacatlán  ,Clínica IMSS,Sin seguro,73.0,M,90.5,169.0,,136,77,166,190,,12.5,Sí,No,No,No,Sí,Sedentario,1,5,Secundaria,Desempleado/a,1
+NAY-00965,02/02/2023,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,87.0,F,98.8,163.0,37.2,161,97,138,153,186,14.3,Sí,Sí,No,No,No,Moderado,2,8,,Desempleado/a,1
+NAY-00366,14/10/2024,  Acaponeta  ,Clínica IMSS,,50.0,FEMENINO,63.6,1.53,27.2,144,94,72,311,,,No,Sí,No,No,No,Sedentario,0,5,Posgrado,Estudiante,1
+NAY-00771,2023-11-18,Compostela,Centro de Salud Rural,Sin seguro,61.0,Femenino,59.6,164.0,22.2,141,82,104,,,13.3,No,Sí,Sí,Sí,No,Sedentario,4,8,Licenciatura,Estudiante,1
+NAY-00860,20/07/2023,Tepic,Hospital General,Sin seguro,74.0,m,71.2,194.0,18.9,154,84,55,210,355,16.7,No,Sí,No,Sí,No,Sedentario,5,7,Sin escolaridad,Jubilado/a,1
+NAY-00372,09/12/2023,Ahuacatlán,Clínica IMSS,,62.0,M,75.8,187.0,,143,87,93,227,78,10.5,No,Sí,No,No,No,Moderado,6,11,Primaria incompleta,Empleado/a,1
+NAY-00008,13/07/2023,Ruiz,Clínica IMSS,Seguro Popular / Bienestar,65.0,F,80.9,156.0,33.2,164,91,174,142,188,10.9,Sí,Sí,No,No,No,Moderado,5,11,?,Agricultor/a,1
+NAY-00156,06/10/2024,  Del Nayar  ,Centro de Salud Rural,IMSS,62.0,Masculino,,1.77,26.3,140,91,88,269,219,14.7,NO,Sí,No,No,No,Sedentario,6,1,Sin escolaridad,Estudiante,1
+NAY-00546,17/09/2024,Xalisco,Centro de Salud Rural,Seguro Popular / Bienestar,9.0,M,90.7,168.0,32.1,129,84,65,,95,13.1,no,No,No,No,Sí,Moderado,2,3,Licenciatura,Ama de casa,0
+NAY-00808,04/03/2024,San Blas,Clínica IMSS,Seguro Popular / Bienestar,14.0,F,64.5,144.0,64.9,136,84,93,212,50,13.9,No,No,No,Sí,No,Sedentario,1,5,,Desempleado/a,1
+NAY-00486,2023/08/11,Compostela,Hospital General,Seguro Popular / Bienestar,25.0,F,67.7,171.0,23.2,107,88,130,191,,8.2,No,No,No,Sí,Sí,Sedentario,0,6,Técnico,Profesionista,0
+NAY-00585,02/04/2023,Bahía de Banderas,Clínica IMSS,Sin seguro,40.0,Femenino,67.4,,33.0,146,81,119,181,,11.7,No,Sí,No,No,No,Moderado,1,6,Licenciatura,Ama de casa,1
+NAY-00786,28/06/2024,Bahía de Banderas,Clínica IMSS,IMSS,56.0,F,69.0,159.0,27.3,154,89,85,106,50,14.8,No,Sí,NO,No,No,Activo,5,9,Licenciatura,Empleado/a,1
+NAY-00571,17/04/2023,Ixtlán del Río,Clínica IMSS,IMSS,87.0,F,63.8,166.0,23.2,157,89,5.3,207,,14.4,No,Sí,No,No,Sí,Sedentario,5,4,Preparatoria / Bachillerato,Profesionista,1
+NAY-00478,10/01/2023,Ahuacatlán,Hospital General,Sin seguro,6.0,M,58.7,174.0,44.1,122,69,122,225,124,16.1,No,No,no,Sí,NO,Moderado,0,8,Técnico,Desempleado/a,0
+NAY-00583,02-23-2024,Ahuacatlán,Centro de Salud Rural,Sin seguro,14.0,Mujer,54.3,161.0,20.9,105/58,,72,214,242,11.7,no,No,No,Sí,NEGATIVO,Activo,2,8,Secundaria,Jubilado/a,0
+NAY-00943,21/08/2024,Ahuacatlán,Hospital General,IMSS,84.0,Hombre,78.9,1.65,29.0,155,80,84,185,,11.6,si,Sí,No,No,No,Sedentario,4,8,,Estudiante,1
+NAY-00698,23/12/2024,Santiago Ixcuintla,Consultorio ISSSTE,Particular,56.0,F,61.8,,23.8,136,87,129,206,ND,12.2,No,No,No,Sí,No,Activo,1,7,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00833,05-07-2023,  Xalisco  ,Clínica IMSS,ISSSTE,44.0,f,59.1,160.0,23.1,135,80,61,233,69,12.4,No,0,No,No,No,Sedentario,2,1,Licenciatura,Comerciante,0
+NAY-00535,10/10/2023,Tepic,Unidad Médica Móvil,Sin seguro,55.0,M,,175.0,24.9,130,90,95,171,,13.7,No,si,No,No,Sí,Sedentario,1,4,Primaria completa,Jubilado/a,0
+NAY-00588,2023-02-01,Tuxpan,Hospital General,Sin seguro,13.0,FEMENINO,71.3,151.0,31.3,119,84,101,125,182,12.6,False,No,No,No,NEGATIVO,Moderado,0,9,Secundaria,Jubilado/a,0
+NAY-00715,28/01/2023,Compostela,Centro de Salud Rural,IMSS,85.0,m,79.7,161.0,30.7,174,105,159,236,50,12.6,si,Sí,Sí,No,No,Activo,5,4,Posgrado,Desempleado/a,1
+NAY-00452,25/12/2024,Compostela,Consultorio ISSSTE,Seguro Popular / Bienestar,85.0,m,,,23.0,154,85,64,168,,14.4,No,Sí,No,No,No,Moderado,3,7,Sin escolaridad,,0
+NAY-00457,22/08/2023,San Blas,Consultorio ISSSTE,IMSS,17.0,Fem,,146.0,,132,80,113,,155,12.4,POSITIVO,No,No,No,Sí,Moderado,2,10,Licenciatura,Jubilado/a,0
+NAY-00229,09/02/2023,Santiago Ixcuintla,Hospital General,ISSSTE,52.0,m,73.0,191.0,20.0,141,94,88,184,68,17.9,No,Sí,No,NO,Sí,Moderado,4,5,Preparatoria / Bachillerato,Comerciante,0
+NAY-00541,2023/12/26,Huajicori,Clínica IMSS,Sin seguro,66.0,M,68.7,172.0,,146,75,97,202,,13.9,No,Sí,No,No,No,Sedentario,2,6,Secundaria,,0
+NAY-00750,18/12/2024,Tepic,Unidad Médica Móvil,Sin seguro,18.0,Mujer,58.4,1.49,26.3,118,78,86,189,243,11.6,No,No,No,Sí,No,Activo,2,2,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00213,02-25-2024,Tuxpan,Clínica IMSS,Seguro Popular / Bienestar,73.0,Femenino,59.4,162.0,22.6,147,78,125,195,63,13.5,No,Sí,No,No,No,Sedentario,4,6,Secundaria,Ama de casa,0
+NAY-00080,2024/07/24,Ruiz,Unidad Médica Móvil,IMSS,63.0,M,96.2,163.0,36.2,138,88,132,210,110,17.2,Sí,No,no,No,No,Moderado,2,5,Secundaria,Estudiante,1
+NAY-00149,02/12/2023,  Ixtlán del Río  ,Consultorio ISSSTE,Particular,76.0,F,74.9,150.0,33.3,156,97,214,255,,11.3,SI,Sí,No,No,No,Moderado,6,7,Secundaria,Comerciante,1
+NAY-00303,29/12/2024,Ahuacatlán,Clínica IMSS,Seguro Popular / Bienestar,5.0,F,,160.0,22.9,110/72,,117,188,194,12.4,Sí,No,No,No,NO,Moderado,2,11,,,0
+NAY-00666,16/06/2024,Tepic,Unidad Médica Móvil,Sin seguro,65.0,F,71.7,168.0,25.4,130,91,103,144,196,13.2,No,Sí,No,No,Sí,Moderado,0,3,,Empleado/a,0
+NAY-00329,25/10/2024,Tepic,Unidad Médica Móvil,Particular,17.0,F,58.1,172.0,19.6,112,64,68,233,139,13.3,No,No,No,No,No,Sedentario,0,4,,Profesionista,0
+NAY-00670,06/06/2023,Tepic,Unidad Médica Móvil,IMSS,16.0,M,90.0,162.0,34.3,126,76,112,,104,14.7,No,No,No,No,No,Moderado,1,9,Primaria completa,Jubilado/a,1
+NAY-00345,30/04/2024,Ruiz,Hospital General,ISSSTE,83.0,MASCULINO,76.3,178.0,24.1,149,95,118,,127,14.9,No,Sí,No,Sí,No,Moderado,2,9,Secundaria,Profesionista,0
+NAY-00712,29/04/2024,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,50.0,F,73.3,,29.7,122,85,92,193,120,,No,No,No,no,Sí,Sedentario,2,5,Técnico,Profesionista,0
+NAY-00508,23/04/2023,San Blas,Unidad Médica Móvil,Particular,26.0,M,73.8,162.0,,128,70,89,185,?,15.6,No,No,No,No,No,Moderado,1,2,Licenciatura,Jubilado/a,0
+NAY-00134,06/09/2024,Tuxpan,Centro de Salud Rural,IMSS,53.0,M,64.8,174.0,21.4,141,93,91,194,211,13.0,No,si,No,Sí,No,Sedentario,5,9,Primaria completa,Comerciante,0
+NAY-00555,27/06/2023,Acaponeta,Clínica IMSS,ISSSTE,90.0,Hombre,97.3,171.0,33.3,152,96,106,164,289,12.5,No,SI,no,Sí,No,Moderado,5,8,Técnico,Ama de casa,1
+NAY-00312,17/06/2023,Santiago Ixcuintla,Consultorio ISSSTE,Particular,63.0,H,76.0,159.0,30.1,152,105,118,240,,16.4,False,Sí,No,No,No,Sedentario,6,9,Técnico,Comerciante,1
+NAY-00759,23/08/2023,Compostela,Clínica IMSS,Seguro Popular / Bienestar,16.0,F,91.8,164.0,34.1,137,79,173,212,91,12.8,Sí,No,No,No,No,Moderado,0,11,Primaria completa,Jubilado/a,1
+NAY-00500,26/03/2024,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,42.0,M,66.8,,,146,81,69,,171,14.8,No,Sí,No,No,No,Sedentario,1,7,Primaria completa,Comerciante,0
+NAY-00001,14/08/2023,Ruiz,Centro de Salud Rural,Sin seguro,12.0,FEMENINO,49.9,161.0,19.3,123,84,84,210,202,12.4,No,No,No,No,No,Sedentario,2,1,Secundaria,Ama de casa,0
+NAY-00317,06/12/2024,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,68.0,f,71.7,152.0,31.0,150,83,242,151,126,,Sí,Sí,No,No,No,Sedentario,3,8,Posgrado,Jornalero/a,1
+NAY-00714,27-02-2023,Tepic,Consultorio ISSSTE,ISSSTE,71.0,M,58.0,164.0,21.6,133,83,85,166,231,,No,No,No,Sí,No,Sedentario,0,11,Licenciatura,,0
+NAY-00552,13/02/2023,Tepic,Clínica IMSS,Sin seguro,39.0,M,99.9,172.0,,145,80,72,188,243,15.0,No,Sí,No,No,NEGATIVO,Moderado,2,11,,,NO
+NAY-00804,30/08/2023,Huajicori,Clínica IMSS,IMSS,84.0,Hombre,72.3,177.0,23.1,145,87,67,141,258,14.2,No,Sí,No,No,Sí,Sedentario,0,9,Primaria completa,Agricultor/a,1
+NAY-00537,15/11/2023,Ixtlán del Río,Consultorio ISSSTE,IMSS,44.0,M,79.3,178.0,25.0,137,80,62,193,296,14.3,No,No,No,No,No,Sedentario,0,3,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00746,16/03/2023,Compostela,Unidad Médica Móvil,Sin seguro,36.0,masculino,70.9,168.0,25.1,115,74,4.9,165,190,16.8,No,No,No,No,No,Sedentario,0,11,Secundaria,Estudiante,0
+NAY-00846,10/12/2024,Tuxpan,Centro de Salud Rural,Sin seguro,5.0,F,71.2,171.0,24.3,138/71,,96,225,202,13.4,No,No,No,no,No,Moderado,,8,Sin escolaridad,Agricultor/a,0
+NAY-00173,17/07/2024,Rosamorada,Clínica IMSS,Sin seguro,72.0,Mujer,64.3,152.0,27.8,121,85,80,,146,11.6,NEGATIVO,No,No,No,no,Sedentario,2,3,Secundaria,Desempleado/a,1
+NAY-00126,2024/12/08,Xalisco,Unidad Médica Móvil,Seguro Popular / Bienestar,54.0,M,52.3,186.0,15.1,135,78,120,199,219,,No,No,False,No,No,Sedentario,4,7,Primaria incompleta,Estudiante,0
+NAY-00990,11/01/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,73.0,M,86.5,170.0,29.9,165,90,77,231,119,12.2,No,Sí,No,No,No,Sedentario,5,9,Licenciatura,Comerciante,1
+NAY-00424,13-10-2024,Rosamorada,Consultorio ISSSTE,ISSSTE,55.0,Femenino,78.7,156.0,32.3,144,84,201,187,92,13.1,Sí,Sí,No,No,SI,Sedentario,3,10,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00809,22/12/2024,Tepic,Centro de Salud Rural,IMSS,39.0,masculino,49.2,179.0,15.4,126,93,72,172,50,16.3,No,Sí,No,No,False,Sedentario,2,6,,Ama de casa,1
+NAY-00912,08/05/2024,Santiago Ixcuintla,Centro de Salud Rural,Seguro Popular / Bienestar,20.0,F,46.6,160.0,18.2,141,80,91,166,90,15.4,NO,Sí,No,No,No,Moderado,1,0,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00091,14-09-2023,Compostela,Consultorio ISSSTE,Sin seguro,42.0,F,44.9,165.0,16.5,136/79,,99,218,,11.8,No,NO,No,POSITIVO,Sí,Moderado,2,3,Licenciatura,Comerciante,0
+NAY-00948,25/09/2023,Tepic,Centro de Salud Rural,,16.0,F,85.1,158.0,34.1,125,75,73,200,80,13.6,No,no,No,False,No,Sedentario,0,2,Primaria completa,Empleado/a,0
+NAY-00182,12/09/2024,  Tepic  ,Centro de Salud Rural,IMSS,18.0,M,82.0,183.0,24.5,104,75,130,181,,18.0,No,No,No,No,No,Moderado,0,4,Secundaria,Jubilado/a,0
+NAY-00275,24/02/2023,  Tepic  ,Consultorio ISSSTE,Sin seguro,41.0,M,67.8,171.0,23.2,129,86,90,190,309,16.9,Sí,No,No,No,No,Sedentario,0,11,Licenciatura,Ama de casa,1
+NAY-00904,24/12/2024,Santiago Ixcuintla,Clínica IMSS,Sin seguro,81.0,M,81.7,165.0,30.0,155,102,82,201,173,15.7,No,Sí,No,No,No,Sedentario,3,4,Preparatoria / Bachillerato,Profesionista,1
+NAY-00070,2024-01-30,Tepic,Centro de Salud Rural,ISSSTE,45.0,F,58.5,,,132,62,106,143,85,14.7,No,No,0,No,No,Moderado,0,10,Secundaria,Jubilado/a,0
+NAY-00292,20-04-2023,Ruiz,Consultorio ISSSTE,Sin seguro,28.0,M,66.3,165.0,24.4,130,78,95,,,14.7,No,No,NEGATIVO,Sí,No,Sedentario,0,9,,Comerciante,0
+NAY-00132,28/06/2024,  Rosamorada  ,Hospital General,Sin seguro,53.0,F,90.9,169.0,31.8,145,100,10.3,168,205,14.4,Sí,Sí,No,No,0,Sedentario,4,4,Secundaria,Jornalero/a,1
+NAY-00301,07-12-2024,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,36.0,f,56.7,1.59,22.4,154,87,123,234,209,13.4,No,Sí,No,no,No,Sedentario,0,4,Licenciatura,Desempleado/a,False
+NAY-00933,05/04/2024,Ixtlán del Río,Hospital General,Sin seguro,27.0,M,51.8,161.0,,128,71,3.6,216,116,13.1,No,No,0,No,No,Activo,1,9,Sin escolaridad,Estudiante,0
+NAY-00327,30/10/2024,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,25.0,Mujer,65.1,149.0,,134,66,128,204,133,15.4,Sí,No,No,No,No,Sedentario,0,4,Sin escolaridad,Jubilado/a,1
+NAY-00145,09/07/2023,Tuxpan,Clínica IMSS,Particular,91.0,F,79.1,157.0,47.1,159,100,118,231,157,12.5,No,Sí,Sí,Sí,No,Sedentario,4,4,Secundaria,Empleado/a,1
+NAY-00498,2024/05/21,Tepic,Clínica IMSS,Sin seguro,37.0,masculino,,178.0,61.4,135,84,116,289,169,13.7,False,No,No,No,No,Moderado,0,9,Secundaria,Desempleado/a,0
+NAY-00678,06-06-2024,Ahuacatlán,Hospital General,Seguro Popular / Bienestar,12.0,Hombre,86.8,172.0,29.3,102,73,93,,,15.6,No,No,No,No,No,Sedentario,2,5,Licenciatura,Jubilado/a,0
+NAY-00951,21/02/2024,Tepic,Clínica IMSS,Sin seguro,13.0,F,38.7,163.0,14.6,132,79,74,175,,14.5,No,0,No,No,Sí,Moderado,1,2,Primaria incompleta,Agricultor/a,0
+NAY-00136,13/12/2024,Ixtlán del Río,Centro de Salud Rural,Seguro Popular / Bienestar,31.0,M,,190.0,22.5,131,75,92,Sin dato,101,12.5,No,No,No,Sí,No,Activo,1,8,Técnico,Estudiante,0
+NAY-00782,15/03/2024,Tepic,Consultorio ISSSTE,ISSSTE,60.0,M,63.7,163.0,24.0,141/78,,107,187,55,17.0,No,Sí,No,No,No,Activo,6,11,Primaria completa,Desempleado/a,0
+NAY-00165,2023-02-26,Bahía de Banderas,Consultorio ISSSTE,ISSSTE,41.0,M,77.7,169.0,27.2,130,77,73,191,50,16.4,No,No,No,SI,No,Moderado,0,8,Licenciatura,Estudiante,False
+NAY-00029,08/12/2024,Compostela,Hospital General,IMSS,52.0,F,81.5,161.0,31.4,132,80,132,209,276,11.3,Sí,Sí,No,No,No,Sedentario,6,3,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00961,23/07/2023,Acaponeta,Centro de Salud Rural,Sin seguro,18.0,Fem,65.1,165.0,23.9,122,79,78,218,209,,No,No,No,No,No,Moderado,0,6,Secundaria,Comerciante,0
+NAY-00194,06/02/2024,Santiago Ixcuintla,Hospital General,IMSS,36.0,M,69.6,176.0,22.5,136,71,70,222,,13.4,No,No,No,0,No,Sedentario,2,3,Posgrado,Estudiante,0
+NAY-00962,12/10/2023,Bahía de Banderas,Clínica IMSS,Seguro Popular / Bienestar,40.0,F,63.6,150.0,28.3,141/82,,88,171,97,10.9,No,Sí,No,No,No,Moderado,2,5,Secundaria,Ama de casa,0
+NAY-00644,08/06/2023,Tepic,Hospital General,ISSSTE,46.0,F,77.6,157.0,31.5,157,93,193,130,166,13.0,Sí,Sí,No,No,No,Sedentario,1,11,Primaria completa,Comerciante,True
+NAY-00170,14/01/2023,Xalisco,Hospital General,Sin seguro,6.0,Hombre,500,175.0,29.4,140,71,123,266,249,11.1,No,No,No,No,No,Moderado,1,11,Primaria completa,Jubilado/a,0
+NAY-00986,12/01/2023,Tepic,Consultorio ISSSTE,Sin seguro,61.0,M,111.5,161.0,43.0,170,101,171,224,236,12.2,Sí,Sí,No,No,No,Sedentario,1,3,Primaria incompleta,Profesionista,1
+NAY-00141,19-02-2023,Huajicori,Clínica IMSS,Sin seguro,90.0,Fem,58.5,163.0,22.0,171,98,103,193,252,15.7,No,POSITIVO,No,No,NEGATIVO,Sedentario,2,1,Preparatoria / Bachillerato,Estudiante,0
+NAY-00174,11/02/2023,San Blas,Clínica IMSS,ISSSTE,67.0,Fem,65.1,150.0,28.9,157,78,116,999,415,,No,Sí,No,No,No,Moderado,4,2,Primaria incompleta,Profesionista,1
+NAY-00007,05-21-2023,Compostela,Consultorio ISSSTE,Sin seguro,12.0,M,,181.0,17.4,124,79,79,188,221,12.3,No,No,No,No,Sí,Activo,2,1,Técnico,Ama de casa,0
+NAY-00897,04/04/2023,Acaponeta,Consultorio ISSSTE,IMSS,49.0,F,57.5,,27.7,147,86,89,109,222,12.6,No,Sí,No,No,0,Activo,2,0,Secundaria,Agricultor/a,0
+NAY-00482,25/06/2024,Bahía de Banderas,Consultorio ISSSTE,IMSS,77.0,F,80.2,154.0,33.8,140,76,161,164,347,,Sí,No,No,Sí,No,Activo,2,4,Técnico,,1
+NAY-00074,29/09/2023,San Blas,Consultorio ISSSTE,Seguro Popular / Bienestar,16.0,F,66.7,148.0,30.5,127,91,202,118,50,13.1,Sí,Sí,No,Sí,Sí,Sedentario,2,1,,Comerciante,1
+NAY-00690,26/01/2023,Bahía de Banderas,Consultorio ISSSTE,IMSS,73.0,F,67.9,149.0,,164,94,165,212,128,15.8,Sí,Sí,No,No,No,Sedentario,0,0,Secundaria,Comerciante,1
+NAY-00584,09-04-2024,Bahía de Banderas,Hospital General,Particular,9.0,Mujer,59.1,145.0,,107,93,4.7,276,,11.9,No,Sí,No,No,Sí,Activo,0,4,Sin escolaridad,Estudiante,0
+NAY-00239,21/08/2024,Huajicori,Centro de Salud Rural,Particular,31.0,M,50.7,162.0,19.3,119,75,119,193,,14.9,NEGATIVO,No,No,No,No,Moderado,1,7,Secundaria,Profesionista,0
+NAY-00146,02/01/2024,Ixtlán del Río,Clínica IMSS,Seguro Popular / Bienestar,79.0,F,,159.0,21.4,136/78,,73,223,234,13.3,No,No,No,No,No,Activo,5,2,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00800,01/05/2024,  Tepic  ,Centro de Salud Rural,ISSSTE,43.0,M,82.7,167.0,,127,76,81,167,263,13.8,No,No,No,Sí,No,Sedentario,0,6,,Empleado/a,0
+NAY-00235,14/11/2024,Ruiz,Centro de Salud Rural,Sin seguro,47.0,MASCULINO,57.5,180.0,17.7,138,77,111,173,163,13.2,No,No,No,No,No,Sedentario,1,10,Preparatoria / Bachillerato,Profesionista,0
+NAY-00221,13/09/2023,  Ruiz  ,Clínica IMSS,Particular,16.0,F,79.8,169.0,27.9,119,83,98,189,135,15.2,No,No,No,Sí,No,Moderado,1,2,Primaria incompleta,Empleado/a,0
+NAY-00479,21/10/2024,Tepic,Centro de Salud Rural,,62.0,F,60.2,163.0,,144/84,,122,187,204,14.4,Sí,Sí,No,No,No,Sedentario,1,6,Primaria completa,Agricultor/a,0
+NAY-00719,07-07-2024,Huajicori,Clínica IMSS,Seguro Popular / Bienestar,25.0,F,72.5,,34.0,106,87,132,211,279,12.5,Sí,No,No,No,Sí,Activo,2,9,Secundaria,Jubilado/a,0
+NAY-00133,19/03/2024,Tuxpan,Unidad Médica Móvil,Seguro Popular / Bienestar,12.0,masculino,72.6,184.0,42.7,128,81,97,213,268,15.4,No,No,No,Sí,No,Moderado,2,11,Primaria completa,Jubilado/a,0
+NAY-00051,19/12/2023,San Blas,Unidad Médica Móvil,Sin seguro,71.0,M,76.0,174.0,25.1,151,83,72,207,121,15.1,No,Sí,No,No,no,Moderado,5,3,Licenciatura,Ama de casa,0
+NAY-00985,02/05/2023,Santiago Ixcuintla,Unidad Médica Móvil,ISSSTE,56.0,F,78.3,166.0,28.4,143,85,121,165,65,16.6,No,Sí,No,No,No,Sedentario,1,10,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00186,25-04-2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,43.0,M,75.7,158.0,30.3,118,84,189,152,276,15.4,Sí,No,No,No,No,Sedentario,2,11,Sin escolaridad,Profesionista,0
+NAY-00042,22/08/2023,Ahuacatlán,Clínica IMSS,Sin seguro,70.0,F,68.0,166.0,24.7,124,99,99,166,145,13.1,No,si,No,NO,No,Moderado,4,11,Técnico,Ama de casa,1
+NAY-00617,15/06/2023,Bahía de Banderas,Unidad Médica Móvil,Particular,26.0,H,74.5,149.0,33.6,152/87,,138,261,359,17.0,Sí,1,NEGATIVO,No,No,Activo,1,9,Primaria incompleta,Empleado/a,1
+NAY-00109,2023-04-29,Xalisco,Consultorio ISSSTE,IMSS,46.0,F,,162.0,16.5,129,77,76,,71,13.4,No,No,No,Sí,No,Sedentario,2,8,Licenciatura,Desempleado/a,0
+NAY-00595,11/12/2024,Ixtlán del Río,Consultorio ISSSTE,Seguro Popular / Bienestar,32.0,F,59.6,158.0,23.9,128,87,104,233,269,12.1,No,No,No,No,No,Moderado,0,5,Técnico,Agricultor/a,0
+NAY-00057,13/05/2023,Tepic,Centro de Salud Rural,IMSS,52.0,MASCULINO,65.0,174.0,,137,74,55,219,171,12.9,No,No,No,No,No,Sedentario,5,9,Posgrado,Jubilado/a,0
+NAY-00409,13-08-2024,Xalisco,Centro de Salud Rural,Seguro Popular / Bienestar,86.0,masculino,69.8,173.0,23.3,157,79,85,,,14.9,no,Sí,No,NEGATIVO,No,Moderado,3,10,Sin escolaridad,Estudiante,1
+NAY-00446,19/02/2024,Bahía de Banderas,Clínica IMSS,Particular,62.0,M,,190.0,16.3,135,89,99,140,99,15.5,No,NEGATIVO,NEGATIVO,Sí,Sí,Moderado,4,11,Primaria completa,Desempleado/a,0
+NAY-00568,12/09/2023,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,26.0,F,48.7,157.0,19.8,117,79,81,135,,14.8,No,No,No,No,No,Moderado,1,2,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00869,01/03/2023,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,43.0,M,77.4,175.0,25.3,145,74,3.2,166,,15.0,No,Sí,No,No,No,Activo,0,1,Secundaria,Jornalero/a,0
+NAY-00025,14/07/2023,  Tepic  ,Unidad Médica Móvil,Sin seguro,72.0,M,85.9,177.0,27.4,157,94,97,179,88,15.3,No,True,No,0,No,Moderado,0,4,Primaria incompleta,Comerciante,1
+NAY-00421,01/02/2023,Rosamorada,Centro de Salud Rural,Particular,85.0,M,85.1,166.0,30.9,168,79,117,273,127,14.1,Sí,Sí,No,No,No,Moderado,3,1,Técnico,,True
+NAY-00450,24-01-2024,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,29.0,Masculino,81.1,158.0,32.5,146,101,55,186,50,,No,Sí,False,No,No,Activo,0,9,Primaria completa,Profesionista,0
+NAY-00536,12/01/2023,Ruiz,Hospital General,,18.0,f,55.8,166.0,20.2,106,84,113,257,207,14.7,No,No,No,Sí,No,Sedentario,,9,Preparatoria / Bachillerato,Agricultor/a,No
+NAY-00779,03/02/2024,Del Nayar,Unidad Médica Móvil,Seguro Popular / Bienestar,28.0,Femenino,75.9,153.0,32.4,122,97,156,215,50,15.5,POSITIVO,Sí,0,No,Sí,Sedentario,1,6,Secundaria,Estudiante,0
+NAY-00773,06-09-2024,Tuxpan,Unidad Médica Móvil,Particular,150,Masculino,57.0,162.0,21.7,114,65,134,226,50,16.5,No,No,No,No,No,Activo,0,2,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00935,05-04-2023,Xalisco,Centro de Salud Rural,Sin seguro,43.0,M,62.6,161.0,24.2,153,71,78,215,183,11.3,No,Sí,No,NO,No,Sedentario,1,6,Posgrado,Comerciante,0
+NAY-00339,19/08/2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,22.0,H,67.1,177.0,21.4,115,64,5.8,217,82,13.9,No,No,No,No,No,Sedentario,1,11,Secundaria,Estudiante,0
+NAY-00052,29/10/2023,Huajicori,Clínica IMSS,Sin seguro,21.0,M,82.7,159.0,32.7,129,75,91,155,205,16.9,No,NO,No,No,Sí,Sedentario,0,8,Primaria completa,Profesionista,0
+NAY-00716,14/06/2024,Ixtlán del Río,Unidad Médica Móvil,Seguro Popular / Bienestar,-3,F,43.9,157.0,17.8,146,97,100,,105,11.4,Sí,Sí,No,No,No,Activo,3,10,Secundaria,Profesionista,1
+NAY-00520,23-02-2023,San Blas,Unidad Médica Móvil,IMSS,56.0,H,81.8,176.0,26.4,127,73,83,,167,11.3,No,no,No,No,NEGATIVO,Activo,2,9,SIN DATO,Profesionista,0
+NAY-00929,28-02-2024,Xalisco,Hospital General,ISSSTE,41.0,F,46.4,151.0,20.3,125,69,103,201,243,14.5,No,No,No,No,No,Sedentario,2,2,Primaria completa,Ama de casa,0
+NAY-00639,10-16-2024,Ahuacatlán,Centro de Salud Rural,IMSS,73.0,m,49.7,173.0,16.6,153,84,86,311,312,16.2,No,Sí,No,Sí,No,Activo,2,10,Preparatoria / Bachillerato,Profesionista,1
+NAY-00265,07/05/2024,Tepic,Unidad Médica Móvil,IMSS,91.0,Fem,58.0,160.0,59.0,156,95,114,,100,13.1,True,Sí,NEGATIVO,Sí,No,Moderado,2,7,Secundaria,Comerciante,1
+NAY-00542,19/05/2023,Ixtlán del Río,Consultorio ISSSTE,ISSSTE,9.0,Femenino,73.3,156.0,30.1,122,70,189,229,,13.2,Sí,No,No,No,No,Activo,1,4,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00718,04-11-2023,Tepic,Consultorio ISSSTE,IMSS,47.0,F,67.1,168.0,23.8,136,82,119,177,215,13.6,No,No,No,Sí,No,Moderado,1,4,Secundaria,Jubilado/a,0
+NAY-00689,22-12-2024,Xalisco,Unidad Médica Móvil,Sin seguro,43.0,M,,169.0,24.5,113,90,97,202,53,14.8,Sí,No,No,No,0,Sedentario,0,0,Licenciatura,Jubilado/a,0
+NAY-00590,02-04-2024,Santiago Ixcuintla,Unidad Médica Móvil,ISSSTE,78.0,masculino,59.3,,20.5,146/96,,80,215,,14.8,No,Sí,No,No,Sí,Sedentario,0,6,Primaria incompleta,Desempleado/a,0
+NAY-00523,11/12/2024,Bahía de Banderas,Hospital General,IMSS,21.0,F,62.7,146.0,29.4,125/76,,55,158,ND,15.5,No,No,No,0,No,Sedentario,1,7,Secundaria,Comerciante,0
+NAY-00451,13/03/2024,Tepic,Hospital General,Sin seguro,88.0,F,59.2,153.0,35.2,171,96,111,180,135,11.3,No,Sí,No,Sí,No,Sedentario,3,7,?,Profesionista,1
+NAY-00019,02-11-2024,Bahía de Banderas,Centro de Salud Rural,Sin seguro,78.0,M,69.5,179.0,21.7,157,84,69,,122,,0,Sí,False,No,No,Sedentario,0,1,Primaria completa,Estudiante,0
+NAY-00723,12/10/2023,Del Nayar,Hospital General,Particular,78.0,F,56.5,158.0,22.6,129,85,116,,191,11.9,Sí,No,Sí,No,No,Moderado,2,9,,Agricultor/a,1
+NAY-00487,02/06/2024,  Compostela  ,Centro de Salud Rural,Sin seguro,34.0,Hombre,64.5,180.0,19.9,136,94,55,,168,17.3,No,Sí,No,No,No,Sedentario,1,2,Preparatoria / Bachillerato,Ama de casa,0
+NAY-00573,2023/11/29,Xalisco,Clínica IMSS,IMSS,29.0,Masculino,84.2,175.0,27.5,144,81,124,216,228,15.4,No,True,No,No,No,Sedentario,2,4,Primaria incompleta,Desempleado/a,NO
+NAY-00437,27/12/2023,Rosamorada,Centro de Salud Rural,ISSSTE,54.0,F,,162.0,29.2,148,87,113,190,117,13.7,No,Sí,No,No,No,Sedentario,,5,Licenciatura,Comerciante,0
+NAY-00368,19/12/2024,San Blas,Clínica IMSS,IMSS,32.0,Femenino,88.1,156.0,36.2,161,64,132,190,97,12.6,Sí,si,No,No,POSITIVO,Sedentario,2,3,Preparatoria / Bachillerato,Profesionista,0
+NAY-00084,08/06/2024,Ixtlán del Río,Unidad Médica Móvil,Particular,77.0,M,73.5,173.0,24.6,137,97,114,,206,16.7,No,Sí,No,Sí,No,Sedentario,6,9,Primaria incompleta,Profesionista,1
+NAY-00062,10/10/2024,Tepic,Hospital General,Sin seguro,69.0,Hombre,38.0,170.0,13.1,145,89,77,181,273,13.8,No,Sí,No,No,No,Activo,1,11,Preparatoria / Bachillerato,Estudiante,1
+NAY-00441,16/06/2024,Tepic,Hospital General,,89.0,MASCULINO,67.2,175.0,21.9,154,82,137,145,149,16.5,No,Sí,No,No,No,Moderado,3,3,Sin escolaridad,Estudiante,1
+NAY-00273,10/11/2024,Tepic,Clínica IMSS,IMSS,18.0,Fem,85.7,174.0,28.3,139,76,101,149,154,,No,No,No,No,No,Sedentario,2,7,Primaria completa,Comerciante,1
+NAY-00286,28-07-2023,Del Nayar,Clínica IMSS,Particular,86.0,M,64.2,167.0,23.0,161,93,55,229,168,15.0,No,Sí,No,No,No,Sedentario,3,6,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00361,22-06-2023,Compostela,Hospital General,ISSSTE,78.0,F,46.5,155.0,19.4,143,86,110,178,184,10.5,No,Sí,No,No,No,Activo,3,3,no aplica,Jubilado/a,1
+NAY-00355,26/04/2024,San Blas,Consultorio ISSSTE,Particular,89.0,masculino,77.4,179.0,24.2,162,93,130,216,335,14.8,No,Sí,No,Sí,NEGATIVO,Moderado,0,3,Primaria completa,Jubilado/a,1
+NAY-00653,06/12/2023,  Tepic  ,Centro de Salud Rural,IMSS,22.0,Masculino,87.8,165.0,32.2,131,90,119,189,98,15.3,No,No,No,No,No,Moderado,1,8,Licenciatura,,0
+NAY-00279,12/10/2024,Del Nayar,Centro de Salud Rural,IMSS,10.0,Femenino,94.5,164.0,35.1,108,75,139,176,60,15.8,True,No,No,No,no,Activo,2,1,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00013,01/10/2024,Compostela,Clínica IMSS,Seguro Popular / Bienestar,69.0,MASCULINO,74.8,179.0,23.3,150,88,5.6,201,,14.0,No,Sí,No,No,No,Sedentario,2,1,Preparatoria / Bachillerato,Estudiante,0
+NAY-00183,03/11/2024,Tepic,Clínica IMSS,Sin seguro,48.0,M,41.2,169.0,14.4,137,75,83,173,97,,No,No,No,No,No,Moderado,1,8,Sin escolaridad,Desempleado/a,0
+NAY-00369,21/08/2024,Xalisco,Centro de Salud Rural,Particular,6.0,m,62.7,172.0,21.2,112,70,59,,272,15.1,Sí,No,No,No,No,Moderado,2,3,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00496,20/04/2023,Rosamorada,Centro de Salud Rural,IMSS,40.0,M,60.7,154.0,25.6,135,82,62,261,293,11.8,No,No,No,Sí,Sí,Sedentario,1,0,Licenciatura,Empleado/a,0
+NAY-00622,20/07/2024,Tepic,Centro de Salud Rural,Particular,46.0,M,80.4,177.0,25.7,114,92,90,187,225,13.3,No,Sí,No,No,No,Moderado,1,1,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00224,09-18-2024,Rosamorada,Consultorio ISSSTE,Particular,22.0,f,56.7,154.0,23.9,115/75,,94,238,223,13.0,No,No,No,No,Sí,Sedentario,,5,Secundaria,Empleado/a,0
+NAY-00811,03/04/2023,Santiago Ixcuintla,Unidad Médica Móvil,IMSS,8.0,M,,160.0,31.6,126,82,159,176,219,14.1,Sí,Sí,No,No,Sí,Activo,2,6,Primaria completa,Jubilado/a,1
+NAY-00706,2024/03/08,Tepic,Consultorio ISSSTE,ISSSTE,54.0,M,92.5,172.0,31.3,149,93,183,Sin dato,145,13.4,Sí,POSITIVO,No,No,No,Sedentario,0,11,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00507,18/04/2024,Tepic,Clínica IMSS,Sin seguro,51.0,femenino,81.9,155.0,34.1,135,99,133,,146,14.4,Sí,1,No,True,No,Activo,6,4,--,Profesionista,1
+NAY-00550,13/05/2024,Ixtlán del Río,Hospital General,Particular,64.0,M,83.8,179.0,26.2,149,86,61,224,190,16.6,Sí,Sí,False,Sí,No,Moderado,6,1,Posgrado,Empleado/a,1
+NAY-00589,13/11/2024,Ruiz,Consultorio ISSSTE,IMSS,77.0,F,75.7,158.0,30.3,161,93,184,166,254,12.8,Sí,Sí,No,No,No,Moderado,4,6,Secundaria,Jubilado/a,1
+NAY-00349,2023-03-11,Tepic,Hospital General,Sin seguro,20.0,H,75.6,169.0,26.5,119,84,102,204,104,15.7,No,no,No,SI,No,Moderado,1,6,Secundaria,Ama de casa,0
+NAY-00177,29/01/2024,Rosamorada,Unidad Médica Móvil,Seguro Popular / Bienestar,67.0,F,61.0,140.0,31.1,153,87,212,165,84,11.6,Sí,Sí,No,No,No,Sedentario,2,8,Primaria incompleta,Jubilado/a,1
+NAY-00741,30/03/2024,Huajicori,Centro de Salud Rural,Particular,76.0,Femenino,58.1,160.0,22.7,163,95,100,152,131,10.5,No,1,No,No,No,Moderado,1,7,Licenciatura,Ama de casa,1
+NAY-00634,03-07-2024,Ahuacatlán,Hospital General,Seguro Popular / Bienestar,38.0,F,55.6,158.0,39.8,125,76,59,176,50,,No,No,No,Sí,No,Sedentario,2,5,Secundaria,Ama de casa,0
+NAY-00592,28/08/2024,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,83.0,F,53.8,159.0,,146,103,88,188,120,13.1,No,True,no,No,No,Sedentario,5,4,Licenciatura,Estudiante,0
+NAY-00591,20/08/2023,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,74.0,M,85.7,177.0,27.4,142,94,69,191,,12.2,No,Sí,No,No,No,Sedentario,2,11,Licenciatura,Profesionista,0
+NAY-00394,22/02/2023,Tepic,Consultorio ISSSTE,IMSS,57.0,M,84.4,167.0,30.3,129,77,72,,,14.9,No,NEGATIVO,No,No,0,Moderado,3,8,Secundaria,Desempleado/a,0
+NAY-00164,27/04/2024,Compostela,Hospital General,Sin seguro,40.0,M,91.5,178.0,28.9,118,86,111,213,240,16.7,No,No,No,0,False,Moderado,0,2,Primaria incompleta,Estudiante,0
+NAY-00249,14/06/2024,Bahía de Banderas,Hospital General,Sin seguro,73.0,FEMENINO,,152.0,29.7,152,96,85,168,209,17.0,False,Sí,No,No,No,Moderado,3,9,Técnico,Profesionista,1
+NAY-00708,29/09/2024,Rosamorada,Centro de Salud Rural,Particular,54.0,F,57.6,150.0,25.6,113,86,88,187,186,13.2,0,No,No,No,Sí,Sedentario,4,1,Licenciatura,Jubilado/a,0
+NAY-00894,11/05/2024,Acaponeta,Consultorio ISSSTE,Sin seguro,90.0,M,77.8,158.0,31.2,153,94,89,175,251,15.1,No,Sí,No,No,No,Moderado,5,2,Secundaria,Ama de casa,1
+NAY-00676,27/07/2023,Tepic,Clínica IMSS,Seguro Popular / Bienestar,68.0,F,51.5,156.0,21.2,143,106,91,,298,12.4,No,Sí,No,No,No,Sedentario,6,6,Primaria incompleta,,0
+NAY-00376,09/06/2023,Ahuacatlán,Unidad Médica Móvil,IMSS,13.0,F,63.7,153.0,27.2,102,77,62,142,146,,No,0,No,No,No,Moderado,,5,Primaria completa,Desempleado/a,0
+NAY-00413,07/07/2023,Huajicori,Consultorio ISSSTE,Seguro Popular / Bienestar,29.0,F,52.1,149.0,23.5,129,77,57,221,148,15.5,No,Sí,No,No,Sí,Moderado,0,10,,Ama de casa,0
+NAY-00075,17/07/2024,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,64.0,F,62.9,158.0,25.2,147,75,97,188,176,,NEGATIVO,Sí,No,No,No,Moderado,4,2,Primaria completa,Comerciante,1
+NAY-00114,06/02/2023,  Xalisco  ,Centro de Salud Rural,Sin seguro,44.0,F,67.2,161.0,25.9,142,74,75,177,176,11.1,No,Sí,No,no,No,Activo,2,1,Licenciatura,Comerciante,0
+NAY-00579,29/10/2024,Santiago Ixcuintla,Hospital General,Sin seguro,82.0,F,55.0,146.0,25.8,144,99,75,,155,,No,Sí,No,Sí,NO,Sedentario,4,0,Primaria incompleta,Empleado/a,1
+NAY-00939,30/01/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,45.0,F,42.7,146.0,20.0,122,75,81,--,91,9.8,No,No,No,No,No,Sedentario,2,3,Preparatoria / Bachillerato,Comerciante,0
+NAY-00391,04-13-2024,Acaponeta,Clínica IMSS,Seguro Popular / Bienestar,69.0,M,66.0,175.0,21.6,154,96,120,208,248,16.7,No,Sí,No,No,Sí,Sedentario,6,11,Posgrado,Comerciante,0
+NAY-00105,13/09/2023,Ahuacatlán,Centro de Salud Rural,IMSS,74.0,F,78.6,162.0,29.9,144,100,71,147,50,11.1,No,Sí,No,No,No,Moderado,2,1,Técnico,Agricultor/a,0
+NAY-00115,14/10/2024,Tuxpan,Clínica IMSS,ISSSTE,48.0,M,54.6,165.0,20.1,145,78,58,231,50,14.0,No,SI,No,NO,No,Moderado,2,7,Técnico,Jornalero/a,0
+NAY-00418,08-20-2023,Del Nayar,Centro de Salud Rural,Sin seguro,15.0,H,100.3,173.0,33.5,120,76,161,117,291,11.9,Sí,False,No,No,No,Sedentario,2,9,Secundaria,Comerciante,0
+NAY-00594,09/06/2023,Huajicori,Consultorio ISSSTE,Seguro Popular / Bienestar,90.0,M,115.0,166.0,41.7,185,113,162,195,255,17.5,Sí,Sí,No,No,No,Moderado,4,8,,Estudiante,1
+NAY-00458,15/10/2023,Ruiz,Hospital General,Seguro Popular / Bienestar,60.0,F,87.0,158.0,34.9,149,86,145,205,,14.9,Sí,Sí,No,1,No,Moderado,3,3,Primaria incompleta,Desempleado/a,1
+NAY-00410,17/10/2023,Tepic,Unidad Médica Móvil,Sin seguro,6.0,Hombre,78.3,1.75,25.6,138,84,85,149,50,13.9,No,No,No,Sí,No,Activo,1,1,Primaria completa,Agricultor/a,1
+NAY-00093,17/05/2024,Xalisco,Consultorio ISSSTE,Seguro Popular / Bienestar,78.0,M,66.9,178.0,21.1,153,86,89,298,187,13.9,No,Sí,No,Sí,No,Sedentario,1,5,Preparatoria / Bachillerato,Estudiante,False
+NAY-00569,18/12/2023,Tepic,Hospital General,Seguro Popular / Bienestar,60.0,m,77.9,169.0,,152,84,5.7,168,278,12.3,Sí,Sí,No,Sí,No,Sedentario,2,9,Licenciatura,Profesionista,0
+NAY-00090,06-20-2024,Huajicori,Unidad Médica Móvil,IMSS,77.0,M,80.5,175.0,26.3,140,82,7.3,177,61,15.8,No,No,No,0,Sí,Sedentario,6,11,Preparatoria / Bachillerato,Jornalero/a,1
+NAY-00337,2023-07-23,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,88.0,femenino,71.7,160.0,21.2,179,90,119,217,134,12.3,No,Sí,No,No,No,Sedentario,0,1,Licenciatura,Comerciante,1
+NAY-00999,10-17-2023,Xalisco,Centro de Salud Rural,ISSSTE,88.0,M,49.2,165.0,,147,84,88,234,211,14.4,No,True,Sí,No,Sí,Sedentario,2,6,Secundaria,Comerciante,1
+NAY-00930,25/07/2023,San Blas,Unidad Médica Móvil,Sin seguro,55.0,M,74.4,183.0,22.2,142,83,94,,131,13.2,No,Sí,No,No,No,Sedentario,2,9,Primaria incompleta,Jornalero/a,0
+NAY-00942,11-12-2024,Santiago Ixcuintla,Centro de Salud Rural,IMSS,40.0,M,88.7,166.0,32.2,128,97,186,155,251,15.7,Sí,Sí,No,Sí,No,Moderado,0,1,Sin dato,Jubilado/a,0
+NAY-00612,20/03/2024,  Ixtlán del Río  ,Centro de Salud Rural,Sin seguro,45.0,M,,169.0,19.4,119,88,55,200,134,10.6,No,No,NEGATIVO,Sí,No,Sedentario,1,10,Técnico,,1
+NAY-00600,21/09/2024,Ixtlán del Río,Hospital General,Seguro Popular / Bienestar,60.0,M,,169.0,20.9,151,85,108,210,,14.0,Sí,1,False,Sí,No,Sedentario,6,7,Primaria incompleta,Jubilado/a,1
+NAY-00618,05/08/2023,Compostela,Clínica IMSS,Sin seguro,28.0,Femenino,44.3,158.0,17.7,114,74,85,253,no aplica,12.5,No,No,No,No,True,Moderado,2,8,,Desempleado/a,No
+NAY-00095,01/12/2023,Ixtlán del Río,Clínica IMSS,IMSS,83.0,M,,177.0,17.8,146/83,,122,179,139,13.3,No,Sí,No,No,No,Sedentario,6,3,,Jornalero/a,Sí
+NAY-00012,04/05/2023,Compostela,Centro de Salud Rural,IMSS,89.0,f,59.8,153.0,25.5,151,94,85,156,,14.9,Sí,Sí,No,No,No,Sedentario,0,8,Licenciatura,Ama de casa,1
+NAY-00397,25/12/2024,Acaponeta,Hospital General,Seguro Popular / Bienestar,8.0,M,72.6,,28.0,128,68,72,132,--,16.3,No,No,No,No,No,Moderado,2,5,,Estudiante,0
+NAY-00874,29/05/2024,Xalisco,Hospital General,Sin seguro,15.0,F,60.2,,20.8,101,91,86,227,168,15.5,No,Sí,No,No,No,Sedentario,1,3,Licenciatura,Desempleado/a,0
+NAY-00044,13/01/2024,Ruiz,Clínica IMSS,Seguro Popular / Bienestar,35.0,femenino,70.8,164.0,26.3,124,87,66,264,143,13.9,No,No,NEGATIVO,no,No,Moderado,0,7,Sin escolaridad,Jubilado/a,0
+NAY-00043,09/03/2023,Bahía de Banderas,Clínica IMSS,ISSSTE,65.0,F,77.1,149.0,34.7,139,113,118,149,114,14.7,No,Sí,No,Sí,No,Sedentario,4,10,Primaria completa,Jubilado/a,0
+NAY-00330,22/06/2024,Ahuacatlán,Centro de Salud Rural,Particular,53.0,masculino,89.2,166.0,32.4,157,82,126,217,172,12.9,Sí,Sí,No,No,No,Sedentario,6,0,Sin escolaridad,Jubilado/a,1
+NAY-00168,23/08/2023,Tepic,Hospital General,Seguro Popular / Bienestar,19.0,F,82.6,164.0,30.7,83,78,73,202,153,15.1,No,No,No,No,1,Activo,2,3,,Comerciante,0
+NAY-00501,27/11/2024,Huajicori,Hospital General,Sin seguro,14.0,M,77.3,180.0,23.9,117,57,91,195,50,13.4,No,NO,NO,Sí,No,Activo,2,8,Secundaria,Agricultor/a,0
+NAY-00885,2024-03-14,Ruiz,Hospital General,Sin seguro,75.0,F,47.4,157.0,16.6,135,91,86,188,195,11.0,No,Sí,No,no,No,Sedentario,3,3,Primaria completa,Comerciante,0
+NAY-00604,29/11/2024,Bahía de Banderas,Clínica IMSS,Particular,16.0,Fem,,156.0,27.5,129/76,,116,,189,12.2,No,No,0,No,No,Sedentario,0,6,Técnico,Jornalero/a,0
+NAY-00893,13/07/2023,Tepic,Centro de Salud Rural,Sin seguro,50.0,M,74.5,171.0,,159,67,87,130,89,12.2,No,SI,No,No,No,Moderado,2,10,Licenciatura,Ama de casa,0
+NAY-00101,23/07/2024,Tuxpan,Unidad Médica Móvil,Sin seguro,77.0,masculino,69.5,176.0,22.4,164,88,115,200,119,16.8,0,Sí,No,No,0,Moderado,2,6,Preparatoria / Bachillerato,Agricultor/a,1
+NAY-00427,12-06-2024,Huajicori,Hospital General,Sin seguro,80.0,M,60.1,162.0,22.9,153,88,92,173,122,14.9,No,Sí,No,No,No,Sedentario,1,11,Primaria incompleta,Comerciante,0
+NAY-00179,19-05-2024,Tepic,Clínica IMSS,Seguro Popular / Bienestar,83.0,H,75.1,172.0,25.4,156,96,100,153,233,15.8,No,si,No,No,No,Sedentario,0,0,Primaria incompleta,Ama de casa,0
+NAY-00445,21/06/2023,Acaponeta,Unidad Médica Móvil,IMSS,49.0,M,83.7,157.0,34.0,160,80,110,,222,14.3,No,POSITIVO,No,NEGATIVO,No,Sedentario,0,11,Secundaria,Comerciante,0
+NAY-00417,06/05/2023,San Blas,Hospital General,Sin seguro,89.0,M,85.2,161.0,32.9,155,87,124,155,,11.7,No,Sí,No,Sí,No,Moderado,0,1,Primaria completa,Jubilado/a,1
+NAY-00654,18/10/2024,Bahía de Banderas,Centro de Salud Rural,ISSSTE,74.0,M,77.8,174.0,25.7,142,90,89,,96,13.6,No,Sí,No,Sí,No,Sedentario,2,7,Técnico,Ama de casa,0
+NAY-00891,26/04/2023,Tuxpan,Centro de Salud Rural,IMSS,13.0,F,65.8,154.0,27.7,126,88,127,165,142,,Sí,no,No,No,Sí,Sedentario,1,4,Licenciatura,Jubilado/a,0
+NAY-00665,11/11/2023,Ahuacatlán,Unidad Médica Móvil,Seguro Popular / Bienestar,56.0,M,74.6,176.0,24.1,137,84,74,133,169,14.0,No,No,No,No,No,Activo,3,5,Primaria completa,Empleado/a,0
+NAY-00178,01/09/2023,Compostela,Consultorio ISSSTE,Sin seguro,19.0,F,62.4,151.0,27.4,136,80,108,175,307,12.6,No,Sí,No,No,No,Moderado,1,2,Primaria completa,Jubilado/a,0
+NAY-00396,07-02-2023,Compostela,Clínica IMSS,Sin seguro,81.0,F,83.9,166.0,33.1,152,92,110,182,221,15.0,No,Sí,No,No,No,Moderado,4,10,Primaria completa,Profesionista,1
+NAY-00683,21/11/2024,Rosamorada,Consultorio ISSSTE,IMSS,88.0,M,112.9,172.0,38.2,182,89,159,202,199,12.7,True,Sí,No,No,Sí,Activo,0,4,Preparatoria / Bachillerato,Estudiante,1
+NAY-00802,04/10/2023,  Tepic  ,Consultorio ISSSTE,ISSSTE,31.0,F,51.9,164.0,19.3,130,87,96,217,186,12.2,No,0,No,No,Sí,Sedentario,1,3,Sin escolaridad,Profesionista,0
+NAY-00971,2023/06/01,Tepic,Hospital General,,30.0,F,45.7,147.0,21.1,117/73,,78,235,50,,No,No,No,No,No,Moderado,1,4,Primaria incompleta,Estudiante,0
+NAY-00981,21/03/2023,Bahía de Banderas,Clínica IMSS,Particular,56.0,Hombre,,1.73,25.4,147,78,93,219,203,12.0,No,Sí,No,No,No,Activo,1,2,Primaria incompleta,Ama de casa,0
+NAY-00384,2024-10-25,Tuxpan,Consultorio ISSSTE,Sin seguro,25.0,M,54.0,185.0,38.8,126/75,,111,216,,17.1,No,No,No,No,NEGATIVO,Moderado,2,1,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00967,20/09/2023,San Blas,Consultorio ISSSTE,Sin seguro,57.0,m,104.5,171.0,35.7,157,93,142,,95,12.6,Sí,Sí,No,No,No,Moderado,0,3,Posgrado,Profesionista,Sí
+NAY-00619,24/05/2024,Rosamorada,Consultorio ISSSTE,,10.0,M,44.8,167.0,16.1,135,65,4.7,210,192,12.9,No,No,No,False,Sí,Moderado,2,1,Primaria completa,Jornalero/a,1
+NAY-00258,26/01/2023,Huajicori,Hospital General,IMSS,13.0,F,66.9,155.0,27.8,118,79,123,192,202,14.8,No,No,no,Sí,No,Moderado,2,9,Técnico,Comerciante,0
+NAY-00336,13/12/2023,San Blas,Centro de Salud Rural,IMSS,75.0,F,73.1,152.0,31.6,157,106,92,187,66,,No,Sí,No,False,No,Sedentario,3,11,Técnico,Desempleado/a,1
+NAY-00016,06/02/2024,Ahuacatlán,Clínica IMSS,IMSS,73.0,M,72.7,175.0,23.7,136,81,62,185,139,14.1,No,Sí,No,No,False,Sedentario,6,10,Preparatoria / Bachillerato,Jornalero/a,1
+NAY-00636,24/07/2023,Tepic,Consultorio ISSSTE,Sin seguro,64.0,M,86.0,156.0,,160,100,115,198,183,17.0,0,Sí,No,No,No,Activo,2,2,Licenciatura,Jornalero/a,1
+NAY-00325,05/07/2024,Bahía de Banderas,Clínica IMSS,IMSS,89.0,F,69.6,158.0,27.9,156,90,89,,247,,False,Sí,No,No,No,Sedentario,5,2,Primaria completa,Empleado/a,1
+NAY-00766,21/01/2023,Ruiz,Unidad Médica Móvil,,72.0,F,57.9,161.0,22.3,143,88,80,212,190,12.0,No,Sí,No,No,No,Moderado,1,10,Secundaria,Empleado/a,INGRESADO
+NAY-00223,25/02/2023,Bahía de Banderas,Centro de Salud Rural,Sin seguro,66.0,M,67.5,171.0,23.1,140,75,123,196,166,12.2,No,No,No,No,No,Moderado,0,4,Técnico,Jubilado/a,0
+NAY-00180,2023/11/15,Tuxpan,Centro de Salud Rural,Seguro Popular / Bienestar,48.0,M,72.1,159.0,28.5,145,90,80,215,278,14.8,No,Sí,No,No,No,Sedentario,2,6,Primaria incompleta,Estudiante,0
+NAY-00994,29/04/2024,Santiago Ixcuintla,Consultorio ISSSTE,Particular,42.0,F,73.7,151.0,32.3,142,72,160,186,85,12.8,Sí,Sí,No,Sí,Sí,Sedentario,1,5,Primaria incompleta,Jubilado/a,0
+NAY-00522,29/08/2023,Huajicori,Clínica IMSS,,17.0,F,83.5,159.0,33.0,142,75,149,241,,12.5,Sí,Sí,No,No,No,Sedentario,1,9,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00023,14/12/2024,Tepic,Consultorio ISSSTE,Sin seguro,20.0,M,76.6,178.0,24.2,124,75,99,193,156,,No,Sí,No,Sí,No,Sedentario,1,8,Licenciatura,Jubilado/a,0
+NAY-00357,14/03/2023,Rosamorada,Unidad Médica Móvil,Sin seguro,18.0,F,,171.0,16.2,121,70,93,218,,13.4,No,No,No,Sí,No,Activo,1,7,Técnico,Comerciante,0
+NAY-00680,10/03/2024,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,86.0,MASCULINO,92.6,172.0,,172,97,200,ND,,10.9,Sí,Sí,No,No,no,Sedentario,5,11,Posgrado,Jornalero/a,1
+NAY-00870,14/12/2023,Acaponeta,Hospital General,Particular,8.0,Hombre,,156.0,36.6,128/89,,175,189,112,16.1,Sí,Sí,No,Sí,No,Moderado,0,4,Licenciatura,Desempleado/a,1
+NAY-00341,16/01/2024,Xalisco,Unidad Médica Móvil,Particular,60.0,Masculino,74.4,167.0,26.7,138,83,110,195,167,14.5,No,No,False,No,No,Moderado,0,7,Secundaria,Jubilado/a,0
+NAY-00432,07/04/2023,Acaponeta,Unidad Médica Móvil,IMSS,69.0,H,64.0,159.0,25.3,163,85,109,206,157,13.7,No,True,No,no,No,Activo,5,4,Secundaria,Jubilado/a,1
+NAY-00803,18/08/2024,San Blas,Hospital General,Particular,49.0,Femenino,69.0,161.0,26.6,135,93,123,193,,,No,Sí,No,Sí,Sí,Sedentario,0,5,Licenciatura,Empleado/a,0
+NAY-00842,03/01/2024,Acaponeta,Clínica IMSS,ISSSTE,62.0,F,89.7,152.0,38.8,144,86,116,243,273,11.8,No,Sí,Sí,No,No,Moderado,5,6,Primaria completa,Profesionista,1
+NAY-00204,21/09/2023,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,65.0,F,47.9,153.0,20.5,144/84,,107,175,50,15.5,No,Sí,No,False,no,Moderado,2,5,Secundaria,Profesionista,1
+NAY-00637,08/07/2024,Rosamorada,Unidad Médica Móvil,Sin seguro,25.0,Masculino,87.2,1.74,28.8,138,70,90,235,183,13.1,No,No,No,No,Sí,Moderado,2,10,Primaria completa,Profesionista,0
+NAY-00094,22-10-2024,Ruiz,Hospital General,Particular,38.0,F,40.0,161.0,,120/77,,114,177,228,16.2,No,Sí,0,No,No,Sedentario,0,1,Primaria incompleta,Profesionista,0
+NAY-00807,05/06/2023,Ixtlán del Río,Unidad Médica Móvil,Sin seguro,52.0,F,38.0,147.0,17.6,138,77,55,215,50,,No,Sí,No,No,No,Activo,5,1,Licenciatura,Empleado/a,0
+NAY-00069,29/03/2024,Compostela,Hospital General,ISSSTE,11.0,M,45.1,158.0,18.1,114/84,,91,203,173,13.6,No,No,No,No,No,Moderado,0,11,Técnico,Desempleado/a,0
+NAY-00629,20/10/2024,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,48.0,F,7,148.0,30.5,158,92,158,128,263,10.4,Sí,Sí,No,No,Sí,Moderado,2,10,Primaria incompleta,Estudiante,1
+NAY-00285,12/05/2024,Ahuacatlán,Unidad Médica Móvil,ISSSTE,43.0,F,,157.0,31.3,143,89,55,124,138,12.5,NO,Sí,No,Sí,No,Moderado,0,0,Primaria incompleta,Desempleado/a,False
+NAY-00886,18/09/2024,Tepic,Centro de Salud Rural,IMSS,68.0,H,61.4,173.0,20.5,155,71,92,168,191,16.1,No,Sí,No,No,No,Sedentario,5,3,Primaria completa,Profesionista,1
+NAY-00435,07/07/2024,Huajicori,Hospital General,Seguro Popular / Bienestar,42.0,femenino,57.1,152.0,24.7,134,81,107,218,166,12.1,Sí,No,No,No,No,Sedentario,0,10,Primaria incompleta,Desempleado/a,0
+NAY-00154,07/02/2024,Del Nayar,Centro de Salud Rural,Sin seguro,30.0,M,76.1,166.0,27.6,145,81,88,255,139,12.7,No,Sí,No,No,NO,Sedentario,0,9,Secundaria,Empleado/a,1
+NAY-00076,03/09/2024,Xalisco,Centro de Salud Rural,IMSS,46.0,F,77.5,161.0,29.9,127,96,83,256,,13.7,No,Sí,No,No,No,Moderado,2,8,Primaria incompleta,Desempleado/a,0
+NAY-00738,07/06/2024,Ixtlán del Río,Hospital General,IMSS,34.0,M,75.2,,30.5,139/81,,88,173,117,13.7,No,No,No,No,No,Sedentario,1,2,,Desempleado/a,0
+NAY-00447,08/02/2024,Ruiz,Centro de Salud Rural,Seguro Popular / Bienestar,32.0,Mujer,78.7,163.0,29.6,133,74,115,193,253,14.0,No,No,No,No,No,Moderado,1,1,Técnico,,0
+NAY-00189,29/07/2024,Ahuacatlán,Unidad Médica Móvil,IMSS,25.0,f,68.5,159.0,27.1,112,72,86,143,170,11.9,No,No,No,Sí,No,Sedentario,2,11,Sin escolaridad,Empleado/a,0
+NAY-00272,01/06/2024,Xalisco,Centro de Salud Rural,Sin seguro,6.0,Femenino,49.4,156.0,20.3,115,73,5.3,,50,10.6,No,No,No,No,Sí,Moderado,1,7,Técnico,Jubilado/a,0
+NAY-00237,03/12/2024,Tuxpan,Hospital General,Sin seguro,62.0,M,68.5,1.64,25.5,146,84,118,178,207,,No,Sí,No,Sí,No,Sedentario,2,7,Secundaria,Ama de casa,1
+NAY-00488,07/08/2024,Tuxpan,Hospital General,IMSS,51.0,M,62.3,154.0,26.3,130,90,88,Sin dato,160,14.5,No,1,No,0,Sí,Moderado,4,9,Licenciatura,Estudiante,0
+NAY-00118,2024/03/10,San Blas,Hospital General,Sin seguro,17.0,Hombre,89.4,171.0,30.6,121,65,139,254,207,13.8,Sí,Sí,0,No,False,Sedentario,0,7,Secundaria,Empleado/a,0
+NAY-00827,02/02/2024,Tuxpan,Centro de Salud Rural,Seguro Popular / Bienestar,64.0,M,84.8,164.0,31.5,160,86,100,,247,,No,Sí,No,No,NEGATIVO,Moderado,2,4,--,Estudiante,1
+NAY-00513,16/08/2023,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,78.0,M,76.5,172.0,25.9,149,80,5.2,189,247,15.3,No,Sí,No,No,No,Moderado,2,7,Sin escolaridad,Empleado/a,0
+NAY-00558,03-22-2023,Bahía de Banderas,Clínica IMSS,ISSSTE,81.0,M,65.8,178.0,20.8,134,92,96,229,151,11.3,NEGATIVO,Sí,No,No,No,Sedentario,0,6,Secundaria,Desempleado/a,1
+NAY-00598,02/12/2023,Xalisco,Consultorio ISSSTE,Sin seguro,72.0,Femenino,59.3,155.0,,137,83,80,148,226,13.4,No,No,No,No,No,Sedentario,1,10,Secundaria,Comerciante,1
+NAY-00127,12-25-2023,Tepic,Clínica IMSS,IMSS,11.0,F,66.0,162.0,25.1,114,83,107,236,98,12.0,Sí,No,0,No,No,Sedentario,0,0,Primaria completa,Desempleado/a,0
+NAY-00117,13-12-2024,  Santiago Ixcuintla  ,Unidad Médica Móvil,Sin seguro,8.0,F,55.2,152.0,23.9,122,80,59,219,267,15.5,No,No,No,Sí,No,Sedentario,2,0,Técnico,Ama de casa,0
+NAY-00474,08/08/2024,Tepic,Clínica IMSS,Seguro Popular / Bienestar,45.0,FEMENINO,77.7,162.0,,138,86,88,213,50,,No,No,No,No,No,Activo,0,11,,Agricultor/a,0
+NAY-00966,02-02-2023,Bahía de Banderas,Clínica IMSS,Sin seguro,56.0,F,5,154.0,29.3,158,75,135,156,204,15.2,Sí,Sí,No,No,No,Sedentario,5,3,999,Comerciante,1
+NAY-00058,01-04-2023,Xalisco,Unidad Médica Móvil,Seguro Popular / Bienestar,18.0,F,82.2,157.0,33.3,142,73,133,199,189,13.9,Sí,SI,No,No,0,Sedentario,1,3,Primaria completa,Estudiante,1
+NAY-00681,25/01/2023,Rosamorada,Hospital General,Sin seguro,67.0,F,62.7,157.0,25.4,162,76,105,231,136,11.0,No,Sí,No,No,No,Activo,6,0,Licenciatura,,1
+NAY-00921,18/01/2023,Rosamorada,Clínica IMSS,IMSS,80.0,F,67.7,167.0,24.3,147/89,,112,135,999,13.3,Sí,Sí,No,No,No,Moderado,5,10,Licenciatura,Jornalero/a,INGRESADO
+NAY-00370,03/08/2023,Huajicori,Clínica IMSS,Particular,72.0,M,71.8,161.0,27.7,144/78,,109,,118,,No,Sí,No,No,No,Activo,1,0,Licenciatura,Empleado/a,0
+NAY-00269,02/07/2023,Rosamorada,Consultorio ISSSTE,IMSS,58.0,M,76.0,1.72,25.7,153,100,101,147,,12.1,No,Sí,No,No,Sí,Moderado,6,7,Primaria completa,Desempleado/a,INGRESADO
+NAY-00047,08/02/2023,Acaponeta,Clínica IMSS,ISSSTE,43.0,MASCULINO,45.5,169.0,,124/75,,89,184,180,17.8,Sí,No,NO,False,Sí,Moderado,1,3,Primaria incompleta,Comerciante,0
+NAY-00350,15/11/2024,Ruiz,Hospital General,Sin seguro,19.0,F,48.5,158.0,19.4,110/72,,105,132,177,11.4,No,No,No,No,No,Sedentario,2,10,Secundaria,Comerciante,0
+NAY-00196,25/11/2023,  Rosamorada  ,Clínica IMSS,IMSS,12.0,f,58.0,157.0,23.5,118,87,98,106,277,12.6,No,Sí,No,No,No,Sedentario,0,9,Sin escolaridad,Desempleado/a,No
+NAY-00389,25/12/2023,Rosamorada,Unidad Médica Móvil,Sin seguro,82.0,M,69.6,177.0,22.2,156,65,103,156,181,,No,Sí,no,No,No,Sedentario,0,5,Licenciatura,Estudiante,0
+NAY-00843,28/07/2023,Santiago Ixcuintla,Consultorio ISSSTE,ISSSTE,84.0,F,76.3,165.0,28.0,152,87,103,143,197,16.4,No,Sí,No,No,No,Activo,1,1,Sin escolaridad,Ama de casa,0
+NAY-00744,20/06/2023,Xalisco,Consultorio ISSSTE,ISSSTE,28.0,masculino,83.5,187.0,23.9,125,80,131,103,73,11.3,No,No,No,No,No,Moderado,2,3,Licenciatura,Jornalero/a,0
+NAY-00264,29/07/2024,Del Nayar,Hospital General,Sin seguro,85.0,M,101.9,177.0,32.5,190,82,57,226,88,12.7,False,Sí,No,No,No,Sedentario,0,10,--,Jornalero/a,1
+NAY-00444,19/03/2024,Huajicori,Centro de Salud Rural,Sin seguro,47.0,m,73.2,168.0,25.9,138,87,106,209,,15.1,No,NO,No,No,Sí,Moderado,0,3,Primaria incompleta,Desempleado/a,0
+NAY-00810,16/08/2023,Tepic,Unidad Médica Móvil,IMSS,91.0,femenino,450,153.0,23.6,153/95,,94,219,228,13.2,NEGATIVO,1,No,No,Sí,Moderado,3,9,Preparatoria / Bachillerato,Comerciante,SI
+NAY-00305,02-22-2023,Compostela,Centro de Salud Rural,IMSS,52.0,M,60.3,169.0,21.1,133/80,,123,230,209,13.3,No,NEGATIVO,No,No,NEGATIVO,Sedentario,3,11,Técnico,Jubilado/a,0
+NAY-00342,12/03/2024,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,30.0,f,76.6,162.0,42.7,117,90,111,144,121,15.1,No,No,No,No,No,Sedentario,2,10,,Desempleado/a,0
+NAY-00605,19/08/2023,San Blas,Unidad Médica Móvil,,76.0,masculino,70.7,171.0,24.2,165,101,82,161,96,12.8,Sí,Sí,No,No,No,Sedentario,6,9,Secundaria,Estudiante,1
+NAY-00977,30/07/2023,San Blas,Centro de Salud Rural,IMSS,13.0,M,,1.67,21.9,128,84,77,164,206,14.9,NO,No,No,No,Sí,Moderado,1,4,Licenciatura,Empleado/a,0
+NAY-00150,25/11/2023,Tepic,Centro de Salud Rural,Particular,10.0,M,69.6,170.0,,124,70,76,,156,15.7,No,No,NEGATIVO,No,No,Moderado,2,0,Primaria completa,Jubilado/a,0
+NAY-00125,12/09/2024,  Ruiz  ,Centro de Salud Rural,IMSS,79.0,F,70.5,156.0,29.0,147,90,93,,270,13.7,No,Sí,No,No,No,Moderado,1,9,Secundaria,,0
+NAY-00794,08/03/2024,Tuxpan,Centro de Salud Rural,Particular,76.0,M,41.7,155.0,17.4,139,85,108,233,255,15.1,Sí,No,No,No,No,Sedentario,5,0,Licenciatura,Jubilado/a,1
+NAY-00831,03/10/2024,San Blas,Clínica IMSS,Sin seguro,26.0,F,62.4,161.0,20.2,121,93,81,216,317,9.7,Sí,Sí,No,No,No,Sedentario,1,11,Secundaria,Empleado/a,1
+NAY-00051,19/12/2023,San Blas,Unidad Médica Móvil,Sin seguro,71.0,M,76.0,174.0,25.1,151,83,72,207,121,15.1,No,Sí,No,No,no,Moderado,5,3,Licenciatura,Ama de casa,0
+NAY-00354,07/06/2023,Tepic,Hospital General,Sin seguro,42.0,Fem,58.6,158.0,23.5,142,73,106,199,338,13.1,No,Sí,No,No,No,Sedentario,1,3,Primaria completa,Estudiante,0
+NAY-00936,29/10/2023,Xalisco,Clínica IMSS,Sin seguro,86.0,F,72.2,162.0,27.5,153,92,98,176,172,11.3,No,Sí,False,No,No,Sedentario,2,10,Primaria completa,Jornalero/a,0
+NAY-00143,01/02/2023,Santiago Ixcuintla,Centro de Salud Rural,Particular,29.0,H,92.7,159.0,36.7,141,89,174,227,183,12.5,Sí,SI,No,No,No,Moderado,,9,Primaria completa,Profesionista,0
+NAY-00471,30/03/2024,Santiago Ixcuintla,Clínica IMSS,IMSS,69.0,M,50.9,162.0,,148,74,113,137,197,15.7,No,Sí,No,No,No,Sedentario,6,4,Primaria completa,Jornalero/a,0
+NAY-00400,22/11/2023,Bahía de Banderas,Hospital General,ISSSTE,31.0,f,54.3,156.0,,140,83,71,203,193,12.9,No,No,No,0,No,Activo,2,4,Técnico,Desempleado/a,0
+NAY-00632,30/09/2024,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,33.0,F,57.0,161.0,22.0,115,66,99,190,135,16.2,No,No,No,Sí,No,Sedentario,1,1,Primaria incompleta,Comerciante,1
+NAY-00321,28/11/2024,Ahuacatlán,Unidad Médica Móvil,Sin seguro,32.0,M,86.3,173.0,42.1,129,91,94,190,68,16.9,False,SI,No,No,No,Sedentario,1,5,Primaria completa,Profesionista,0
+NAY-00020,16/12/2024,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,44.0,FEMENINO,61.6,161.0,23.8,124,80,96,,242,12.2,No,No,No,Sí,No,Sedentario,0,0,Licenciatura,Comerciante,0
+NAY-00818,10/05/2023,Ahuacatlán,Hospital General,Sin seguro,14.0,MASCULINO,101.4,168.0,35.9,144,78,127,167,229,12.8,Sí,Sí,No,Sí,No,Activo,2,5,Técnico,Estudiante,0
+NAY-00801,2024-01-29,Ixtlán del Río,Centro de Salud Rural,Seguro Popular / Bienestar,6.0,m,41.7,172.0,14.1,106,72,106,,125,,No,No,No,No,No,Moderado,2,3,Primaria incompleta,Jubilado/a,0
+NAY-00817,10/09/2024,Tepic,Hospital General,Particular,8.0,F,76.5,159.0,30.3,129,95,100,263,301,12.2,No,Sí,No,No,No,Activo,1,6,Primaria completa,Jornalero/a,0
+NAY-00408,14/01/2023,Tepic,Unidad Médica Móvil,Sin seguro,17.0,Hombre,84.5,183.0,25.2,136,78,113,244,50,14.0,No,No,No,No,No,Sedentario,1,6,Sin escolaridad,Comerciante,0
+NAY-00538,22/12/2023,Tepic,Consultorio ISSSTE,ISSSTE,15.0,M,73.7,168.0,26.1,139,69,63,,328,16.0,No,No,No,No,No,Moderado,1,7,Secundaria,Jubilado/a,0
+NAY-00627,15/05/2023,Ixtlán del Río,Hospital General,Sin seguro,34.0,FEMENINO,51.1,151.0,22.4,137,74,4.6,247,113,11.7,Sí,No,No,NO,No,Sedentario,1,3,Sin escolaridad,Agricultor/a,0
+NAY-00039,07-05-2023,Huajicori,Unidad Médica Móvil,Seguro Popular / Bienestar,29.0,M,85.0,168.0,30.1,138,85,119,236,,17.4,No,No,False,No,No,Moderado,1,0,Licenciatura,Estudiante,0
+NAY-00176,20-05-2024,Acaponeta,Clínica IMSS,Seguro Popular / Bienestar,45.0,H,90.2,160.0,35.2,118,85,7.7,195,106,16.0,Sí,No,No,No,No,Sedentario,0,5,Licenciatura,Desempleado/a,0
+NAY-00246,16/01/2023,Ahuacatlán,Unidad Médica Móvil,IMSS,12.0,femenino,,162.0,24.0,122,76,85,205,,15.6,0,No,No,No,No,Moderado,2,10,Primaria incompleta,Jubilado/a,0
+NAY-00837,19/11/2024,Compostela,Hospital General,IMSS,75.0,Hombre,111.0,168.0,39.3,145,92,137,,,13.2,Sí,Sí,No,Sí,No,Moderado,0,11,Primaria completa,Agricultor/a,1
+NAY-00674,24-07-2024,Xalisco,Centro de Salud Rural,Particular,13.0,F,57.5,148.0,26.3,107,73,108,152,60,13.1,No,No,No,No,No,Moderado,1,3,Primaria completa,Empleado/a,0
+NAY-00762,10/06/2023,Acaponeta,Unidad Médica Móvil,Sin seguro,1,M,64.2,174.0,21.2,133,82,94,195,263,16.4,No,No,No,Sí,Sí,Moderado,5,5,Secundaria,Profesionista,1
+NAY-00867,04-17-2023,Ruiz,Unidad Médica Móvil,Particular,76.0,M,43.9,178.0,13.9,141,90,109,245,138,15.2,Sí,Sí,No,No,No,Sedentario,1,6,Licenciatura,Agricultor/a,1
+NAY-00155,23/02/2023,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,42.0,F,42.7,154.0,18.0,137,93,97,244,205,14.4,No,Sí,No,Sí,No,Activo,1,4,Primaria completa,Empleado/a,0
+NAY-00288,26/12/2024,  Tepic  ,Centro de Salud Rural,Seguro Popular / Bienestar,54.0,M,79.4,177.0,25.3,124,90,102,164,57,11.6,No,No,No,Sí,No,Activo,4,5,Sin escolaridad,Profesionista,0
+NAY-00821,21/08/2024,Ixtlán del Río,Clínica IMSS,Sin seguro,7.0,F,85.9,147.0,,133,73,156,182,145,12.1,Sí,No,No,No,Sí,Moderado,0,10,Secundaria,Jornalero/a,1
+NAY-00570,14/12/2023,Tepic,Consultorio ISSSTE,Sin seguro,54.0,M,68.3,,23.1,116,88,109,215,283,13.6,No,Sí,No,No,No,Activo,0,7,Secundaria,,0
+NAY-00751,01-02-2023,Xalisco,Unidad Médica Móvil,Seguro Popular / Bienestar,88.0,M,86.1,170.0,,151,91,94,148,189,11.2,No,Sí,0,No,Sí,Activo,2,1,Secundaria,Agricultor/a,0
+NAY-00018,09/03/2024,Compostela,Unidad Médica Móvil,ISSSTE,16.0,F,67.5,154.0,37.7,131,61,136,180,298,12.8,Sí,No,False,Sí,No,Sedentario,0,9,Primaria incompleta,Desempleado/a,0
+NAY-00128,08-05-2024,Del Nayar,Consultorio ISSSTE,Sin seguro,71.0,Hombre,88.2,172.0,29.8,158,92,81,193,83,13.1,No,Sí,No,No,No,Activo,5,1,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00323,2023/04/09,  Tuxpan  ,Centro de Salud Rural,Sin seguro,58.0,M,40.9,,15.6,124,73,98,205,,15.7,NO,No,No,Sí,No,Moderado,3,9,Preparatoria / Bachillerato,Profesionista,1
+NAY-00256,09/04/2023,Ahuacatlán,Centro de Salud Rural,IMSS,17.0,M,76.8,163.0,,123,69,120,227,178,13.5,No,0,No,No,Sí,Moderado,1,5,Secundaria,Jornalero/a,1
+NAY-00775,03-13-2024,Tepic,Centro de Salud Rural,ISSSTE,78.0,Hombre,62.1,180.0,19.2,145,90,104,205,136,,No,Sí,No,No,No,Sedentario,0,11,Preparatoria / Bachillerato,Profesionista,0
+NAY-00975,13-02-2024,Xalisco,Centro de Salud Rural,,17.0,F,49.6,151.0,21.8,124/68,,109,126,161,13.7,NEGATIVO,no,No,POSITIVO,No,Moderado,2,10,Licenciatura,Desempleado/a,0
+NAY-00191,08/12/2023,Del Nayar,Clínica IMSS,Sin seguro,64.0,M,67.9,,20.7,145,92,93,256,50,12.3,No,Sí,No,Sí,No,Sedentario,5,8,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00116,15/04/2024,San Blas,Unidad Médica Móvil,Seguro Popular / Bienestar,54.0,f,5,161.0,26.9,140,85,5.7,221,129,13.7,No,No,False,Sí,No,Moderado,6,2,Licenciatura,Desempleado/a,0
+NAY-00623,15/11/2023,Tepic,Unidad Médica Móvil,Sin seguro,19.0,F,67.8,159.0,26.8,128,77,89,263,999,13.4,No,No,No,No,No,Sedentario,1,1,Secundaria,Jubilado/a,0
+NAY-00607,24/09/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,33.0,M,88.5,163.0,33.3,141,91,157,166,124,11.7,Sí,Sí,No,No,No,Sedentario,2,9,Preparatoria / Bachillerato,Ama de casa,1
+NAY-00181,2024-12-02,Acaponeta,Clínica IMSS,Seguro Popular / Bienestar,86.0,M,54.4,158.0,21.8,148,94,113,195,185,15.3,No,Sí,No,No,No,Activo,1,2,Secundaria,Comerciante,0
+NAY-00302,25/03/2024,Ruiz,Unidad Médica Móvil,IMSS,76.0,M,64.1,176.0,20.7,152,84,96,100,,13.1,Sí,Sí,No,No,No,Moderado,6,7,Licenciatura,Profesionista,1
+NAY-00342,12/03/2024,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,30.0,f,76.6,162.0,42.7,117,90,111,144,121,15.1,No,No,No,No,No,Sedentario,2,10,,Desempleado/a,0
+NAY-00900,02/09/2023,  Ruiz  ,Hospital General,IMSS,58.0,M,97.0,186.0,28.0,134,92,85,257,50,13.9,No,Sí,No,No,No,Sedentario,1,5,Licenciatura,Agricultor/a,0
+NAY-00731,31/08/2024,Tepic,Clínica IMSS,IMSS,68.0,M,85.2,178.0,26.9,145,84,84,,,,No,Sí,No,No,No,Sedentario,1,7,Sin escolaridad,Profesionista,1
+NAY-00844,04/02/2024,Tepic,Consultorio ISSSTE,Particular,8.0,F,76.7,166.0,27.8,109,75,94,172,50,14.2,No,No,No,NO,No,Sedentario,1,2,Primaria incompleta,Jubilado/a,NO
+NAY-00668,2025-01-04,Del Nayar,Hospital General,Seguro Popular / Bienestar,79.0,F,,168.0,24.8,155,83,94,,146,12.4,Sí,Sí,No,No,No,Moderado,,2,Licenciatura,Profesionista,1
+NAY-00518,08-20-2023,Tepic,Centro de Salud Rural,Sin seguro,10.0,F,63.5,1.62,,113,80,99,169,169,12.4,No,No,No,No,No,Activo,2,2,Secundaria,Profesionista,AMBULATORIO
+NAY-00995,2024-08-26,Tepic,Clínica IMSS,Sin seguro,51.0,m,69.3,175.0,22.6,136,80,121,186,,,Sí,No,No,No,No,Sedentario,4,3,Primaria completa,Jornalero/a,1
+NAY-00046,14/07/2023,San Blas,Hospital General,Seguro Popular / Bienestar,89.0,M,82.0,183.0,46.9,145,99,96,230,223,14.4,No,True,No,No,No,Activo,4,11,Secundaria,Empleado/a,1
+NAY-00918,23/02/2023,Del Nayar,Clínica IMSS,IMSS,73.0,F,61.6,,25.3,155/73,,92,158,238,14.7,No,Sí,NO,Sí,No,Moderado,4,4,Secundaria,Jubilado/a,1
+NAY-00158,19/09/2023,Ahuacatlán,Consultorio ISSSTE,Particular,53.0,M,50.1,164.0,18.6,134,82,55,204,,15.0,No,No,No,No,Sí,Sedentario,6,1,Técnico,Jornalero/a,1
+NAY-00752,28/01/2024,Tepic,Clínica IMSS,IMSS,17.0,Hombre,88.7,172.0,30.0,138,70,82,?,216,13.4,No,No,No,No,No,Moderado,0,2,,Profesionista,0
+NAY-00172,29/11/2024,Ahuacatlán,Consultorio ISSSTE,Sin seguro,12.0,Mujer,53.2,1.47,24.6,135,73,125,259,50,16.0,NEGATIVO,False,No,Sí,No,Sedentario,1,4,,Jornalero/a,1
+NAY-00017,12/06/2023,Tuxpan,Hospital General,ISSSTE,49.0,M,104.3,153.0,44.6,140,90,99,145,59,15.2,No,No,No,No,NO,Sedentario,1,9,Secundaria,Jubilado/a,0
+NAY-00512,2024-04-08,Rosamorada,Unidad Médica Móvil,IMSS,69.0,FEMENINO,64.4,148.0,29.4,150,100,68,236,50,,No,Sí,Sí,No,NEGATIVO,Sedentario,6,6,Sin escolaridad,Ama de casa,0
+NAY-00049,11-05-2023,Tepic,Clínica IMSS,Sin seguro,63.0,Femenino,75.9,152.0,32.9,150,84,110,194,267,12.6,No,Sí,No,No,Sí,Moderado,0,9,Licenciatura,Estudiante,0
+NAY-00982,28/02/2023,Tepic,Consultorio ISSSTE,Sin seguro,66.0,M,83.0,,35.5,153,87,193,260,50,15.4,Sí,Sí,Sí,No,No,Sedentario,0,10,Licenciatura,Estudiante,1
+NAY-00849,06-20-2023,Del Nayar,Centro de Salud Rural,IMSS,76.0,M,,173.0,31.1,166,85,120,141,77,13.8,No,Sí,No,No,Sí,Sedentario,4,8,Primaria incompleta,Empleado/a,1
+NAY-00516,13/05/2024,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,14.0,M,85.8,,29.0,124,63,128,166,248,13.0,Sí,No,0,No,No,Moderado,2,10,Secundaria,Estudiante,0
+NAY-00693,25-03-2024,Compostela,Consultorio ISSSTE,Sin seguro,86.0,femenino,70.0,158.0,28.0,144,102,4.1,224,124,11.8,No,Sí,No,No,No,Moderado,6,4,Preparatoria / Bachillerato,Ama de casa,1
+NAY-00481,2024/03/12,Huajicori,Centro de Salud Rural,Sin seguro,30.0,F,84.7,161.0,,115,76,7.6,217,50,,Sí,Sí,No,No,No,Activo,2,0,Licenciatura,Comerciante,1
+NAY-00284,07/09/2023,Ruiz,Clínica IMSS,Sin seguro,47.0,F,43.7,157.0,,138,92,69,203,218,11.6,No,Sí,No,Sí,No,Activo,,5,,Ama de casa,0
+NAY-00850,25/01/2024,Del Nayar,Hospital General,ISSSTE,57.0,Masculino,78.7,151.0,34.5,132,86,140,213,241,14.8,Sí,No,No,No,No,Moderado,4,0,Preparatoria / Bachillerato,Ama de casa,0
+NAY-00661,15/09/2024,Bahía de Banderas,Hospital General,Sin seguro,20.0,M,82.8,165.0,18.5,147,84,150,157,93,15.2,Sí,Sí,No,No,1,Moderado,1,2,Primaria incompleta,Profesionista,0
+NAY-00226,21/01/2024,Rosamorada,Clínica IMSS,Sin seguro,31.0,M,84.0,,28.4,114,67,100,130,220,13.5,No,no,No,Sí,No,Sedentario,2,7,Sin escolaridad,Empleado/a,0
+NAY-00027,29/03/2023,Tepic,Centro de Salud Rural,ISSSTE,40.0,F,66.3,170.0,22.9,151,80,93,159,174,14.5,No,Sí,NEGATIVO,No,False,Moderado,1,3,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00790,2023/04/21,Huajicori,Centro de Salud Rural,Sin seguro,6.0,F,,152.0,29.1,123,72,160,221,100,15.0,Sí,No,No,No,no,Activo,0,9,Primaria completa,Desempleado/a,0
+NAY-00438,27/01/2023,Bahía de Banderas,Consultorio ISSSTE,ISSSTE,85.0,masculino,81.3,,24.0,169,81,121,193,144,14.6,No,Sí,No,No,Sí,Sedentario,1,9,Preparatoria / Bachillerato,Ama de casa,1
+NAY-00960,2023/06/02,Rosamorada,Consultorio ISSSTE,Sin seguro,40.0,M,42.4,181.0,,125,67,104,263,,14.8,no,Sí,No,No,No,Sedentario,0,5,Posgrado,Empleado/a,0
+NAY-00365,03-31-2023,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,15.0,M,62.7,,22.5,101,78,110,191,207,14.0,No,No,No,Sí,No,Sedentario,0,10,Licenciatura,Comerciante,0
+NAY-00230,2023-10-23,Compostela,Consultorio ISSSTE,IMSS,20.0,FEMENINO,42.1,154.0,17.8,111,90,5.9,240,117,11.7,No,No,No,No,Sí,Sedentario,1,0,Primaria completa,Jubilado/a,1
+NAY-00038,05/03/2024,Bahía de Banderas,Centro de Salud Rural,Sin seguro,77.0,M,58.9,179.0,18.4,152,94,135,265,151,14.3,No,Sí,No,No,No,Moderado,4,8,Primaria incompleta,Empleado/a,1
+NAY-00976,21/01/2024,Bahía de Banderas,Clínica IMSS,Seguro Popular / Bienestar,24.0,F,71.3,153.0,30.5,131,63,174,169,,10.2,Sí,No,No,No,No,Moderado,2,10,Licenciatura,Agricultor/a,1
+NAY-00375,16/07/2024,Ahuacatlán,Consultorio ISSSTE,Sin seguro,82.0,F,70.9,147.0,32.8,155,96,188,179,50,11.9,Sí,Sí,No,No,No,Sedentario,3,10,Posgrado,Desempleado/a,1
+NAY-00470,15-07-2024,Santiago Ixcuintla,Unidad Médica Móvil,Particular,86.0,M,85.3,164.0,31.7,159,95,209,200,178,12.8,Sí,Sí,No,No,No,Sedentario,4,3,Posgrado,Comerciante,1
+NAY-00978,15/12/2024,Acaponeta,Centro de Salud Rural,Sin seguro,54.0,F,66.2,1.57,26.9,151,86,87,171,155,13.3,No,Sí,No,NEGATIVO,no,Moderado,1,3,Preparatoria / Bachillerato,Comerciante,0
+NAY-00859,06/01/2025,  Del Nayar  ,Unidad Médica Móvil,Seguro Popular / Bienestar,63.0,femenino,9,1.44,37.9,142,83,221,220,,10.9,Sí,Sí,No,NEGATIVO,No,Sedentario,0,2,Licenciatura,Agricultor/a,1
+NAY-00713,14/10/2023,Ruiz,Clínica IMSS,ISSSTE,68.0,f,76.7,155.0,31.9,147,87,127,178,191,11.8,Sí,Sí,No,No,No,Moderado,3,10,Primaria completa,Jornalero/a,1
+NAY-00733,10/05/2024,Ahuacatlán,Consultorio ISSSTE,Seguro Popular / Bienestar,85.0,M,61.0,175.0,19.9,137,97,69,179,73,,Sí,Sí,No,Sí,No,Sedentario,1,0,Primaria completa,Profesionista,1
+NAY-00195,2024/03/31,Tepic,Hospital General,IMSS,88.0,Fem,64.8,159.0,25.6,149,95,3.9,281,231,13.9,No,Sí,No,No,Sí,Moderado,1,11,,Estudiante,1
+NAY-00910,2023/12/09,Xalisco,Consultorio ISSSTE,Sin seguro,12.0,F,66.5,170.0,23.0,135,81,121,194,70,9.5,No,No,No,No,No,Moderado,0,11,Secundaria,Comerciante,0
+NAY-00873,04/09/2024,Bahía de Banderas,Clínica IMSS,IMSS,14.0,M,78.7,182.0,23.8,118,73,98,185,236,14.8,No,No,No,No,Sí,Sedentario,2,3,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00504,11/06/2023,Bahía de Banderas,Centro de Salud Rural,Seguro Popular / Bienestar,80.0,M,71.7,166.0,26.0,151/94,,64,236,295,13.9,NO,Sí,Sí,No,Sí,Sedentario,,7,Licenciatura,Estudiante,1
+NAY-00980,2023-04-25,Huajicori,Clínica IMSS,IMSS,54.0,M,,162.0,27.9,155,95,99,177,229,17.2,No,Sí,No,Sí,No,Sedentario,5,4,Técnico,Agricultor/a,0
+NAY-00883,03/12/2024,Ruiz,Unidad Médica Móvil,ISSSTE,44.0,F,85.3,1.59,33.7,146,84,91,256,55,13.6,No,Sí,No,No,No,Sedentario,0,4,ND,Ama de casa,1
+NAY-00580,03/07/2023,Tepic,Centro de Salud Rural,ISSSTE,13.0,M,79.1,169.0,27.7,130,67,84,199,165,15.0,No,No,No,No,Sí,Sedentario,1,0,Preparatoria / Bachillerato,Ama de casa,0
+NAY-00979,07-24-2023,  Tepic  ,Centro de Salud Rural,IMSS,35.0,F,61.6,160.0,24.1,138,74,115,159,,13.6,False,No,No,No,No,Activo,,10,Secundaria,Estudiante,0
+NAY-00163,2023-12-11,Acaponeta,Consultorio ISSSTE,IMSS,40.0,H,85.7,163.0,32.3,144,96,133,197,252,12.1,Sí,Sí,No,No,No,Sedentario,0,11,Técnico,Agricultor/a,0
+NAY-00709,16/03/2024,Bahía de Banderas,Hospital General,Seguro Popular / Bienestar,46.0,M,64.7,169.0,,134,71,118,196,169,13.1,No,NEGATIVO,No,Sí,No,Sedentario,2,4,Primaria completa,Estudiante,No
+NAY-00153,16/08/2023,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,84.0,F,57.8,155.0,24.1,145,90,85,225,272,11.7,No,Sí,No,No,No,Activo,1,4,Sin escolaridad,Estudiante,0
+NAY-00688,12-13-2024,Ahuacatlán,Clínica IMSS,Sin seguro,56.0,F,63.6,153.0,27.2,135,90,76,294,173,16.6,No,No,Sí,No,No,Sedentario,0,5,Secundaria,Ama de casa,1
+NAY-00707,05/05/2024,Tuxpan,Clínica IMSS,IMSS,5.0,FEMENINO,54.5,145.0,25.9,124,80,77,177,57,12.6,No,Sí,No,No,No,Moderado,2,7,Primaria completa,Estudiante,NO
+NAY-00763,19-04-2024,Del Nayar,Clínica IMSS,IMSS,87.0,M,76.2,195.0,20.0,151,94,99,159,62,14.7,POSITIVO,Sí,No,No,No,Moderado,2,7,Secundaria,Agricultor/a,1
+NAY-00112,2024/09/04,Tepic,Unidad Médica Móvil,Sin seguro,72.0,Mujer,72.7,169.0,25.5,144,98,104,120,107,,No,Sí,No,No,No,Moderado,1,5,Secundaria,Comerciante,1
+NAY-00227,2025/01/04,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,75.0,M,67.5,160.0,26.4,165,96,69,207,50,13.5,0,Sí,No,True,No,Moderado,4,10,,Jubilado/a,1
+NAY-00695,24/07/2023,Ruiz,Centro de Salud Rural,,12.0,F,57.7,163.0,21.7,136,89,104,203,50,14.3,No,No,No,No,1,Sedentario,1,6,,Ama de casa,1
+NAY-00104,27/05/2024,Tepic,Consultorio ISSSTE,Sin seguro,5.0,Mujer,85.2,156.0,35.0,110,75,126,195,230,13.1,Sí,No,No,Sí,0,Moderado,1,9,Secundaria,Agricultor/a,0
+NAY-00422,17/09/2024,Ahuacatlán,Hospital General,IMSS,65.0,F,75.7,160.0,29.6,143/87,,94,204,289,15.5,No,Sí,No,No,NEGATIVO,Sedentario,5,7,,Profesionista,Sí
+NAY-00420,01/01/2024,Bahía de Banderas,Unidad Médica Móvil,Seguro Popular / Bienestar,49.0,f,,150.0,31.0,152,87,170,252,71,13.3,Sí,Sí,No,Sí,Sí,Sedentario,0,4,Sin escolaridad,Jornalero/a,1
+NAY-00758,07-05-2023,Acaponeta,Consultorio ISSSTE,IMSS,38.0,F,79.5,166.0,28.9,128,80,121,125,307,12.3,No,No,No,No,No,Moderado,0,1,Técnico,Desempleado/a,0
+NAY-00587,17/09/2023,Ixtlán del Río,Hospital General,IMSS,64.0,F,70.8,164.0,26.3,153,92,112,235,,15.4,No,Sí,No,No,No,Activo,4,3,Primaria completa,Jornalero/a,NO
+NAY-00788,2024/02/17,Compostela,Centro de Salud Rural,ISSSTE,64.0,M,64.6,174.0,21.3,137/89,,92,192,66,,False,No,No,No,No,Activo,2,0,Primaria incompleta,Jornalero/a,0
+NAY-00673,27/12/2024,Del Nayar,Hospital General,IMSS,60.0,M,69.7,173.0,23.3,150,84,86,225,132,14.9,No,Sí,No,No,No,Activo,3,2,Primaria completa,Comerciante,No
+NAY-00120,18/01/2024,Tuxpan,Unidad Médica Móvil,IMSS,14.0,M,79.8,159.0,31.6,136,83,139,,174,14.5,Sí,No,No,No,No,Sedentario,2,4,Secundaria,Desempleado/a,1
+NAY-00054,22/10/2023,Ruiz,Consultorio ISSSTE,Sin seguro,45.0,F,74.7,153.0,31.9,133,84,146,184,100,10.7,Sí,No,No,NO,No,Sedentario,0,10,Técnico,Estudiante,1
+NAY-00152,06-02-2024,Xalisco,Unidad Médica Móvil,Sin seguro,29.0,Mujer,74.9,172.0,25.3,121/71,,85,,50,11.9,No,No,No,No,Sí,Sedentario,0,3,Primaria incompleta,Desempleado/a,0
+NAY-00404,03/10/2023,Ixtlán del Río,Consultorio ISSSTE,Sin seguro,89.0,F,101.7,162.0,,168,97,126,no aplica,260,10.5,Sí,Sí,No,Sí,No,Moderado,5,8,Técnico,Profesionista,1
+NAY-00954,18/01/2023,Tuxpan,Centro de Salud Rural,Seguro Popular / Bienestar,42.0,F,60.7,164.0,22.6,129,89,65,240,95,11.8,No,No,No,No,No,Sedentario,2,4,Primaria completa,Empleado/a,0
+NAY-00208,22-01-2023,Tepic,Centro de Salud Rural,IMSS,89.0,F,61.7,164.0,,152/97,,105,231,129,11.4,No,Sí,True,False,No,Moderado,2,4,SIN DATO,Jornalero/a,1
+NAY-00659,28/07/2024,Acaponeta,Centro de Salud Rural,IMSS,11.0,M,78.0,,29.0,118,74,94,280,,15.8,No,No,No,No,No,Moderado,1,7,Preparatoria / Bachillerato,Estudiante,0
+NAY-00852,09/12/2024,Tuxpan,Clínica IMSS,Sin seguro,74.0,F,72.8,,31.9,165,104,145,170,205,13.0,Sí,Sí,No,Sí,No,Moderado,6,8,Primaria completa,Comerciante,1
+NAY-00988,2024-02-23,Tepic,Unidad Médica Móvil,Sin seguro,32.0,M,68.6,170.0,23.7,129,90,84,,107,14.8,No,No,No,No,No,Moderado,1,6,Secundaria,Estudiante,1
+NAY-00009,12/02/2024,Del Nayar,Hospital General,Sin seguro,22.0,F,72.9,175.0,23.8,128/98,,95,166,157,14.2,No,Sí,No,No,Sí,Activo,1,7,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00909,03-04-2024,Tepic,Hospital General,IMSS,37.0,Fem,68.6,158.0,,124,93,81,256,125,15.2,No,Sí,No,No,NO,Moderado,1,9,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00037,13/10/2023,Acaponeta,Consultorio ISSSTE,Particular,79.0,F,63.5,155.0,26.4,145,90,115,,139,12.3,No,Sí,No,No,No,Moderado,6,7,Técnico,Empleado/a,1
+NAY-00453,06/01/2024,Huajicori,Hospital General,Sin seguro,48.0,MASCULINO,82.7,166.0,30.0,145,91,69,204,305,10.8,No,Sí,NO,NEGATIVO,No,Sedentario,2,3,Primaria completa,Comerciante,0
+NAY-00652,10/11/2023,Ahuacatlán,Centro de Salud Rural,Sin seguro,61.0,F,79.6,156.0,14.0,145,97,169,154,162,14.4,Sí,Sí,No,No,No,Moderado,6,1,Secundaria,Empleado/a,1
+NAY-00254,09/07/2023,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,33.0,M,73.4,171.0,,156/74,,97,187,192,14.6,No,Sí,No,1,No,Moderado,0,8,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00304,02-06-2024,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,82.0,F,75.7,169.0,26.5,172,102,81,237,59,,No,Sí,No,No,NO,Sedentario,3,2,Técnico,Estudiante,0
+NAY-00754,2024/05/15,Tepic,Centro de Salud Rural,IMSS,86.0,FEMENINO,52.7,155.0,21.9,154,87,119,209,141,13.3,NO,Sí,No,No,No,Sedentario,0,4,Técnico,Empleado/a,0
+NAY-00572,11/01/2023,Compostela,Hospital General,IMSS,41.0,Femenino,71.9,164.0,26.7,151,96,143,218,212,12.3,No,Sí,No,False,Sí,Sedentario,1,10,Licenciatura,Ama de casa,0
+NAY-00624,17/11/2024,  Compostela  ,Centro de Salud Rural,Seguro Popular / Bienestar,41.0,M,,167.0,27.7,124/90,,132,200,67,,Sí,No,No,No,Sí,Moderado,2,11,Técnico,Empleado/a,0
+NAY-00717,19/04/2024,Del Nayar,Hospital General,Seguro Popular / Bienestar,50.0,M,81.7,,27.3,131,88,94,187,169,13.5,No,No,No,No,No,Sedentario,0,8,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00905,05/04/2023,  Santiago Ixcuintla  ,Consultorio ISSSTE,Sin seguro,44.0,M,110.4,153.0,,143,90,150,149,50,14.8,True,POSITIVO,No,No,Sí,Sedentario,1,1,Primaria incompleta,Jubilado/a,1
+NAY-00263,27/12/2024,Compostela,Consultorio ISSSTE,Sin seguro,31.0,M,65.7,177.0,21.0,127,74,103,117,198,13.4,No,No,NO,No,No,Sedentario,0,8,Primaria completa,Jubilado/a,0
+NAY-00611,21/11/2023,Tepic,Unidad Médica Móvil,Sin seguro,77.0,Hombre,70.2,,24.9,139/91,,111,,193,13.3,No,Sí,No,No,No,Moderado,1,8,Licenciatura,,1
+NAY-00298,13/11/2023,Ixtlán del Río,Unidad Médica Móvil,Particular,43.0,masculino,106.7,160.0,,142,79,149,261,252,12.3,Sí,Sí,No,No,No,Moderado,2,11,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00415,15/06/2023,Acaponeta,Unidad Médica Móvil,Sin seguro,6.0,F,66.4,151.0,,107,67,93,226,50,11.2,No,No,No,No,si,Sedentario,1,1,Técnico,Desempleado/a,0
+NAY-00151,22/02/2023,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,79.0,M,79.0,175.0,24.6,160,70,139,145,145,12.2,no,Sí,No,No,no,Moderado,2,11,Secundaria,Ama de casa,0
+NAY-00984,27/08/2024,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,61.0,M,85.4,162.0,32.5,146,80,151,146,276,15.7,Sí,Sí,No,No,No,Moderado,2,1,Técnico,Jornalero/a,1
+NAY-00641,07/02/2023,Tepic,Consultorio ISSSTE,Sin seguro,63.0,M,78.6,175.0,25.7,141,97,124,161,238,14.5,No,Sí,No,False,Sí,Sedentario,0,9,Secundaria,Agricultor/a,1
+NAY-00938,29/07/2023,Ruiz,Unidad Médica Móvil,Seguro Popular / Bienestar,17.0,F,61.9,166.0,22.5,108/84,,76,209,126,13.4,No,NEGATIVO,No,False,No,Sedentario,1,4,Primaria completa,Jornalero/a,0
+NAY-00551,02/08/2024,Del Nayar,Unidad Médica Móvil,Particular,74.0,F,93.3,163.0,58.4,138,80,156,228,198,13.3,Sí,Sí,No,No,NEGATIVO,Sedentario,3,6,Licenciatura,Jornalero/a,1
+NAY-00799,07-13-2023,Del Nayar,Unidad Médica Móvil,Sin seguro,32.0,F,54.5,148.0,24.9,118,91,63,225,147,15.1,No,Sí,No,No,No,Sedentario,2,2,Primaria completa,Desempleado/a,0
+NAY-00489,05/07/2023,Xalisco,Hospital General,Seguro Popular / Bienestar,71.0,Masculino,,170.0,21.7,155,98,87,239,50,13.3,No,Sí,No,No,No,Sedentario,4,8,Sin escolaridad,Estudiante,1
+NAY-00711,26/12/2023,Ruiz,Hospital General,Sin seguro,64.0,F,77.8,163.0,29.3,160,87,74,192,252,14.6,No,Sí,No,No,No,Sedentario,6,0,Técnico,Jornalero/a,0
+NAY-00148,07/12/2023,Rosamorada,Clínica IMSS,Seguro Popular / Bienestar,25.0,F,62.6,167.0,,126,77,68,232,277,10.8,No,No,No,No,Sí,Moderado,0,1,Licenciatura,Desempleado/a,Sí
+NAY-00147,30/07/2023,Tepic,Clínica IMSS,Sin seguro,8.0,M,82.1,157.0,,121,77,133,237,243,13.6,Sí,No,No,Sí,No,Moderado,0,8,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00854,06-05-2023,Ruiz,Clínica IMSS,Sin seguro,25.0,M,75.8,172.0,25.6,132,80,90,238,179,13.3,No,No,No,No,No,Sedentario,,2,Primaria completa,Comerciante,0
+NAY-00940,11-04-2023,Xalisco,Hospital General,Seguro Popular / Bienestar,49.0,F,59.1,166.0,21.4,142/82,,95,225,,,No,Sí,No,No,Sí,Sedentario,1,6,Secundaria,Empleado/a,0
+NAY-00747,04-23-2023,Ahuacatlán,Consultorio ISSSTE,IMSS,51.0,Femenino,70.8,148.0,32.3,156,97,95,186,51,15.0,Sí,Sí,No,No,No,Moderado,2,5,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00660,04/09/2023,Tepic,Consultorio ISSSTE,Particular,30.0,F,50.0,163.0,18.8,120,66,79,211,184,11.0,No,No,No,No,False,Sedentario,1,6,Primaria incompleta,Agricultor/a,0
+NAY-00349,2023-03-11,Tepic,Hospital General,Sin seguro,20.0,H,75.6,169.0,26.5,119,84,102,204,104,15.7,No,no,No,SI,No,Moderado,1,6,Secundaria,Ama de casa,0
+NAY-00464,2024/05/26,Santiago Ixcuintla,Hospital General,Sin seguro,41.0,M,90.8,175.0,29.6,124,92,101,217,86,15.0,si,Sí,No,no,No,Moderado,,5,Secundaria,Profesionista,0
+NAY-00326,27/12/2024,San Blas,Centro de Salud Rural,Sin seguro,25.0,M,,1.6,35.9,150,74,226,201,50,15.1,Sí,Sí,No,No,No,Sedentario,0,9,Preparatoria / Bachillerato,Estudiante,1
+NAY-00187,12/07/2024,Bahía de Banderas,Centro de Salud Rural,ISSSTE,19.0,masculino,73.3,1.81,,107,70,92,146,191,14.5,No,No,No,No,No,Sedentario,0,3,Primaria completa,Agricultor/a,0
+NAY-00124,16/08/2023,Tepic,Consultorio ISSSTE,IMSS,45.0,M,65.2,1.7,22.6,123,85,71,138,288,17.7,No,No,No,No,No,Sedentario,,8,Secundaria,Comerciante,0
+NAY-00862,01/03/2023,Tuxpan,Clínica IMSS,IMSS,85.0,M,92.6,171.0,31.7,155,84,134,182,66,17.1,Sí,Sí,No,No,No,Activo,2,8,Secundaria,Empleado/a,1
+NAY-00609,02-23-2024,Rosamorada,Clínica IMSS,Particular,89.0,Fem,89.9,1.53,22.9,152,96,165,201,,11.2,Sí,Sí,No,Sí,No,Sedentario,5,11,Primaria completa,Comerciante,1
+NAY-00144,29/03/2023,Santiago Ixcuintla,Centro de Salud Rural,Seguro Popular / Bienestar,40.0,M,,182.0,16.6,132,81,94,199,136,13.3,No,NO,No,Sí,No,Moderado,0,0,Preparatoria / Bachillerato,Estudiante,0
+NAY-00969,03/11/2023,Bahía de Banderas,Consultorio ISSSTE,IMSS,85.0,F,,165.0,26.3,170,92,209,219,124,15.7,Sí,Sí,No,0,POSITIVO,Activo,,11,Secundaria,Jubilado/a,1
+NAY-00198,06/04/2024,Huajicori,Centro de Salud Rural,Sin seguro,15.0,FEMENINO,53.6,158.0,21.5,116,74,64,227,319,11.4,No,No,False,Sí,No,Sedentario,2,0,Primaria incompleta,Desempleado/a,0
+NAY-00610,11/08/2023,Xalisco,Hospital General,ISSSTE,79.0,m,72.3,152.0,31.3,145,95,195,285,250,,Sí,Sí,True,No,No,Sedentario,2,5,Primaria completa,Agricultor/a,1
+NAY-00280,24/01/2024,Ixtlán del Río,Consultorio ISSSTE,Seguro Popular / Bienestar,12.0,F,81.7,158.0,32.7,136,71,162,232,,12.4,Sí,No,NO,No,No,Sedentario,2,7,Licenciatura,Jubilado/a,1
+NAY-00294,29/09/2023,Tepic,Hospital General,IMSS,33.0,Masculino,67.1,176.0,21.7,139,84,81,219,65,,No,No,No,No,No,Sedentario,2,10,Secundaria,Empleado/a,1
+NAY-00401,2024-07-01,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,91.0,M,84.2,160.0,32.9,173,95,96,201,181,11.5,No,1,No,No,Sí,Moderado,5,2,Técnico,,1
+NAY-00123,28/11/2023,San Blas,Unidad Médica Móvil,Particular,61.0,F,64.0,159.0,25.3,158,87,75,224,120,14.9,No,Sí,No,0,No,Sedentario,4,7,Técnico,Profesionista,0
+NAY-00184,12/11/2023,Santiago Ixcuintla,Clínica IMSS,ISSSTE,65.0,M,84.1,165.0,30.9,165,80,5.9,214,178,9.3,No,1,NEGATIVO,Sí,No,Moderado,6,10,Primaria incompleta,Profesionista,1
+NAY-00203,05/05/2024,Acaponeta,Consultorio ISSSTE,Particular,48.0,M,73.6,167.0,26.4,135/62,,99,185,241,13.8,No,No,No,No,No,Sedentario,0,10,Licenciatura,Comerciante,0
+NAY-00439,18/06/2023,Del Nayar,Clínica IMSS,,12.0,FEMENINO,,160.0,21.3,123,67,93,253,166,12.7,No,No,No,No,No,Moderado,1,7,Secundaria,Estudiante,1
+NAY-00247,25/11/2024,Compostela,Centro de Salud Rural,Sin seguro,70.0,M,68.7,169.0,24.1,156,84,91,209,50,13.0,No,Sí,No,Sí,No,Moderado,6,8,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00416,03/07/2024,Tepic,Consultorio ISSSTE,ISSSTE,63.0,F,38.1,155.0,15.9,149,89,74,127,,11.5,No,Sí,No,No,No,Moderado,4,1,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00784,08/11/2023,Ixtlán del Río,Consultorio ISSSTE,ISSSTE,15.0,F,68.1,164.0,25.3,134/58,,111,193,,13.0,No,No,No,Sí,No,Activo,2,1,Secundaria,Comerciante,0
+NAY-00868,14/08/2024,Santiago Ixcuintla,Centro de Salud Rural,IMSS,77.0,MASCULINO,95.6,174.0,,149,88,150,181,124,18.0,Sí,Sí,No,Sí,No,Moderado,5,9,Licenciatura,Empleado/a,1
+NAY-00915,07/01/2025,Ruiz,Hospital General,Particular,56.0,M,70.0,177.0,22.3,132,82,113,278,136,12.8,No,No,No,0,No,Moderado,3,0,Secundaria,Agricultor/a,0
+NAY-00931,07/08/2024,San Blas,Unidad Médica Móvil,Particular,51.0,f,,,48.7,133,72,89,230,176,12.8,Sí,No,No,NEGATIVO,No,Sedentario,5,9,Licenciatura,Jornalero/a,1
+NAY-00896,09/09/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,58.0,M,44.4,164.0,16.5,134,74,86,186,,14.8,No,No,No,No,No,Sedentario,4,3,Técnico,Comerciante,0
+NAY-00130,13/11/2024,Acaponeta,Centro de Salud Rural,Seguro Popular / Bienestar,60.0,F,72.5,155.0,30.2,135,88,219,214,170,15.1,Sí,Sí,No,No,No,Moderado,5,3,Sin escolaridad,Comerciante,1
+NAY-00638,11/10/2024,Tuxpan,Consultorio ISSSTE,IMSS,30.0,M,63.7,177.0,20.3,117/78,,117,181,,14.7,No,No,No,No,No,Activo,2,2,Secundaria,Jubilado/a,0
+NAY-00403,23/12/2024,  Tepic  ,Clínica IMSS,IMSS,32.0,M,94.8,161.0,36.6,126,97,99,198,110,14.8,No,Sí,No,No,No,Moderado,1,0,Primaria incompleta,Desempleado/a,1
+NAY-00895,04-18-2024,Tepic,Unidad Médica Móvil,IMSS,70.0,F,60.9,158.0,24.4,162,89,4.1,171,73,10.7,No,Sí,No,No,No,Sedentario,4,9,Primaria completa,Empleado/a,1
+NAY-00778,08/09/2023,Acaponeta,Clínica IMSS,IMSS,15.0,M,73.7,172.0,24.9,109,77,109,241,,14.8,No,No,No,0,No,Sedentario,0,10,Primaria completa,Jubilado/a,0
+NAY-00736,06/05/2024,Rosamorada,Hospital General,Seguro Popular / Bienestar,63.0,Masculino,49.0,163.0,18.4,138,94,89,215,120,14.1,False,Sí,No,No,No,Sedentario,6,10,Secundaria,Agricultor/a,0
+NAY-00922,18/08/2024,  Tepic  ,Consultorio ISSSTE,Sin seguro,54.0,F,,153.0,,133,80,106,174,205,9.5,No,No,No,No,No,Moderado,0,9,Preparatoria / Bachillerato,Agricultor/a,1
+NAY-00220,04/04/2024,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,83.0,FEMENINO,70.4,150.0,31.3,165,107,110,247,159,12.6,si,Sí,Sí,No,No,Moderado,4,5,Primaria completa,Desempleado/a,1
+NAY-00642,03/07/2024,Ahuacatlán,Clínica IMSS,ISSSTE,84.0,F,58.7,169.0,20.6,143,78,104,156,153,9.6,Sí,POSITIVO,NO,No,No,Moderado,3,0,,Jornalero/a,1
+NAY-00924,2024-02-17,Ixtlán del Río,Centro de Salud Rural,IMSS,17.0,M,67.8,164.0,25.2,111,74,97,267,201,13.5,No,No,No,No,No,Sedentario,0,11,Secundaria,Jornalero/a,0
+NAY-00760,30/05/2023,Rosamorada,Centro de Salud Rural,Seguro Popular / Bienestar,68.0,f,77.0,162.0,29.3,141,82,85,201,107,12.5,Sí,Sí,No,No,NEGATIVO,Sedentario,3,1,Licenciatura,,1
+NAY-00815,12/06/2024,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,72.0,m,76.8,173.0,25.7,147,80,89,184,,12.9,No,Sí,No,NEGATIVO,No,Sedentario,4,4,Técnico,Desempleado/a,1
+NAY-00928,10/03/2024,Acaponeta,Centro de Salud Rural,IMSS,31.0,M,84.4,175.0,27.6,115,82,81,198,101,15.2,No,No,No,No,Sí,Moderado,2,3,Posgrado,Profesionista,0
+NAY-00625,12/11/2024,Del Nayar,Centro de Salud Rural,Sin seguro,57.0,M,,178.0,28.2,132,93,87,174,,,No,Sí,No,No,No,Activo,5,3,Licenciatura,Profesionista,0
+NAY-00847,09/05/2023,Ruiz,Centro de Salud Rural,IMSS,-5,M,,172.0,34.5,111,83,83,175,135,12.3,Sí,No,NEGATIVO,No,No,Activo,0,5,Secundaria,,1
+NAY-00768,09/02/2024,Bahía de Banderas,Hospital General,IMSS,46.0,F,64.2,156.0,,145,88,79,147,149,,No,Sí,NO,No,No,Moderado,0,9,Secundaria,Desempleado/a,0
+NAY-00387,07/04/2024,San Blas,Hospital General,Sin seguro,10.0,M,75.5,169.0,26.4,130,74,92,245,,12.5,No,No,No,No,No,Moderado,1,4,Secundaria,Jornalero/a,0
+NAY-00983,24/09/2023,  Tepic  ,Hospital General,Seguro Popular / Bienestar,52.0,F,65.8,163.0,24.8,151,88,72,129,86,13.0,No,SI,no,No,No,Sedentario,1,5,,Estudiante,0
+NAY-00510,14/11/2023,Tepic,Centro de Salud Rural,IMSS,25.0,M,86.2,162.0,,146/90,,204,234,320,14.8,Sí,Sí,No,Sí,No,Sedentario,0,5,Preparatoria / Bachillerato,Estudiante,SI
+NAY-00268,12/11/2024,Acaponeta,Clínica IMSS,IMSS,35.0,m,67.6,175.0,22.1,124,78,82,,155,14.3,No,No,No,No,No,Moderado,0,2,Sin escolaridad,Comerciante,0
+NAY-00828,04/04/2024,Bahía de Banderas,Hospital General,Sin seguro,83.0,f,77.9,153.0,,148,106,170,214,208,14.5,Sí,1,No,No,No,Sedentario,3,7,Secundaria,Estudiante,1
+NAY-00442,21/03/2024,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,31.0,F,48.1,158.0,19.3,122,89,64,SIN DATO,236,12.3,Sí,No,No,No,Sí,Sedentario,2,2,Primaria incompleta,Estudiante,1
+NAY-00497,07/06/2024,Tepic,Hospital General,,15.0,Fem,71.4,159.0,28.2,115/75,,55,219,169,14.8,No,No,No,No,No,Sedentario,,0,Técnico,Jornalero/a,1
+NAY-00113,25/10/2023,Xalisco,Centro de Salud Rural,Sin seguro,53.0,F,82.7,1.6,32.3,128,99,118,,135,13.4,No,Sí,No,No,Sí,Activo,5,8,Licenciatura,Agricultor/a,0
+NAY-00692,09/01/2024,  Xalisco  ,Clínica IMSS,IMSS,74.0,M,85.2,182.0,25.7,141,94,91,234,251,13.2,No,Sí,No,0,No,Moderado,2,9,Técnico,Profesionista,1
+NAY-00233,07/05/2023,Tuxpan,Hospital General,Sin seguro,6.0,M,55.7,,23.5,114,65,92,219,222,16.5,No,No,No,No,No,Sedentario,0,6,Primaria incompleta,Profesionista,0
+NAY-00878,18/08/2023,Huajicori,Centro de Salud Rural,IMSS,69.0,F,70.9,164.0,,133,80,77,211,?,10.1,No,No,No,Sí,no,Sedentario,6,11,Licenciatura,Profesionista,1
+NAY-00608,23/02/2024,  Santiago Ixcuintla  ,Hospital General,,49.0,H,380,169.0,,145,67,125,157,88,13.5,No,Sí,No,No,No,Sedentario,0,11,Primaria incompleta,Jubilado/a,0
+NAY-00672,23/07/2023,  Ahuacatlán  ,Clínica IMSS,Sin seguro,58.0,F,,158.0,22.8,141,86,79,192,50,14.0,No,Sí,No,No,False,Sedentario,5,0,Primaria completa,,1
+NAY-00374,31/01/2024,Compostela,Clínica IMSS,Particular,37.0,Masculino,80.8,164.0,30.0,127,74,124,,131,14.3,No,No,No,No,No,Sedentario,2,4,,Agricultor/a,0
+NAY-00992,21/09/2023,Ruiz,Unidad Médica Móvil,Seguro Popular / Bienestar,52.0,F,73.5,152.0,31.8,146,78,120,,,11.8,No,Sí,No,No,Sí,Sedentario,0,6,Secundaria,Empleado/a,1
+NAY-00851,14/05/2024,Bahía de Banderas,Hospital General,Particular,90.0,F,58.9,151.0,25.8,162,85,96,189,201,14.0,No,Sí,No,No,No,Moderado,6,10,Posgrado,Empleado/a,1
+NAY-00234,2023-05-14,Rosamorada,Hospital General,IMSS,70.0,M,67.6,159.0,26.7,162,93,86,287,286,17.8,No,True,No,No,No,Sedentario,2,6,Sin escolaridad,Jubilado/a,0
+NAY-00793,13/03/2024,  Acaponeta  ,Unidad Médica Móvil,Sin seguro,67.0,F,48.1,170.0,16.6,150,76,108,265,208,11.9,Sí,Sí,Sí,Sí,Sí,Moderado,5,2,Licenciatura,Empleado/a,1
+NAY-00677,18/12/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,55.0,M,78.5,181.0,24.0,129,78,87,157,,14.7,No,No,No,No,No,Moderado,1,5,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00318,15/06/2024,Ruiz,Consultorio ISSSTE,Sin seguro,68.0,Fem,59.4,149.0,26.8,148,87,4.0,219,58,13.0,No,Sí,No,No,No,Moderado,2,9,Secundaria,Estudiante,1
+NAY-00649,15/10/2023,Rosamorada,Consultorio ISSSTE,Sin seguro,88.0,F,49.5,156.0,20.3,165,94,99,181,228,10.1,No,Sí,NEGATIVO,No,No,Sedentario,6,8,Preparatoria / Bachillerato,Jornalero/a,1
+NAY-00411,26/05/2024,Xalisco,Hospital General,Sin seguro,20.0,F,42.9,150.0,19.1,122,75,124,165,123,13.0,NEGATIVO,No,No,0,No,Sedentario,,5,Licenciatura,Jubilado/a,0
+NAY-00907,21/11/2023,  Huajicori  ,Centro de Salud Rural,Particular,40.0,F,65.4,154.0,27.6,152,79,110,197,73,14.2,Sí,Sí,No,si,No,Activo,1,6,Primaria completa,Desempleado/a,1
+NAY-00710,07/04/2024,Del Nayar,Hospital General,Seguro Popular / Bienestar,45.0,masculino,66.4,174.0,21.9,154,96,113,182,140,14.3,No,Sí,NEGATIVO,No,No,Activo,1,11,,Ama de casa,0
+NAY-00359,2024/01/25,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,12.0,M,81.8,182.0,,125,77,92,185,250,12.4,No,No,No,Sí,Sí,Moderado,1,0,Secundaria,Comerciante,0
+NAY-00259,19/02/2023,Tuxpan,Consultorio ISSSTE,ISSSTE,20.0,M,83.5,174.0,27.6,136,63,123,212,91,11.0,No,No,No,SI,No,Sedentario,1,9,Preparatoria / Bachillerato,Profesionista,0
+NAY-00745,16/07/2024,Tepic,Clínica IMSS,Particular,74.0,MASCULINO,90.1,181.0,27.5,149,85,4.8,262,170,14.0,No,Sí,Sí,No,Sí,Moderado,0,5,Licenciatura,Profesionista,1
+NAY-00628,16/10/2024,Ahuacatlán,Centro de Salud Rural,Particular,36.0,FEMENINO,54.1,153.0,23.1,137,75,83,192,SIN DATO,14.3,Sí,No,No,Sí,No,Sedentario,2,10,Preparatoria / Bachillerato,Ama de casa,1
+NAY-00633,24/07/2024,Del Nayar,Hospital General,Sin seguro,42.0,Masculino,76.8,164.0,28.6,133/90,,117,203,160,13.5,No,No,No,No,No,Sedentario,,11,Primaria incompleta,Profesionista,0
+NAY-00283,05/12/2024,Bahía de Banderas,Hospital General,IMSS,63.0,M,82.1,156.0,33.7,154,83,58,149,,14.8,No,Sí,No,No,No,Moderado,,7,Primaria incompleta,Profesionista,0
+NAY-00377,22/02/2023,Tepic,Unidad Médica Móvil,Particular,69.0,masculino,78.1,175.0,,156,91,98,170,124,11.6,0,Sí,No,No,No,Moderado,1,9,Secundaria,Ama de casa,0
+NAY-00385,02/04/2024,Tepic,Consultorio ISSSTE,Sin seguro,7.0,M,56.7,171.0,41.9,129,71,121,,,16.2,No,0,No,Sí,No,Moderado,0,1,Secundaria,Comerciante,1
+NAY-00225,01/08/2024,Bahía de Banderas,Centro de Salud Rural,Sin seguro,67.0,M,66.0,162.0,25.1,135,85,141,166,122,11.1,No,No,No,No,Sí,Moderado,6,11,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00964,08/06/2024,Tepic,Hospital General,Particular,23.0,M,68.9,164.0,25.6,128,80,110,,57,13.3,No,No,NEGATIVO,False,Sí,Sedentario,2,9,Secundaria,Comerciante,0
+NAY-00823,08/09/2023,Santiago Ixcuintla,Hospital General,IMSS,16.0,H,90.5,176.0,29.2,131,88,106,173,155,,No,No,No,Sí,No,Activo,2,11,Secundaria,Comerciante,0
+NAY-00473,08/06/2024,Xalisco,Unidad Médica Móvil,Particular,42.0,M,62.9,173.0,21.0,129,82,75,185,102,13.5,No,No,No,No,No,Moderado,2,1,Técnico,Empleado/a,0
+NAY-00348,02/01/2025,Ruiz,Hospital General,Sin seguro,86.0,F,42.0,154.0,,148,82,90,,136,15.1,No,True,No,No,NEGATIVO,Moderado,0,4,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00506,2024/10/17,Rosamorada,Centro de Salud Rural,Sin seguro,44.0,M,81.8,164.0,30.4,150,87,103,186,,15.1,No,Sí,No,No,No,Sedentario,1,9,Secundaria,Jornalero/a,1
+NAY-00640,22/03/2024,Compostela,Centro de Salud Rural,Seguro Popular / Bienestar,87.0,Mujer,72.1,151.0,56.9,158,96,11.7,174,286,12.9,Sí,Sí,No,No,No,Sedentario,4,8,Licenciatura,Desempleado/a,1
+NAY-00998,22/02/2024,Ahuacatlán,Consultorio ISSSTE,IMSS,36.0,Femenino,53.7,167.0,,130,74,107,204,278,13.9,No,No,No,No,No,Sedentario,1,1,Licenciatura,Agricultor/a,0
+NAY-00798,01/07/2024,Del Nayar,Unidad Médica Móvil,Sin seguro,44.0,M,78.5,179.0,24.5,135,77,111,271,140,15.1,No,No,No,No,No,Sedentario,2,1,Licenciatura,Estudiante,0
+NAY-00937,2024-05-18,Ixtlán del Río,Clínica IMSS,Particular,18.0,H,68.8,171.0,23.5,134,81,146,212,202,11.8,No,Sí,no,Sí,No,Moderado,0,1,Secundaria,Desempleado/a,1
+NAY-00914,01/10/2024,Santiago Ixcuintla,Centro de Salud Rural,ISSSTE,90.0,F,58.0,154.0,24.5,156,85,99,172,252,13.9,no,Sí,0,No,No,Sedentario,1,7,Técnico,Profesionista,0
+NAY-00620,13/05/2024,Tuxpan,Hospital General,Sin seguro,17.0,F,77.6,153.0,33.1,113,83,239,200,252,13.3,Sí,no,No,No,No,Moderado,1,6,Licenciatura,Estudiante,1
+NAY-00864,08-09-2023,Tepic,Unidad Médica Móvil,Sin seguro,72.0,M,75.2,171.0,,143,95,85,239,307,15.7,No,Sí,No,No,Sí,Sedentario,6,2,,Comerciante,1
+NAY-00812,2023-04-07,  Tepic  ,Unidad Médica Móvil,Seguro Popular / Bienestar,81.0,F,61.1,166.0,22.2,129,94,91,179,,12.0,No,Sí,No,si,No,Sedentario,2,10,Primaria completa,Desempleado/a,1
+NAY-00646,04/05/2023,Tepic,Clínica IMSS,Sin seguro,33.0,m,67.8,176.0,21.9,130,78,103,123,231,15.5,No,No,No,Sí,No,Sedentario,0,5,Preparatoria / Bachillerato,Jubilado/a,0
+NAY-00855,25/01/2023,Tepic,Unidad Médica Móvil,IMSS,30.0,FEMENINO,78.0,158.0,31.2,150,78,116,157,58,13.3,No,Sí,No,No,No,Moderado,,11,no aplica,Empleado/a,0
+NAY-00557,14/11/2023,Acaponeta,Consultorio ISSSTE,IMSS,69.0,F,57.4,151.0,25.2,156,99,87,,167,13.1,No,Sí,No,No,No,Moderado,,10,Sin escolaridad,Jornalero/a,1
+NAY-00968,11/06/2023,Ahuacatlán,Hospital General,ISSSTE,32.0,M,66.9,159.0,26.5,119,78,95,199,221,15.1,No,No,No,0,No,Sedentario,0,11,Licenciatura,Comerciante,0
+NAY-00578,03-20-2024,Ixtlán del Río,Centro de Salud Rural,Sin seguro,50.0,F,63.8,153.0,27.3,144,78,122,168,66,11.7,no,Sí,No,Sí,Sí,Moderado,2,9,Posgrado,Ama de casa,1
+NAY-00796,2024-02-26,Del Nayar,Unidad Médica Móvil,Sin seguro,30.0,Hombre,58.4,178.0,18.4,134,75,70,209,197,14.4,No,Sí,No,Sí,No,Sedentario,1,9,Técnico,Agricultor/a,1
+NAY-00086,18/02/2023,San Blas,Centro de Salud Rural,Seguro Popular / Bienestar,65.0,F,59.2,158.0,23.7,160,86,80,232,,12.5,No,Sí,Sí,No,No,Sedentario,1,9,Preparatoria / Bachillerato,Jubilado/a,0
+NAY-00243,2023-05-08,Del Nayar,Unidad Médica Móvil,ISSSTE,13.0,Fem,75.0,145.0,35.7,133,69,55,218,84,12.9,No,No,no,No,No,Sedentario,2,2,Técnico,Jubilado/a,0
+NAY-00699,09-04-2024,  Bahía de Banderas  ,Centro de Salud Rural,ISSSTE,9.0,M,84.5,178.0,26.7,110,77,4.6,191,342,12.5,No,No,No,No,No,Activo,1,10,Primaria incompleta,,0
+NAY-00160,28/08/2023,Acaponeta,Centro de Salud Rural,Sin seguro,73.0,Hombre,64.4,168.0,22.8,151,83,95,207,188,14.6,Sí,Sí,No,No,No,Sedentario,6,1,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00525,15-06-2023,Tepic,Clínica IMSS,IMSS,32.0,F,49.1,148.0,22.4,103,71,102,231,85,13.1,No,No,No,No,No,Moderado,0,1,Licenciatura,Ama de casa,0
+NAY-00036,08-27-2023,Ixtlán del Río,Consultorio ISSSTE,Particular,10.0,M,59.5,170.0,20.6,120,58,90,no aplica,,16.3,No,Sí,No,No,No,Sedentario,1,11,Licenciatura,Profesionista,0
+NAY-00541,2023/12/26,Huajicori,Clínica IMSS,Sin seguro,66.0,M,68.7,172.0,,146,75,97,202,,13.9,No,Sí,No,No,No,Sedentario,2,6,Secundaria,,0
+NAY-00171,02-01-2024,Acaponeta,Clínica IMSS,Seguro Popular / Bienestar,14.0,M,57.9,176.0,18.7,98,77,99,223,203,13.3,No,No,No,Sí,No,Moderado,2,7,Técnico,Profesionista,0
+NAY-00655,2023/08/04,Acaponeta,Hospital General,IMSS,53.0,F,68.4,170.0,23.7,142,72,114,,111,13.9,No,Sí,No,No,NO,Sedentario,4,2,Primaria completa,Profesionista,0
+NAY-00899,29/11/2023,Tuxpan,Consultorio ISSSTE,IMSS,11.0,Femenino,52.8,155.0,,130,64,103,234,68,13.3,No,No,No,No,No,Sedentario,2,6,Primaria completa,Agricultor/a,0
+NAY-00866,09/06/2023,Xalisco,Unidad Médica Móvil,Particular,65.0,F,68.4,169.0,,169,97,129,150,221,10.0,0,Sí,No,Sí,No,Sedentario,5,9,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00856,21/03/2024,Bahía de Banderas,Centro de Salud Rural,Sin seguro,78.0,M,80.1,170.0,27.7,171,90,99,163,155,14.5,No,Sí,No,No,No,Sedentario,0,3,Secundaria,Jornalero/a,0
+NAY-00953,18/02/2024,Santiago Ixcuintla,Unidad Médica Móvil,IMSS,58.0,F,66.6,154.0,28.1,133,83,83,,120,,No,No,No,No,No,Activo,1,5,Primaria incompleta,Comerciante,0
+NAY-00734,07/02/2024,Tepic,Centro de Salud Rural,Particular,72.0,F,50.8,162.0,19.4,142,78,95,212,261,,Sí,Sí,No,No,No,Activo,2,11,Preparatoria / Bachillerato,Comerciante,1
+NAY-00096,16/04/2023,Bahía de Banderas,Consultorio ISSSTE,Sin seguro,30.0,MASCULINO,66.2,168.0,23.5,129,80,74,,91,,No,si,no,Sí,No,Sedentario,1,1,Secundaria,Estudiante,0
+NAY-00564,19/01/2023,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,20.0,F,55.9,151.0,,130,84,5.8,174,,16.7,No,No,No,Sí,Sí,Moderado,1,0,,Jubilado/a,0
+NAY-00241,18/09/2023,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,17.0,M,59.2,170.0,20.5,117,69,67,175,114,13.4,No,No,No,Sí,No,Moderado,0,4,Licenciatura,Desempleado/a,0
+NAY-00743,08/04/2024,  San Blas  ,Unidad Médica Móvil,Seguro Popular / Bienestar,60.0,M,76.3,174.0,25.2,144,90,89,174,84,17.7,No,Sí,No,No,NO,Moderado,5,3,Primaria completa,Ama de casa,0
+NAY-00575,24/07/2024,Tepic,Centro de Salud Rural,ISSSTE,5.0,FEMENINO,78.1,165.0,,116,72,110,167,106,13.4,No,No,No,No,Sí,Moderado,1,0,Licenciatura,Profesionista,0
+NAY-00691,04-30-2023,Ruiz,Consultorio ISSSTE,Sin seguro,91.0,M,74.1,167.0,26.6,150,89,97,168,92,13.5,No,Sí,No,no,No,Activo,2,4,Secundaria,Profesionista,0
+NAY-00461,03/06/2024,Tepic,Hospital General,ISSSTE,67.0,F,56.3,156.0,23.1,142,98,5.9,267,224,11.9,No,Sí,No,No,No,Sedentario,0,5,Posgrado,Comerciante,Sí
+NAY-00554,11/09/2024,Acaponeta,Centro de Salud Rural,IMSS,32.0,M,74.9,184.0,22.1,128,76,108,223,,9.7,No,No,No,No,No,Activo,2,5,Técnico,Profesionista,0
+NAY-00887,2023-09-18,Rosamorada,Consultorio ISSSTE,Sin seguro,9.0,F,68.1,150.0,30.3,126,88,76,158,93,14.9,No,Sí,NEGATIVO,No,No,Sedentario,1,8,Primaria incompleta,Desempleado/a,False
+NAY-00207,29/12/2023,Tepic,Centro de Salud Rural,Sin seguro,71.0,Fem,60.2,167.0,21.6,148,83,90,166,102,12.2,Sí,Sí,No,No,No,Moderado,5,11,Primaria incompleta,Estudiante,1
+NAY-00393,06/06/2023,Compostela,Centro de Salud Rural,Sin seguro,36.0,M,70.8,159.0,28.0,139,82,71,174,159,,No,Sí,No,False,NO,Sedentario,2,0,Secundaria,Comerciante,0
+NAY-00795,05/03/2024,San Blas,Unidad Médica Móvil,Particular,42.0,M,89.5,164.0,,141,86,132,217,191,12.9,Sí,Sí,No,No,No,Sedentario,,4,Primaria completa,Agricultor/a,1
+NAY-00398,31-08-2023,Ahuacatlán,Centro de Salud Rural,Particular,22.0,m,89.6,170.0,31.0,128,93,141,212,,14.7,Sí,Sí,No,No,No,Sedentario,1,6,Posgrado,Jubilado/a,1
+NAY-00767,29-05-2024,  Ahuacatlán  ,Consultorio ISSSTE,Seguro Popular / Bienestar,58.0,M,,1.73,25.8,141,76,71,196,201,,Sí,Sí,No,Sí,No,Sedentario,4,9,Primaria completa,Agricultor/a,1
+NAY-00884,26/09/2024,Del Nayar,Hospital General,Sin seguro,18.0,F,74.4,144.0,35.9,122,82,117,142,173,10.6,Sí,No,No,No,No,Moderado,1,6,Preparatoria / Bachillerato,,1
+NAY-00218,20/10/2023,Del Nayar,Centro de Salud Rural,Particular,13.0,M,80.1,175.0,26.2,125,74,88,223,200,14.8,No,No,no,Sí,no,Activo,1,10,Licenciatura,Jornalero/a,0
+NAY-00005,06/02/2024,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,42.0,F,56.6,165.0,20.8,122,81,109,141,373,13.9,No,No,0,No,Sí,Activo,2,5,Sin escolaridad,Estudiante,0
+NAY-00769,30/07/2024,Del Nayar,Unidad Médica Móvil,Sin seguro,17.0,FEMENINO,72.4,161.0,27.9,118,71,72,133,,11.0,No,No,No,No,No,Sedentario,1,2,Técnico,Comerciante,0
+NAY-00643,14/07/2023,Tepic,Hospital General,Seguro Popular / Bienestar,79.0,Femenino,74.4,165.0,27.3,146,95,80,187,115,12.6,No,Sí,No,Sí,No,Moderado,6,8,Preparatoria / Bachillerato,Desempleado/a,Sí
+NAY-00906,28/05/2023,Ixtlán del Río,Centro de Salud Rural,Seguro Popular / Bienestar,66.0,M,95.7,178.0,30.2,144,89,139,259,146,15.5,Sí,Sí,Sí,Sí,No,Moderado,6,5,Técnico,,1
+NAY-00613,17/06/2023,Bahía de Banderas,Hospital General,Particular,73.0,F,46.1,171.0,15.8,150,82,105,209,,12.0,False,Sí,no,No,No,Sedentario,3,9,Secundaria,Estudiante,1
+NAY-00739,27/01/2024,San Blas,Clínica IMSS,Sin seguro,69.0,M,72.0,154.0,,142,81,99,193,133,14.7,No,Sí,No,No,Sí,Sedentario,5,6,Secundaria,Agricultor/a,1
+NAY-00547,2023/02/07,Rosamorada,Consultorio ISSSTE,Sin seguro,42.0,M,73.7,167.0,26.4,125,70,105,251,128,11.9,No,No,No,No,No,Moderado,1,6,Primaria completa,Desempleado/a,0
+NAY-00726,09/07/2024,Bahía de Banderas,Consultorio ISSSTE,Seguro Popular / Bienestar,15.0,F,48.6,160.0,19.0,104,79,77,176,157,12.2,No,Sí,No,No,No,Sedentario,2,4,Primaria incompleta,Empleado/a,1
+NAY-00684,03/02/2023,Ixtlán del Río,Clínica IMSS,Sin seguro,88.0,M,80.5,167.0,28.9,157,100,102,178,301,15.9,No,Sí,No,No,No,Moderado,1,9,Licenciatura,Desempleado/a,0
+NAY-00099,30/08/2023,Ruiz,Hospital General,Particular,60.0,F,82.2,164.0,30.6,140,84,121,,180,13.7,No,No,No,No,Sí,Moderado,3,7,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00805,2024-05-05,Tepic,Hospital General,Particular,69.0,F,59.1,151.0,,147,92,142,211,154,12.7,No,Sí,No,Sí,Sí,Sedentario,5,6,Secundaria,,0
+NAY-00728,23/05/2024,Tepic,Hospital General,Sin seguro,12.0,M,68.4,167.0,24.5,121,82,83,?,,12.7,No,No,No,No,No,Sedentario,1,7,Secundaria,Empleado/a,0
+NAY-00574,26/02/2024,Acaponeta,Unidad Médica Móvil,Sin seguro,9.0,FEMENINO,69.3,158.0,23.5,125,73,119,274,,14.5,No,No,No,No,Sí,Moderado,0,0,,Profesionista,0
+NAY-00407,2023/01/27,Huajicori,Hospital General,Sin seguro,42.0,F,,152.0,,135,79,133,120,223,,1,No,No,No,1,Moderado,1,2,Posgrado,Ama de casa,0
+NAY-00503,11/01/2024,Bahía de Banderas,Hospital General,Seguro Popular / Bienestar,88.0,M,71.2,174.0,23.5,170,89,93,220,56,16.8,Sí,Sí,No,No,No,Sedentario,2,6,Preparatoria / Bachillerato,Jubilado/a,1
+NAY-00048,07/02/2023,Compostela,Consultorio ISSSTE,Seguro Popular / Bienestar,82.0,M,74.4,174.0,24.6,139,91,66,188,252,15.9,No,Sí,No,Sí,No,Moderado,0,0,Primaria incompleta,Comerciante,1
+NAY-00033,27/01/2024,Bahía de Banderas,Hospital General,Sin seguro,13.0,M,66.3,168.0,23.5,118/67,,104,126,72,14.8,No,No,No,Sí,No,Sedentario,1,7,Secundaria,Estudiante,0
+NAY-00780,15/11/2024,Huajicori,Unidad Médica Móvil,Sin seguro,78.0,F,51.2,,20.8,142,86,98,223,177,10.8,No,Sí,No,No,No,Sedentario,3,0,Secundaria,Empleado/a,1
+NAY-00840,08-03-2023,Tepic,Hospital General,Seguro Popular / Bienestar,84.0,M,70.7,1.68,25.0,147,91,106,186,256,15.2,No,Sí,No,No,No,Sedentario,4,11,Preparatoria / Bachillerato,Profesionista,INGRESADO
+NAY-00201,13/04/2024,San Blas,Centro de Salud Rural,,36.0,m,8,170.0,,142,101,108,194,184,12.6,No,Sí,No,NEGATIVO,No,Sedentario,2,5,Técnico,Profesionista,0
+NAY-00135,02-03-2024,Ixtlán del Río,Unidad Médica Móvil,Sin seguro,74.0,M,80.3,167.0,28.8,155,85,92,180,111,16.3,no,Sí,No,Sí,No,Sedentario,1,5,Preparatoria / Bachillerato,Profesionista,1
+NAY-00028,10/06/2023,Tepic,Hospital General,Sin seguro,76.0,Mujer,75.2,151.0,33.0,147,92,178,159,,11.0,Sí,Sí,No,No,No,Activo,4,6,Primaria completa,Empleado/a,0
+NAY-00889,2024-10-15,Compostela,Clínica IMSS,Sin seguro,6.0,F,71.5,162.0,,125,80,89,262,208,11.7,No,No,No,No,No,Sedentario,0,11,Primaria incompleta,Estudiante,0
+NAY-00231,14/09/2024,Xalisco,Consultorio ISSSTE,ISSSTE,45.0,M,67.5,176.0,21.8,151,80,76,217,265,17.1,No,Sí,No,Sí,False,Sedentario,1,1,Primaria completa,Desempleado/a,0
+NAY-00490,17-08-2024,Tepic,Hospital General,Sin seguro,57.0,F,79.0,164.0,29.4,175,93,118,178,171,13.8,No,Sí,No,Sí,No,Sedentario,,8,Técnico,Empleado/a,0
+NAY-00773,06-09-2024,Tuxpan,Unidad Médica Móvil,Particular,150,Masculino,57.0,162.0,21.7,114,65,134,226,50,16.5,No,No,No,No,No,Activo,0,2,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00379,06/12/2024,  Tepic  ,Hospital General,Particular,38.0,FEMENINO,79.4,166.0,28.8,134,94,65,198,199,12.1,No,Sí,No,Sí,No,Sedentario,2,7,Preparatoria / Bachillerato,Ama de casa,0
+NAY-00289,27-01-2023,Rosamorada,Centro de Salud Rural,Seguro Popular / Bienestar,52.0,F,63.0,151.0,27.6,133,85,94,195,50,,No,No,No,0,No,Activo,,7,Licenciatura,Jubilado/a,0
+NAY-00419,19/12/2023,Tuxpan,Centro de Salud Rural,IMSS,30.0,Hombre,95.0,,37.1,149,84,107,161,200,13.9,No,Sí,No,Sí,Sí,Moderado,,10,,Comerciante,0
+NAY-00675,03/07/2024,Tepic,Centro de Salud Rural,ISSSTE,59.0,F,,154.0,24.8,149,83,75,125,137,14.8,No,Sí,No,Sí,No,Sedentario,3,8,Secundaria,Agricultor/a,No
+NAY-00392,26/03/2023,Huajicori,Consultorio ISSSTE,ISSSTE,20.0,Mujer,82.2,157.0,33.3,140,96,190,183,357,14.7,True,1,No,No,POSITIVO,Moderado,1,11,Secundaria,Jubilado/a,1
+NAY-00593,13/08/2024,Rosamorada,Consultorio ISSSTE,Particular,25.0,Masculino,91.2,173.0,30.5,118,85,149,150,178,19.0,SI,POSITIVO,No,No,No,Activo,2,9,Primaria completa,Ama de casa,1
+NAY-00499,12/08/2023,Tepic,Clínica IMSS,ISSSTE,85.0,F,67.2,162.0,25.6,139,85,91,165,173,12.8,No,No,No,Sí,No,Sedentario,,10,Posgrado,Agricultor/a,0
+NAY-00139,11/06/2023,Xalisco,Clínica IMSS,IMSS,35.0,F,42.0,166.0,15.2,128,69,98,177,200,12.7,No,No,No,No,No,Sedentario,0,11,N/A,Estudiante,0
+NAY-00063,22/02/2024,Tepic,Consultorio ISSSTE,Sin seguro,36.0,F,62.4,157.0,25.3,123,90,95,213,,11.2,No,No,NO,Sí,Sí,Activo,2,5,Secundaria,Agricultor/a,0
+NAY-00472,15/10/2024,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,74.0,M,69.3,176.0,51.4,140,94,67,,224,,Sí,Sí,No,No,No,Sedentario,6,8,Preparatoria / Bachillerato,,1
+NAY-00648,31/07/2023,Bahía de Banderas,Clínica IMSS,Sin seguro,51.0,F,6,155.0,27.7,164,88,68,144,155,11.5,No,Sí,NO,Sí,0,Moderado,4,5,Primaria completa,Profesionista,0
+NAY-00129,21/06/2023,Acaponeta,Clínica IMSS,IMSS,54.0,F,68.7,146.0,32.2,142,82,93,197,139,14.2,Sí,Sí,No,No,No,Moderado,3,11,Secundaria,Empleado/a,0
+NAY-00987,31-01-2024,San Blas,Hospital General,IMSS,58.0,FEMENINO,59.9,147.0,27.7,159,88,78,187,222,13.3,No,Sí,No,No,No,Sedentario,4,3,Primaria incompleta,Empleado/a,0
+NAY-00521,14/12/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,36.0,F,63.9,162.0,24.3,123,94,104,146,215,13.3,No,Sí,No,No,No,Sedentario,2,3,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00839,2024/09/05,Del Nayar,Unidad Médica Móvil,IMSS,6.0,Femenino,59.7,162.0,49.4,126,75,77,164,55,14.4,No,No,No,No,No,Sedentario,,5,Primaria completa,Empleado/a,0
+NAY-00973,28/12/2023,Xalisco,Hospital General,IMSS,46.0,MASCULINO,60.7,,20.0,131,93,87,234,132,16.0,No,Sí,No,No,No,Sedentario,0,9,Secundaria,Jornalero/a,0
+NAY-00065,22/09/2024,Bahía de Banderas,Clínica IMSS,IMSS,40.0,F,87.7,165.0,,136,86,6.6,,202,12.6,No,No,No,No,No,Sedentario,,6,Secundaria,Agricultor/a,0
+NAY-00813,04-01-2024,Tepic,Unidad Médica Móvil,Seguro Popular / Bienestar,64.0,FEMENINO,62.9,154.0,26.5,150,75,78,175,111,13.3,No,Sí,No,No,No,Sedentario,5,10,Preparatoria / Bachillerato,Jornalero/a,1
+NAY-00015,14/02/2023,Tuxpan,Clínica IMSS,IMSS,67.0,MASCULINO,72.3,160.0,28.2,150/74,,99,169,128,15.4,No,Sí,No,No,No,Sedentario,0,2,Sin escolaridad,Jubilado/a,0
+NAY-00157,20/06/2024,Acaponeta,Centro de Salud Rural,Seguro Popular / Bienestar,15.0,Fem,64.9,140.0,33.1,126,80,193,,65,15.6,POSITIVO,No,No,No,Sí,Sedentario,2,10,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00041,20/04/2023,  Ahuacatlán  ,Centro de Salud Rural,Sin seguro,19.0,F,71.6,148.0,32.7,123,90,177,118,205,14.4,Sí,No,No,No,No,Moderado,1,8,Secundaria,,0
+NAY-00493,23/07/2023,Rosamorada,Centro de Salud Rural,Sin seguro,70.0,F,61.5,157.0,25.0,128,95,68,225,259,11.8,No,Sí,No,No,No,Sedentario,6,10,Técnico,,0
+NAY-00380,08/03/2024,Acaponeta,Unidad Médica Móvil,ISSSTE,27.0,F,65.9,161.0,25.4,113,78,106,216,108,12.6,Sí,No,No,No,No,Moderado,2,11,Preparatoria / Bachillerato,,NO
+NAY-00188,2024-07-13,San Blas,Centro de Salud Rural,Seguro Popular / Bienestar,38.0,F,58.8,153.0,25.1,124,82,106,231,115,13.1,POSITIVO,No,No,No,No,Sedentario,1,8,Técnico,Jubilado/a,1
+NAY-00764,20/11/2024,Rosamorada,Hospital General,Particular,86.0,F,42.9,161.0,16.6,156,87,77,193,50,12.4,SI,Sí,No,No,No,Moderado,0,2,Secundaria,Jubilado/a,0
+NAY-00217,10/04/2024,Bahía de Banderas,Clínica IMSS,IMSS,11.0,F,83.8,161.0,32.3,108,77,132,,173,14.6,Sí,No,no,1,No,Activo,1,11,Primaria completa,Desempleado/a,0
+NAY-00792,07/06/2024,Xalisco,Consultorio ISSSTE,Sin seguro,44.0,F,,168.0,,141,78,84,181,257,11.2,No,Sí,No,No,No,Moderado,1,7,Primaria incompleta,Desempleado/a,0
+NAY-00053,13/07/2024,Tepic,Clínica IMSS,Sin seguro,36.0,m,87.5,165.0,32.1,120,87,152,257,,13.6,Sí,No,No,No,No,Moderado,2,11,Primaria incompleta,Agricultor/a,0
+NAY-00879,01/09/2023,Tepic,Clínica IMSS,Sin seguro,52.0,F,52.1,160.0,20.4,148,79,87,192,148,14.0,No,Sí,No,No,No,Sedentario,5,1,Secundaria,Jornalero/a,0
+NAY-00338,06/10/2024,Ruiz,Unidad Médica Móvil,Sin seguro,32.0,Femenino,61.9,164.0,55.9,130/83,,118,196,91,,No,No,No,No,No,Activo,1,0,Secundaria,Estudiante,0
+NAY-00749,2023/02/21,Xalisco,Consultorio ISSSTE,Sin seguro,32.0,FEMENINO,77.3,155.0,32.2,144,77,103,190,226,10.4,NEGATIVO,Sí,NO,No,No,Moderado,2,3,Técnico,Jubilado/a,1
+NAY-00720,21/12/2023,Ruiz,Clínica IMSS,IMSS,57.0,M,69.8,164.0,26.0,130,86,115,140,148,16.2,No,No,No,No,NO,Activo,,9,Secundaria,Jubilado/a,0
+NAY-00725,19/06/2024,Tepic,Clínica IMSS,,73.0,M,50.6,170.0,17.5,153,87,80,150,143,17.2,No,Sí,No,Sí,No,Moderado,5,9,Secundaria,Profesionista,1
+NAY-00296,19/08/2023,Tepic,Unidad Médica Móvil,IMSS,50.0,M,83.8,166.0,30.4,143,90,129,260,119,14.3,si,si,No,False,No,Moderado,1,9,Primaria incompleta,Jubilado/a,INGRESADO
+NAY-00702,2023-07-21,Acaponeta,Unidad Médica Móvil,Seguro Popular / Bienestar,58.0,F,71.6,148.0,32.7,139,90,11.3,168,421,13.9,Sí,No,No,No,No,Moderado,1,6,Primaria completa,Empleado/a,0
+NAY-00252,04/12/2024,Compostela,Clínica IMSS,Sin seguro,47.0,M,43.1,175.0,14.1,98/76,,84,227,123,11.9,No,No,No,No,No,Sedentario,0,0,Sin escolaridad,Estudiante,0
+NAY-00727,26/05/2024,  Ixtlán del Río  ,Consultorio ISSSTE,,67.0,H,73.3,173.0,24.5,147,82,106,229,,15.0,No,Sí,No,Sí,No,Sedentario,,8,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00462,27/12/2023,Xalisco,Unidad Médica Móvil,ISSSTE,17.0,M,89.4,167.0,32.1,144,68,185,271,187,12.9,Sí,Sí,No,Sí,No,Sedentario,0,3,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00456,09/10/2024,Compostela,Clínica IMSS,Sin seguro,53.0,Fem,,159.0,,148,81,121,158,68,9.2,1,Sí,0,No,No,Moderado,2,10,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00107,18/02/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,72.0,F,67.4,140.0,34.4,166/101,,114,,151,10.7,0,Sí,no,No,No,Moderado,2,5,Secundaria,Jubilado/a,1
+NAY-00816,11/06/2023,San Blas,Clínica IMSS,Sin seguro,77.0,F,,145.0,24.4,148,84,117,247,280,,No,1,No,No,No,Sedentario,,3,Primaria incompleta,Estudiante,1
+NAY-00863,21/10/2024,Xalisco,Hospital General,Sin seguro,15.0,F,67.0,153.0,28.6,125,90,67,227,182,13.4,No,No,No,No,No,Sedentario,,2,Secundaria,Desempleado/a,0
+NAY-00270,08/02/2024,Tuxpan,Centro de Salud Rural,Sin seguro,56.0,F,,156.0,20.5,124,70,71,284,75,12.1,No,No,No,NO,Sí,Sedentario,6,4,Primaria completa,Profesionista,NO
+NAY-00202,22-10-2023,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,84.0,M,,173.0,19.9,152,108,101,200,62,13.2,Sí,Sí,No,True,Sí,Sedentario,0,3,Posgrado,Comerciante,1
+NAY-00162,05/06/2024,Rosamorada,Hospital General,ISSSTE,62.0,Femenino,56.8,158.0,22.8,143,77,121,203,155,,No,Sí,No,No,No,Moderado,3,3,Primaria completa,Jubilado/a,AMBULATORIO
+NAY-00556,19/12/2023,Tuxpan,Clínica IMSS,,48.0,f,58.2,155.0,24.2,126,78,91,168,152,12.3,No,No,No,No,No,Moderado,1,5,Secundaria,Comerciante,0
+NAY-00730,21/11/2023,Bahía de Banderas,Centro de Salud Rural,IMSS,62.0,M,82.7,,23.6,140,81,113,195,200,12.2,No,No,No,No,No,Sedentario,6,0,Primaria completa,Jornalero/a,0
+NAY-00402,24/05/2024,Xalisco,Clínica IMSS,IMSS,72.0,masculino,59.8,176.0,19.3,156,76,104,SIN DATO,176,15.2,No,Sí,No,No,No,Activo,3,7,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00703,28-06-2024,  Xalisco  ,Consultorio ISSSTE,Sin seguro,19.0,F,71.7,169.0,25.1,124,74,6.7,193,92,12.6,No,No,No,No,No,Moderado,0,8,Sin dato,Empleado/a,1
+NAY-00477,04/05/2024,Tepic,Centro de Salud Rural,IMSS,78.0,M,74.5,180.0,23.0,138,83,62,193,139,13.7,No,No,No,No,No,Moderado,2,3,Preparatoria / Bachillerato,Jubilado/a,NO
+NAY-00822,06-05-2024,Bahía de Banderas,Centro de Salud Rural,Particular,62.0,M,75.2,150.0,33.4,174/86,,131,162,134,15.1,Sí,Sí,No,No,No,Activo,4,5,Licenciatura,Desempleado/a,0
+NAY-00772,05/05/2024,Tepic,Hospital General,Sin seguro,90.0,M,59.9,176.0,19.3,161,98,97,198,173,,Sí,Sí,No,No,No,Sedentario,4,5,Licenciatura,Empleado/a,0
+NAY-00106,20/04/2023,San Blas,Hospital General,Particular,73.0,F,53.7,159.0,21.2,151,92,77,185,,12.5,No,Sí,No,Sí,Sí,Sedentario,3,6,Preparatoria / Bachillerato,Empleado/a,1
+NAY-00566,13/07/2023,Huajicori,Centro de Salud Rural,IMSS,25.0,F,65.2,140.0,33.3,136,94,9.2,175,,11.1,Sí,Sí,No,No,no,Sedentario,1,1,Secundaria,Estudiante,True
+NAY-00390,26/12/2024,Ruiz,Clínica IMSS,,18.0,F,76.7,158.0,30.7,126,90,164,,268,14.9,Sí,Sí,No,No,no,Activo,2,9,Secundaria,Profesionista,1
+NAY-00002,18/12/2024,Bahía de Banderas,Consultorio ISSSTE,IMSS,72.0,F,49.2,158.0,19.7,143,94,98,,124,11.7,No,Sí,No,No,No,Moderado,2,6,Preparatoria / Bachillerato,Agricultor/a,0
+NAY-00946,25/05/2023,Bahía de Banderas,Centro de Salud Rural,Seguro Popular / Bienestar,15.0,F,50.0,166.0,18.1,126,72,59,181,159,10.9,No,No,No,No,NEGATIVO,Moderado,1,11,Secundaria,Empleado/a,0
+NAY-00993,02/07/2024,Rosamorada,Clínica IMSS,Sin seguro,22.0,femenino,88.3,170.0,30.6,125,86,99,205,,14.8,No,No,No,No,No,Sedentario,0,2,Primaria completa,Jornalero/a,0
+NAY-00562,11/01/2024,Santiago Ixcuintla,Consultorio ISSSTE,Particular,8.0,F,83.0,166.0,30.1,105,87,81,211,167,,Sí,No,No,No,No,Moderado,0,8,Primaria incompleta,Profesionista,0
+NAY-00081,23/02/2024,Ahuacatlán,Unidad Médica Móvil,,86.0,Femenino,70.8,165.0,61.3,156,79,112,166,185,13.7,No,Sí,no,No,No,Sedentario,1,10,Primaria completa,Estudiante,0
+NAY-00206,18/10/2024,Tepic,Centro de Salud Rural,IMSS,28.0,F,66.4,164.0,24.7,126,77,55,,167,16.6,No,No,No,No,Sí,Moderado,0,3,Secundaria,Profesionista,0
+NAY-00035,03/01/2025,Tepic,Consultorio ISSSTE,Particular,82.0,M,70.0,1.82,21.1,157,90,87,131,212,16.0,No,Sí,No,No,No,Moderado,1,11,Secundaria,Estudiante,0
+NAY-00776,11-12-2024,Rosamorada,Consultorio ISSSTE,ISSSTE,87.0,Hombre,60.4,175.0,19.7,149,99,95,164,141,13.6,No,Sí,No,Sí,0,Sedentario,4,1,,Jornalero/a,SI
+NAY-00509,2024/07/03,Acaponeta,Unidad Médica Móvil,Particular,28.0,Femenino,89.4,156.0,36.7,136,103,107,182,112,13.7,No,Sí,No,Sí,No,Sedentario,0,8,Secundaria,Jornalero/a,0
+NAY-00428,09/12/2023,Rosamorada,Unidad Médica Móvil,Sin seguro,74.0,F,66.7,169.0,23.4,167,80,84,,,11.9,Sí,Sí,SI,No,No,Activo,4,9,Primaria completa,Comerciante,1
+NAY-00455,23/12/2023,Tepic,Hospital General,Particular,56.0,FEMENINO,69.3,166.0,40.6,146,72,116,211,255,14.0,Sí,Sí,No,Sí,Sí,Moderado,4,0,Secundaria,Profesionista,1
+NAY-00367,23/12/2023,Ruiz,Hospital General,Sin seguro,45.0,F,87.1,155.0,36.3,152,71,167,144,250,10.1,Sí,Sí,No,Sí,Sí,Moderado,2,6,Secundaria,Jubilado/a,1
+NAY-00092,19-01-2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,75.0,H,64.9,161.0,25.0,147,80,100,238,209,14.1,False,Sí,No,no,Sí,Sedentario,,4,Técnico,Jornalero/a,1
+NAY-00340,13/07/2024,Acaponeta,Hospital General,Sin seguro,87.0,F,57.3,155.0,23.9,158,103,88,,255,17.0,No,Sí,No,No,No,Sedentario,,3,Sin escolaridad,Agricultor/a,1
+NAY-00898,11/03/2023,Ahuacatlán,Hospital General,Sin seguro,9.0,f,480,158.0,23.5,125,72,70,192,124,,No,Sí,No,No,Sí,Moderado,,4,Posgrado,Profesionista,0
+NAY-00565,13-04-2024,Del Nayar,Hospital General,Sin seguro,82.0,M,56.3,163.0,21.2,136,89,118,242,234,15.3,No,No,No,Sí,No,Moderado,3,9,Secundaria,Agricultor/a,1
+NAY-00346,07-18-2023,Compostela,Unidad Médica Móvil,Seguro Popular / Bienestar,27.0,F,66.3,149.0,29.9,126,77,7.1,139,64,10.9,1,No,0,No,No,Sedentario,2,5,Secundaria,Jubilado/a,1
+NAY-00777,26-02-2023,Ruiz,Hospital General,Sin seguro,41.0,M,74.5,172.0,27.4,132,95,111,202,121,16.0,No,Sí,No,No,No,Moderado,2,8,Secundaria,Desempleado/a,0
+NAY-00242,24/06/2024,San Blas,Unidad Médica Móvil,IMSS,55.0,M,68.1,163.0,25.6,152,99,71,248,88,17.4,No,Sí,No,No,No,Sedentario,6,0,Primaria completa,Agricultor/a,1
+NAY-00014,27/07/2024,Compostela,Clínica IMSS,Sin seguro,71.0,M,43.4,174.0,,137,76,125,238,190,14.2,No,No,Sí,No,Sí,Activo,4,6,Primaria completa,Jornalero/a,0
+NAY-00316,08/12/2023,Xalisco,Unidad Médica Móvil,ISSSTE,62.0,F,96.6,163.0,36.4,153,99,96,204,240,14.2,POSITIVO,Sí,No,0,No,Sedentario,0,11,Licenciatura,Profesionista,1
+NAY-00601,25/07/2023,Tepic,Clínica IMSS,IMSS,58.0,M,54.7,172.0,18.5,132/92,,113,208,79,,No,Sí,No,Sí,No,Activo,2,1,Secundaria,Comerciante,0
+NAY-00388,04/05/2023,  Ahuacatlán  ,Hospital General,Sin seguro,77.0,M,59.3,192.0,16.1,159,65,55,188,190,,No,Sí,0,No,No,Sedentario,4,5,Licenciatura,Ama de casa,1
+NAY-00274,15/04/2023,San Blas,Unidad Médica Móvil,Particular,88.0,femenino,59.5,142.0,,158,82,92,197,,10.2,No,Sí,No,No,No,Sedentario,6,0,Primaria incompleta,Comerciante,1
+NAY-00167,19-03-2024,Bahía de Banderas,Unidad Médica Móvil,Sin seguro,32.0,F,81.2,1.54,,139,87,152,999,242,13.9,SI,No,No,No,No,Sedentario,1,1,Primaria completa,Desempleado/a,0
+NAY-00841,27/05/2024,Rosamorada,Clínica IMSS,IMSS,30.0,M,68.1,166.0,24.7,144,81,93,220,229,14.7,No,Sí,No,No,No,Sedentario,0,7,Técnico,Desempleado/a,1
+NAY-00493,23/07/2023,Rosamorada,Centro de Salud Rural,Sin seguro,70.0,F,61.5,157.0,25.0,128,95,68,225,259,11.8,No,Sí,No,No,No,Sedentario,6,10,Técnico,,0
+NAY-00647,02/01/2024,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,45.0,f,74.1,164.0,27.6,134,87,105,201,215,13.3,No,No,No,Sí,No,Activo,2,1,Primaria completa,,0
+NAY-00819,02-22-2024,Santiago Ixcuintla,Unidad Médica Móvil,Seguro Popular / Bienestar,62.0,F,55.8,155.0,23.2,152,80,61,SIN DATO,191,14.7,No,Sí,No,Sí,No,Moderado,3,0,Primaria completa,Comerciante,1
+NAY-00485,05/02/2023,Xalisco,Centro de Salud Rural,IMSS,45.0,M,69.7,1.8,,145,83,78,,52,14.6,NEGATIVO,Sí,No,No,No,Sedentario,0,5,Posgrado,Jubilado/a,1
+NAY-00991,07-06-2023,  Rosamorada  ,Centro de Salud Rural,Sin seguro,34.0,masculino,67.5,164.0,25.1,138,62,104,194,331,,Sí,No,No,No,No,Sedentario,0,8,Primaria completa,Empleado/a,1
+NAY-00505,23/01/2024,Xalisco,Consultorio ISSSTE,Sin seguro,28.0,F,65.3,,27.9,148,92,133,192,292,13.4,Sí,True,No,No,No,Sedentario,2,1,Licenciatura,Jubilado/a,0
+NAY-00832,04/08/2023,Santiago Ixcuintla,Consultorio ISSSTE,ISSSTE,25.0,F,68.3,152.0,29.6,144,74,99,226,50,11.0,No,si,0,NEGATIVO,Sí,Activo,2,1,Sin dato,Jornalero/a,0
+NAY-00244,2023-03-24,Tepic,Unidad Médica Móvil,IMSS,61.0,M,,164.0,15.8,137,96,6.6,194,245,15.7,No,Sí,No,No,No,Sedentario,4,9,N/A,Ama de casa,0
+NAY-00567,12/10/2023,Ruiz,Hospital General,Particular,24.0,M,82.9,165.0,30.4,130,91,178,184,279,13.9,Sí,True,No,No,No,Sedentario,1,11,Licenciatura,Profesionista,INGRESADO
+NAY-00876,01/12/2024,Ruiz,Consultorio ISSSTE,Seguro Popular / Bienestar,48.0,M,76.2,163.0,28.7,120,95,56,173,50,12.1,No,Sí,No,No,No,Sedentario,0,1,Preparatoria / Bachillerato,Desempleado/a,0
+NAY-00563,19/02/2023,Santiago Ixcuintla,Consultorio ISSSTE,Seguro Popular / Bienestar,47.0,M,76.8,159.0,30.4,138,80,170,195,95,15.8,Sí,No,No,No,No,Sedentario,2,9,,Jornalero/a,0
+NAY-00963,2024/12/24,Compostela,Clínica IMSS,IMSS,78.0,M,96.7,159.0,,131,98,149,153,287,14.7,Sí,Sí,No,No,No,Sedentario,5,10,Preparatoria / Bachillerato,Profesionista,1
+NAY-00687,06/12/2024,Tuxpan,Hospital General,IMSS,40.0,H,,171.0,21.1,126,93,87,188,55,14.4,Sí,1,no,No,No,Moderado,2,7,Licenciatura,Agricultor/a,0
+NAY-00958,04-21-2024,Tuxpan,Unidad Médica Móvil,Sin seguro,60.0,M,66.2,172.0,,139,79,91,183,,17.1,No,No,No,Sí,No,Sedentario,5,2,Técnico,Ama de casa,0
+NAY-00190,24/01/2023,Xalisco,Unidad Médica Móvil,Sin seguro,31.0,F,,156.0,38.5,137,71,65,216,50,13.2,No,Sí,No,0,No,Moderado,1,2,Primaria completa,Estudiante,0
+NAY-00783,13/02/2024,Bahía de Banderas,Clínica IMSS,Sin seguro,15.0,M,55.5,162.0,21.1,115,79,57,190,170,14.5,No,No,No,No,No,Sedentario,1,3,Preparatoria / Bachillerato,Estudiante,0
+NAY-00700,17/05/2023,Bahía de Banderas,Hospital General,Sin seguro,13.0,F,56.6,143.0,27.7,132/67,,121,229,240,15.0,No,No,NEGATIVO,No,No,Sedentario,0,9,Secundaria,Desempleado/a,0
+NAY-00476,2023/01/27,Tepic,Hospital General,Particular,73.0,Femenino,38.0,153.0,16.2,131,82,116,202,50,12.7,No,No,No,No,No,Moderado,1,1,Preparatoria / Bachillerato,Jubilado/a,1
+NAY-00682,25/09/2024,Del Nayar,Clínica IMSS,Sin seguro,16.0,M,70.3,195.0,49.5,122,81,114,227,152,,No,No,No,Sí,No,Sedentario,0,10,--,Comerciante,No
+NAY-00511,23/01/2023,Tepic,Unidad Médica Móvil,ISSSTE,130,FEMENINO,77.3,157.0,31.4,164,96,7.9,243,110,12.8,Sí,Sí,No,No,No,Sedentario,0,6,Preparatoria / Bachillerato,Desempleado/a,1
+NAY-00059,17/06/2023,Ahuacatlán,Hospital General,Sin seguro,69.0,FEMENINO,71.7,156.0,29.5,157,92,97,199,70,,No,Sí,No,No,No,Sedentario,0,0,Secundaria,Comerciante,1
+NAY-00475,18-03-2023,Tepic,Hospital General,Sin seguro,60.0,m,56.1,173.0,18.7,122,95,127,204,172,12.7,No,Sí,No,No,No,Sedentario,,8,Primaria incompleta,Agricultor/a,1
+NAY-00561,03-30-2023,Rosamorada,Centro de Salud Rural,Sin seguro,51.0,F,50.3,153.0,21.5,135/84,,103,186,254,11.7,No,No,No,No,No,Sedentario,4,11,Preparatoria / Bachillerato,Profesionista,0
+NAY-00857,2024/12/24,  Tuxpan  ,Consultorio ISSSTE,IMSS,26.0,F,63.1,1.63,23.7,125,69,84,243,50,13.3,No,No,NO,0,Sí,Sedentario,1,0,Preparatoria / Bachillerato,Jornalero/a,0
+NAY-00748,06-06-2024,Ruiz,Consultorio ISSSTE,Particular,32.0,H,81.1,177.0,,122,87,118,257,226,14.2,No,Sí,No,Sí,Sí,Moderado,0,11,Primaria incompleta,Jubilado/a,1
+NAY-00253,13/01/2023,Tepic,Unidad Médica Móvil,Sin seguro,21.0,M,84.0,169.0,29.4,131,81,119,,246,18.7,No,Sí,No,Sí,No,Sedentario,0,9,Primaria completa,Profesionista,0
+NAY-00022,01-13-2024,  Rosamorada  ,Hospital General,ISSSTE,37.0,masculino,,177.0,26.5,127,76,97,172,,12.6,si,NEGATIVO,No,No,No,Moderado,0,4,Técnico,Desempleado/a,0
+NAY-00314,28/08/2023,Bahía de Banderas,Unidad Médica Móvil,IMSS,29.0,F,63.0,163.0,23.7,138,77,65,215,162,15.4,No,No,No,No,No,Sedentario,2,7,Licenciatura,Ama de casa,0
+NAY-00460,2024/04/08,Xalisco,Clínica IMSS,Seguro Popular / Bienestar,14.0,f,75.9,165.0,27.9,120,67,73,265,242,11.7,No,No,No,No,No,Moderado,2,10,Sin escolaridad,Desempleado/a,0
+NAY-00161,02/01/2025,  Tepic  ,Hospital General,,91.0,masculino,83.1,1.73,27.8,183,92,116,174,119,14.6,No,Sí,No,No,0,Moderado,5,8,Posgrado,Estudiante,0
+NAY-00277,24/07/2023,  Santiago Ixcuintla  ,Clínica IMSS,Seguro Popular / Bienestar,45.0,F,53.7,153.0,,139,96,111,302,177,16.1,No,Sí,No,Sí,Sí,Moderado,1,6,Primaria completa,,0
+NAY-00956,26/04/2023,  Rosamorada  ,Centro de Salud Rural,Sin seguro,58.0,M,94.0,163.0,,137,78,128,132,245,11.4,Sí,No,No,Sí,No,Sedentario,1,1,Técnico,Estudiante,1
+NAY-00192,29/07/2023,Ruiz,Hospital General,Seguro Popular / Bienestar,59.0,F,42.2,165.0,15.5,122,78,124,257,,11.2,No,no,No,Sí,No,Sedentario,0,5,Técnico,Desempleado/a,0
+NAY-00386,18/08/2023,Acaponeta,Centro de Salud Rural,Seguro Popular / Bienestar,15.0,M,46.5,151.0,20.4,126,80,117,,75,13.7,No,No,No,No,No,Moderado,1,7,Primaria completa,Estudiante,0
+NAY-00806,12/07/2023,  Ruiz  ,Clínica IMSS,Sin seguro,72.0,F,69.7,157.0,,138,93,64,185,231,11.2,no,si,No,No,No,Sedentario,,10,Primaria completa,Ama de casa,1
+NAY-00414,28/07/2024,Bahía de Banderas,Unidad Médica Móvil,Particular,16.0,F,42.3,150.0,18.8,119,74,106,176,232,13.4,NO,No,No,No,No,Moderado,1,10,Secundaria,Jubilado/a,0
+NAY-00492,2024-09-26,Rosamorada,Hospital General,ISSSTE,80.0,Mujer,74.1,152.0,,162,107,206,235,146,12.3,Sí,Sí,Sí,No,0,Sedentario,1,11,Licenciatura,Comerciante,1
+NAY-00344,11/07/2023,  Huajicori  ,Centro de Salud Rural,Particular,49.0,H,69.3,172.0,18.7,147,88,88,124,120,14.0,No,Sí,No,No,No,Sedentario,2,1,Primaria incompleta,Agricultor/a,0
+NAY-00770,2023/10/12,Del Nayar,Consultorio ISSSTE,Seguro Popular / Bienestar,37.0,F,47.6,156.0,19.6,127,87,87,205,50,12.7,No,No,No,Sí,No,Sedentario,,6,Primaria completa,Comerciante,1
+NAY-00309,28/05/2023,Tepic,Consultorio ISSSTE,Seguro Popular / Bienestar,32.0,Mujer,74.9,148.0,64.8,134/98,,150,211,SIN DATO,13.4,True,Sí,No,Sí,No,Moderado,1,10,Posgrado,Ama de casa,0
+NAY-00662,12/05/2023,Tepic,Centro de Salud Rural,Seguro Popular / Bienestar,68.0,F,67.2,148.0,21.7,159,91,177,181,200,,Sí,Sí,No,No,No,Sedentario,2,2,Primaria completa,Profesionista,1
+NAY-00131,06/06/2024,  Acaponeta  ,Hospital General,Particular,54.0,F,55.0,164.0,20.4,137,86,80,170,50,12.5,No,No,No,No,no,Sedentario,4,5,Secundaria,Ama de casa,0
+NAY-00664,02/11/2023,Del Nayar,Consultorio ISSSTE,Seguro Popular / Bienestar,22.0,masculino,,173.0,25.4,122,81,104,225,107,15.5,No,No,No,No,No,Activo,1,5,Licenciatura,Ama de casa,0
+NAY-00872,01/11/2023,Compostela,Clínica IMSS,Seguro Popular / Bienestar,22.0,F,310,161.0,,126,98,4.4,216,50,14.7,No,1,No,no,No,Moderado,0,0,Secundaria,Desempleado/a,0
+NAY-00100,02/03/2023,Xalisco,Centro de Salud Rural,Sin seguro,17.0,F,,149.0,37.3,117,80,156,100,50,11.9,Sí,No,No,No,No,Sedentario,0,0,Secundaria,Ama de casa,0
+NAY-00373,22/02/2024,Rosamorada,Centro de Salud Rural,IMSS,40.0,F,76.6,150.0,51.1,140,92,151,,91,11.8,Sí,Sí,No,NO,False,Moderado,0,1,Posgrado,Ama de casa,1
+NAY-00088,05-07-2024,Santiago Ixcuintla,Unidad Médica Móvil,Particular,32.0,Masculino,63.8,178.0,20.1,136,92,139,132,223,15.8,No,Sí,No,No,No,Moderado,2,4,Preparatoria / Bachillerato,Empleado/a,0
+NAY-00459,2023/10/06,Acaponeta,Centro de Salud Rural,Sin seguro,78.0,F,52.8,160.0,20.6,152/85,,91,176,94,12.7,No,Sí,No,No,No,Moderado,1,6,Licenciatura,Ama de casa,0
+NAY-00331,13/12/2023,Ruiz,Centro de Salud Rural,Seguro Popular / Bienestar,52.0,F,82.8,146.0,38.8,158,95,122,212,,12.3,1,Sí,No,No,Sí,Sedentario,6,10,Preparatoria / Bachillerato,Profesionista,1
+NAY-00215,28/07/2024,  Ixtlán del Río  ,Clínica IMSS,IMSS,69.0,F,62.1,160.0,24.3,142,103,5.2,,145,12.3,No,Sí,No,No,No,Moderado,6,9,Secundaria,Profesionista,0
+NAY-00467,2024-04-09,Acaponeta,Clínica IMSS,IMSS,19.0,F,74.6,166.0,27.1,124,67,95,182,192,9.3,No,No,No,No,No,Sedentario,1,10,Primaria completa,Jornalero/a,0
+NAY-00122,10-10-2023,  Rosamorada  ,Centro de Salud Rural,Seguro Popular / Bienestar,63.0,F,76.6,164.0,28.5,150,84,101,154,227,14.8,No,Sí,No,No,No,Sedentario,2,8,Secundaria,Profesionista,0
+NAY-00615,20/05/2023,Bahía de Banderas,Hospital General,Particular,64.0,Femenino,80.2,167.0,28.8,147/97,,83,152,190,,No,Sí,No,Sí,No,Sedentario,,0,Preparatoria / Bachillerato,Comerciante,0
+NAY-00021,19/05/2023,Ahuacatlán,Hospital General,,48.0,Mujer,86.8,,33.9,149,85,178,185,,13.7,Sí,Sí,No,No,No,Moderado,0,5,Primaria incompleta,Ama de casa,0
+NAY-00701,28/04/2023,Tepic,Centro de Salud Rural,Sin seguro,50.0,F,64.4,158.0,25.8,141,83,80,161,155,11.9,No,Sí,No,Sí,No,Activo,2,9,Primaria completa,Comerciante,0
+NAY-00072,01/08/2023,Santiago Ixcuintla,Consultorio ISSSTE,IMSS,21.0,F,71.5,160.0,27.9,132,77,110,136,132,13.5,No,No,0,No,No,Moderado,0,6,Técnico,Profesionista,0
+NAY-00107,18/02/2023,Santiago Ixcuintla,Centro de Salud Rural,Sin seguro,72.0,F,67.4,140.0,34.4,166/101,,114,,151,10.7,0,Sí,no,No,No,Moderado,2,5,Secundaria,Jubilado/a,1
+NAY-00271,25/02/2024,Tepic,Consultorio ISSSTE,IMSS,30.0,MASCULINO,73.7,164.0,27.4,108,88,108,163,,13.4,Sí,No,No,Sí,No,Moderado,1,6,Primaria completa,Ama de casa,0
+NAY-00861,03-11-2024,Rosamorada,Clínica IMSS,IMSS,89.0,F,45.7,163.0,17.2,137,68,111,194,50,12.5,No,No,No,True,No,Moderado,0,5,Primaria incompleta,Estudiante,1
+NAY-00436,29/09/2023,Ahuacatlán,Unidad Médica Móvil,Seguro Popular / Bienestar,15.0,M,66.9,157.0,27.1,121,71,120,,253,14.0,No,No,No,No,No,Sedentario,0,9,Primaria completa,Profesionista,0
+NAY-00103,06/02/2023,Huajicori,Consultorio ISSSTE,ISSSTE,75.0,Fem,80.9,160.0,31.6,157,95,6.0,243,108,14.7,No,Sí,POSITIVO,No,No,Sedentario,6,8,,Agricultor/a,1
