@@ -1,0 +1,25 @@
+1. Compresión del negocio
+Esta fase inicial se enfoca en la comprensión de los objetivos y exigencias del proyecto desde una perspectiva de negocio.
+Posteriormente convierte ese conocimiento de los datos en la definición de un problema de minería de datos y en un plan preliminar diseñado para alcanzar los objetivos.
+
+2. Comprensión de los datos
+La comprensión de los datos se encarga de la recolección de datos inicial y continúa con las actividades que permiten familiarizarse primero con los datos,
+identificar sus problemas de calidad, descubrir conocimiento preliminar en los mismos, y/o descubrir subconjuntos interesantes para formular hipótesis.
+En esta fase se tienen en cuenta también las fuentes de datos que hasta el momento no se estaban utilizando (fuentes externas, ...).
+
+3. Preparación de los datos
+La fase de preparación de los datos cubre todas las actividades necesarias para construir el conjunto de datos final (los datos que serán provistos por las herramientas de modelado).
+Las tareas de preparación incluyen la selección de los datos, la limpieza de éstos, la construcción de nuevas variables, la integración de los datos y el formateo de los mismos.
+
+4. Modelado
+Durante esta fase, se aplican las técnicas de minería de datos a nuestros datos. Se aplican varias técnicas de modelado y los parámetros de uso de las mismas se afinan hasta alcanzar los valores óptimos.
+Algunas técnicas de modelado necesitan requerimientos específicos sobre el formato de los datos, que podrán llevarnos de nuevo a la fase de preparación de los datos.
+
+5. Evaluación
+En este caso se evalúan los modelos anteriores para determinar si son útiles a las necesidades de negocio.
+En esta etapa los modelos ya están construidos y deben tener una alta calidad desde una perspectiva de análisis de datos.
+
+6. Despliegue
+La fase de despliegue implica la explotación de los modelos dentro de un entorno de producción. 
+La creación de un modelo no es generalmente el final del proyecto, ya que su creación es un proceso vivo dentro del proceso de decisiones de una organización
+(podría ser necesario rehacer el modelo para tener en cuenta nuevo conocimiento en el futuro).
