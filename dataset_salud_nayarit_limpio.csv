@@ -1,0 +1,995 @@
+municipio,tipo_unidad,tipo_seguro,edad,genero,peso_kg,imc,presion_sistolica,presion_diastolica,glucosa_mg_dl,colesterol_mg_dl,trigliceridos_mg_dl,hemoglobina_g_dl,diabetes_previa,hipertension_previa,cardiopatia_previa,fumador,consumo_alcohol,actividad_fisica,num_medicamentos_actuales,num_consultas_ano_prev,ocupacion,hospitalizacion
+tepic,clinica imss,seguro popular,36,F,76.6,25.9,125,81,64,160,166,14,SI,NO,NO,NO,SI,sedentario,1,7,ama de casa,0
+tepic,hospital general,seguro popular,52,M,74.2,27.3,158,92,121,143,170,13.4,NO,SI,NO,NO,NO,moderado,2,7,agricultor,0
+ruiz,clinica imss,sin seguro,19,M,64.9,19.8,130,74,117,199,123,13.7,NO,NO,NO,SI,NO,sedentario,2,11,jornalero,0
+tepic,consultorio issste,sin seguro,81,F,55.6,22,146,93,96,190,261,13.7,NO,SI,NO,NO,SI,activo,6,5,profesionista,1
+tepic,unidad medica movil,nan,85,M,69.5,21.1,146,80,73,247,166,14,NO,SI,SI,NO,SI,sedentario,4,2,empleado,1
+tepic,hospital general,particular,60,M,69.5,24.1,130,76,55,176,52,13.9,NO,NO,NO,NO,SI,sedentario,2,7,nan,0
+san blas,hospital general,seguro popular,77,M,84.2,27.5,159,87,88,210,96,14.1,NO,SI,NO,NO,NO,activo,1,11,estudiante,1
+tuxpan,consultorio issste,seguro popular,19,F,84.5,33.8,138,83,114,125,306,15.4,NO,NO,NO,NO,SI,moderado,0,6,desempleado,0
+bahia de banderas,consultorio issste,imss,14,F,57.1,20.5,103,75,104,187,205,13.1,NO,NO,NO,NO,SI,moderado,1,6,desempleado,0
+tuxpan,hospital general,seguro popular,74,M,82.8,25.8,141,86,108,204,255,15.2,NO,SI,NO,NO,NO,sedentario,0,4,ama de casa,0
+ruiz,hospital general,imss,22,F,64.3,25.8,126,76,116,193,102,9.9,NO,NO,NO,NO,SI,moderado,1,6,agricultor,0
+xalisco,hospital general,imss,7,M,38,15,111,89,105,193,210,13.9,NO,NO,NO,NO,NO,sedentario,0,11,empleado,0
+san blas,clinica imss,issste,50,F,67.8,32.2,143,98,170,230,115,12.1,SI,SI,NO,NO,NO,moderado,2,9,nan,0
+santiago ixcuintla,unidad medica movil,particular,84,F,56.3,22,164,83,107,242,202,11.3,NO,SI,NO,SI,NO,sedentario,2,9,profesionista,1
+santiago ixcuintla,clinica imss,imss,41,M,78.6,25.7,138,79,106,187,111,13.3,NO,NO,NO,NO,NO,moderado,2,2,estudiante,0
+santiago ixcuintla,clinica imss,seguro popular,38,F,74.2,30.5,138,84,148,128,999,15,SI,NO,NO,NO,NO,activo,1,11,profesionista,0
+tuxpan,hospital general,sin seguro,5,F,102.1,35.7,134,78,84,193,65,11.4,NO,NO,NO,NO,NO,moderado,2,8,ama de casa,0
+tuxpan,unidad medica movil,sin seguro,29,F,74,32.5,136,96,118,272,89,13.7,NO,SI,NO,NO,NO,sedentario,2,6,estudiante,0
+bahia de banderas,clinica imss,issste,22,F,65.6,28,152,65,117,188,246,14.4,NO,SI,NO,NO,NO,moderado,1,8,agricultor,0
+ruiz,centro de salud rural,imss,24,F,67.6,23.1,122,74,154,163,166,13.3,NO,NO,NO,NO,NO,sedentario,0,9,jornalero,0
+tepic,clinica imss,seguro popular,60,F,61.7,22.7,140,83,100,143,285,17,NO,NO,NO,NO,SI,sedentario,5,6,desempleado,0
+bahia de banderas,centro de salud rural,sin seguro,44,F,70.8,28,134,70,118,305,221,13.7,NO,NO,NO,SI,NO,moderado,2,2,profesionista,0
+xalisco,clinica imss,imss,42,M,108.2,25.8,138,83,187,231,174,14.5,SI,NO,NO,SI,NO,moderado,0,8,ama de casa,0
+del nayar,consultorio issste,imss,74,M,83.2,27.8,156,75,86,196,307,13.7,NO,SI,NO,NO,SI,sedentario,4,3,desempleado,1
+compostela,centro de salud rural,particular,47,F,72.8,29.5,150,84,95,238,150,15.1,NO,SI,NO,NO,NO,moderado,1,10,agricultor,1
+acaponeta,consultorio issste,imss,44,M,62.4,18.2,145,81,84,227,166,15.7,SI,SI,NO,NO,NO,moderado,2,5,jubilado,0
+ixtlan del rio,clinica imss,seguro popular,19,F,77.6,29.2,108,77,123,133,166,12.8,NO,NO,NO,NO,NO,activo,0,10,profesionista,0
+compostela,centro de salud rural,issste,43,M,53.5,17.7,137,80,100,269,248,14.8,NO,NO,NO,NO,NO,moderado,0,4,desempleado,0
+bahia de banderas,unidad medica movil,issste,21,M,65.3,28.3,124,76,95,177,166,15.4,NO,NO,NO,NO,NO,activo,2,0,agricultor,0
+san blas,centro de salud rural,sin seguro,5,F,56.9,25.8,105,75,72,228,307,12.1,NO,NO,NO,NO,NO,sedentario,1,3,desempleado,0
+bahia de banderas,centro de salud rural,seguro popular,89,M,79.6,32.7,148,108,163,189,50,13.5,SI,SI,NO,NO,NO,sedentario,5,8,empleado,1
+huajicori,consultorio issste,issste,25,F,39.8,15.4,123,80,88,169,239,12.4,NO,NO,NO,SI,NO,moderado,0,9,jornalero,0
+acaponeta,consultorio issste,sin seguro,59,F,67.5,25.4,132,78,83,216,255,13.7,NO,NO,NO,NO,NO,moderado,6,7,nan,0
+tepic,hospital general,sin seguro,28,M,85.5,28.2,130,85,83,200,148,12,NO,NO,NO,NO,NO,moderado,1,3,estudiante,0
+bahia de banderas,consultorio issste,sin seguro,33,F,54.6,23.6,120,70,102,191,94,12.1,NO,NO,NO,NO,NO,sedentario,2,0,ama de casa,0
+bahia de banderas,centro de salud rural,sin seguro,8,M,61,20.4,134,70,84,193,207,14.9,NO,NO,NO,NO,SI,sedentario,1,6,ama de casa,0
+del nayar,consultorio issste,sin seguro,72,M,65.2,22.3,151,80,96,237,253,13.9,NO,SI,NO,NO,SI,sedentario,1,8,estudiante,1
+del nayar,unidad medica movil,imss,56,M,56.3,19,141,82,96,197,195,15,NO,SI,NO,NO,NO,sedentario,1,4,comerciante,0
+ixtlan del rio,consultorio issste,seguro popular,48,F,55.7,17.8,133,90,96,142,289,13.3,NO,NO,NO,NO,NO,moderado,1,5,comerciante,0
+tepic,hospital general,sin seguro,83,M,63.6,21.3,151,96,74,161,173,11.8,NO,SI,NO,NO,NO,moderado,5,6,ama de casa,1
+tepic,hospital general,imss,76,M,59.1,25.9,170,78,70,171,176,16.5,NO,SI,NO,NO,NO,moderado,1,11,estudiante,0
+ruiz,centro de salud rural,seguro popular,37,F,63.7,32.5,136,81,78,223,50,11.7,NO,SI,NO,NO,NO,moderado,2,11,jornalero,0
+xalisco,centro de salud rural,sin seguro,39,M,64.6,19.9,143,84,91,130,50,13.9,NO,SI,NO,NO,SI,moderado,2,3,ama de casa,0
+huajicori,centro de salud rural,seguro popular,26,M,90.7,28.3,154,71,61,187,178,13,NO,SI,NO,NO,NO,sedentario,1,4,estudiante,0
+tepic,clinica imss,imss,52,M,90.4,32,134,86,152,148,298,16.1,SI,SI,NO,SI,NO,sedentario,0,4,empleado,1
+compostela,unidad medica movil,seguro popular,87,F,72,33.3,159,100,132,130,284,13.3,SI,SI,NO,NO,NO,sedentario,1,8,desempleado,1
+rosamorada,unidad medica movil,sin seguro,82,M,69.6,22.2,156,65,103,156,181,13.7,NO,SI,NO,NO,NO,sedentario,0,5,estudiante,0
+bahia de banderas,clinica imss,issste,37,M,85.3,29.2,128,73,130,133,280,17.4,SI,NO,NO,NO,NO,moderado,1,10,jornalero,1
+tuxpan,hospital general,imss,59,M,320,30.8,145,79,200,143,187,16.8,SI,SI,NO,SI,NO,sedentario,6,9,jubilado,0
+ixtlan del rio,centro de salud rural,seguro popular,16,M,83.4,33.4,126,74,183,236,101,18.7,SI,NO,NO,NO,NO,sedentario,2,2,comerciante,1
+ahuacatlan,centro de salud rural,sin seguro,86,M,78.3,26.8,163,94,86,191,95,11.8,NO,SI,NO,NO,NO,moderado,5,1,profesionista,0
+compostela,hospital general,issste,64,F,44.5,14,131,87,103,180,166,14.1,NO,SI,NO,NO,NO,sedentario,4,7,desempleado,0
+ahuacatlan,hospital general,sin seguro,50,M,79.5,30.3,139,112,158,200,336,14.1,SI,SI,NO,NO,NO,sedentario,2,11,profesionista,1
+santiago ixcuintla,centro de salud rural,sin seguro,34,F,54,24.3,119,78,62,193,127,10,NO,NO,NO,NO,NO,activo,1,5,comerciante,0
+xalisco,unidad medica movil,seguro popular,26,F,65.3,26.8,134,84,117,145,146,12.9,NO,NO,NO,NO,NO,sedentario,1,7,comerciante,1
+ixtlan del rio,centro de salud rural,imss,86,F,78.2,34.3,156,84,55,185,146,13.8,NO,SI,NO,SI,NO,moderado,2,9,ama de casa,1
+tepic,consultorio issste,sin seguro,48,M,51.4,17.2,128,65,114,193,50,14.3,NO,SI,NO,NO,NO,moderado,1,1,profesionista,0
+tepic,consultorio issste,sin seguro,85,F,64.6,62.8,168,105,118,200,166,13.5,NO,SI,NO,NO,NO,moderado,4,8,comerciante,0
+xalisco,unidad medica movil,imss,44,F,74.8,25.9,133,91,101,223,199,16.4,NO,SI,NO,NO,NO,activo,1,2,comerciante,0
+tepic,consultorio issste,seguro popular,12,M,95.7,40.4,127,72,185,227,95,13.2,SI,NO,NO,NO,NO,sedentario,2,6,jornalero,0
+tepic,consultorio issste,imss,12,M,89.3,34.9,135,71,140,196,135,13.9,SI,NO,NO,NO,NO,activo,2,4,profesionista,0
+bahia de banderas,centro de salud rural,issste,50,M,76.5,30.6,138,91,148,220,189,13.7,SI,SI,NO,NO,NO,activo,1,4,agricultor,1
+tepic,centro de salud rural,sin seguro,71,M,75.9,23.7,133,89,3.8,226,166,11.4,NO,NO,NO,NO,NO,sedentario,5,2,comerciante,0
+rosamorada,centro de salud rural,issste,29,M,87.7,25.6,159,83,104,238,166,13.7,NO,SI,NO,SI,SI,moderado,0,8,jubilado,0
+compostela,clinica imss,issste,74,M,44.5,25.8,114,88,127,156,193,14.3,NO,SI,NO,NO,NO,moderado,2,8,profesionista,0
+ruiz,consultorio issste,nan,20,F,46.4,25.8,126,74,72,184,219,12.1,NO,NO,NO,SI,NO,sedentario,0,10,comerciante,0
+bahia de banderas,consultorio issste,particular,88,M,76.8,26.6,157,77,109,193,189,14.4,NO,SI,SI,NO,NO,moderado,2,7,desempleado,1
+bahia de banderas,unidad medica movil,imss,61,M,66,20.1,125,98,102,193,150,12,NO,SI,NO,NO,NO,moderado,3,1,profesionista,1
+xalisco,hospital general,imss,65,M,68.8,25.8,154,88,78,135,83,16.7,NO,SI,NO,NO,NO,moderado,2,1,jornalero,0
+bahia de banderas,consultorio issste,imss,62,M,77.3,30.2,134,80,151,193,304,14.7,SI,NO,NO,NO,NO,moderado,3,10,agricultor,0
+rosamorada,clinica imss,particular,43,F,43.7,19.2,133,85,3.8,143,242,11.2,NO,NO,NO,NO,NO,sedentario,0,2,desempleado,0
+del nayar,unidad medica movil,issste,87,M,66.4,23.8,174,89,109,169,90,15.6,NO,SI,NO,NO,NO,sedentario,2,5,jubilado,1
+tepic,hospital general,seguro popular,65,F,78.7,30.7,148,89,178,215,166,13.6,SI,SI,NO,SI,NO,sedentario,1,4,jubilado,1
+bahia de banderas,clinica imss,sin seguro,15,F,69.5,22.4,116,78,126,193,141,15.1,NO,NO,NO,NO,NO,sedentario,2,0,comerciante,0
+bahia de banderas,clinica imss,sin seguro,79,M,69.5,22.6,141,94,98,193,163,12,SI,SI,NO,NO,NO,activo,5,0,agricultor,1
+compostela,centro de salud rural,seguro popular,61,M,79.3,29.8,145,84,114,168,95,14,SI,SI,NO,NO,NO,activo,6,6,desempleado,0
+santiago ixcuintla,centro de salud rural,sin seguro,67,F,55.1,22.6,135,83,134,214,166,13.6,SI,NO,NO,SI,NO,sedentario,4,8,ama de casa,1
+santiago ixcuintla,consultorio issste,sin seguro,59,F,79.8,33.6,139,106,68,155,50,13,SI,SI,NO,SI,NO,sedentario,0,2,agricultor,1
+tepic,hospital general,imss,17,F,71.6,23.4,116,80,62,185,115,14.7,NO,NO,NO,NO,NO,sedentario,2,0,empleado,0
+tepic,hospital general,sin seguro,67,F,75.4,25.8,164,82,55,233,141,13.9,NO,SI,SI,SI,NO,moderado,2,9,nan,1
+del nayar,consultorio issste,sin seguro,8,M,47.4,16.8,118,69,133,138,120,13.8,NO,SI,NO,NO,NO,activo,2,6,estudiante,0
+huajicori,centro de salud rural,sin seguro,83,F,64.2,26.4,158,98,94,192,121,12.6,NO,SI,NO,NO,NO,sedentario,3,5,comerciante,1
+bahia de banderas,centro de salud rural,sin seguro,73,M,72.3,13.1,153,95,125,176,50,16.5,NO,SI,NO,NO,NO,sedentario,4,4,jornalero,0
+bahia de banderas,unidad medica movil,sin seguro,37,M,72.6,25.8,136,85,145,176,50,15.2,SI,NO,NO,SI,NO,moderado,1,8,estudiante,0
+bahia de banderas,clinica imss,seguro popular,72,F,61.9,58.4,153,93,110,210,166,11.7,NO,SI,NO,NO,NO,sedentario,5,0,profesionista,0
+bahia de banderas,consultorio issste,issste,39,M,59.9,20,134,68,78,174,103,13.1,NO,NO,NO,NO,NO,sedentario,2,8,jubilado,1
+del nayar,clinica imss,imss,68,M,72.5,24.5,154,83,67,228,161,15.5,NO,SI,NO,NO,SI,activo,4,1,agricultor,1
+xalisco,unidad medica movil,sin seguro,78,M,98.9,35,148,89,161,164,166,15.3,SI,SI,NO,NO,NO,sedentario,0,7,jubilado,1
+tuxpan,hospital general,seguro popular,42,F,59.4,26.1,126,84,80,136,202,16.6,NO,SI,NO,NO,NO,moderado,2,1,estudiante,0
+compostela,hospital general,particular,86,F,51,18.5,127,102,121,189,233,12.3,NO,SI,NO,NO,NO,sedentario,5,8,comerciante,1
+tepic,hospital general,sin seguro,91,F,60.2,20.3,132,100,92,235,272,14.3,NO,SI,NO,SI,NO,sedentario,3,2,jubilado,1
+ahuacatlan,hospital general,sin seguro,73,F,69.5,30.9,162,84,202,193,256,13.1,SI,SI,NO,NO,NO,activo,4,10,estudiante,1
+tepic,clinica imss,seguro popular,41,M,46.9,17.4,137,84,105,193,144,16.8,NO,NO,NO,NO,SI,activo,1,5,agricultor,0
+xalisco,unidad medica movil,issste,26,M,84.6,27.3,133,88,113,178,55,13.7,NO,SI,NO,NO,NO,moderado,1,10,profesionista,0
+ixtlan del rio,centro de salud rural,seguro popular,15,F,69.5,25.5,122,84,91,177,285,16.2,NO,NO,NO,NO,NO,sedentario,1,9,agricultor,0
+tepic,consultorio issste,imss,48,F,69.5,33,153,81,158,225,188,12,SI,SI,NO,NO,SI,sedentario,0,6,comerciante,0
+ixtlan del rio,centro de salud rural,imss,31,M,78.8,28.3,127,84,115,126,171,13.9,SI,NO,NO,SI,SI,sedentario,1,3,comerciante,0
+ixtlan del rio,centro de salud rural,particular,71,M,82.7,30.7,154,67,170,193,166,13.2,SI,SI,NO,NO,NO,moderado,5,9,profesionista,1
+tepic,centro de salud rural,seguro popular,89,F,43.4,17.2,159,84,86,219,80,14.3,NO,SI,NO,SI,SI,activo,2,9,jubilado,1
+tuxpan,consultorio issste,issste,79,F,58,22.9,138,82,73,193,270,16,NO,NO,NO,SI,NO,moderado,0,3,ama de casa,0
+ixtlan del rio,clinica imss,seguro popular,28,M,52.4,15.1,117,71,91,174,50,14.4,NO,NO,NO,NO,SI,sedentario,0,0,estudiante,0
+tepic,consultorio issste,sin seguro,60,M,57,25.8,114,66,86,100,50,18.6,NO,NO,NO,NO,NO,moderado,3,6,ama de casa,0
+bahia de banderas,unidad medica movil,sin seguro,76,F,58,29.6,151,88,72,114,285,9.3,SI,SI,NO,NO,NO,sedentario,0,4,estudiante,1
+tepic,clinica imss,seguro popular,75,M,64.2,22.7,151,94,59,185,138,14.5,NO,SI,NO,NO,NO,sedentario,4,4,comerciante,1
+bahia de banderas,hospital general,sin seguro,69,M,69.5,25,138,83,87,180,166,14.8,NO,NO,NO,NO,NO,sedentario,5,4,desempleado,0
+san blas,clinica imss,issste,66,F,70,27.3,138,87,103,126,317,11.8,NO,NO,NO,NO,NO,moderado,0,1,jornalero,0
+tepic,clinica imss,imss,8,M,100.5,42.1,125,89,188,240,221,14.1,SI,NO,NO,NO,SI,sedentario,2,3,desempleado,0
+tuxpan,centro de salud rural,imss,89,F,73.5,34,156,80,144,245,50,12,SI,SI,NO,SI,SI,sedentario,3,11,profesionista,1
+santiago ixcuintla,unidad medica movil,seguro popular,7,M,52.8,17.8,105,62,90,196,220,13.7,NO,NO,NO,SI,NO,moderado,1,6,agricultor,0
+bahia de banderas,consultorio issste,issste,22,M,78.7,27.2,142,84,131,136,166,16.5,SI,SI,NO,NO,NO,moderado,2,9,estudiante,0
+bahia de banderas,hospital general,particular,67,M,79.7,26.6,130,89,97,243,69,14.1,NO,NO,NO,SI,NO,sedentario,1,5,empleado,1
+acaponeta,clinica imss,issste,59,F,54.8,20.9,132,87,108,176,146,12.7,NO,SI,NO,SI,NO,moderado,4,11,ama de casa,1
+rosamorada,centro de salud rural,seguro popular,14,F,74.2,26,123,84,95,123,193,9.9,SI,NO,NO,NO,NO,sedentario,0,3,agricultor,INGRESADO
+tuxpan,hospital general,issste,13,M,50.1,15,132,84,85,193,247,15.5,NO,NO,NO,NO,NO,sedentario,1,6,agricultor,0
+ruiz,consultorio issste,sin seguro,41,F,55.1,25.8,140,72,56,193,117,14.9,NO,NO,NO,NO,NO,sedentario,0,6,comerciante,0
+tepic,centro de salud rural,particular,43,F,69.5,30.2,135,72,156,177,166,14.7,SI,NO,NO,NO,NO,sedentario,1,5,ama de casa,0
+ixtlan del rio,unidad medica movil,imss,62,M,68.7,24.9,155,90,86,238,166,13.7,NO,SI,NO,NO,SI,sedentario,2,7,desempleado,1
+ruiz,clinica imss,seguro popular,52,M,67.6,25.8,140,85,124,238,146,12.8,NO,SI,NO,SI,NO,sedentario,1,4,agricultor,1
+tuxpan,unidad medica movil,imss,57,F,79.9,33.3,144,84,139,256,189,12.7,SI,SI,NO,NO,NO,sedentario,3,6,ama de casa,1
+ahuacatlan,clinica imss,seguro popular,89,F,66.6,27.4,175,90,109,106,175,16.9,NO,SI,NO,NO,NO,sedentario,6,11,profesionista,0
+tepic,centro de salud rural,issste,49,F,74.3,27.6,148,84,128,246,91,11.4,SI,SI,NO,NO,NO,sedentario,1,9,ama de casa,0
+bahia de banderas,consultorio issste,imss,47,F,60.7,24,153,76,5,192,103,12.4,NO,SI,NO,NO,NO,activo,0,0,jornalero,0
+san blas,unidad medica movil,imss,19,M,55.4,17.9,127,84,141,164,257,13.7,NO,SI,NO,SI,SI,moderado,2,4,nan,0
+tepic,unidad medica movil,nan,56,F,77.7,25.8,129,74,82,135,129,13.2,SI,SI,NO,SI,NO,moderado,4,8,agricultor,1
+del nayar,consultorio issste,seguro popular,34,M,80.3,24.8,137,84,91,193,70,13.7,NO,NO,NO,NO,NO,sedentario,0,10,desempleado,INGRESADO
+san blas,hospital general,seguro popular,13,M,60.5,21.4,116,67,119,167,134,15.7,NO,NO,NO,NO,NO,sedentario,2,2,profesionista,0
+santiago ixcuintla,hospital general,imss,50,F,50.6,21.3,142,83,85,148,152,11.9,NO,SI,NO,NO,NO,activo,0,11,jubilado,0
+bahia de banderas,unidad medica movil,seguro popular,42,F,77.5,26.5,131,93,89,130,213,17,NO,SI,NO,NO,NO,sedentario,0,8,agricultor,1
+rosamorada,unidad medica movil,sin seguro,74,F,69.5,27.5,145,86,5.9,172,104,14.7,NO,SI,NO,NO,NO,sedentario,3,6,profesionista,0
+bahia de banderas,hospital general,sin seguro,48,F,64.5,24.9,144,80,84,173,97,13.2,NO,SI,NO,SI,NO,sedentario,2,11,jornalero,0
+xalisco,unidad medica movil,seguro popular,9,M,80.7,29.3,116,76,84,193,50,14.2,NO,NO,NO,NO,NO,sedentario,2,0,comerciante,1
+santiago ixcuintla,clinica imss,sin seguro,46,M,97.1,31.3,134,101,171,194,50,11.3,SI,SI,NO,NO,NO,activo,1,3,jubilado,1
+compostela,centro de salud rural,issste,64,M,64.6,21.3,137,84,92,192,66,13.7,NO,NO,NO,NO,NO,activo,2,0,jornalero,0
+ixtlan del rio,centro de salud rural,particular,29,F,93.7,25.8,134,85,84,221,202,14.8,NO,NO,NO,NO,NO,moderado,2,2,empleado,1
+acaponeta,centro de salud rural,issste,8,M,77.9,25.8,116,65,57,100,50,14.6,SI,SI,NO,NO,SI,moderado,1,2,agricultor,0
+tuxpan,hospital general,sin seguro,43,F,53.1,21.8,136,66,59,155,211,12.7,NO,NO,NO,SI,SI,moderado,1,3,empleado,0
+xalisco,centro de salud rural,sin seguro,57,F,72.7,33.6,125,84,146,211,216,13.7,SI,NO,NO,NO,NO,sedentario,1,4,empleado,1
+ahuacatlan,unidad medica movil,seguro popular,61,M,63.7,19.9,147,80,121,215,303,12,SI,SI,NO,NO,NO,moderado,1,1,agricultor,1
+tepic,clinica imss,sin seguro,45,F,67.9,23.2,134,91,101,156,303,15.7,NO,SI,NO,NO,NO,activo,1,7,jornalero,0
+ruiz,consultorio issste,imss,10,M,72,24.6,120,77,72,195,166,15.2,SI,NO,NO,NO,NO,sedentario,2,1,estudiante,0
+xalisco,consultorio issste,imss,8,F,63.6,24.2,110,87,84,182,160,11.9,NO,NO,NO,NO,NO,activo,1,8,empleado,0
+bahia de banderas,unidad medica movil,particular,48,F,52,22.5,129,80,136,219,329,16.2,NO,NO,NO,SI,NO,moderado,1,10,comerciante,0
+ahuacatlan,clinica imss,seguro popular,9,M,75.2,25.8,113,60,92,179,120,14.8,NO,NO,NO,SI,NO,sedentario,2,8,comerciante,0
+compostela,unidad medica movil,seguro popular,19,F,73.1,28.9,121,82,89,129,258,13.3,NO,NO,NO,NO,NO,sedentario,0,1,comerciante,1
+xalisco,unidad medica movil,issste,27,F,53.4,21.9,129,67,135,193,104,11.9,SI,NO,NO,SI,NO,sedentario,2,10,comerciante,AMBULATORIO
+acaponeta,consultorio issste,particular,34,F,62.8,26.5,131,90,108,182,205,11.5,NO,NO,NO,SI,NO,sedentario,1,0,jornalero,0
+acaponeta,consultorio issste,sin seguro,21,F,88.6,25.8,141,84,189,139,187,14.4,SI,SI,NO,NO,NO,sedentario,1,3,agricultor,0
+del nayar,hospital general,imss,91,M,68.5,25.5,152,92,86,212,81,14.4,NO,SI,NO,NO,NO,moderado,6,6,jornalero,0
+tepic,consultorio issste,issste,84,F,77.8,30.4,151,105,131,170,50,12.4,SI,SI,NO,NO,NO,moderado,4,6,estudiante,1
+huajicori,consultorio issste,sin seguro,78,F,55.2,25.8,140,92,93,218,266,14.1,SI,SI,NO,NO,NO,activo,0,3,profesionista,1
+tepic,centro de salud rural,particular,52,F,72.5,25.8,123,77,81,205,115,13.7,NO,NO,NO,NO,NO,moderado,2,4,empleado,0
+bahia de banderas,unidad medica movil,imss,67,F,76.5,29.5,170,80,108,210,245,13.2,NO,SI,NO,NO,NO,activo,6,1,estudiante,0
+ruiz,hospital general,sin seguro,13,M,87.9,30.1,145,79,121,243,166,13.5,NO,SI,NO,SI,NO,activo,1,11,desempleado,1
+xalisco,centro de salud rural,sin seguro,29,M,67.5,27.7,123,82,64,206,172,14.2,NO,NO,NO,NO,NO,moderado,0,4,empleado,0
+rosamorada,unidad medica movil,sin seguro,46,M,69.5,19.7,119,74,108,140,166,15.6,NO,NO,NO,NO,NO,sedentario,2,0,estudiante,0
+santiago ixcuintla,consultorio issste,sin seguro,20,M,69.6,24.4,114,81,122,190,159,13.9,NO,NO,NO,NO,NO,moderado,2,5,jornalero,0
+tepic,unidad medica movil,sin seguro,6,F,75.5,31.8,88,90,63,214,166,13.1,NO,NO,NO,NO,NO,moderado,1,5,estudiante,0
+huajicori,hospital general,imss,85,M,69.5,63.3,158,98,84,173,177,14.5,SI,SI,NO,SI,NO,sedentario,5,7,desempleado,1
+acaponeta,hospital general,seguro popular,8,M,52.7,18.2,105,68,129,202,312,17.1,NO,NO,NO,SI,NO,moderado,2,1,ama de casa,0
+rosamorada,clinica imss,sin seguro,65,F,69.5,20.2,127,84,149,187,54,13.8,NO,SI,NO,NO,NO,moderado,3,2,ama de casa,1
+huajicori,hospital general,sin seguro,72,M,99.1,30.9,142,85,102,165,160,12.4,NO,SI,NO,NO,NO,moderado,3,4,profesionista,1
+santiago ixcuintla,unidad medica movil,sin seguro,88,F,65.2,28.6,148,84,55,242,166,14.2,NO,SI,SI,NO,NO,moderado,5,6,nan,1
+bahia de banderas,unidad medica movil,seguro popular,7,M,52.9,31.8,105,84,95,180,50,17.8,NO,NO,NO,NO,NO,sedentario,2,7,profesionista,0
+tepic,unidad medica movil,imss,47,M,80.5,26.6,134,76,106,283,166,16.8,NO,NO,NO,NO,NO,moderado,2,8,agricultor,0
+tuxpan,unidad medica movil,nan,59,F,56.9,22.5,138,97,93,164,50,12.6,SI,SI,NO,NO,NO,moderado,0,3,agricultor,1
+tuxpan,centro de salud rural,imss,77,M,55.3,16.9,115,80,119,227,182,14.8,NO,NO,NO,SI,NO,activo,3,9,empleado,0
+tepic,unidad medica movil,particular,46,F,70.8,26,152,74,95,239,128,12.2,NO,SI,NO,NO,NO,activo,2,3,jubilado,0
+tepic,unidad medica movil,sin seguro,17,M,73,22.8,123,71,100,149,126,12,NO,NO,NO,SI,NO,moderado,2,11,jubilado,0
+ruiz,consultorio issste,sin seguro,86,F,70.6,28.6,169,82,101,133,204,14.1,NO,SI,NO,NO,NO,moderado,0,7,ama de casa,0
+xalisco,unidad medica movil,sin seguro,20,M,76.3,22.8,138,82,87,270,139,14.7,NO,NO,NO,SI,NO,activo,2,0,comerciante,0
+ruiz,consultorio issste,seguro popular,30,F,39.5,14.3,120,74,105,100,114,11.7,NO,NO,NO,SI,NO,moderado,0,4,comerciante,0
+santiago ixcuintla,centro de salud rural,particular,55,M,76.4,23.3,141,66,109,128,166,9.9,NO,SI,NO,NO,NO,sedentario,6,0,jubilado,0
+bahia de banderas,clinica imss,seguro popular,29,F,92.3,37.4,144,78,55,230,250,13.4,NO,SI,NO,NO,NO,sedentario,1,0,profesionista,0
+tuxpan,unidad medica movil,sin seguro,87,F,63.4,22.7,151,91,103,224,197,13,SI,SI,NO,NO,NO,sedentario,4,5,desempleado,0
+tepic,centro de salud rural,seguro popular,16,M,62.9,22,119,98,68,180,202,14.7,NO,SI,NO,NO,NO,moderado,0,5,jubilado,0
+bahia de banderas,consultorio issste,imss,17,M,64.3,21.2,116,82,55,207,165,12.2,NO,NO,NO,SI,NO,moderado,2,1,empleado,0
+tepic,hospital general,particular,63,M,66.8,21.6,141,82,83,128,207,13.3,NO,SI,NO,NO,NO,sedentario,2,10,agricultor,1
+xalisco,clinica imss,issste,74,F,67.1,34.2,155,104,88,246,228,10,NO,SI,NO,NO,SI,moderado,0,1,jubilado,0
+tuxpan,hospital general,sin seguro,20,F,86.9,25.8,134,84,88,225,122,15.2,NO,SI,NO,NO,SI,activo,2,4,agricultor,0
+ruiz,unidad medica movil,issste,61,F,80.7,30,134,88,59,179,87,13.7,NO,NO,NO,NO,NO,sedentario,2,2,ama de casa,0
+tepic,consultorio issste,issste,67,F,61,22.1,141,94,83,167,276,16.1,NO,SI,NO,SI,NO,moderado,2,3,comerciante,1
+tepic,unidad medica movil,nan,69,F,79.9,31.2,152,81,189,146,132,13.8,SI,SI,NO,NO,NO,moderado,1,9,profesionista,1
+ixtlan del rio,hospital general,seguro popular,5,M,66.8,26.4,112,89,55,186,128,14.8,NO,NO,NO,NO,SI,sedentario,2,7,empleado,0
+rosamorada,clinica imss,imss,16,F,57,25.8,134,84,109,198,342,13,NO,SI,NO,SI,NO,activo,0,8,ama de casa,0
+del nayar,unidad medica movil,seguro popular,23,M,77.4,23.9,120,72,58,166,130,18.5,NO,NO,NO,NO,NO,sedentario,1,2,comerciante,0
+tepic,consultorio issste,issste,7,F,68.4,26.7,112,84,106,178,153,11.7,NO,NO,NO,NO,NO,activo,0,7,estudiante,0
+tepic,consultorio issste,issste,82,F,74.4,30.2,152,92,99,195,80,12,NO,SI,NO,NO,NO,sedentario,6,1,profesionista,1
+bahia de banderas,unidad medica movil,issste,84,F,67.7,25.8,157,86,75,223,188,13.7,NO,SI,NO,NO,NO,moderado,6,9,jornalero,1
+del nayar,unidad medica movil,imss,44,M,60.6,20,151,69,109,192,324,14.4,NO,SI,NO,NO,NO,activo,2,7,desempleado,0
+tepic,centro de salud rural,imss,69,F,69.5,21,144,74,67,196,305,14.7,NO,SI,NO,SI,NO,moderado,0,8,empleado,0
+ahuacatlan,hospital general,issste,55,M,68.1,21.7,132,104,135,163,175,16.2,NO,SI,NO,NO,SI,activo,0,4,empleado,0
+san blas,clinica imss,sin seguro,79,F,40.5,15.1,143,87,84,187,259,13.7,NO,SI,NO,SI,NO,moderado,3,4,nan,0
+bahia de banderas,unidad medica movil,sin seguro,82,F,52.6,22.2,148,98,93,198,221,10.8,NO,SI,NO,NO,NO,sedentario,4,7,estudiante,1
+ixtlan del rio,clinica imss,sin seguro,31,M,70.9,26,135,84,121,193,312,14,SI,NO,NO,NO,NO,sedentario,2,6,empleado,0
+tepic,hospital general,imss,27,M,78.9,32.4,125,81,177,220,312,16.4,SI,NO,NO,NO,NO,moderado,0,3,agricultor,0
+bahia de banderas,clinica imss,particular,24,F,56.9,22.5,149,87,124,204,60,16,NO,SI,NO,NO,SI,sedentario,0,2,jornalero,0
+xalisco,unidad medica movil,sin seguro,45,F,78.2,28.4,127,84,98,192,166,13.7,NO,NO,NO,NO,NO,sedentario,2,8,ama de casa,0
+huajicori,consultorio issste,imss,27,F,73.3,37.4,129,84,148,152,166,11.7,SI,NO,NO,SI,SI,activo,1,0,empleado,0
+tepic,hospital general,sin seguro,51,M,47.7,16.1,152,84,85,169,184,19,NO,SI,NO,NO,NO,moderado,4,2,agricultor,0
+tepic,consultorio issste,sin seguro,54,F,72.4,32.2,149,85,88,284,133,13.8,NO,SI,NO,SI,NO,activo,6,5,desempleado,0
+compostela,hospital general,seguro popular,43,M,77.5,27.5,129,77,59,151,166,13.7,NO,SI,NO,NO,NO,moderado,0,3,agricultor,0
+acaponeta,clinica imss,seguro popular,28,M,69.6,28.2,137,70,104,264,147,17.3,NO,NO,NO,NO,NO,moderado,0,4,estudiante,0
+del nayar,centro de salud rural,imss,85,F,60.5,21.4,150,91,91,133,153,13.7,NO,SI,NO,NO,NO,moderado,4,1,ama de casa,1
+xalisco,consultorio issste,particular,12,M,93.1,30.8,134,80,164,189,340,12.7,SI,SI,NO,SI,NO,sedentario,1,3,desempleado,0
+rosamorada,hospital general,imss,81,M,92.2,31.9,167,101,93,177,141,13.4,NO,SI,NO,NO,NO,moderado,5,8,desempleado,1
+bahia de banderas,hospital general,imss,46,F,74,34.7,140,84,93,212,217,10.1,NO,NO,NO,NO,NO,sedentario,0,1,agricultor,0
+tepic,centro de salud rural,sin seguro,75,F,63.1,24.3,161,88,6.1,231,296,13.1,NO,SI,NO,NO,NO,activo,1,0,empleado,1
+bahia de banderas,centro de salud rural,particular,51,F,65,25.1,142,87,113,221,166,12.6,NO,SI,NO,NO,SI,sedentario,1,3,nan,0
+ixtlan del rio,centro de salud rural,imss,65,F,65.7,23.8,127,85,112,200,148,15.8,NO,NO,NO,SI,NO,sedentario,5,5,desempleado,1
+bahia de banderas,unidad medica movil,imss,17,M,104.7,32.3,127,78,149,176,140,11,SI,NO,NO,NO,NO,moderado,0,3,estudiante,1
+xalisco,unidad medica movil,issste,33,F,73.2,32.5,120,92,200,231,219,12.8,SI,SI,NO,NO,NO,sedentario,1,11,profesionista,1
+ruiz,consultorio issste,seguro popular,23,F,81.9,32.8,143,79,81,220,74,10.7,NO,SI,NO,NO,NO,activo,0,6,ama de casa,1
+tuxpan,hospital general,seguro popular,46,F,60.2,24.1,117,88,78,138,87,10.5,NO,NO,NO,NO,NO,sedentario,2,6,agricultor,0
+compostela,unidad medica movil,imss,72,F,72.4,23.1,129,91,102,217,183,12.7,NO,SI,NO,SI,NO,moderado,6,9,profesionista,1
+tepic,hospital general,imss,51,M,71.4,26.2,153,84,78,168,186,13.1,NO,SI,NO,SI,NO,sedentario,2,4,ama de casa,0
+compostela,clinica imss,imss,89,F,75.8,27.5,147,84,109,193,216,12.3,NO,SI,NO,NO,NO,sedentario,2,10,empleado,1
+bahia de banderas,unidad medica movil,imss,87,M,76.4,25.8,152,91,97,215,50,14.1,NO,SI,NO,NO,NO,activo,6,2,desempleado,0
+acaponeta,unidad medica movil,imss,71,M,95.5,39.8,150,106,154,125,149,16.8,SI,SI,NO,SI,NO,sedentario,0,10,empleado,1
+santiago ixcuintla,centro de salud rural,sin seguro,29,M,80.5,28.9,142,99,86,166,74,14.7,NO,SI,NO,SI,NO,sedentario,1,5,desempleado,1
+san blas,clinica imss,imss,31,F,43.1,18.9,120,93,104,184,193,13.7,NO,SI,NO,NO,NO,moderado,0,9,nan,0
+xalisco,clinica imss,sin seguro,53,M,86.8,28.7,158,85,98,193,239,15.6,NO,SI,NO,NO,NO,sedentario,2,6,empleado,0
+tepic,consultorio issste,sin seguro,80,M,88.6,31,155,84,114,183,279,13.9,NO,SI,NO,NO,NO,sedentario,6,11,ama de casa,1
+tuxpan,hospital general,seguro popular,77,F,58.8,23.9,160,83,102,127,170,12.8,NO,SI,NO,NO,NO,moderado,4,10,profesionista,1
+tepic,centro de salud rural,issste,72,M,76.9,29.3,154,93,89,193,230,15.8,NO,SI,SI,NO,NO,sedentario,3,2,agricultor,0
+del nayar,unidad medica movil,sin seguro,12,F,77.1,30.3,110,82,98,201,166,14.1,SI,NO,NO,SI,NO,sedentario,1,9,profesionista,0
+bahia de banderas,clinica imss,seguro popular,61,F,63.1,22.9,131,83,68,200,166,13.5,NO,NO,NO,SI,NO,sedentario,6,8,comerciante,1
+ahuacatlan,clinica imss,imss,49,F,61.8,26.7,136,81,55,131,98,14.1,SI,NO,NO,NO,NO,sedentario,1,0,estudiante,0
+ruiz,clinica imss,sin seguro,30,F,60,24,134,80,103,131,153,12.1,NO,NO,NO,SI,NO,moderado,1,2,estudiante,0
+ruiz,hospital general,imss,37,F,47.3,18.9,123,68,90,143,60,13.7,NO,SI,NO,NO,NO,sedentario,1,3,profesionista,0
+santiago ixcuintla,unidad medica movil,issste,0,F,40.7,14.6,123,69,5.7,200,193,12.6,NO,NO,NO,SI,NO,moderado,0,6,estudiante,0
+san blas,unidad medica movil,seguro popular,91,M,81.7,30.8,150,103,90,180,166,14.9,NO,SI,NO,SI,SI,moderado,0,0,profesionista,0
+ahuacatlan,centro de salud rural,sin seguro,19,F,71.6,32.7,123,90,177,118,205,14.4,SI,NO,NO,NO,NO,moderado,1,8,nan,0
+bahia de banderas,consultorio issste,seguro popular,59,M,81.4,29.2,147,75,123,244,151,10.7,NO,SI,NO,NO,NO,sedentario,0,11,ama de casa,0
+tepic,clinica imss,seguro popular,77,F,63.6,27.5,151,99,120,254,190,15.1,NO,SI,NO,NO,NO,sedentario,6,1,jubilado,1
+tepic,unidad medica movil,imss,53,F,55.9,24.5,133,84,109,199,150,13.4,NO,NO,NO,NO,NO,moderado,4,11,desempleado,0
+santiago ixcuintla,consultorio issste,sin seguro,24,F,56.6,24.5,102,75,136,194,169,11.9,NO,NO,NO,NO,NO,moderado,2,0,estudiante,0
+bahia de banderas,consultorio issste,seguro popular,79,M,53,18.6,143,91,89,235,116,15.7,NO,SI,SI,NO,NO,moderado,2,6,comerciante,1
+rosamorada,hospital general,seguro popular,53,M,62.9,18.7,145,76,67,207,81,13.1,NO,SI,NO,NO,NO,moderado,0,8,ama de casa,0
+xalisco,clinica imss,particular,57,M,82.5,26.3,149,79,96,223,135,13.8,NO,SI,NO,NO,NO,activo,5,10,ama de casa,1
+compostela,centro de salud rural,issste,88,M,56.2,20.6,165,101,73,189,298,14.6,NO,SI,NO,SI,NO,activo,4,9,ama de casa,1
+tuxpan,consultorio issste,seguro popular,43,F,50.7,21.4,131,87,90,261,202,17,NO,NO,NO,NO,NO,activo,2,3,estudiante,0
+acaponeta,unidad medica movil,seguro popular,44,M,91.7,32.1,149,79,118,174,118,12.1,NO,SI,NO,NO,NO,sedentario,2,5,profesionista,0
+tepic,clinica imss,sin seguro,6,M,106,41.4,114,84,150,188,219,12,SI,NO,NO,NO,NO,activo,0,0,nan,1
+del nayar,centro de salud rural,sin seguro,8,F,73.3,30.1,131,64,119,165,140,8.7,NO,NO,NO,NO,SI,sedentario,2,9,desempleado,1
+huajicori,clinica imss,seguro popular,26,F,58.5,21,120,87,78,222,50,13.7,NO,NO,NO,NO,NO,moderado,2,3,jubilado,0
+xalisco,hospital general,sin seguro,66,M,52.8,16.9,142,74,81,193,219,15.9,NO,SI,NO,SI,NO,activo,2,11,profesionista,1
+san blas,centro de salud rural,particular,69,F,94.7,26.5,158,98,191,111,407,12.7,SI,SI,NO,NO,NO,sedentario,5,11,estudiante,1
+ahuacatlan,hospital general,sin seguro,24,F,45.5,17.8,99,67,136,219,152,13.3,NO,NO,NO,SI,SI,activo,1,7,estudiante,0
+bahia de banderas,unidad medica movil,seguro popular,59,F,64.5,24.6,141,82,125,174,148,15.7,NO,SI,NO,NO,NO,sedentario,2,11,profesionista,0
+santiago ixcuintla,hospital general,imss,85,F,67.5,25.8,152,82,82,225,315,12.4,NO,SI,NO,SI,NO,moderado,5,8,jubilado,0
+huajicori,hospital general,sin seguro,18,M,78.3,27.4,131,84,90,195,166,16.9,NO,SI,NO,NO,NO,moderado,0,9,estudiante,0
+san blas,consultorio issste,issste,62,F,63.3,26.7,129,79,80,220,212,12.6,NO,NO,NO,NO,NO,moderado,4,1,comerciante,0
+ahuacatlan,clinica imss,sin seguro,36,F,68.1,25,131,75,90,183,338,15.1,SI,NO,NO,SI,NO,sedentario,2,1,agricultor,0
+ahuacatlan,centro de salud rural,sin seguro,7,F,60.2,24.4,127,75,130,193,111,15.3,NO,NO,NO,NO,NO,sedentario,1,5,profesionista,0
+bahia de banderas,unidad medica movil,imss,44,F,57.7,21.5,134,76,103,219,166,9.9,NO,NO,NO,NO,NO,sedentario,2,2,empleado,0
+tepic,hospital general,sin seguro,76,F,68.1,25.8,155,79,99,195,88,12.7,NO,SI,NO,NO,NO,moderado,5,5,jubilado,1
+ixtlan del rio,hospital general,seguro popular,56,M,60.8,24,149,83,85,193,166,13.7,NO,SI,NO,NO,NO,moderado,5,3,nan,0
+tepic,hospital general,imss,72,M,71.1,25.8,151,84,78,193,212,14.6,NO,SI,NO,NO,NO,activo,4,4,jubilado,0
+tepic,centro de salud rural,sin seguro,79,F,55.7,25.8,153,78,107,265,190,12.9,NO,SI,NO,NO,NO,sedentario,6,3,agricultor,0
+santiago ixcuintla,hospital general,sin seguro,48,F,49.9,19.7,117,85,95,199,76,11.9,SI,SI,NO,NO,NO,activo,0,2,jornalero,0
+bahia de banderas,unidad medica movil,seguro popular,20,F,48.8,25.8,125,69,89,195,168,14.9,SI,NO,NO,SI,NO,sedentario,2,2,jornalero,0
+tepic,unidad medica movil,imss,64,F,69.5,29,151,86,6.3,999,121,13.2,NO,SI,NO,NO,NO,sedentario,2,5,ama de casa,0
+compostela,unidad medica movil,imss,52,M,52.5,18.6,149,87,100,133,166,16.6,NO,SI,NO,NO,NO,sedentario,6,10,jornalero,0
+tepic,unidad medica movil,nan,70,F,75.1,34.3,155,86,196,154,133,13.7,SI,SI,NO,NO,NO,moderado,1,8,desempleado,1
+tepic,consultorio issste,seguro popular,51,F,62,23.1,141,97,97,168,87,13.7,NO,SI,NO,SI,SI,activo,1,3,desempleado,0
+bahia de banderas,consultorio issste,sin seguro,43,M,61.8,20.9,115,84,121,189,180,13.9,NO,NO,NO,NO,NO,sedentario,1,7,empleado,0
+xalisco,hospital general,seguro popular,71,F,74,31.2,150,96,142,171,166,11.4,SI,SI,NO,SI,NO,moderado,0,10,profesionista,1
+tepic,hospital general,imss,70,M,48.1,18.6,170,84,113,159,139,13.7,NO,SI,NO,SI,NO,moderado,5,0,jubilado,0
+bahia de banderas,centro de salud rural,issste,27,M,83.4,30.3,151,88,99,234,176,13.7,NO,SI,NO,NO,NO,moderado,0,3,ama de casa,0
+xalisco,consultorio issste,imss,46,F,66.3,24.4,151,89,75,170,257,14.4,SI,SI,NO,NO,NO,moderado,0,11,desempleado,0
+tepic,consultorio issste,sin seguro,57,M,65.8,23.6,144,90,112,234,256,14.2,NO,SI,NO,NO,NO,moderado,3,9,comerciante,0
+xalisco,unidad medica movil,issste,26,M,69.5,14.5,112,62,128,181,152,14.5,NO,NO,NO,NO,NO,activo,0,5,jornalero,0
+tepic,consultorio issste,sin seguro,41,M,89.4,25.8,142,97,149,193,192,14.2,SI,SI,NO,NO,NO,sedentario,0,3,estudiante,1
+rosamorada,clinica imss,imss,20,M,66.9,22.1,131,86,68,193,179,14.3,NO,SI,NO,NO,SI,moderado,2,2,agricultor,0
+san blas,centro de salud rural,sin seguro,59,F,75.5,30.2,152,86,134,210,124,11.9,SI,SI,NO,NO,NO,sedentario,3,4,jornalero,0
+santiago ixcuintla,centro de salud rural,sin seguro,13,M,50.3,16.1,125,85,106,132,144,12.8,NO,NO,NO,NO,NO,sedentario,1,4,jornalero,0
+bahia de banderas,consultorio issste,sin seguro,34,F,68.2,29.5,114,79,72,177,208,14.1,NO,NO,NO,SI,NO,moderado,1,8,empleado,0
+santiago ixcuintla,centro de salud rural,seguro popular,71,M,72.5,30.6,142,96,72,234,131,14.6,NO,SI,SI,NO,SI,sedentario,5,2,comerciante,1
+tepic,hospital general,seguro popular,43,F,69.9,27.3,139,88,78,171,61,14.4,NO,NO,NO,NO,NO,sedentario,2,3,estudiante,0
+ruiz,unidad medica movil,particular,87,F,70.9,31.5,147,71,180,234,250,12.9,SI,SI,NO,SI,NO,activo,2,11,empleado,1
+del nayar,clinica imss,issste,14,M,63.8,19.3,124,74,72,140,324,17.3,NO,NO,NO,NO,NO,sedentario,1,6,jornalero,0
+tepic,consultorio issste,seguro popular,25,F,73.9,26.5,113,79,102,193,280,10.4,NO,NO,NO,NO,NO,moderado,1,5,desempleado,0
+bahia de banderas,consultorio issste,sin seguro,59,M,77.9,30.4,126,95,166,260,312,14.1,SI,SI,NO,SI,NO,moderado,3,2,desempleado,0
+san blas,unidad medica movil,sin seguro,87,M,65.8,23,164,84,134,222,160,14.8,NO,SI,NO,NO,NO,moderado,1,5,comerciante,1
+huajicori,clinica imss,issste,67,F,82.2,14.4,155,94,189,193,127,17,SI,SI,NO,NO,NO,sedentario,3,7,profesionista,1
+tepic,unidad medica movil,seguro popular,5,M,97,25.8,132,73,107,123,116,14.8,NO,NO,NO,NO,NO,sedentario,1,11,ama de casa,0
+del nayar,clinica imss,sin seguro,82,F,68.6,29.3,141,84,103,145,325,12.8,NO,SI,NO,NO,NO,moderado,4,7,jubilado,0
+acaponeta,consultorio issste,sin seguro,18,F,64.3,27.1,127,76,86,175,50,13.2,NO,SI,NO,SI,NO,sedentario,2,8,profesionista,0
+ixtlan del rio,consultorio issste,sin seguro,55,M,78.5,26.2,154,76,84,117,128,13.7,NO,SI,NO,NO,NO,moderado,0,7,profesionista,0
+tepic,clinica imss,issste,78,M,41.6,25.8,147,84,138,236,181,15.5,NO,SI,NO,NO,NO,sedentario,5,4,ama de casa,1
+tuxpan,hospital general,seguro popular,24,F,73.1,25.8,128,98,89,163,164,14.3,NO,SI,NO,NO,NO,activo,1,0,estudiante,0
+tepic,unidad medica movil,seguro popular,88,M,94.2,25.8,160,84,177,193,114,16.7,SI,SI,NO,SI,NO,activo,2,2,jornalero,1
+ahuacatlan,clinica imss,sin seguro,73,M,90.5,25.8,136,77,166,190,166,12.5,SI,NO,NO,NO,SI,sedentario,1,5,desempleado,1
+tepic,unidad medica movil,seguro popular,87,F,98.8,37.2,161,97,138,153,186,14.3,SI,SI,NO,NO,NO,moderado,2,8,desempleado,1
+acaponeta,clinica imss,nan,50,F,63.6,27.2,144,94,72,311,166,13.7,NO,SI,NO,NO,NO,sedentario,0,5,estudiante,1
+compostela,centro de salud rural,sin seguro,61,F,59.6,22.2,141,82,104,193,166,13.3,NO,SI,SI,SI,NO,sedentario,4,8,estudiante,1
+tepic,hospital general,sin seguro,74,M,71.2,18.9,154,84,55,210,355,16.7,NO,SI,NO,SI,NO,sedentario,5,7,jubilado,1
+ahuacatlan,clinica imss,nan,62,M,75.8,25.8,143,87,93,227,78,10.5,NO,SI,NO,NO,NO,moderado,6,11,empleado,1
+ruiz,clinica imss,seguro popular,65,F,80.9,33.2,164,91,174,142,188,10.9,SI,SI,NO,NO,NO,moderado,5,11,agricultor,1
+del nayar,centro de salud rural,imss,62,M,69.5,26.3,140,91,88,269,219,14.7,NO,SI,NO,NO,NO,sedentario,6,1,estudiante,1
+xalisco,centro de salud rural,seguro popular,9,M,90.7,32.1,129,84,65,193,95,13.1,NO,NO,NO,NO,SI,moderado,2,3,ama de casa,0
+san blas,clinica imss,seguro popular,14,F,64.5,64.9,136,84,93,212,50,13.9,NO,NO,NO,SI,NO,sedentario,1,5,desempleado,1
+compostela,hospital general,seguro popular,25,F,67.7,23.2,107,88,130,191,166,8.2,NO,NO,NO,SI,SI,sedentario,0,6,profesionista,0
+bahia de banderas,clinica imss,sin seguro,40,F,67.4,33,146,81,119,181,166,11.7,NO,SI,NO,NO,NO,moderado,1,6,ama de casa,1
+bahia de banderas,clinica imss,imss,56,F,69,27.3,154,89,85,106,50,14.8,NO,SI,NO,NO,NO,activo,5,9,empleado,1
+ixtlan del rio,clinica imss,imss,87,F,63.8,23.2,157,89,5.3,207,166,14.4,NO,SI,NO,NO,SI,sedentario,5,4,profesionista,1
+ahuacatlan,hospital general,sin seguro,6,M,58.7,44.1,122,69,122,225,124,16.1,NO,NO,NO,SI,NO,moderado,0,8,desempleado,0
+ahuacatlan,centro de salud rural,sin seguro,14,F,54.3,20.9,105,84,72,214,242,11.7,NO,NO,NO,SI,NO,activo,2,8,jubilado,0
+ahuacatlan,hospital general,imss,84,M,78.9,29,155,80,84,185,166,11.6,SI,SI,NO,NO,NO,sedentario,4,8,estudiante,1
+santiago ixcuintla,consultorio issste,particular,56,F,61.8,23.8,136,87,129,206,166,12.2,NO,NO,NO,SI,NO,activo,1,7,desempleado,1
+xalisco,clinica imss,issste,44,F,59.1,23.1,135,80,61,233,69,12.4,NO,NO,NO,NO,NO,sedentario,2,1,comerciante,0
+tepic,unidad medica movil,sin seguro,55,M,69.5,24.9,130,90,95,171,166,13.7,NO,SI,NO,NO,SI,sedentario,1,4,jubilado,0
+tuxpan,hospital general,sin seguro,13,F,71.3,31.3,119,84,101,125,182,12.6,NO,NO,NO,NO,NO,moderado,0,9,jubilado,0
+compostela,centro de salud rural,imss,85,M,79.7,30.7,174,105,159,236,50,12.6,SI,SI,SI,NO,NO,activo,5,4,desempleado,1
+compostela,consultorio issste,seguro popular,85,M,69.5,23,154,85,64,168,166,14.4,NO,SI,NO,NO,NO,moderado,3,7,nan,0
+san blas,consultorio issste,imss,17,F,69.5,25.8,132,80,113,193,155,12.4,SI,NO,NO,NO,SI,moderado,2,10,jubilado,0
+santiago ixcuintla,hospital general,issste,52,M,73,20,141,94,88,184,68,17.9,NO,SI,NO,NO,SI,moderado,4,5,comerciante,0
+huajicori,clinica imss,sin seguro,66,M,68.7,25.8,146,75,97,202,166,13.9,NO,SI,NO,NO,NO,sedentario,2,6,nan,0
+tepic,unidad medica movil,sin seguro,18,F,58.4,26.3,118,78,86,189,243,11.6,NO,NO,NO,SI,NO,activo,2,2,jornalero,0
+tuxpan,clinica imss,seguro popular,73,F,59.4,22.6,147,78,125,195,63,13.5,NO,SI,NO,NO,NO,sedentario,4,6,ama de casa,0
+ruiz,unidad medica movil,imss,63,M,96.2,36.2,138,88,132,210,110,17.2,SI,NO,NO,NO,NO,moderado,2,5,estudiante,1
+ixtlan del rio,consultorio issste,particular,76,F,74.9,33.3,156,97,214,255,166,11.3,SI,SI,NO,NO,NO,moderado,6,7,comerciante,1
+ahuacatlan,clinica imss,seguro popular,5,F,69.5,22.9,110,84,117,188,194,12.4,SI,NO,NO,NO,NO,moderado,2,11,nan,0
+tepic,unidad medica movil,sin seguro,65,F,71.7,25.4,130,91,103,144,196,13.2,NO,SI,NO,NO,SI,moderado,0,3,empleado,0
+tepic,unidad medica movil,particular,17,F,58.1,19.6,112,64,68,233,139,13.3,NO,NO,NO,NO,NO,sedentario,0,4,profesionista,0
+tepic,unidad medica movil,imss,16,M,90,34.3,126,76,112,193,104,14.7,NO,NO,NO,NO,NO,moderado,1,9,jubilado,1
+ruiz,hospital general,issste,83,M,76.3,24.1,149,95,118,193,127,14.9,NO,SI,NO,SI,NO,moderado,2,9,profesionista,0
+bahia de banderas,unidad medica movil,seguro popular,50,F,73.3,29.7,122,85,92,193,120,13.7,NO,NO,NO,NO,SI,sedentario,2,5,profesionista,0
+san blas,unidad medica movil,particular,26,M,73.8,25.8,128,70,89,185,166,15.6,NO,NO,NO,NO,NO,moderado,1,2,jubilado,0
+tuxpan,centro de salud rural,imss,53,M,64.8,21.4,141,93,91,194,211,13,NO,SI,NO,SI,NO,sedentario,5,9,comerciante,0
+acaponeta,clinica imss,issste,90,M,97.3,33.3,152,96,106,164,289,12.5,NO,SI,NO,SI,NO,moderado,5,8,ama de casa,1
+santiago ixcuintla,consultorio issste,particular,63,M,76,30.1,152,105,118,240,166,16.4,NO,SI,NO,NO,NO,sedentario,6,9,comerciante,1
+compostela,clinica imss,seguro popular,16,F,91.8,34.1,137,79,173,212,91,12.8,SI,NO,NO,NO,NO,moderado,0,11,jubilado,1
+bahia de banderas,consultorio issste,sin seguro,42,M,66.8,25.8,146,81,69,193,171,14.8,NO,SI,NO,NO,NO,sedentario,1,7,comerciante,0
+ruiz,centro de salud rural,sin seguro,12,F,49.9,19.3,123,84,84,210,202,12.4,NO,NO,NO,NO,NO,sedentario,2,1,ama de casa,0
+compostela,unidad medica movil,seguro popular,68,F,71.7,31,150,83,242,151,126,13.7,SI,SI,NO,NO,NO,sedentario,3,8,jornalero,1
+tepic,consultorio issste,issste,71,M,58,21.6,133,83,85,166,231,13.7,NO,NO,NO,SI,NO,sedentario,0,11,nan,0
+tepic,clinica imss,sin seguro,39,M,99.9,25.8,145,80,72,188,243,15,NO,SI,NO,NO,NO,moderado,2,11,nan,0
+huajicori,clinica imss,imss,84,M,72.3,23.1,145,87,67,141,258,14.2,NO,SI,NO,NO,SI,sedentario,0,9,agricultor,1
+ixtlan del rio,consultorio issste,imss,44,M,79.3,25,137,80,62,193,296,14.3,NO,NO,NO,NO,NO,sedentario,0,3,agricultor,0
+compostela,unidad medica movil,sin seguro,36,M,70.9,25.1,115,74,4.9,165,190,16.8,NO,NO,NO,NO,NO,sedentario,0,11,estudiante,0
+tuxpan,centro de salud rural,sin seguro,5,F,71.2,24.3,138,84,96,225,202,13.4,NO,NO,NO,NO,NO,moderado,2,8,agricultor,0
+rosamorada,clinica imss,sin seguro,72,F,64.3,27.8,121,85,80,193,146,11.6,NO,NO,NO,NO,NO,sedentario,2,3,desempleado,1
+xalisco,unidad medica movil,seguro popular,54,M,52.3,15.1,135,78,120,199,219,13.7,NO,NO,NO,NO,NO,sedentario,4,7,estudiante,0
+bahia de banderas,unidad medica movil,imss,73,M,86.5,29.9,165,90,77,231,119,12.2,NO,SI,NO,NO,NO,sedentario,5,9,comerciante,1
+rosamorada,consultorio issste,issste,55,F,78.7,32.3,144,84,201,187,92,13.1,SI,SI,NO,NO,SI,sedentario,3,10,desempleado,1
+tepic,centro de salud rural,imss,39,M,49.2,15.4,126,93,72,172,50,16.3,NO,SI,NO,NO,NO,sedentario,2,6,ama de casa,1
+santiago ixcuintla,centro de salud rural,seguro popular,20,F,46.6,18.2,141,80,91,166,90,15.4,NO,SI,NO,NO,NO,moderado,1,0,agricultor,0
+compostela,consultorio issste,sin seguro,42,F,44.9,16.5,136,84,99,218,166,11.8,NO,NO,NO,SI,SI,moderado,2,3,comerciante,0
+tepic,centro de salud rural,nan,16,F,85.1,34.1,125,75,73,200,80,13.6,NO,NO,NO,NO,NO,sedentario,0,2,empleado,0
+tepic,centro de salud rural,imss,18,M,82,24.5,104,75,130,181,166,18,NO,NO,NO,NO,NO,moderado,0,4,jubilado,0
+tepic,consultorio issste,sin seguro,41,M,67.8,23.2,129,86,90,190,309,16.9,SI,NO,NO,NO,NO,sedentario,0,11,ama de casa,1
+santiago ixcuintla,clinica imss,sin seguro,81,M,81.7,30,155,102,82,201,173,15.7,NO,SI,NO,NO,NO,sedentario,3,4,profesionista,1
+tepic,centro de salud rural,issste,45,F,58.5,25.8,132,62,106,143,85,14.7,NO,NO,NO,NO,NO,moderado,0,10,jubilado,0
+ruiz,consultorio issste,sin seguro,28,M,66.3,24.4,130,78,95,193,166,14.7,NO,NO,NO,SI,NO,sedentario,0,9,comerciante,0
+rosamorada,hospital general,sin seguro,53,F,90.9,31.8,145,100,10.3,168,205,14.4,SI,SI,NO,NO,NO,sedentario,4,4,jornalero,1
+tepic,consultorio issste,seguro popular,36,F,56.7,22.4,154,87,123,234,209,13.4,NO,SI,NO,NO,NO,sedentario,0,4,desempleado,0
+ixtlan del rio,hospital general,sin seguro,27,M,51.8,25.8,128,71,3.6,216,116,13.1,NO,NO,NO,NO,NO,activo,1,9,estudiante,0
+santiago ixcuintla,centro de salud rural,sin seguro,25,F,65.1,25.8,134,66,128,204,133,15.4,SI,NO,NO,NO,NO,sedentario,0,4,jubilado,1
+tuxpan,clinica imss,particular,91,F,79.1,47.1,159,100,118,231,157,12.5,NO,SI,SI,SI,NO,sedentario,4,4,empleado,1
+tepic,clinica imss,sin seguro,37,M,69.5,61.4,135,84,116,289,169,13.7,NO,NO,NO,NO,NO,moderado,0,9,desempleado,0
+ahuacatlan,hospital general,seguro popular,12,M,86.8,29.3,102,73,93,193,166,15.6,NO,NO,NO,NO,NO,sedentario,2,5,jubilado,0
+tepic,clinica imss,sin seguro,13,F,38.7,14.6,132,79,74,175,166,14.5,NO,NO,NO,NO,SI,moderado,1,2,agricultor,0
+ixtlan del rio,centro de salud rural,seguro popular,31,M,69.5,22.5,131,75,92,193,101,12.5,NO,NO,NO,SI,NO,activo,1,8,estudiante,0
+tepic,consultorio issste,issste,60,M,63.7,24,141,84,107,187,55,17,NO,SI,NO,NO,NO,activo,6,11,desempleado,0
+bahia de banderas,consultorio issste,issste,41,M,77.7,27.2,130,77,73,191,50,16.4,NO,NO,NO,SI,NO,moderado,0,8,estudiante,0
+compostela,hospital general,imss,52,F,81.5,31.4,132,80,132,209,276,11.3,SI,SI,NO,NO,NO,sedentario,6,3,agricultor,0
+acaponeta,centro de salud rural,sin seguro,18,F,65.1,23.9,122,79,78,218,209,13.7,NO,NO,NO,NO,NO,moderado,0,6,comerciante,0
+santiago ixcuintla,hospital general,imss,36,M,69.6,22.5,136,71,70,222,166,13.4,NO,NO,NO,NO,NO,sedentario,2,3,estudiante,0
+bahia de banderas,clinica imss,seguro popular,40,F,63.6,28.3,141,84,88,171,97,10.9,NO,SI,NO,NO,NO,moderado,2,5,ama de casa,0
+tepic,hospital general,issste,46,F,77.6,31.5,157,93,193,130,166,13,SI,SI,NO,NO,NO,sedentario,1,11,comerciante,1
+xalisco,hospital general,sin seguro,6,M,500,29.4,140,71,123,266,249,11.1,NO,NO,NO,NO,NO,moderado,1,11,jubilado,0
+tepic,consultorio issste,sin seguro,61,M,111.5,43,170,101,171,224,236,12.2,SI,SI,NO,NO,NO,sedentario,1,3,profesionista,1
+huajicori,clinica imss,sin seguro,90,F,58.5,22,171,98,103,193,252,15.7,NO,SI,NO,NO,NO,sedentario,2,1,estudiante,0
+san blas,clinica imss,issste,67,F,65.1,28.9,157,78,116,999,415,13.7,NO,SI,NO,NO,NO,moderado,4,2,profesionista,1
+compostela,consultorio issste,sin seguro,12,M,69.5,17.4,124,79,79,188,221,12.3,NO,NO,NO,NO,SI,activo,2,1,ama de casa,0
+acaponeta,consultorio issste,imss,49,F,57.5,27.7,147,86,89,109,222,12.6,NO,SI,NO,NO,NO,activo,2,0,agricultor,0
+bahia de banderas,consultorio issste,imss,77,F,80.2,33.8,140,76,161,164,347,13.7,SI,NO,NO,SI,NO,activo,2,4,nan,1
+san blas,consultorio issste,seguro popular,16,F,66.7,30.5,127,91,202,118,50,13.1,SI,SI,NO,SI,SI,sedentario,2,1,comerciante,1
+bahia de banderas,consultorio issste,imss,73,F,67.9,25.8,164,94,165,212,128,15.8,SI,SI,NO,NO,NO,sedentario,0,0,comerciante,1
+bahia de banderas,hospital general,particular,9,F,59.1,25.8,107,93,4.7,276,166,11.9,NO,SI,NO,NO,SI,activo,0,4,estudiante,0
+huajicori,centro de salud rural,particular,31,M,50.7,19.3,119,75,119,193,166,14.9,NO,NO,NO,NO,NO,moderado,1,7,profesionista,0
+ixtlan del rio,clinica imss,seguro popular,79,F,69.5,21.4,136,84,73,223,234,13.3,NO,NO,NO,NO,NO,activo,5,2,agricultor,0
+tepic,centro de salud rural,issste,43,M,82.7,25.8,127,76,81,167,263,13.8,NO,NO,NO,SI,NO,sedentario,0,6,empleado,0
+ruiz,centro de salud rural,sin seguro,47,M,57.5,17.7,138,77,111,173,163,13.2,NO,NO,NO,NO,NO,sedentario,1,10,profesionista,0
+ruiz,clinica imss,particular,16,F,79.8,27.9,119,83,98,189,135,15.2,NO,NO,NO,SI,NO,moderado,1,2,empleado,0
+tepic,centro de salud rural,nan,62,F,60.2,25.8,144,84,122,187,204,14.4,SI,SI,NO,NO,NO,sedentario,1,6,agricultor,0
+huajicori,clinica imss,seguro popular,25,F,72.5,34,106,87,132,211,279,12.5,SI,NO,NO,NO,SI,activo,2,9,jubilado,0
+tuxpan,unidad medica movil,seguro popular,12,M,72.6,42.7,128,81,97,213,268,15.4,NO,NO,NO,SI,NO,moderado,2,11,jubilado,0
+san blas,unidad medica movil,sin seguro,71,M,76,25.1,151,83,72,207,121,15.1,NO,SI,NO,NO,NO,moderado,5,3,ama de casa,0
+santiago ixcuintla,unidad medica movil,issste,56,F,78.3,28.4,143,85,121,165,65,16.6,NO,SI,NO,NO,NO,sedentario,1,10,agricultor,0
+tepic,centro de salud rural,seguro popular,43,M,75.7,30.3,118,84,189,152,276,15.4,SI,NO,NO,NO,NO,sedentario,2,11,profesionista,0
+ahuacatlan,clinica imss,sin seguro,70,F,68,24.7,124,99,99,166,145,13.1,NO,SI,NO,NO,NO,moderado,4,11,ama de casa,1
+bahia de banderas,unidad medica movil,particular,26,M,74.5,33.6,152,84,138,261,359,17,SI,SI,NO,NO,NO,activo,1,9,empleado,1
+xalisco,consultorio issste,imss,46,F,69.5,16.5,129,77,76,193,71,13.4,NO,NO,NO,SI,NO,sedentario,2,8,desempleado,0
+ixtlan del rio,consultorio issste,seguro popular,32,F,59.6,23.9,128,87,104,233,269,12.1,NO,NO,NO,NO,NO,moderado,0,5,agricultor,0
+tepic,centro de salud rural,imss,52,M,65,25.8,137,74,55,219,171,12.9,NO,NO,NO,NO,NO,sedentario,5,9,jubilado,0
+xalisco,centro de salud rural,seguro popular,86,M,69.8,23.3,157,79,85,193,166,14.9,NO,SI,NO,NO,NO,moderado,3,10,estudiante,1
+bahia de banderas,clinica imss,particular,62,M,69.5,16.3,135,89,99,140,99,15.5,NO,NO,NO,SI,SI,moderado,4,11,desempleado,0
+santiago ixcuintla,consultorio issste,imss,26,F,48.7,19.8,117,79,81,135,166,14.8,NO,NO,NO,NO,NO,moderado,1,2,agricultor,0
+bahia de banderas,unidad medica movil,sin seguro,43,M,77.4,25.3,145,74,3.2,166,166,15,NO,SI,NO,NO,NO,activo,0,1,jornalero,0
+tepic,unidad medica movil,sin seguro,72,M,85.9,27.4,157,94,97,179,88,15.3,NO,SI,NO,NO,NO,moderado,0,4,comerciante,1
+rosamorada,centro de salud rural,particular,85,M,85.1,30.9,168,79,117,273,127,14.1,SI,SI,NO,NO,NO,moderado,3,1,nan,1
+compostela,unidad medica movil,seguro popular,29,M,81.1,32.5,146,101,55,186,50,13.7,NO,SI,NO,NO,NO,activo,0,9,profesionista,0
+ruiz,hospital general,nan,18,F,55.8,20.2,106,84,113,257,207,14.7,NO,NO,NO,SI,NO,sedentario,2,9,agricultor,0
+del nayar,unidad medica movil,seguro popular,28,F,75.9,32.4,122,97,156,215,50,15.5,SI,SI,NO,NO,SI,sedentario,1,6,estudiante,0
+xalisco,centro de salud rural,sin seguro,43,M,62.6,24.2,153,71,78,215,183,11.3,NO,SI,NO,NO,NO,sedentario,1,6,comerciante,0
+tepic,centro de salud rural,seguro popular,22,M,67.1,21.4,115,64,5.8,217,82,13.9,NO,NO,NO,NO,NO,sedentario,1,11,estudiante,0
+huajicori,clinica imss,sin seguro,21,M,82.7,32.7,129,75,91,155,205,16.9,NO,NO,NO,NO,SI,sedentario,0,8,profesionista,0
+san blas,unidad medica movil,imss,56,M,81.8,26.4,127,73,83,193,167,11.3,NO,NO,NO,NO,NO,activo,2,9,profesionista,0
+xalisco,hospital general,issste,41,F,46.4,20.3,125,69,103,201,243,14.5,NO,NO,NO,NO,NO,sedentario,2,2,ama de casa,0
+ahuacatlan,centro de salud rural,imss,73,M,49.7,16.6,153,84,86,311,312,16.2,NO,SI,NO,SI,NO,activo,2,10,profesionista,1
+tepic,unidad medica movil,imss,91,F,58,59,156,95,114,193,100,13.1,SI,SI,NO,SI,NO,moderado,2,7,comerciante,1
+ixtlan del rio,consultorio issste,issste,9,F,73.3,30.1,122,70,189,229,166,13.2,SI,NO,NO,NO,NO,activo,1,4,empleado,0
+tepic,consultorio issste,imss,47,F,67.1,23.8,136,82,119,177,215,13.6,NO,NO,NO,SI,NO,moderado,1,4,jubilado,0
+xalisco,unidad medica movil,sin seguro,43,M,69.5,24.5,113,90,97,202,53,14.8,SI,NO,NO,NO,NO,sedentario,0,0,jubilado,0
+santiago ixcuintla,unidad medica movil,issste,78,M,59.3,20.5,146,84,80,215,166,14.8,NO,SI,NO,NO,SI,sedentario,0,6,desempleado,0
+bahia de banderas,hospital general,imss,21,F,62.7,29.4,125,84,55,158,166,15.5,NO,NO,NO,NO,NO,sedentario,1,7,comerciante,0
+tepic,hospital general,sin seguro,88,F,59.2,35.2,171,96,111,180,135,11.3,NO,SI,NO,SI,NO,sedentario,3,7,profesionista,1
+bahia de banderas,centro de salud rural,sin seguro,78,M,69.5,21.7,157,84,69,193,122,13.7,NO,SI,NO,NO,NO,sedentario,0,1,estudiante,0
+del nayar,hospital general,particular,78,F,56.5,22.6,129,85,116,193,191,11.9,SI,NO,SI,NO,NO,moderado,2,9,agricultor,1
+compostela,centro de salud rural,sin seguro,34,M,64.5,19.9,136,94,55,193,168,17.3,NO,SI,NO,NO,NO,sedentario,1,2,ama de casa,0
+xalisco,clinica imss,imss,29,M,84.2,27.5,144,81,124,216,228,15.4,NO,SI,NO,NO,NO,sedentario,2,4,desempleado,0
+rosamorada,centro de salud rural,issste,54,F,69.5,29.2,148,87,113,190,117,13.7,NO,SI,NO,NO,NO,sedentario,2,5,comerciante,0
+san blas,clinica imss,imss,32,F,88.1,36.2,161,64,132,190,97,12.6,SI,SI,NO,NO,SI,sedentario,2,3,profesionista,0
+ixtlan del rio,unidad medica movil,particular,77,M,73.5,24.6,137,97,114,193,206,16.7,NO,SI,NO,SI,NO,sedentario,6,9,profesionista,1
+tepic,hospital general,sin seguro,69,M,38,13.1,145,89,77,181,273,13.8,NO,SI,NO,NO,NO,activo,1,11,estudiante,1
+tepic,hospital general,nan,89,M,67.2,21.9,154,82,137,145,149,16.5,NO,SI,NO,NO,NO,moderado,3,3,estudiante,1
+tepic,clinica imss,imss,18,F,85.7,28.3,139,76,101,149,154,13.7,NO,NO,NO,NO,NO,sedentario,2,7,comerciante,1
+del nayar,clinica imss,particular,86,M,64.2,23,161,93,55,229,168,15,NO,SI,NO,NO,NO,sedentario,3,6,desempleado,1
+compostela,hospital general,issste,78,F,46.5,19.4,143,86,110,178,184,10.5,NO,SI,NO,NO,NO,activo,3,3,jubilado,1
+san blas,consultorio issste,particular,89,M,77.4,24.2,162,93,130,216,335,14.8,NO,SI,NO,SI,NO,moderado,0,3,jubilado,1
+tepic,centro de salud rural,imss,22,M,87.8,32.2,131,90,119,189,98,15.3,NO,NO,NO,NO,NO,moderado,1,8,nan,0
+del nayar,centro de salud rural,imss,10,F,94.5,35.1,108,75,139,176,60,15.8,SI,NO,NO,NO,NO,activo,2,1,agricultor,0
+compostela,clinica imss,seguro popular,69,M,74.8,23.3,150,88,5.6,201,166,14,NO,SI,NO,NO,NO,sedentario,2,1,estudiante,0
+tepic,clinica imss,sin seguro,48,M,41.2,14.4,137,75,83,173,97,13.7,NO,NO,NO,NO,NO,moderado,1,8,desempleado,0
+xalisco,centro de salud rural,particular,6,M,62.7,21.2,112,70,59,193,272,15.1,SI,NO,NO,NO,NO,moderado,2,3,jornalero,0
+rosamorada,centro de salud rural,imss,40,M,60.7,25.6,135,82,62,261,293,11.8,NO,NO,NO,SI,SI,sedentario,1,0,empleado,0
+tepic,centro de salud rural,particular,46,M,80.4,25.7,114,92,90,187,225,13.3,NO,SI,NO,NO,NO,moderado,1,1,empleado,0
+rosamorada,consultorio issste,particular,22,F,56.7,23.9,115,84,94,238,223,13,NO,NO,NO,NO,SI,sedentario,2,5,empleado,0
+santiago ixcuintla,unidad medica movil,imss,8,M,69.5,31.6,126,82,159,176,219,14.1,SI,SI,NO,NO,SI,activo,2,6,jubilado,1
+tepic,consultorio issste,issste,54,M,92.5,31.3,149,93,183,193,145,13.4,SI,SI,NO,NO,NO,sedentario,0,11,empleado,1
+tepic,clinica imss,sin seguro,51,F,81.9,34.1,135,99,133,193,146,14.4,SI,SI,NO,SI,NO,activo,6,4,profesionista,1
+ixtlan del rio,hospital general,particular,64,M,83.8,26.2,149,86,61,224,190,16.6,SI,SI,NO,SI,NO,moderado,6,1,empleado,1
+ruiz,consultorio issste,imss,77,F,75.7,30.3,161,93,184,166,254,12.8,SI,SI,NO,NO,NO,moderado,4,6,jubilado,1
+tepic,hospital general,sin seguro,20,M,75.6,26.5,119,84,102,204,104,15.7,NO,NO,NO,SI,NO,moderado,1,6,ama de casa,0
+rosamorada,unidad medica movil,seguro popular,67,F,61,31.1,153,87,212,165,84,11.6,SI,SI,NO,NO,NO,sedentario,2,8,jubilado,1
+huajicori,centro de salud rural,particular,76,F,58.1,22.7,163,95,100,152,131,10.5,NO,SI,NO,NO,NO,moderado,1,7,ama de casa,1
+ahuacatlan,hospital general,seguro popular,38,F,55.6,39.8,125,76,59,176,50,13.7,NO,NO,NO,SI,NO,sedentario,2,5,ama de casa,0
+bahia de banderas,consultorio issste,seguro popular,83,F,53.8,25.8,146,103,88,188,120,13.1,NO,SI,NO,NO,NO,sedentario,5,4,estudiante,0
+tepic,consultorio issste,seguro popular,74,M,85.7,27.4,142,94,69,191,166,12.2,NO,SI,NO,NO,NO,sedentario,2,11,profesionista,0
+tepic,consultorio issste,imss,57,M,84.4,30.3,129,77,72,193,166,14.9,NO,NO,NO,NO,NO,moderado,3,8,desempleado,0
+compostela,hospital general,sin seguro,40,M,91.5,28.9,118,86,111,213,240,16.7,NO,NO,NO,NO,NO,moderado,0,2,estudiante,0
+bahia de banderas,hospital general,sin seguro,73,F,69.5,29.7,152,96,85,168,209,17,NO,SI,NO,NO,NO,moderado,3,9,profesionista,1
+rosamorada,centro de salud rural,particular,54,F,57.6,25.6,113,86,88,187,186,13.2,NO,NO,NO,NO,SI,sedentario,4,1,jubilado,0
+acaponeta,consultorio issste,sin seguro,90,M,77.8,31.2,153,94,89,175,251,15.1,NO,SI,NO,NO,NO,moderado,5,2,ama de casa,1
+tepic,clinica imss,seguro popular,68,F,51.5,21.2,143,106,91,193,298,12.4,NO,SI,NO,NO,NO,sedentario,6,6,nan,0
+ahuacatlan,unidad medica movil,imss,13,F,63.7,27.2,102,77,62,142,146,13.7,NO,NO,NO,NO,NO,moderado,2,5,desempleado,0
+huajicori,consultorio issste,seguro popular,29,F,52.1,23.5,129,77,57,221,148,15.5,NO,SI,NO,NO,SI,moderado,0,10,ama de casa,0
+tepic,centro de salud rural,seguro popular,64,F,62.9,25.2,147,75,97,188,176,13.7,NO,SI,NO,NO,NO,moderado,4,2,comerciante,1
+xalisco,centro de salud rural,sin seguro,44,F,67.2,25.9,142,74,75,177,176,11.1,NO,SI,NO,NO,NO,activo,2,1,comerciante,0
+santiago ixcuintla,hospital general,sin seguro,82,F,55,25.8,144,99,75,193,155,13.7,NO,SI,NO,SI,NO,sedentario,4,0,empleado,1
+santiago ixcuintla,centro de salud rural,sin seguro,45,F,42.7,20,122,75,81,193,91,9.8,NO,NO,NO,NO,NO,sedentario,2,3,comerciante,0
+acaponeta,clinica imss,seguro popular,69,M,66,21.6,154,96,120,208,248,16.7,NO,SI,NO,NO,SI,sedentario,6,11,comerciante,0
+ahuacatlan,centro de salud rural,imss,74,F,78.6,29.9,144,100,71,147,50,11.1,NO,SI,NO,NO,NO,moderado,2,1,agricultor,0
+tuxpan,clinica imss,issste,48,M,54.6,20.1,145,78,58,231,50,14,NO,SI,NO,NO,NO,moderado,2,7,jornalero,0
+del nayar,centro de salud rural,sin seguro,15,M,100.3,33.5,120,76,161,117,291,11.9,SI,NO,NO,NO,NO,sedentario,2,9,comerciante,0
+huajicori,consultorio issste,seguro popular,90,M,115,41.7,185,113,162,195,255,17.5,SI,SI,NO,NO,NO,moderado,4,8,estudiante,1
+ruiz,hospital general,seguro popular,60,F,87,34.9,149,86,145,205,166,14.9,SI,SI,NO,SI,NO,moderado,3,3,desempleado,1
+tepic,unidad medica movil,sin seguro,6,M,78.3,25.6,138,84,85,149,50,13.9,NO,NO,NO,SI,NO,activo,1,1,agricultor,1
+xalisco,consultorio issste,seguro popular,78,M,66.9,21.1,153,86,89,298,187,13.9,NO,SI,NO,SI,NO,sedentario,1,5,estudiante,0
+tepic,hospital general,seguro popular,60,M,77.9,25.8,152,84,5.7,168,278,12.3,SI,SI,NO,SI,NO,sedentario,2,9,profesionista,0
+huajicori,unidad medica movil,imss,77,M,80.5,26.3,140,82,7.3,177,61,15.8,NO,NO,NO,NO,SI,sedentario,6,11,jornalero,1
+bahia de banderas,unidad medica movil,sin seguro,88,F,71.7,21.2,179,90,119,217,134,12.3,NO,SI,NO,NO,NO,sedentario,0,1,comerciante,1
+xalisco,centro de salud rural,issste,88,M,49.2,25.8,147,84,88,234,211,14.4,NO,SI,SI,NO,SI,sedentario,2,6,comerciante,1
+san blas,unidad medica movil,sin seguro,55,M,74.4,22.2,142,83,94,193,131,13.2,NO,SI,NO,NO,NO,sedentario,2,9,jornalero,0
+santiago ixcuintla,centro de salud rural,imss,40,M,88.7,32.2,128,97,186,155,251,15.7,SI,SI,NO,SI,NO,moderado,0,1,jubilado,0
+ixtlan del rio,centro de salud rural,sin seguro,45,M,69.5,19.4,119,88,55,200,134,10.6,NO,NO,NO,SI,NO,sedentario,1,10,nan,1
+ixtlan del rio,hospital general,seguro popular,60,M,69.5,20.9,151,85,108,210,166,14,SI,SI,NO,SI,NO,sedentario,6,7,jubilado,1
+compostela,clinica imss,sin seguro,28,F,44.3,17.7,114,74,85,253,166,12.5,NO,NO,NO,NO,SI,moderado,2,8,desempleado,0
+ixtlan del rio,clinica imss,imss,83,M,69.5,17.8,146,84,122,179,139,13.3,NO,SI,NO,NO,NO,sedentario,6,3,jornalero,1
+compostela,centro de salud rural,imss,89,F,59.8,25.5,151,94,85,156,166,14.9,SI,SI,NO,NO,NO,sedentario,0,8,ama de casa,1
+acaponeta,hospital general,seguro popular,8,M,72.6,28,128,68,72,132,166,16.3,NO,NO,NO,NO,NO,moderado,2,5,estudiante,0
+xalisco,hospital general,sin seguro,15,F,60.2,20.8,101,91,86,227,168,15.5,NO,SI,NO,NO,NO,sedentario,1,3,desempleado,0
+ruiz,clinica imss,seguro popular,35,F,70.8,26.3,124,87,66,264,143,13.9,NO,NO,NO,NO,NO,moderado,0,7,jubilado,0
+bahia de banderas,clinica imss,issste,65,F,77.1,34.7,139,113,118,149,114,14.7,NO,SI,NO,SI,NO,sedentario,4,10,jubilado,0
+ahuacatlan,centro de salud rural,particular,53,M,89.2,32.4,157,82,126,217,172,12.9,SI,SI,NO,NO,NO,sedentario,6,0,jubilado,1
+tepic,hospital general,seguro popular,19,F,82.6,30.7,83,78,73,202,153,15.1,NO,NO,NO,NO,SI,activo,2,3,comerciante,0
+huajicori,hospital general,sin seguro,14,M,77.3,23.9,117,57,91,195,50,13.4,NO,NO,NO,SI,NO,activo,2,8,agricultor,0
+ruiz,hospital general,sin seguro,75,F,47.4,16.6,135,91,86,188,195,11,NO,SI,NO,NO,NO,sedentario,3,3,comerciante,0
+bahia de banderas,clinica imss,particular,16,F,69.5,27.5,129,84,116,193,189,12.2,NO,NO,NO,NO,NO,sedentario,0,6,jornalero,0
+tepic,centro de salud rural,sin seguro,50,M,74.5,25.8,159,67,87,130,89,12.2,NO,SI,NO,NO,NO,moderado,2,10,ama de casa,0
+tuxpan,unidad medica movil,sin seguro,77,M,69.5,22.4,164,88,115,200,119,16.8,NO,SI,NO,NO,NO,moderado,2,6,agricultor,1
+huajicori,hospital general,sin seguro,80,M,60.1,22.9,153,88,92,173,122,14.9,NO,SI,NO,NO,NO,sedentario,1,11,comerciante,0
+tepic,clinica imss,seguro popular,83,M,75.1,25.4,156,96,100,153,233,15.8,NO,SI,NO,NO,NO,sedentario,0,0,ama de casa,0
+acaponeta,unidad medica movil,imss,49,M,83.7,34,160,80,110,193,222,14.3,NO,SI,NO,NO,NO,sedentario,0,11,comerciante,0
+san blas,hospital general,sin seguro,89,M,85.2,32.9,155,87,124,155,166,11.7,NO,SI,NO,SI,NO,moderado,0,1,jubilado,1
+bahia de banderas,centro de salud rural,issste,74,M,77.8,25.7,142,90,89,193,96,13.6,NO,SI,NO,SI,NO,sedentario,2,7,ama de casa,0
+tuxpan,centro de salud rural,imss,13,F,65.8,27.7,126,88,127,165,142,13.7,SI,NO,NO,NO,SI,sedentario,1,4,jubilado,0
+ahuacatlan,unidad medica movil,seguro popular,56,M,74.6,24.1,137,84,74,133,169,14,NO,NO,NO,NO,NO,activo,3,5,empleado,0
+compostela,consultorio issste,sin seguro,19,F,62.4,27.4,136,80,108,175,307,12.6,NO,SI,NO,NO,NO,moderado,1,2,jubilado,0
+compostela,clinica imss,sin seguro,81,F,83.9,33.1,152,92,110,182,221,15,NO,SI,NO,NO,NO,moderado,4,10,profesionista,1
+rosamorada,consultorio issste,imss,88,M,112.9,38.2,182,89,159,202,199,12.7,SI,SI,NO,NO,SI,activo,0,4,estudiante,1
+tepic,consultorio issste,issste,31,F,51.9,19.3,130,87,96,217,186,12.2,NO,NO,NO,NO,SI,sedentario,1,3,profesionista,0
+tepic,hospital general,nan,30,F,45.7,21.1,117,84,78,235,50,13.7,NO,NO,NO,NO,NO,moderado,1,4,estudiante,0
+bahia de banderas,clinica imss,particular,56,M,69.5,25.4,147,78,93,219,203,12,NO,SI,NO,NO,NO,activo,1,2,ama de casa,0
+tuxpan,consultorio issste,sin seguro,25,M,54,38.8,126,84,111,216,166,17.1,NO,NO,NO,NO,NO,moderado,2,1,agricultor,0
+san blas,consultorio issste,sin seguro,57,M,104.5,35.7,157,93,142,193,95,12.6,SI,SI,NO,NO,NO,moderado,0,3,profesionista,1
+rosamorada,consultorio issste,nan,10,M,44.8,16.1,135,65,4.7,210,192,12.9,NO,NO,NO,NO,SI,moderado,2,1,jornalero,1
+huajicori,hospital general,imss,13,F,66.9,27.8,118,79,123,192,202,14.8,NO,NO,NO,SI,NO,moderado,2,9,comerciante,0
+san blas,centro de salud rural,imss,75,F,73.1,31.6,157,106,92,187,66,13.7,NO,SI,NO,NO,NO,sedentario,3,11,desempleado,1
+ahuacatlan,clinica imss,imss,73,M,72.7,23.7,136,81,62,185,139,14.1,NO,SI,NO,NO,NO,sedentario,6,10,jornalero,1
+tepic,consultorio issste,sin seguro,64,M,86,25.8,160,100,115,198,183,17,NO,SI,NO,NO,NO,activo,2,2,jornalero,1
+bahia de banderas,clinica imss,imss,89,F,69.6,27.9,156,90,89,193,247,13.7,NO,SI,NO,NO,NO,sedentario,5,2,empleado,1
+ruiz,unidad medica movil,nan,72,F,57.9,22.3,143,88,80,212,190,12,NO,SI,NO,NO,NO,moderado,1,10,empleado,INGRESADO
+bahia de banderas,centro de salud rural,sin seguro,66,M,67.5,23.1,140,75,123,196,166,12.2,NO,NO,NO,NO,NO,moderado,0,4,jubilado,0
+tuxpan,centro de salud rural,seguro popular,48,M,72.1,28.5,145,90,80,215,278,14.8,NO,SI,NO,NO,NO,sedentario,2,6,estudiante,0
+santiago ixcuintla,consultorio issste,particular,42,F,73.7,32.3,142,72,160,186,85,12.8,SI,SI,NO,SI,SI,sedentario,1,5,jubilado,0
+huajicori,clinica imss,nan,17,F,83.5,33,142,75,149,241,166,12.5,SI,SI,NO,NO,NO,sedentario,1,9,desempleado,1
+tepic,consultorio issste,sin seguro,20,M,76.6,24.2,124,75,99,193,156,13.7,NO,SI,NO,SI,NO,sedentario,1,8,jubilado,0
+rosamorada,unidad medica movil,sin seguro,18,F,69.5,16.2,121,70,93,218,166,13.4,NO,NO,NO,SI,NO,activo,1,7,comerciante,0
+bahia de banderas,unidad medica movil,sin seguro,86,M,92.6,25.8,172,97,200,193,166,10.9,SI,SI,NO,NO,NO,sedentario,5,11,jornalero,1
+acaponeta,hospital general,particular,8,M,69.5,36.6,128,84,175,189,112,16.1,SI,SI,NO,SI,NO,moderado,0,4,desempleado,1
+xalisco,unidad medica movil,particular,60,M,74.4,26.7,138,83,110,195,167,14.5,NO,NO,NO,NO,NO,moderado,0,7,jubilado,0
+acaponeta,unidad medica movil,imss,69,M,64,25.3,163,85,109,206,157,13.7,NO,SI,NO,NO,NO,activo,5,4,jubilado,1
+san blas,hospital general,particular,49,F,69,26.6,135,93,123,193,166,13.7,NO,SI,NO,SI,SI,sedentario,0,5,empleado,0
+acaponeta,clinica imss,issste,62,F,89.7,38.8,144,86,116,243,273,11.8,NO,SI,SI,NO,NO,moderado,5,6,profesionista,1
+tepic,unidad medica movil,seguro popular,65,F,47.9,20.5,144,84,107,175,50,15.5,NO,SI,NO,NO,NO,moderado,2,5,profesionista,1
+rosamorada,unidad medica movil,sin seguro,25,M,87.2,28.8,138,70,90,235,183,13.1,NO,NO,NO,NO,SI,moderado,2,10,profesionista,0
+ruiz,hospital general,particular,38,F,40,25.8,120,84,114,177,228,16.2,NO,SI,NO,NO,NO,sedentario,0,1,profesionista,0
+ixtlan del rio,unidad medica movil,sin seguro,52,F,38,17.6,138,77,55,215,50,13.7,NO,SI,NO,NO,NO,activo,5,1,empleado,0
+compostela,hospital general,issste,11,M,45.1,18.1,114,84,91,203,173,13.6,NO,NO,NO,NO,NO,moderado,0,11,desempleado,0
+bahia de banderas,consultorio issste,seguro popular,48,F,7,30.5,158,92,158,128,263,10.4,SI,SI,NO,NO,SI,moderado,2,10,estudiante,1
+ahuacatlan,unidad medica movil,issste,43,F,69.5,31.3,143,89,55,124,138,12.5,NO,SI,NO,SI,NO,moderado,0,0,desempleado,0
+tepic,centro de salud rural,imss,68,M,61.4,20.5,155,71,92,168,191,16.1,NO,SI,NO,NO,NO,sedentario,5,3,profesionista,1
+huajicori,hospital general,seguro popular,42,F,57.1,24.7,134,81,107,218,166,12.1,SI,NO,NO,NO,NO,sedentario,0,10,desempleado,0
+del nayar,centro de salud rural,sin seguro,30,M,76.1,27.6,145,81,88,255,139,12.7,NO,SI,NO,NO,NO,sedentario,0,9,empleado,1
+xalisco,centro de salud rural,imss,46,F,77.5,29.9,127,96,83,256,166,13.7,NO,SI,NO,NO,NO,moderado,2,8,desempleado,0
+ixtlan del rio,hospital general,imss,34,M,75.2,30.5,139,84,88,173,117,13.7,NO,NO,NO,NO,NO,sedentario,1,2,desempleado,0
+ruiz,centro de salud rural,seguro popular,32,F,78.7,29.6,133,74,115,193,253,14,NO,NO,NO,NO,NO,moderado,1,1,nan,0
+ahuacatlan,unidad medica movil,imss,25,F,68.5,27.1,112,72,86,143,170,11.9,NO,NO,NO,SI,NO,sedentario,2,11,empleado,0
+xalisco,centro de salud rural,sin seguro,6,F,49.4,20.3,115,73,5.3,193,50,10.6,NO,NO,NO,NO,SI,moderado,1,7,jubilado,0
+tuxpan,hospital general,sin seguro,62,M,68.5,25.5,146,84,118,178,207,13.7,NO,SI,NO,SI,NO,sedentario,2,7,ama de casa,1
+tuxpan,hospital general,imss,51,M,62.3,26.3,130,90,88,193,160,14.5,NO,SI,NO,NO,SI,moderado,4,9,estudiante,0
+san blas,hospital general,sin seguro,17,M,89.4,30.6,121,65,139,254,207,13.8,SI,SI,NO,NO,NO,sedentario,0,7,empleado,0
+tuxpan,centro de salud rural,seguro popular,64,M,84.8,31.5,160,86,100,193,247,13.7,NO,SI,NO,NO,NO,moderado,2,4,estudiante,1
+bahia de banderas,unidad medica movil,sin seguro,78,M,76.5,25.9,149,80,5.2,189,247,15.3,NO,SI,NO,NO,NO,moderado,2,7,empleado,0
+bahia de banderas,clinica imss,issste,81,M,65.8,20.8,134,92,96,229,151,11.3,NO,SI,NO,NO,NO,sedentario,0,6,desempleado,1
+xalisco,consultorio issste,sin seguro,72,F,59.3,25.8,137,83,80,148,226,13.4,NO,NO,NO,NO,NO,sedentario,1,10,comerciante,1
+tepic,clinica imss,imss,11,F,66,25.1,114,83,107,236,98,12,SI,NO,NO,NO,NO,sedentario,0,0,desempleado,0
+santiago ixcuintla,unidad medica movil,sin seguro,8,F,55.2,23.9,122,80,59,219,267,15.5,NO,NO,NO,SI,NO,sedentario,2,0,ama de casa,0
+tepic,clinica imss,seguro popular,45,F,77.7,25.8,138,86,88,213,50,13.7,NO,NO,NO,NO,NO,activo,0,11,agricultor,0
+bahia de banderas,clinica imss,sin seguro,56,F,5,29.3,158,75,135,156,204,15.2,SI,SI,NO,NO,NO,sedentario,5,3,comerciante,1
+xalisco,unidad medica movil,seguro popular,18,F,82.2,33.3,142,73,133,199,189,13.9,SI,SI,NO,NO,NO,sedentario,1,3,estudiante,1
+rosamorada,hospital general,sin seguro,67,F,62.7,25.4,162,76,105,231,136,11,NO,SI,NO,NO,NO,activo,6,0,nan,1
+rosamorada,clinica imss,imss,80,F,67.7,24.3,147,84,112,135,999,13.3,SI,SI,NO,NO,NO,moderado,5,10,jornalero,INGRESADO
+huajicori,clinica imss,particular,72,M,71.8,27.7,144,84,109,193,118,13.7,NO,SI,NO,NO,NO,activo,1,0,empleado,0
+rosamorada,consultorio issste,imss,58,M,76,25.7,153,100,101,147,166,12.1,NO,SI,NO,NO,SI,moderado,6,7,desempleado,INGRESADO
+acaponeta,clinica imss,issste,43,M,45.5,25.8,124,84,89,184,180,17.8,SI,NO,NO,NO,SI,moderado,1,3,comerciante,0
+ruiz,hospital general,sin seguro,19,F,48.5,19.4,110,84,105,132,177,11.4,NO,NO,NO,NO,NO,sedentario,2,10,comerciante,0
+rosamorada,clinica imss,imss,12,F,58,23.5,118,87,98,106,277,12.6,NO,SI,NO,NO,NO,sedentario,0,9,desempleado,0
+santiago ixcuintla,consultorio issste,issste,84,F,76.3,28,152,87,103,143,197,16.4,NO,SI,NO,NO,NO,activo,1,1,ama de casa,0
+xalisco,consultorio issste,issste,28,M,83.5,23.9,125,80,131,103,73,11.3,NO,NO,NO,NO,NO,moderado,2,3,jornalero,0
+del nayar,hospital general,sin seguro,85,M,101.9,32.5,190,82,57,226,88,12.7,NO,SI,NO,NO,NO,sedentario,0,10,jornalero,1
+huajicori,centro de salud rural,sin seguro,47,M,73.2,25.9,138,87,106,209,166,15.1,NO,NO,NO,NO,SI,moderado,0,3,desempleado,0
+tepic,unidad medica movil,imss,91,F,450,23.6,153,84,94,219,228,13.2,NO,SI,NO,NO,SI,moderado,3,9,comerciante,1
+compostela,centro de salud rural,imss,52,M,60.3,21.1,133,84,123,230,209,13.3,NO,NO,NO,NO,NO,sedentario,3,11,jubilado,0
+bahia de banderas,consultorio issste,seguro popular,30,F,76.6,42.7,117,90,111,144,121,15.1,NO,NO,NO,NO,NO,sedentario,2,10,desempleado,0
+san blas,unidad medica movil,nan,76,M,70.7,24.2,165,101,82,161,96,12.8,SI,SI,NO,NO,NO,sedentario,6,9,estudiante,1
+san blas,centro de salud rural,imss,13,M,69.5,21.9,128,84,77,164,206,14.9,NO,NO,NO,NO,SI,moderado,1,4,empleado,0
+tepic,centro de salud rural,particular,10,M,69.6,25.8,124,70,76,193,156,15.7,NO,NO,NO,NO,NO,moderado,2,0,jubilado,0
+ruiz,centro de salud rural,imss,79,F,70.5,29,147,90,93,193,270,13.7,NO,SI,NO,NO,NO,moderado,1,9,nan,0
+tuxpan,centro de salud rural,particular,76,M,41.7,17.4,139,85,108,233,255,15.1,SI,NO,NO,NO,NO,sedentario,5,0,jubilado,1
+san blas,clinica imss,sin seguro,26,F,62.4,20.2,121,93,81,216,317,9.7,SI,SI,NO,NO,NO,sedentario,1,11,empleado,1
+tepic,hospital general,sin seguro,42,F,58.6,23.5,142,73,106,199,338,13.1,NO,SI,NO,NO,NO,sedentario,1,3,estudiante,0
+xalisco,clinica imss,sin seguro,86,F,72.2,27.5,153,92,98,176,172,11.3,NO,SI,NO,NO,NO,sedentario,2,10,jornalero,0
+santiago ixcuintla,centro de salud rural,particular,29,M,92.7,36.7,141,89,174,227,183,12.5,SI,SI,NO,NO,NO,moderado,2,9,profesionista,0
+santiago ixcuintla,clinica imss,imss,69,M,50.9,25.8,148,74,113,137,197,15.7,NO,SI,NO,NO,NO,sedentario,6,4,jornalero,0
+bahia de banderas,hospital general,issste,31,F,54.3,25.8,140,83,71,203,193,12.9,NO,NO,NO,NO,NO,activo,2,4,desempleado,0
+tepic,unidad medica movil,seguro popular,33,F,57,22,115,66,99,190,135,16.2,NO,NO,NO,SI,NO,sedentario,1,1,comerciante,1
+ahuacatlan,unidad medica movil,sin seguro,32,M,86.3,42.1,129,91,94,190,68,16.9,NO,SI,NO,NO,NO,sedentario,1,5,profesionista,0
+tepic,unidad medica movil,seguro popular,44,F,61.6,23.8,124,80,96,193,242,12.2,NO,NO,NO,SI,NO,sedentario,0,0,comerciante,0
+ahuacatlan,hospital general,sin seguro,14,M,101.4,35.9,144,78,127,167,229,12.8,SI,SI,NO,SI,NO,activo,2,5,estudiante,0
+ixtlan del rio,centro de salud rural,seguro popular,6,M,41.7,14.1,106,72,106,193,125,13.7,NO,NO,NO,NO,NO,moderado,2,3,jubilado,0
+tepic,hospital general,particular,8,F,76.5,30.3,129,95,100,263,301,12.2,NO,SI,NO,NO,NO,activo,1,6,jornalero,0
+tepic,unidad medica movil,sin seguro,17,M,84.5,25.2,136,78,113,244,50,14,NO,NO,NO,NO,NO,sedentario,1,6,comerciante,0
+tepic,consultorio issste,issste,15,M,73.7,26.1,139,69,63,193,328,16,NO,NO,NO,NO,NO,moderado,1,7,jubilado,0
+ixtlan del rio,hospital general,sin seguro,34,F,51.1,22.4,137,74,4.6,247,113,11.7,SI,NO,NO,NO,NO,sedentario,1,3,agricultor,0
+huajicori,unidad medica movil,seguro popular,29,M,85,30.1,138,85,119,236,166,17.4,NO,NO,NO,NO,NO,moderado,1,0,estudiante,0
+acaponeta,clinica imss,seguro popular,45,M,90.2,35.2,118,85,7.7,195,106,16,SI,NO,NO,NO,NO,sedentario,0,5,desempleado,0
+ahuacatlan,unidad medica movil,imss,12,F,69.5,24,122,76,85,205,166,15.6,NO,NO,NO,NO,NO,moderado,2,10,jubilado,0
+compostela,hospital general,imss,75,M,111,39.3,145,92,137,193,166,13.2,SI,SI,NO,SI,NO,moderado,0,11,agricultor,1
+xalisco,centro de salud rural,particular,13,F,57.5,26.3,107,73,108,152,60,13.1,NO,NO,NO,NO,NO,moderado,1,3,empleado,0
+acaponeta,unidad medica movil,sin seguro,1,M,64.2,21.2,133,82,94,195,263,16.4,NO,NO,NO,SI,SI,moderado,5,5,profesionista,1
+ruiz,unidad medica movil,particular,76,M,43.9,13.9,141,90,109,245,138,15.2,SI,SI,NO,NO,NO,sedentario,1,6,agricultor,1
+bahia de banderas,unidad medica movil,seguro popular,42,F,42.7,18,137,93,97,244,205,14.4,NO,SI,NO,SI,NO,activo,1,4,empleado,0
+tepic,centro de salud rural,seguro popular,54,M,79.4,25.3,124,90,102,164,57,11.6,NO,NO,NO,SI,NO,activo,4,5,profesionista,0
+ixtlan del rio,clinica imss,sin seguro,7,F,85.9,25.8,133,73,156,182,145,12.1,SI,NO,NO,NO,SI,moderado,0,10,jornalero,1
+tepic,consultorio issste,sin seguro,54,M,68.3,23.1,116,88,109,215,283,13.6,NO,SI,NO,NO,NO,activo,0,7,nan,0
+xalisco,unidad medica movil,seguro popular,88,M,86.1,25.8,151,91,94,148,189,11.2,NO,SI,NO,NO,SI,activo,2,1,agricultor,0
+compostela,unidad medica movil,issste,16,F,67.5,37.7,131,61,136,180,298,12.8,SI,NO,NO,SI,NO,sedentario,0,9,desempleado,0
+del nayar,consultorio issste,sin seguro,71,M,88.2,29.8,158,92,81,193,83,13.1,NO,SI,NO,NO,NO,activo,5,1,empleado,0
+tuxpan,centro de salud rural,sin seguro,58,M,40.9,15.6,124,73,98,205,166,15.7,NO,NO,NO,SI,NO,moderado,3,9,profesionista,1
+ahuacatlan,centro de salud rural,imss,17,M,76.8,25.8,123,69,120,227,178,13.5,NO,NO,NO,NO,SI,moderado,1,5,jornalero,1
+tepic,centro de salud rural,issste,78,M,62.1,19.2,145,90,104,205,136,13.7,NO,SI,NO,NO,NO,sedentario,0,11,profesionista,0
+xalisco,centro de salud rural,nan,17,F,49.6,21.8,124,84,109,126,161,13.7,NO,NO,NO,SI,NO,moderado,2,10,desempleado,0
+del nayar,clinica imss,sin seguro,64,M,67.9,20.7,145,92,93,256,50,12.3,NO,SI,NO,SI,NO,sedentario,5,8,desempleado,0
+san blas,unidad medica movil,seguro popular,54,F,5,26.9,140,85,5.7,221,129,13.7,NO,NO,NO,SI,NO,moderado,6,2,desempleado,0
+tepic,unidad medica movil,sin seguro,19,F,67.8,26.8,128,77,89,263,999,13.4,NO,NO,NO,NO,NO,sedentario,1,1,jubilado,0
+bahia de banderas,unidad medica movil,imss,33,M,88.5,33.3,141,91,157,166,124,11.7,SI,SI,NO,NO,NO,sedentario,2,9,ama de casa,1
+acaponeta,clinica imss,seguro popular,86,M,54.4,21.8,148,94,113,195,185,15.3,NO,SI,NO,NO,NO,activo,1,2,comerciante,0
+ruiz,unidad medica movil,imss,76,M,64.1,20.7,152,84,96,100,166,13.1,SI,SI,NO,NO,NO,moderado,6,7,profesionista,1
+ruiz,hospital general,imss,58,M,97,28,134,92,85,257,50,13.9,NO,SI,NO,NO,NO,sedentario,1,5,agricultor,0
+tepic,clinica imss,imss,68,M,85.2,26.9,145,84,84,193,166,13.7,NO,SI,NO,NO,NO,sedentario,1,7,profesionista,1
+tepic,consultorio issste,particular,8,F,76.7,27.8,109,75,94,172,50,14.2,NO,NO,NO,NO,NO,sedentario,1,2,jubilado,0
+del nayar,hospital general,seguro popular,79,F,69.5,24.8,155,83,94,193,146,12.4,SI,SI,NO,NO,NO,moderado,2,2,profesionista,1
+tepic,centro de salud rural,sin seguro,10,F,63.5,25.8,113,80,99,169,169,12.4,NO,NO,NO,NO,NO,activo,2,2,profesionista,AMBULATORIO
+tepic,clinica imss,sin seguro,51,M,69.3,22.6,136,80,121,186,166,13.7,SI,NO,NO,NO,NO,sedentario,4,3,jornalero,1
+san blas,hospital general,seguro popular,89,M,82,46.9,145,99,96,230,223,14.4,NO,SI,NO,NO,NO,activo,4,11,empleado,1
+del nayar,clinica imss,imss,73,F,61.6,25.3,155,84,92,158,238,14.7,NO,SI,NO,SI,NO,moderado,4,4,jubilado,1
+ahuacatlan,consultorio issste,particular,53,M,50.1,18.6,134,82,55,204,166,15,NO,NO,NO,NO,SI,sedentario,6,1,jornalero,1
+tepic,clinica imss,imss,17,M,88.7,30,138,70,82,193,216,13.4,NO,NO,NO,NO,NO,moderado,0,2,profesionista,0
+ahuacatlan,consultorio issste,sin seguro,12,F,53.2,24.6,135,73,125,259,50,16,NO,NO,NO,SI,NO,sedentario,1,4,jornalero,1
+tuxpan,hospital general,issste,49,M,104.3,44.6,140,90,99,145,59,15.2,NO,NO,NO,NO,NO,sedentario,1,9,jubilado,0
+rosamorada,unidad medica movil,imss,69,F,64.4,29.4,150,100,68,236,50,13.7,NO,SI,SI,NO,NO,sedentario,6,6,ama de casa,0
+tepic,clinica imss,sin seguro,63,F,75.9,32.9,150,84,110,194,267,12.6,NO,SI,NO,NO,SI,moderado,0,9,estudiante,0
+tepic,consultorio issste,sin seguro,66,M,83,35.5,153,87,193,260,50,15.4,SI,SI,SI,NO,NO,sedentario,0,10,estudiante,1
+del nayar,centro de salud rural,imss,76,M,69.5,31.1,166,85,120,141,77,13.8,NO,SI,NO,NO,SI,sedentario,4,8,empleado,1
+tepic,centro de salud rural,seguro popular,14,M,85.8,29,124,63,128,166,248,13,SI,NO,NO,NO,NO,moderado,2,10,estudiante,0
+compostela,consultorio issste,sin seguro,86,F,70,28,144,102,4.1,224,124,11.8,NO,SI,NO,NO,NO,moderado,6,4,ama de casa,1
+huajicori,centro de salud rural,sin seguro,30,F,84.7,25.8,115,76,7.6,217,50,13.7,SI,SI,NO,NO,NO,activo,2,0,comerciante,1
+ruiz,clinica imss,sin seguro,47,F,43.7,25.8,138,92,69,203,218,11.6,NO,SI,NO,SI,NO,activo,2,5,ama de casa,0
+del nayar,hospital general,issste,57,M,78.7,34.5,132,86,140,213,241,14.8,SI,NO,NO,NO,NO,moderado,4,0,ama de casa,0
+bahia de banderas,hospital general,sin seguro,20,M,82.8,18.5,147,84,150,157,93,15.2,SI,SI,NO,NO,SI,moderado,1,2,profesionista,0
+rosamorada,clinica imss,sin seguro,31,M,84,28.4,114,67,100,130,220,13.5,NO,NO,NO,SI,NO,sedentario,2,7,empleado,0
+tepic,centro de salud rural,issste,40,F,66.3,22.9,151,80,93,159,174,14.5,NO,SI,NO,NO,NO,moderado,1,3,jornalero,0
+huajicori,centro de salud rural,sin seguro,6,F,69.5,29.1,123,72,160,221,100,15,SI,NO,NO,NO,NO,activo,0,9,desempleado,0
+bahia de banderas,consultorio issste,issste,85,M,81.3,24,169,81,121,193,144,14.6,NO,SI,NO,NO,SI,sedentario,1,9,ama de casa,1
+rosamorada,consultorio issste,sin seguro,40,M,42.4,25.8,125,67,104,263,166,14.8,NO,SI,NO,NO,NO,sedentario,0,5,empleado,0
+bahia de banderas,unidad medica movil,sin seguro,15,M,62.7,22.5,101,78,110,191,207,14,NO,NO,NO,SI,NO,sedentario,0,10,comerciante,0
+compostela,consultorio issste,imss,20,F,42.1,17.8,111,90,5.9,240,117,11.7,NO,NO,NO,NO,SI,sedentario,1,0,jubilado,1
+bahia de banderas,centro de salud rural,sin seguro,77,M,58.9,18.4,152,94,135,265,151,14.3,NO,SI,NO,NO,NO,moderado,4,8,empleado,1
+bahia de banderas,clinica imss,seguro popular,24,F,71.3,30.5,131,63,174,169,166,10.2,SI,NO,NO,NO,NO,moderado,2,10,agricultor,1
+ahuacatlan,consultorio issste,sin seguro,82,F,70.9,32.8,155,96,188,179,50,11.9,SI,SI,NO,NO,NO,sedentario,3,10,desempleado,1
+santiago ixcuintla,unidad medica movil,particular,86,M,85.3,31.7,159,95,209,200,178,12.8,SI,SI,NO,NO,NO,sedentario,4,3,comerciante,1
+acaponeta,centro de salud rural,sin seguro,54,F,66.2,26.9,151,86,87,171,155,13.3,NO,SI,NO,NO,NO,moderado,1,3,comerciante,0
+del nayar,unidad medica movil,seguro popular,63,F,9,37.9,142,83,221,220,166,10.9,SI,SI,NO,NO,NO,sedentario,0,2,agricultor,1
+ruiz,clinica imss,issste,68,F,76.7,31.9,147,87,127,178,191,11.8,SI,SI,NO,NO,NO,moderado,3,10,jornalero,1
+ahuacatlan,consultorio issste,seguro popular,85,M,61,19.9,137,97,69,179,73,13.7,SI,SI,NO,SI,NO,sedentario,1,0,profesionista,1
+tepic,hospital general,imss,88,F,64.8,25.6,149,95,3.9,281,231,13.9,NO,SI,NO,NO,SI,moderado,1,11,estudiante,1
+xalisco,consultorio issste,sin seguro,12,F,66.5,23,135,81,121,194,70,9.5,NO,NO,NO,NO,NO,moderado,0,11,comerciante,0
+bahia de banderas,clinica imss,imss,14,M,78.7,23.8,118,73,98,185,236,14.8,NO,NO,NO,NO,SI,sedentario,2,3,empleado,0
+bahia de banderas,centro de salud rural,seguro popular,80,M,71.7,26,151,84,64,236,295,13.9,NO,SI,SI,NO,SI,sedentario,2,7,estudiante,1
+huajicori,clinica imss,imss,54,M,69.5,27.9,155,95,99,177,229,17.2,NO,SI,NO,SI,NO,sedentario,5,4,agricultor,0
+ruiz,unidad medica movil,issste,44,F,85.3,33.7,146,84,91,256,55,13.6,NO,SI,NO,NO,NO,sedentario,0,4,ama de casa,1
+tepic,centro de salud rural,issste,13,M,79.1,27.7,130,67,84,199,165,15,NO,NO,NO,NO,SI,sedentario,1,0,ama de casa,0
+tepic,centro de salud rural,imss,35,F,61.6,24.1,138,74,115,159,166,13.6,NO,NO,NO,NO,NO,activo,2,10,estudiante,0
+acaponeta,consultorio issste,imss,40,M,85.7,32.3,144,96,133,197,252,12.1,SI,SI,NO,NO,NO,sedentario,0,11,agricultor,0
+bahia de banderas,hospital general,seguro popular,46,M,64.7,25.8,134,71,118,196,169,13.1,NO,NO,NO,SI,NO,sedentario,2,4,estudiante,0
+compostela,unidad medica movil,seguro popular,84,F,57.8,24.1,145,90,85,225,272,11.7,NO,SI,NO,NO,NO,activo,1,4,estudiante,0
+ahuacatlan,clinica imss,sin seguro,56,F,63.6,27.2,135,90,76,294,173,16.6,NO,NO,SI,NO,NO,sedentario,0,5,ama de casa,1
+tuxpan,clinica imss,imss,5,F,54.5,25.9,124,80,77,177,57,12.6,NO,SI,NO,NO,NO,moderado,2,7,estudiante,0
+del nayar,clinica imss,imss,87,M,76.2,20,151,94,99,159,62,14.7,SI,SI,NO,NO,NO,moderado,2,7,agricultor,1
+tepic,unidad medica movil,sin seguro,72,F,72.7,25.5,144,98,104,120,107,13.7,NO,SI,NO,NO,NO,moderado,1,5,comerciante,1
+bahia de banderas,unidad medica movil,sin seguro,75,M,67.5,26.4,165,96,69,207,50,13.5,NO,SI,NO,SI,NO,moderado,4,10,jubilado,1
+ruiz,centro de salud rural,nan,12,F,57.7,21.7,136,89,104,203,50,14.3,NO,NO,NO,NO,SI,sedentario,1,6,ama de casa,1
+tepic,consultorio issste,sin seguro,5,F,85.2,35,110,75,126,195,230,13.1,SI,NO,NO,SI,NO,moderado,1,9,agricultor,0
+ahuacatlan,hospital general,imss,65,F,75.7,29.6,143,84,94,204,289,15.5,NO,SI,NO,NO,NO,sedentario,5,7,profesionista,1
+bahia de banderas,unidad medica movil,seguro popular,49,F,69.5,31,152,87,170,252,71,13.3,SI,SI,NO,SI,SI,sedentario,0,4,jornalero,1
+acaponeta,consultorio issste,imss,38,F,79.5,28.9,128,80,121,125,307,12.3,NO,NO,NO,NO,NO,moderado,0,1,desempleado,0
+ixtlan del rio,hospital general,imss,64,F,70.8,26.3,153,92,112,235,166,15.4,NO,SI,NO,NO,NO,activo,4,3,jornalero,0
+del nayar,hospital general,imss,60,M,69.7,23.3,150,84,86,225,132,14.9,NO,SI,NO,NO,NO,activo,3,2,comerciante,0
+tuxpan,unidad medica movil,imss,14,M,79.8,31.6,136,83,139,193,174,14.5,SI,NO,NO,NO,NO,sedentario,2,4,desempleado,1
+ruiz,consultorio issste,sin seguro,45,F,74.7,31.9,133,84,146,184,100,10.7,SI,NO,NO,NO,NO,sedentario,0,10,estudiante,1
+xalisco,unidad medica movil,sin seguro,29,F,74.9,25.3,121,84,85,193,50,11.9,NO,NO,NO,NO,SI,sedentario,0,3,desempleado,0
+ixtlan del rio,consultorio issste,sin seguro,89,F,101.7,25.8,168,97,126,193,260,10.5,SI,SI,NO,SI,NO,moderado,5,8,profesionista,1
+tuxpan,centro de salud rural,seguro popular,42,F,60.7,22.6,129,89,65,240,95,11.8,NO,NO,NO,NO,NO,sedentario,2,4,empleado,0
+tepic,centro de salud rural,imss,89,F,61.7,25.8,152,84,105,231,129,11.4,NO,SI,SI,NO,NO,moderado,2,4,jornalero,1
+acaponeta,centro de salud rural,imss,11,M,78,29,118,74,94,280,166,15.8,NO,NO,NO,NO,NO,moderado,1,7,estudiante,0
+tuxpan,clinica imss,sin seguro,74,F,72.8,31.9,165,104,145,170,205,13,SI,SI,NO,SI,NO,moderado,6,8,comerciante,1
+tepic,unidad medica movil,sin seguro,32,M,68.6,23.7,129,90,84,193,107,14.8,NO,NO,NO,NO,NO,moderado,1,6,estudiante,1
+del nayar,hospital general,sin seguro,22,F,72.9,23.8,128,84,95,166,157,14.2,NO,SI,NO,NO,SI,activo,1,7,empleado,0
+tepic,hospital general,imss,37,F,68.6,25.8,124,93,81,256,125,15.2,NO,SI,NO,NO,NO,moderado,1,9,empleado,0
+acaponeta,consultorio issste,particular,79,F,63.5,26.4,145,90,115,193,139,12.3,NO,SI,NO,NO,NO,moderado,6,7,empleado,1
+huajicori,hospital general,sin seguro,48,M,82.7,30,145,91,69,204,305,10.8,NO,SI,NO,NO,NO,sedentario,2,3,comerciante,0
+ahuacatlan,centro de salud rural,sin seguro,61,F,79.6,14,145,97,169,154,162,14.4,SI,SI,NO,NO,NO,moderado,6,1,empleado,1
+ruiz,consultorio issste,seguro popular,33,M,73.4,25.8,156,84,97,187,192,14.6,NO,SI,NO,SI,NO,moderado,0,8,jornalero,0
+tepic,unidad medica movil,seguro popular,82,F,75.7,26.5,172,102,81,237,59,13.7,NO,SI,NO,NO,NO,sedentario,3,2,estudiante,0
+tepic,centro de salud rural,imss,86,F,52.7,21.9,154,87,119,209,141,13.3,NO,SI,NO,NO,NO,sedentario,0,4,empleado,0
+compostela,hospital general,imss,41,F,71.9,26.7,151,96,143,218,212,12.3,NO,SI,NO,NO,SI,sedentario,1,10,ama de casa,0
+compostela,centro de salud rural,seguro popular,41,M,69.5,27.7,124,84,132,200,67,13.7,SI,NO,NO,NO,SI,moderado,2,11,empleado,0
+del nayar,hospital general,seguro popular,50,M,81.7,27.3,131,88,94,187,169,13.5,NO,NO,NO,NO,NO,sedentario,0,8,agricultor,0
+santiago ixcuintla,consultorio issste,sin seguro,44,M,110.4,25.8,143,90,150,149,50,14.8,SI,SI,NO,NO,SI,sedentario,1,1,jubilado,1
+compostela,consultorio issste,sin seguro,31,M,65.7,21,127,74,103,117,198,13.4,NO,NO,NO,NO,NO,sedentario,0,8,jubilado,0
+tepic,unidad medica movil,sin seguro,77,M,70.2,24.9,139,84,111,193,193,13.3,NO,SI,NO,NO,NO,moderado,1,8,nan,1
+ixtlan del rio,unidad medica movil,particular,43,M,106.7,25.8,142,79,149,261,252,12.3,SI,SI,NO,NO,NO,moderado,2,11,desempleado,1
+acaponeta,unidad medica movil,sin seguro,6,F,66.4,25.8,107,67,93,226,50,11.2,NO,NO,NO,NO,SI,sedentario,1,1,desempleado,0
+ruiz,consultorio issste,seguro popular,79,M,79,24.6,160,70,139,145,145,12.2,NO,SI,NO,NO,NO,moderado,2,11,ama de casa,0
+santiago ixcuintla,consultorio issste,imss,61,M,85.4,32.5,146,80,151,146,276,15.7,SI,SI,NO,NO,NO,moderado,2,1,jornalero,1
+tepic,consultorio issste,sin seguro,63,M,78.6,25.7,141,97,124,161,238,14.5,NO,SI,NO,NO,SI,sedentario,0,9,agricultor,1
+ruiz,unidad medica movil,seguro popular,17,F,61.9,22.5,108,84,76,209,126,13.4,NO,NO,NO,NO,NO,sedentario,1,4,jornalero,0
+del nayar,unidad medica movil,particular,74,F,93.3,58.4,138,80,156,228,198,13.3,SI,SI,NO,NO,NO,sedentario,3,6,jornalero,1
+del nayar,unidad medica movil,sin seguro,32,F,54.5,24.9,118,91,63,225,147,15.1,NO,SI,NO,NO,NO,sedentario,2,2,desempleado,0
+xalisco,hospital general,seguro popular,71,M,69.5,21.7,155,98,87,239,50,13.3,NO,SI,NO,NO,NO,sedentario,4,8,estudiante,1
+ruiz,hospital general,sin seguro,64,F,77.8,29.3,160,87,74,192,252,14.6,NO,SI,NO,NO,NO,sedentario,6,0,jornalero,0
+rosamorada,clinica imss,seguro popular,25,F,62.6,25.8,126,77,68,232,277,10.8,NO,NO,NO,NO,SI,moderado,0,1,desempleado,1
+tepic,clinica imss,sin seguro,8,M,82.1,25.8,121,77,133,237,243,13.6,SI,NO,NO,SI,NO,moderado,0,8,jornalero,0
+ruiz,clinica imss,sin seguro,25,M,75.8,25.6,132,80,90,238,179,13.3,NO,NO,NO,NO,NO,sedentario,2,2,comerciante,0
+xalisco,hospital general,seguro popular,49,F,59.1,21.4,142,84,95,225,166,13.7,NO,SI,NO,NO,SI,sedentario,1,6,empleado,0
+ahuacatlan,consultorio issste,imss,51,F,70.8,32.3,156,97,95,186,51,15,SI,SI,NO,NO,NO,moderado,2,5,jornalero,0
+tepic,consultorio issste,particular,30,F,50,18.8,120,66,79,211,184,11,NO,NO,NO,NO,NO,sedentario,1,6,agricultor,0
+santiago ixcuintla,hospital general,sin seguro,41,M,90.8,29.6,124,92,101,217,86,15,SI,SI,NO,NO,NO,moderado,2,5,profesionista,0
+san blas,centro de salud rural,sin seguro,25,M,69.5,35.9,150,74,226,201,50,15.1,SI,SI,NO,NO,NO,sedentario,0,9,estudiante,1
+bahia de banderas,centro de salud rural,issste,19,M,73.3,25.8,107,70,92,146,191,14.5,NO,NO,NO,NO,NO,sedentario,0,3,agricultor,0
+tepic,consultorio issste,imss,45,M,65.2,22.6,123,85,71,138,288,17.7,NO,NO,NO,NO,NO,sedentario,2,8,comerciante,0
+tuxpan,clinica imss,imss,85,M,92.6,31.7,155,84,134,182,66,17.1,SI,SI,NO,NO,NO,activo,2,8,empleado,1
+rosamorada,clinica imss,particular,89,F,89.9,22.9,152,96,165,201,166,11.2,SI,SI,NO,SI,NO,sedentario,5,11,comerciante,1
+santiago ixcuintla,centro de salud rural,seguro popular,40,M,69.5,16.6,132,81,94,199,136,13.3,NO,NO,NO,SI,NO,moderado,0,0,estudiante,0
+bahia de banderas,consultorio issste,imss,85,F,69.5,26.3,170,92,209,219,124,15.7,SI,SI,NO,NO,SI,activo,2,11,jubilado,1
+huajicori,centro de salud rural,sin seguro,15,F,53.6,21.5,116,74,64,227,319,11.4,NO,NO,NO,SI,NO,sedentario,2,0,desempleado,0
+xalisco,hospital general,issste,79,M,72.3,31.3,145,95,195,285,250,13.7,SI,SI,SI,NO,NO,sedentario,2,5,agricultor,1
+ixtlan del rio,consultorio issste,seguro popular,12,F,81.7,32.7,136,71,162,232,166,12.4,SI,NO,NO,NO,NO,sedentario,2,7,jubilado,1
+tepic,hospital general,imss,33,M,67.1,21.7,139,84,81,219,65,13.7,NO,NO,NO,NO,NO,sedentario,2,10,empleado,1
+ruiz,consultorio issste,seguro popular,91,M,84.2,32.9,173,95,96,201,181,11.5,NO,SI,NO,NO,SI,moderado,5,2,nan,1
+san blas,unidad medica movil,particular,61,F,64,25.3,158,87,75,224,120,14.9,NO,SI,NO,NO,NO,sedentario,4,7,profesionista,0
+santiago ixcuintla,clinica imss,issste,65,M,84.1,30.9,165,80,5.9,214,178,9.3,NO,SI,NO,SI,NO,moderado,6,10,profesionista,1
+acaponeta,consultorio issste,particular,48,M,73.6,26.4,135,84,99,185,241,13.8,NO,NO,NO,NO,NO,sedentario,0,10,comerciante,0
+del nayar,clinica imss,nan,12,F,69.5,21.3,123,67,93,253,166,12.7,NO,NO,NO,NO,NO,moderado,1,7,estudiante,1
+compostela,centro de salud rural,sin seguro,70,M,68.7,24.1,156,84,91,209,50,13,NO,SI,NO,SI,NO,moderado,6,8,empleado,0
+tepic,consultorio issste,issste,63,F,38.1,15.9,149,89,74,127,166,11.5,NO,SI,NO,NO,NO,moderado,4,1,desempleado,0
+ixtlan del rio,consultorio issste,issste,15,F,68.1,25.3,134,84,111,193,166,13,NO,NO,NO,SI,NO,activo,2,1,comerciante,0
+santiago ixcuintla,centro de salud rural,imss,77,M,95.6,25.8,149,88,150,181,124,18,SI,SI,NO,SI,NO,moderado,5,9,empleado,1
+ruiz,hospital general,particular,56,M,70,22.3,132,82,113,278,136,12.8,NO,NO,NO,NO,NO,moderado,3,0,agricultor,0
+san blas,unidad medica movil,particular,51,F,69.5,48.7,133,72,89,230,176,12.8,SI,NO,NO,NO,NO,sedentario,5,9,jornalero,1
+santiago ixcuintla,centro de salud rural,sin seguro,58,M,44.4,16.5,134,74,86,186,166,14.8,NO,NO,NO,NO,NO,sedentario,4,3,comerciante,0
+acaponeta,centro de salud rural,seguro popular,60,F,72.5,30.2,135,88,219,214,170,15.1,SI,SI,NO,NO,NO,moderado,5,3,comerciante,1
+tuxpan,consultorio issste,imss,30,M,63.7,20.3,117,84,117,181,166,14.7,NO,NO,NO,NO,NO,activo,2,2,jubilado,0
+tepic,clinica imss,imss,32,M,94.8,36.6,126,97,99,198,110,14.8,NO,SI,NO,NO,NO,moderado,1,0,desempleado,1
+tepic,unidad medica movil,imss,70,F,60.9,24.4,162,89,4.1,171,73,10.7,NO,SI,NO,NO,NO,sedentario,4,9,empleado,1
+acaponeta,clinica imss,imss,15,M,73.7,24.9,109,77,109,241,166,14.8,NO,NO,NO,NO,NO,sedentario,0,10,jubilado,0
+rosamorada,hospital general,seguro popular,63,M,49,18.4,138,94,89,215,120,14.1,NO,SI,NO,NO,NO,sedentario,6,10,agricultor,0
+tepic,consultorio issste,sin seguro,54,F,69.5,25.8,133,80,106,174,205,9.5,NO,NO,NO,NO,NO,moderado,0,9,agricultor,1
+compostela,unidad medica movil,seguro popular,83,F,70.4,31.3,165,107,110,247,159,12.6,SI,SI,SI,NO,NO,moderado,4,5,desempleado,1
+ahuacatlan,clinica imss,issste,84,F,58.7,20.6,143,78,104,156,153,9.6,SI,SI,NO,NO,NO,moderado,3,0,jornalero,1
+ixtlan del rio,centro de salud rural,imss,17,M,67.8,25.2,111,74,97,267,201,13.5,NO,NO,NO,NO,NO,sedentario,0,11,jornalero,0
+rosamorada,centro de salud rural,seguro popular,68,F,77,29.3,141,82,85,201,107,12.5,SI,SI,NO,NO,NO,sedentario,3,1,nan,1
+santiago ixcuintla,consultorio issste,imss,72,M,76.8,25.7,147,80,89,184,166,12.9,NO,SI,NO,NO,NO,sedentario,4,4,desempleado,1
+acaponeta,centro de salud rural,imss,31,M,84.4,27.6,115,82,81,198,101,15.2,NO,NO,NO,NO,SI,moderado,2,3,profesionista,0
+del nayar,centro de salud rural,sin seguro,57,M,69.5,28.2,132,93,87,174,166,13.7,NO,SI,NO,NO,NO,activo,5,3,profesionista,0
+bahia de banderas,hospital general,imss,46,F,64.2,25.8,145,88,79,147,149,13.7,NO,SI,NO,NO,NO,moderado,0,9,desempleado,0
+san blas,hospital general,sin seguro,10,M,75.5,26.4,130,74,92,245,166,12.5,NO,NO,NO,NO,NO,moderado,1,4,jornalero,0
+tepic,hospital general,seguro popular,52,F,65.8,24.8,151,88,72,129,86,13,NO,SI,NO,NO,NO,sedentario,1,5,estudiante,0
+tepic,centro de salud rural,imss,25,M,86.2,25.8,146,84,204,234,320,14.8,SI,SI,NO,SI,NO,sedentario,0,5,estudiante,1
+acaponeta,clinica imss,imss,35,M,67.6,22.1,124,78,82,193,155,14.3,NO,NO,NO,NO,NO,moderado,0,2,comerciante,0
+bahia de banderas,hospital general,sin seguro,83,F,77.9,25.8,148,106,170,214,208,14.5,SI,SI,NO,NO,NO,sedentario,3,7,estudiante,1
+bahia de banderas,unidad medica movil,sin seguro,31,F,48.1,19.3,122,89,64,193,236,12.3,SI,NO,NO,NO,SI,sedentario,2,2,estudiante,1
+tepic,hospital general,nan,15,F,71.4,28.2,115,84,55,219,169,14.8,NO,NO,NO,NO,NO,sedentario,2,0,jornalero,1
+xalisco,centro de salud rural,sin seguro,53,F,82.7,32.3,128,99,118,193,135,13.4,NO,SI,NO,NO,SI,activo,5,8,agricultor,0
+xalisco,clinica imss,imss,74,M,85.2,25.7,141,94,91,234,251,13.2,NO,SI,NO,NO,NO,moderado,2,9,profesionista,1
+tuxpan,hospital general,sin seguro,6,M,55.7,23.5,114,65,92,219,222,16.5,NO,NO,NO,NO,NO,sedentario,0,6,profesionista,0
+huajicori,centro de salud rural,imss,69,F,70.9,25.8,133,80,77,211,166,10.1,NO,NO,NO,SI,NO,sedentario,6,11,profesionista,1
+santiago ixcuintla,hospital general,nan,49,M,380,25.8,145,67,125,157,88,13.5,NO,SI,NO,NO,NO,sedentario,0,11,jubilado,0
+ahuacatlan,clinica imss,sin seguro,58,F,69.5,22.8,141,86,79,192,50,14,NO,SI,NO,NO,NO,sedentario,5,0,nan,1
+compostela,clinica imss,particular,37,M,80.8,30,127,74,124,193,131,14.3,NO,NO,NO,NO,NO,sedentario,2,4,agricultor,0
+ruiz,unidad medica movil,seguro popular,52,F,73.5,31.8,146,78,120,193,166,11.8,NO,SI,NO,NO,SI,sedentario,0,6,empleado,1
+bahia de banderas,hospital general,particular,90,F,58.9,25.8,162,85,96,189,201,14,NO,SI,NO,NO,NO,moderado,6,10,empleado,1
+rosamorada,hospital general,imss,70,M,67.6,26.7,162,93,86,287,286,17.8,NO,SI,NO,NO,NO,sedentario,2,6,jubilado,0
+acaponeta,unidad medica movil,sin seguro,67,F,48.1,16.6,150,76,108,265,208,11.9,SI,SI,SI,SI,SI,moderado,5,2,empleado,1
+bahia de banderas,unidad medica movil,imss,55,M,78.5,24,129,78,87,157,166,14.7,NO,NO,NO,NO,NO,moderado,1,5,jornalero,0
+ruiz,consultorio issste,sin seguro,68,F,59.4,26.8,148,87,4,219,58,13,NO,SI,NO,NO,NO,moderado,2,9,estudiante,1
+rosamorada,consultorio issste,sin seguro,88,F,49.5,20.3,165,94,99,181,228,10.1,NO,SI,NO,NO,NO,sedentario,6,8,jornalero,1
+xalisco,hospital general,sin seguro,20,F,42.9,19.1,122,75,124,165,123,13,NO,NO,NO,NO,NO,sedentario,2,5,jubilado,0
+huajicori,centro de salud rural,particular,40,F,65.4,27.6,152,79,110,197,73,14.2,SI,SI,NO,SI,NO,activo,1,6,desempleado,1
+del nayar,hospital general,seguro popular,45,M,66.4,21.9,154,96,113,182,140,14.3,NO,SI,NO,NO,NO,activo,1,11,ama de casa,0
+bahia de banderas,consultorio issste,seguro popular,12,M,81.8,25.8,125,77,92,185,250,12.4,NO,NO,NO,SI,SI,moderado,1,0,comerciante,0
+tuxpan,consultorio issste,issste,20,M,83.5,27.6,136,63,123,212,91,11,NO,NO,NO,SI,NO,sedentario,1,9,profesionista,0
+tepic,clinica imss,particular,74,M,90.1,27.5,149,85,4.8,262,170,14,NO,SI,SI,NO,SI,moderado,0,5,profesionista,1
+ahuacatlan,centro de salud rural,particular,36,F,54.1,23.1,137,75,83,192,166,14.3,SI,NO,NO,SI,NO,sedentario,2,10,ama de casa,1
+del nayar,hospital general,sin seguro,42,M,76.8,28.6,133,84,117,203,160,13.5,NO,NO,NO,NO,NO,sedentario,2,11,profesionista,0
+bahia de banderas,hospital general,imss,63,M,82.1,33.7,154,83,58,149,166,14.8,NO,SI,NO,NO,NO,moderado,2,7,profesionista,0
+tepic,unidad medica movil,particular,69,M,78.1,25.8,156,91,98,170,124,11.6,NO,SI,NO,NO,NO,moderado,1,9,ama de casa,0
+tepic,consultorio issste,sin seguro,7,M,56.7,41.9,129,71,121,193,166,16.2,NO,NO,NO,SI,NO,moderado,0,1,comerciante,1
+bahia de banderas,centro de salud rural,sin seguro,67,M,66,25.1,135,85,141,166,122,11.1,NO,NO,NO,NO,SI,moderado,6,11,empleado,1
+tepic,hospital general,particular,23,M,68.9,25.6,128,80,110,193,57,13.3,NO,NO,NO,NO,SI,sedentario,2,9,comerciante,0
+santiago ixcuintla,hospital general,imss,16,M,90.5,29.2,131,88,106,173,155,13.7,NO,NO,NO,SI,NO,activo,2,11,comerciante,0
+xalisco,unidad medica movil,particular,42,M,62.9,21,129,82,75,185,102,13.5,NO,NO,NO,NO,NO,moderado,2,1,empleado,0
+ruiz,hospital general,sin seguro,86,F,42,25.8,148,82,90,193,136,15.1,NO,SI,NO,NO,NO,moderado,0,4,empleado,0
+rosamorada,centro de salud rural,sin seguro,44,M,81.8,30.4,150,87,103,186,166,15.1,NO,SI,NO,NO,NO,sedentario,1,9,jornalero,1
+compostela,centro de salud rural,seguro popular,87,F,72.1,56.9,158,96,11.7,174,286,12.9,SI,SI,NO,NO,NO,sedentario,4,8,desempleado,1
+ahuacatlan,consultorio issste,imss,36,F,53.7,25.8,130,74,107,204,278,13.9,NO,NO,NO,NO,NO,sedentario,1,1,agricultor,0
+del nayar,unidad medica movil,sin seguro,44,M,78.5,24.5,135,77,111,271,140,15.1,NO,NO,NO,NO,NO,sedentario,2,1,estudiante,0
+ixtlan del rio,clinica imss,particular,18,M,68.8,23.5,134,81,146,212,202,11.8,NO,SI,NO,SI,NO,moderado,0,1,desempleado,1
+santiago ixcuintla,centro de salud rural,issste,90,F,58,24.5,156,85,99,172,252,13.9,NO,SI,NO,NO,NO,sedentario,1,7,profesionista,0
+tuxpan,hospital general,sin seguro,17,F,77.6,33.1,113,83,239,200,252,13.3,SI,NO,NO,NO,NO,moderado,1,6,estudiante,1
+tepic,unidad medica movil,sin seguro,72,M,75.2,25.8,143,95,85,239,307,15.7,NO,SI,NO,NO,SI,sedentario,6,2,comerciante,1
+tepic,unidad medica movil,seguro popular,81,F,61.1,22.2,129,94,91,179,166,12,NO,SI,NO,SI,NO,sedentario,2,10,desempleado,1
+tepic,clinica imss,sin seguro,33,M,67.8,21.9,130,78,103,123,231,15.5,NO,NO,NO,SI,NO,sedentario,0,5,jubilado,0
+tepic,unidad medica movil,imss,30,F,78,31.2,150,78,116,157,58,13.3,NO,SI,NO,NO,NO,moderado,2,11,empleado,0
+acaponeta,consultorio issste,imss,69,F,57.4,25.2,156,99,87,193,167,13.1,NO,SI,NO,NO,NO,moderado,2,10,jornalero,1
+ahuacatlan,hospital general,issste,32,M,66.9,26.5,119,78,95,199,221,15.1,NO,NO,NO,NO,NO,sedentario,0,11,comerciante,0
+ixtlan del rio,centro de salud rural,sin seguro,50,F,63.8,27.3,144,78,122,168,66,11.7,NO,SI,NO,SI,SI,moderado,2,9,ama de casa,1
+del nayar,unidad medica movil,sin seguro,30,M,58.4,18.4,134,75,70,209,197,14.4,NO,SI,NO,SI,NO,sedentario,1,9,agricultor,1
+san blas,centro de salud rural,seguro popular,65,F,59.2,23.7,160,86,80,232,166,12.5,NO,SI,SI,NO,NO,sedentario,1,9,jubilado,0
+del nayar,unidad medica movil,issste,13,F,75,35.7,133,69,55,218,84,12.9,NO,NO,NO,NO,NO,sedentario,2,2,jubilado,0
+bahia de banderas,centro de salud rural,issste,9,M,84.5,26.7,110,77,4.6,191,342,12.5,NO,NO,NO,NO,NO,activo,1,10,nan,0
+acaponeta,centro de salud rural,sin seguro,73,M,64.4,22.8,151,83,95,207,188,14.6,SI,SI,NO,NO,NO,sedentario,6,1,desempleado,1
+tepic,clinica imss,imss,32,F,49.1,22.4,103,71,102,231,85,13.1,NO,NO,NO,NO,NO,moderado,0,1,ama de casa,0
+ixtlan del rio,consultorio issste,particular,10,M,59.5,20.6,120,58,90,193,166,16.3,NO,SI,NO,NO,NO,sedentario,1,11,profesionista,0
+acaponeta,clinica imss,seguro popular,14,M,57.9,18.7,98,77,99,223,203,13.3,NO,NO,NO,SI,NO,moderado,2,7,profesionista,0
+acaponeta,hospital general,imss,53,F,68.4,23.7,142,72,114,193,111,13.9,NO,SI,NO,NO,NO,sedentario,4,2,profesionista,0
+tuxpan,consultorio issste,imss,11,F,52.8,25.8,130,64,103,234,68,13.3,NO,NO,NO,NO,NO,sedentario,2,6,agricultor,0
+xalisco,unidad medica movil,particular,65,F,68.4,25.8,169,97,129,150,221,10,NO,SI,NO,SI,NO,sedentario,5,9,desempleado,1
+bahia de banderas,centro de salud rural,sin seguro,78,M,80.1,27.7,171,90,99,163,155,14.5,NO,SI,NO,NO,NO,sedentario,0,3,jornalero,0
+santiago ixcuintla,unidad medica movil,imss,58,F,66.6,28.1,133,83,83,193,120,13.7,NO,NO,NO,NO,NO,activo,1,5,comerciante,0
+tepic,centro de salud rural,particular,72,F,50.8,19.4,142,78,95,212,261,13.7,SI,SI,NO,NO,NO,activo,2,11,comerciante,1
+bahia de banderas,consultorio issste,sin seguro,30,M,66.2,23.5,129,80,74,193,91,13.7,NO,SI,NO,SI,NO,sedentario,1,1,estudiante,0
+ruiz,consultorio issste,seguro popular,20,F,55.9,25.8,130,84,5.8,174,166,16.7,NO,NO,NO,SI,SI,moderado,1,0,jubilado,0
+santiago ixcuintla,consultorio issste,imss,17,M,59.2,20.5,117,69,67,175,114,13.4,NO,NO,NO,SI,NO,moderado,0,4,desempleado,0
+san blas,unidad medica movil,seguro popular,60,M,76.3,25.2,144,90,89,174,84,17.7,NO,SI,NO,NO,NO,moderado,5,3,ama de casa,0
+tepic,centro de salud rural,issste,5,F,78.1,25.8,116,72,110,167,106,13.4,NO,NO,NO,NO,SI,moderado,1,0,profesionista,0
+ruiz,consultorio issste,sin seguro,91,M,74.1,26.6,150,89,97,168,92,13.5,NO,SI,NO,NO,NO,activo,2,4,profesionista,0
+tepic,hospital general,issste,67,F,56.3,23.1,142,98,5.9,267,224,11.9,NO,SI,NO,NO,NO,sedentario,0,5,comerciante,1
+acaponeta,centro de salud rural,imss,32,M,74.9,22.1,128,76,108,223,166,9.7,NO,NO,NO,NO,NO,activo,2,5,profesionista,0
+rosamorada,consultorio issste,sin seguro,9,F,68.1,30.3,126,88,76,158,93,14.9,NO,SI,NO,NO,NO,sedentario,1,8,desempleado,0
+tepic,centro de salud rural,sin seguro,71,F,60.2,21.6,148,83,90,166,102,12.2,SI,SI,NO,NO,NO,moderado,5,11,estudiante,1
+compostela,centro de salud rural,sin seguro,36,M,70.8,28,139,82,71,174,159,13.7,NO,SI,NO,NO,NO,sedentario,2,0,comerciante,0
+san blas,unidad medica movil,particular,42,M,89.5,25.8,141,86,132,217,191,12.9,SI,SI,NO,NO,NO,sedentario,2,4,agricultor,1
+ahuacatlan,centro de salud rural,particular,22,M,89.6,31,128,93,141,212,166,14.7,SI,SI,NO,NO,NO,sedentario,1,6,jubilado,1
+ahuacatlan,consultorio issste,seguro popular,58,M,69.5,25.8,141,76,71,196,201,13.7,SI,SI,NO,SI,NO,sedentario,4,9,agricultor,1
+del nayar,hospital general,sin seguro,18,F,74.4,35.9,122,82,117,142,173,10.6,SI,NO,NO,NO,NO,moderado,1,6,nan,1
+del nayar,centro de salud rural,particular,13,M,80.1,26.2,125,74,88,223,200,14.8,NO,NO,NO,SI,NO,activo,1,10,jornalero,0
+tepic,centro de salud rural,seguro popular,42,F,56.6,20.8,122,81,109,141,373,13.9,NO,NO,NO,NO,SI,activo,2,5,estudiante,0
+del nayar,unidad medica movil,sin seguro,17,F,72.4,27.9,118,71,72,133,166,11,NO,NO,NO,NO,NO,sedentario,1,2,comerciante,0
+tepic,hospital general,seguro popular,79,F,74.4,27.3,146,95,80,187,115,12.6,NO,SI,NO,SI,NO,moderado,6,8,desempleado,1
+ixtlan del rio,centro de salud rural,seguro popular,66,M,95.7,30.2,144,89,139,259,146,15.5,SI,SI,SI,SI,NO,moderado,6,5,nan,1
+bahia de banderas,hospital general,particular,73,F,46.1,15.8,150,82,105,209,166,12,NO,SI,NO,NO,NO,sedentario,3,9,estudiante,1
+san blas,clinica imss,sin seguro,69,M,72,25.8,142,81,99,193,133,14.7,NO,SI,NO,NO,SI,sedentario,5,6,agricultor,1
+rosamorada,consultorio issste,sin seguro,42,M,73.7,26.4,125,70,105,251,128,11.9,NO,NO,NO,NO,NO,moderado,1,6,desempleado,0
+bahia de banderas,consultorio issste,seguro popular,15,F,48.6,19,104,79,77,176,157,12.2,NO,SI,NO,NO,NO,sedentario,2,4,empleado,1
+ixtlan del rio,clinica imss,sin seguro,88,M,80.5,28.9,157,100,102,178,301,15.9,NO,SI,NO,NO,NO,moderado,1,9,desempleado,0
+ruiz,hospital general,particular,60,F,82.2,30.6,140,84,121,193,180,13.7,NO,NO,NO,NO,SI,moderado,3,7,desempleado,0
+tepic,hospital general,particular,69,F,59.1,25.8,147,92,142,211,154,12.7,NO,SI,NO,SI,SI,sedentario,5,6,nan,0
+tepic,hospital general,sin seguro,12,M,68.4,24.5,121,82,83,193,166,12.7,NO,NO,NO,NO,NO,sedentario,1,7,empleado,0
+acaponeta,unidad medica movil,sin seguro,9,F,69.3,23.5,125,73,119,274,166,14.5,NO,NO,NO,NO,SI,moderado,0,0,profesionista,0
+huajicori,hospital general,sin seguro,42,F,69.5,25.8,135,79,133,120,223,13.7,SI,NO,NO,NO,SI,moderado,1,2,ama de casa,0
+bahia de banderas,hospital general,seguro popular,88,M,71.2,23.5,170,89,93,220,56,16.8,SI,SI,NO,NO,NO,sedentario,2,6,jubilado,1
+compostela,consultorio issste,seguro popular,82,M,74.4,24.6,139,91,66,188,252,15.9,NO,SI,NO,SI,NO,moderado,0,0,comerciante,1
+bahia de banderas,hospital general,sin seguro,13,M,66.3,23.5,118,84,104,126,72,14.8,NO,NO,NO,SI,NO,sedentario,1,7,estudiante,0
+huajicori,unidad medica movil,sin seguro,78,F,51.2,20.8,142,86,98,223,177,10.8,NO,SI,NO,NO,NO,sedentario,3,0,empleado,1
+tepic,hospital general,seguro popular,84,M,70.7,25,147,91,106,186,256,15.2,NO,SI,NO,NO,NO,sedentario,4,11,profesionista,INGRESADO
+san blas,centro de salud rural,nan,36,M,8,25.8,142,101,108,194,184,12.6,NO,SI,NO,NO,NO,sedentario,2,5,profesionista,0
+ixtlan del rio,unidad medica movil,sin seguro,74,M,80.3,28.8,155,85,92,180,111,16.3,NO,SI,NO,SI,NO,sedentario,1,5,profesionista,1
+tepic,hospital general,sin seguro,76,F,75.2,33,147,92,178,159,166,11,SI,SI,NO,NO,NO,activo,4,6,empleado,0
+compostela,clinica imss,sin seguro,6,F,71.5,25.8,125,80,89,262,208,11.7,NO,NO,NO,NO,NO,sedentario,0,11,estudiante,0
+xalisco,consultorio issste,issste,45,M,67.5,21.8,151,80,76,217,265,17.1,NO,SI,NO,SI,NO,sedentario,1,1,desempleado,0
+tepic,hospital general,sin seguro,57,F,79,29.4,175,93,118,178,171,13.8,NO,SI,NO,SI,NO,sedentario,2,8,empleado,0
+tepic,hospital general,particular,38,F,79.4,28.8,134,94,65,198,199,12.1,NO,SI,NO,SI,NO,sedentario,2,7,ama de casa,0
+rosamorada,centro de salud rural,seguro popular,52,F,63,27.6,133,85,94,195,50,13.7,NO,NO,NO,NO,NO,activo,2,7,jubilado,0
+tuxpan,centro de salud rural,imss,30,M,95,37.1,149,84,107,161,200,13.9,NO,SI,NO,SI,SI,moderado,2,10,comerciante,0
+tepic,centro de salud rural,issste,59,F,69.5,24.8,149,83,75,125,137,14.8,NO,SI,NO,SI,NO,sedentario,3,8,agricultor,0
+huajicori,consultorio issste,issste,20,F,82.2,33.3,140,96,190,183,357,14.7,SI,SI,NO,NO,SI,moderado,1,11,jubilado,1
+rosamorada,consultorio issste,particular,25,M,91.2,30.5,118,85,149,150,178,19,SI,SI,NO,NO,NO,activo,2,9,ama de casa,1
+tepic,clinica imss,issste,85,F,67.2,25.6,139,85,91,165,173,12.8,NO,NO,NO,SI,NO,sedentario,2,10,agricultor,0
+xalisco,clinica imss,imss,35,F,42,15.2,128,69,98,177,200,12.7,NO,NO,NO,NO,NO,sedentario,0,11,estudiante,0
+tepic,consultorio issste,sin seguro,36,F,62.4,25.3,123,90,95,213,166,11.2,NO,NO,NO,SI,SI,activo,2,5,agricultor,0
+santiago ixcuintla,consultorio issste,imss,74,M,69.3,51.4,140,94,67,193,224,13.7,SI,SI,NO,NO,NO,sedentario,6,8,nan,1
+bahia de banderas,clinica imss,sin seguro,51,F,6,27.7,164,88,68,144,155,11.5,NO,SI,NO,SI,NO,moderado,4,5,profesionista,0
+acaponeta,clinica imss,imss,54,F,68.7,32.2,142,82,93,197,139,14.2,SI,SI,NO,NO,NO,moderado,3,11,empleado,0
+san blas,hospital general,imss,58,F,59.9,27.7,159,88,78,187,222,13.3,NO,SI,NO,NO,NO,sedentario,4,3,empleado,0
+bahia de banderas,unidad medica movil,imss,36,F,63.9,24.3,123,94,104,146,215,13.3,NO,SI,NO,NO,NO,sedentario,2,3,empleado,0
+del nayar,unidad medica movil,imss,6,F,59.7,49.4,126,75,77,164,55,14.4,NO,NO,NO,NO,NO,sedentario,2,5,empleado,0
+xalisco,hospital general,imss,46,M,60.7,20,131,93,87,234,132,16,NO,SI,NO,NO,NO,sedentario,0,9,jornalero,0
+bahia de banderas,clinica imss,imss,40,F,87.7,25.8,136,86,6.6,193,202,12.6,NO,NO,NO,NO,NO,sedentario,2,6,agricultor,0
+tepic,unidad medica movil,seguro popular,64,F,62.9,26.5,150,75,78,175,111,13.3,NO,SI,NO,NO,NO,sedentario,5,10,jornalero,1
+tuxpan,clinica imss,imss,67,M,72.3,28.2,150,84,99,169,128,15.4,NO,SI,NO,NO,NO,sedentario,0,2,jubilado,0
+acaponeta,centro de salud rural,seguro popular,15,F,64.9,33.1,126,80,193,193,65,15.6,SI,NO,NO,NO,SI,sedentario,2,10,agricultor,0
+rosamorada,centro de salud rural,sin seguro,70,F,61.5,25,128,95,68,225,259,11.8,NO,SI,NO,NO,NO,sedentario,6,10,nan,0
+acaponeta,unidad medica movil,issste,27,F,65.9,25.4,113,78,106,216,108,12.6,SI,NO,NO,NO,NO,moderado,2,11,nan,0
+san blas,centro de salud rural,seguro popular,38,F,58.8,25.1,124,82,106,231,115,13.1,SI,NO,NO,NO,NO,sedentario,1,8,jubilado,1
+rosamorada,hospital general,particular,86,F,42.9,16.6,156,87,77,193,50,12.4,SI,SI,NO,NO,NO,moderado,0,2,jubilado,0
+bahia de banderas,clinica imss,imss,11,F,83.8,32.3,108,77,132,193,173,14.6,SI,NO,NO,SI,NO,activo,1,11,desempleado,0
+xalisco,consultorio issste,sin seguro,44,F,69.5,25.8,141,78,84,181,257,11.2,NO,SI,NO,NO,NO,moderado,1,7,desempleado,0
+tepic,clinica imss,sin seguro,36,M,87.5,32.1,120,87,152,257,166,13.6,SI,NO,NO,NO,NO,moderado,2,11,agricultor,0
+tepic,clinica imss,sin seguro,52,F,52.1,20.4,148,79,87,192,148,14,NO,SI,NO,NO,NO,sedentario,5,1,jornalero,0
+ruiz,unidad medica movil,sin seguro,32,F,61.9,55.9,130,84,118,196,91,13.7,NO,NO,NO,NO,NO,activo,1,0,estudiante,0
+xalisco,consultorio issste,sin seguro,32,F,77.3,32.2,144,77,103,190,226,10.4,NO,SI,NO,NO,NO,moderado,2,3,jubilado,1
+ruiz,clinica imss,imss,57,M,69.8,26,130,86,115,140,148,16.2,NO,NO,NO,NO,NO,activo,2,9,jubilado,0
+tepic,clinica imss,nan,73,M,50.6,17.5,153,87,80,150,143,17.2,NO,SI,NO,SI,NO,moderado,5,9,profesionista,1
+tepic,unidad medica movil,imss,50,M,83.8,30.4,143,90,129,260,119,14.3,SI,SI,NO,NO,NO,moderado,1,9,jubilado,INGRESADO
+acaponeta,unidad medica movil,seguro popular,58,F,71.6,32.7,139,90,11.3,168,421,13.9,SI,NO,NO,NO,NO,moderado,1,6,empleado,0
+compostela,clinica imss,sin seguro,47,M,43.1,14.1,98,84,84,227,123,11.9,NO,NO,NO,NO,NO,sedentario,0,0,estudiante,0
+ixtlan del rio,consultorio issste,nan,67,M,73.3,24.5,147,82,106,229,166,15,NO,SI,NO,SI,NO,sedentario,2,8,desempleado,1
+xalisco,unidad medica movil,issste,17,M,89.4,32.1,144,68,185,271,187,12.9,SI,SI,NO,SI,NO,sedentario,0,3,empleado,1
+compostela,clinica imss,sin seguro,53,F,69.5,25.8,148,81,121,158,68,9.2,SI,SI,NO,NO,NO,moderado,2,10,empleado,1
+santiago ixcuintla,centro de salud rural,sin seguro,72,F,67.4,34.4,166,84,114,193,151,10.7,NO,SI,NO,NO,NO,moderado,2,5,jubilado,1
+san blas,clinica imss,sin seguro,77,F,69.5,24.4,148,84,117,247,280,13.7,NO,SI,NO,NO,NO,sedentario,2,3,estudiante,1
+xalisco,hospital general,sin seguro,15,F,67,28.6,125,90,67,227,182,13.4,NO,NO,NO,NO,NO,sedentario,2,2,desempleado,0
+tuxpan,centro de salud rural,sin seguro,56,F,69.5,20.5,124,70,71,284,75,12.1,NO,NO,NO,NO,SI,sedentario,6,4,profesionista,0
+tepic,consultorio issste,seguro popular,84,M,69.5,19.9,152,108,101,200,62,13.2,SI,SI,NO,SI,SI,sedentario,0,3,comerciante,1
+rosamorada,hospital general,issste,62,F,56.8,22.8,143,77,121,203,155,13.7,NO,SI,NO,NO,NO,moderado,3,3,jubilado,AMBULATORIO
+tuxpan,clinica imss,nan,48,F,58.2,24.2,126,78,91,168,152,12.3,NO,NO,NO,NO,NO,moderado,1,5,comerciante,0
+bahia de banderas,centro de salud rural,imss,62,M,82.7,23.6,140,81,113,195,200,12.2,NO,NO,NO,NO,NO,sedentario,6,0,jornalero,0
+xalisco,clinica imss,imss,72,M,59.8,19.3,156,76,104,193,176,15.2,NO,SI,NO,NO,NO,activo,3,7,jornalero,0
+xalisco,consultorio issste,sin seguro,19,F,71.7,25.1,124,74,6.7,193,92,12.6,NO,NO,NO,NO,NO,moderado,0,8,empleado,1
+tepic,centro de salud rural,imss,78,M,74.5,23,138,83,62,193,139,13.7,NO,NO,NO,NO,NO,moderado,2,3,jubilado,0
+bahia de banderas,centro de salud rural,particular,62,M,75.2,33.4,174,84,131,162,134,15.1,SI,SI,NO,NO,NO,activo,4,5,desempleado,0
+tepic,hospital general,sin seguro,90,M,59.9,19.3,161,98,97,198,173,13.7,SI,SI,NO,NO,NO,sedentario,4,5,empleado,0
+san blas,hospital general,particular,73,F,53.7,21.2,151,92,77,185,166,12.5,NO,SI,NO,SI,SI,sedentario,3,6,empleado,1
+huajicori,centro de salud rural,imss,25,F,65.2,33.3,136,94,9.2,175,166,11.1,SI,SI,NO,NO,NO,sedentario,1,1,estudiante,1
+ruiz,clinica imss,nan,18,F,76.7,30.7,126,90,164,193,268,14.9,SI,SI,NO,NO,NO,activo,2,9,profesionista,1
+bahia de banderas,consultorio issste,imss,72,F,49.2,19.7,143,94,98,193,124,11.7,NO,SI,NO,NO,NO,moderado,2,6,agricultor,0
+bahia de banderas,centro de salud rural,seguro popular,15,F,50,18.1,126,72,59,181,159,10.9,NO,NO,NO,NO,NO,moderado,1,11,empleado,0
+rosamorada,clinica imss,sin seguro,22,F,88.3,30.6,125,86,99,205,166,14.8,NO,NO,NO,NO,NO,sedentario,0,2,jornalero,0
+santiago ixcuintla,consultorio issste,particular,8,F,83,30.1,105,87,81,211,167,13.7,SI,NO,NO,NO,NO,moderado,0,8,profesionista,0
+ahuacatlan,unidad medica movil,nan,86,F,70.8,61.3,156,79,112,166,185,13.7,NO,SI,NO,NO,NO,sedentario,1,10,estudiante,0
+tepic,centro de salud rural,imss,28,F,66.4,24.7,126,77,55,193,167,16.6,NO,NO,NO,NO,SI,moderado,0,3,profesionista,0
+tepic,consultorio issste,particular,82,M,70,21.1,157,90,87,131,212,16,NO,SI,NO,NO,NO,moderado,1,11,estudiante,0
+rosamorada,consultorio issste,issste,87,M,60.4,19.7,149,99,95,164,141,13.6,NO,SI,NO,SI,NO,sedentario,4,1,jornalero,1
+acaponeta,unidad medica movil,particular,28,F,89.4,36.7,136,103,107,182,112,13.7,NO,SI,NO,SI,NO,sedentario,0,8,jornalero,0
+rosamorada,unidad medica movil,sin seguro,74,F,66.7,23.4,167,80,84,193,166,11.9,SI,SI,SI,NO,NO,activo,4,9,comerciante,1
+tepic,hospital general,particular,56,F,69.3,40.6,146,72,116,211,255,14,SI,SI,NO,SI,SI,moderado,4,0,profesionista,1
+ruiz,hospital general,sin seguro,45,F,87.1,36.3,152,71,167,144,250,10.1,SI,SI,NO,SI,SI,moderado,2,6,jubilado,1
+tepic,centro de salud rural,seguro popular,75,M,64.9,25,147,80,100,238,209,14.1,NO,SI,NO,NO,SI,sedentario,2,4,jornalero,1
+acaponeta,hospital general,sin seguro,87,F,57.3,23.9,158,103,88,193,255,17,NO,SI,NO,NO,NO,sedentario,2,3,agricultor,1
+ahuacatlan,hospital general,sin seguro,9,F,480,23.5,125,72,70,192,124,13.7,NO,SI,NO,NO,SI,moderado,2,4,profesionista,0
+del nayar,hospital general,sin seguro,82,M,56.3,21.2,136,89,118,242,234,15.3,NO,NO,NO,SI,NO,moderado,3,9,agricultor,1
+compostela,unidad medica movil,seguro popular,27,F,66.3,29.9,126,77,7.1,139,64,10.9,SI,NO,NO,NO,NO,sedentario,2,5,jubilado,1
+ruiz,hospital general,sin seguro,41,M,74.5,27.4,132,95,111,202,121,16,NO,SI,NO,NO,NO,moderado,2,8,desempleado,0
+san blas,unidad medica movil,imss,55,M,68.1,25.6,152,99,71,248,88,17.4,NO,SI,NO,NO,NO,sedentario,6,0,agricultor,1
+compostela,clinica imss,sin seguro,71,M,43.4,25.8,137,76,125,238,190,14.2,NO,NO,SI,NO,SI,activo,4,6,jornalero,0
+xalisco,unidad medica movil,issste,62,F,96.6,36.4,153,99,96,204,240,14.2,SI,SI,NO,NO,NO,sedentario,0,11,profesionista,1
+tepic,clinica imss,imss,58,M,54.7,18.5,132,84,113,208,79,13.7,NO,SI,NO,SI,NO,activo,2,1,comerciante,0
+ahuacatlan,hospital general,sin seguro,77,M,59.3,16.1,159,65,55,188,190,13.7,NO,SI,NO,NO,NO,sedentario,4,5,ama de casa,1
+san blas,unidad medica movil,particular,88,F,59.5,25.8,158,82,92,197,166,10.2,NO,SI,NO,NO,NO,sedentario,6,0,comerciante,1
+bahia de banderas,unidad medica movil,sin seguro,32,F,81.2,25.8,139,87,152,999,242,13.9,SI,NO,NO,NO,NO,sedentario,1,1,desempleado,0
+rosamorada,clinica imss,imss,30,M,68.1,24.7,144,81,93,220,229,14.7,NO,SI,NO,NO,NO,sedentario,0,7,desempleado,1
+santiago ixcuintla,centro de salud rural,sin seguro,45,F,74.1,27.6,134,87,105,201,215,13.3,NO,NO,NO,SI,NO,activo,2,1,nan,0
+santiago ixcuintla,unidad medica movil,seguro popular,62,F,55.8,23.2,152,80,61,193,191,14.7,NO,SI,NO,SI,NO,moderado,3,0,comerciante,1
+xalisco,centro de salud rural,imss,45,M,69.7,25.8,145,83,78,193,52,14.6,NO,SI,NO,NO,NO,sedentario,0,5,jubilado,1
+rosamorada,centro de salud rural,sin seguro,34,M,67.5,25.1,138,62,104,194,331,13.7,SI,NO,NO,NO,NO,sedentario,0,8,empleado,1
+xalisco,consultorio issste,sin seguro,28,F,65.3,27.9,148,92,133,192,292,13.4,SI,SI,NO,NO,NO,sedentario,2,1,jubilado,0
+santiago ixcuintla,consultorio issste,issste,25,F,68.3,29.6,144,74,99,226,50,11,NO,SI,NO,NO,SI,activo,2,1,jornalero,0
+tepic,unidad medica movil,imss,61,M,69.5,15.8,137,96,6.6,194,245,15.7,NO,SI,NO,NO,NO,sedentario,4,9,ama de casa,0
+ruiz,hospital general,particular,24,M,82.9,30.4,130,91,178,184,279,13.9,SI,SI,NO,NO,NO,sedentario,1,11,profesionista,INGRESADO
+ruiz,consultorio issste,seguro popular,48,M,76.2,28.7,120,95,56,173,50,12.1,NO,SI,NO,NO,NO,sedentario,0,1,desempleado,0
+santiago ixcuintla,consultorio issste,seguro popular,47,M,76.8,30.4,138,80,170,195,95,15.8,SI,NO,NO,NO,NO,sedentario,2,9,jornalero,0
+compostela,clinica imss,imss,78,M,96.7,25.8,131,98,149,153,287,14.7,SI,SI,NO,NO,NO,sedentario,5,10,profesionista,1
+tuxpan,hospital general,imss,40,M,69.5,21.1,126,93,87,188,55,14.4,SI,SI,NO,NO,NO,moderado,2,7,agricultor,0
+tuxpan,unidad medica movil,sin seguro,60,M,66.2,25.8,139,79,91,183,166,17.1,NO,NO,NO,SI,NO,sedentario,5,2,ama de casa,0
+xalisco,unidad medica movil,sin seguro,31,F,69.5,38.5,137,71,65,216,50,13.2,NO,SI,NO,NO,NO,moderado,1,2,estudiante,0
+bahia de banderas,clinica imss,sin seguro,15,M,55.5,21.1,115,79,57,190,170,14.5,NO,NO,NO,NO,NO,sedentario,1,3,estudiante,0
+bahia de banderas,hospital general,sin seguro,13,F,56.6,27.7,132,84,121,229,240,15,NO,NO,NO,NO,NO,sedentario,0,9,desempleado,0
+tepic,hospital general,particular,73,F,38,16.2,131,82,116,202,50,12.7,NO,NO,NO,NO,NO,moderado,1,1,jubilado,1
+del nayar,clinica imss,sin seguro,16,M,70.3,49.5,122,81,114,227,152,13.7,NO,NO,NO,SI,NO,sedentario,0,10,comerciante,0
+ahuacatlan,hospital general,sin seguro,69,F,71.7,29.5,157,92,97,199,70,13.7,NO,SI,NO,NO,NO,sedentario,0,0,comerciante,1
+tepic,hospital general,sin seguro,60,M,56.1,18.7,122,95,127,204,172,12.7,NO,SI,NO,NO,NO,sedentario,2,8,agricultor,1
+rosamorada,centro de salud rural,sin seguro,51,F,50.3,21.5,135,84,103,186,254,11.7,NO,NO,NO,NO,NO,sedentario,4,11,profesionista,0
+tuxpan,consultorio issste,imss,26,F,63.1,23.7,125,69,84,243,50,13.3,NO,NO,NO,NO,SI,sedentario,1,0,jornalero,0
+ruiz,consultorio issste,particular,32,M,81.1,25.8,122,87,118,257,226,14.2,NO,SI,NO,SI,SI,moderado,0,11,jubilado,1
+tepic,unidad medica movil,sin seguro,21,M,84,29.4,131,81,119,193,246,18.7,NO,SI,NO,SI,NO,sedentario,0,9,profesionista,0
+rosamorada,hospital general,issste,37,M,69.5,26.5,127,76,97,172,166,12.6,SI,NO,NO,NO,NO,moderado,0,4,desempleado,0
+bahia de banderas,unidad medica movil,imss,29,F,63,23.7,138,77,65,215,162,15.4,NO,NO,NO,NO,NO,sedentario,2,7,ama de casa,0
+xalisco,clinica imss,seguro popular,14,F,75.9,27.9,120,67,73,265,242,11.7,NO,NO,NO,NO,NO,moderado,2,10,desempleado,0
+tepic,hospital general,nan,91,M,83.1,27.8,183,92,116,174,119,14.6,NO,SI,NO,NO,NO,moderado,5,8,estudiante,0
+santiago ixcuintla,clinica imss,seguro popular,45,F,53.7,25.8,139,96,111,302,177,16.1,NO,SI,NO,SI,SI,moderado,1,6,nan,0
+rosamorada,centro de salud rural,sin seguro,58,M,94,25.8,137,78,128,132,245,11.4,SI,NO,NO,SI,NO,sedentario,1,1,estudiante,1
+ruiz,hospital general,seguro popular,59,F,42.2,15.5,122,78,124,257,166,11.2,NO,NO,NO,SI,NO,sedentario,0,5,desempleado,0
+acaponeta,centro de salud rural,seguro popular,15,M,46.5,20.4,126,80,117,193,75,13.7,NO,NO,NO,NO,NO,moderado,1,7,estudiante,0
+ruiz,clinica imss,sin seguro,72,F,69.7,25.8,138,93,64,185,231,11.2,NO,SI,NO,NO,NO,sedentario,2,10,ama de casa,1
+bahia de banderas,unidad medica movil,particular,16,F,42.3,18.8,119,74,106,176,232,13.4,NO,NO,NO,NO,NO,moderado,1,10,jubilado,0
+rosamorada,hospital general,issste,80,F,74.1,25.8,162,107,206,235,146,12.3,SI,SI,SI,NO,NO,sedentario,1,11,comerciante,1
+huajicori,centro de salud rural,particular,49,M,69.3,18.7,147,88,88,124,120,14,NO,SI,NO,NO,NO,sedentario,2,1,agricultor,0
+del nayar,consultorio issste,seguro popular,37,F,47.6,19.6,127,87,87,205,50,12.7,NO,NO,NO,SI,NO,sedentario,2,6,comerciante,1
+tepic,consultorio issste,seguro popular,32,F,74.9,64.8,134,84,150,211,166,13.4,SI,SI,NO,SI,NO,moderado,1,10,ama de casa,0
+tepic,centro de salud rural,seguro popular,68,F,67.2,21.7,159,91,177,181,200,13.7,SI,SI,NO,NO,NO,sedentario,2,2,profesionista,1
+acaponeta,hospital general,particular,54,F,55,20.4,137,86,80,170,50,12.5,NO,NO,NO,NO,NO,sedentario,4,5,ama de casa,0
+del nayar,consultorio issste,seguro popular,22,M,69.5,25.4,122,81,104,225,107,15.5,NO,NO,NO,NO,NO,activo,1,5,ama de casa,0
+compostela,clinica imss,seguro popular,22,F,310,25.8,126,98,4.4,216,50,14.7,NO,SI,NO,NO,NO,moderado,0,0,desempleado,0
+xalisco,centro de salud rural,sin seguro,17,F,69.5,37.3,117,80,156,100,50,11.9,SI,NO,NO,NO,NO,sedentario,0,0,ama de casa,0
+rosamorada,centro de salud rural,imss,40,F,76.6,51.1,140,92,151,193,91,11.8,SI,SI,NO,NO,NO,moderado,0,1,ama de casa,1
+santiago ixcuintla,unidad medica movil,particular,32,M,63.8,20.1,136,92,139,132,223,15.8,NO,SI,NO,NO,NO,moderado,2,4,empleado,0
+acaponeta,centro de salud rural,sin seguro,78,F,52.8,20.6,152,84,91,176,94,12.7,NO,SI,NO,NO,NO,moderado,1,6,ama de casa,0
+ruiz,centro de salud rural,seguro popular,52,F,82.8,38.8,158,95,122,212,166,12.3,SI,SI,NO,NO,SI,sedentario,6,10,profesionista,1
+ixtlan del rio,clinica imss,imss,69,F,62.1,24.3,142,103,5.2,193,145,12.3,NO,SI,NO,NO,NO,moderado,6,9,profesionista,0
+acaponeta,clinica imss,imss,19,F,74.6,27.1,124,67,95,182,192,9.3,NO,NO,NO,NO,NO,sedentario,1,10,jornalero,0
+rosamorada,centro de salud rural,seguro popular,63,F,76.6,28.5,150,84,101,154,227,14.8,NO,SI,NO,NO,NO,sedentario,2,8,profesionista,0
+bahia de banderas,hospital general,particular,64,F,80.2,28.8,147,84,83,152,190,13.7,NO,SI,NO,SI,NO,sedentario,2,0,comerciante,0
+ahuacatlan,hospital general,nan,48,F,86.8,33.9,149,85,178,185,166,13.7,SI,SI,NO,NO,NO,moderado,0,5,ama de casa,0
+tepic,centro de salud rural,sin seguro,50,F,64.4,25.8,141,83,80,161,155,11.9,NO,SI,NO,SI,NO,activo,2,9,comerciante,0
+santiago ixcuintla,consultorio issste,imss,21,F,71.5,27.9,132,77,110,136,132,13.5,NO,NO,NO,NO,NO,moderado,0,6,profesionista,0
+tepic,consultorio issste,imss,30,M,73.7,27.4,108,88,108,163,166,13.4,SI,NO,NO,SI,NO,moderado,1,6,ama de casa,0
+rosamorada,clinica imss,imss,89,F,45.7,17.2,137,68,111,194,50,12.5,NO,NO,NO,SI,NO,moderado,0,5,estudiante,1
+ahuacatlan,unidad medica movil,seguro popular,15,M,66.9,27.1,121,71,120,193,253,14,NO,NO,NO,NO,NO,sedentario,0,9,profesionista,0
+huajicori,consultorio issste,issste,75,F,80.9,31.6,157,95,6,243,108,14.7,NO,SI,SI,NO,NO,sedentario,6,8,agricultor,1
